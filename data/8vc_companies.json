@@ -1,0 +1,3382 @@
+[
+  {
+    "company_name": "180 Insurance",
+    "description": "180° is an InsurTech company that provides insurance services. With a focus on the B2B2C model, the company builds insurance and assistance products with technology that are connected to customers' daily lives in a simple and digital way.",
+    "company_url": "https://www.180s.com.br/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/66329f679185090658877692_180.png",
+    "stage": "Series A",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/180-insurance",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/180-insurance",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Addepar",
+    "description": "Addepar is a software and data platform that is purpose-built for professional wealth, investment and asset management firms to deliver outstanding results for their clients. More than 700 leading firms trust Addepar to unlock the power and possibility of more informed, data-driven investing and advice. With client presence in more than 25 countries, Addepar’s platform aggregates portfolio, market and client data for more than $3.5 trillion in assets. Firms can also use Marketplace, a digital experience offered through Acervus Securities (member FINRA), to access and transact in a range of investment products with a focus on alternative and private market investments. Addepar’s open platform integrates with more than 100 software, data and services partners to deliver a complete solution for a wide range of firms and use cases. Addepar embraces a global flexible workforce model with offices in Silicon Valley, New York City, Salt Lake City and Edinburgh, Scotland.",
+    "company_url": "https://addepar.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29207d041bea_Vector%20(5).svg",
+    "stage": "Series C+",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/Addepar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/addepar/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Future of Work",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/addepar",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Affinity",
+    "description": "Affinity’s patented technology structures and analyzes millions of data points across emails, calendars, and third-party sources to offer users the tools they need to automatically manage their most valuable relationships, prioritize important connections, and discover untapped opportunities. Affinity uses artificial intelligence to analyze relationship strength and illuminate the best paths to warm introductions. The platform also offers a holistic view of users’ networks in a centralized, automatically updated database without any manual upkeep.",
+    "company_url": "https://www.affinity.co/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6464fc4657103aa4d3ca776b_Affinity.svg",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/affinity",
+    "linkedin_url": "https://www.linkedin.com/company/project-affinity",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/affinity",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "AgVend",
+    "description": "AgVend is the leading provider of digital engagement software to serve the producer of tomorrow. Their white-labeled information and commerce portals are designed to strengthen the relationship between the ag distribution channel and their grower-customers.",
+    "company_url": "https://www.agvend.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2946280421a5_AgVend.png",
+    "stage": "Series A",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/AgVendHQ",
+    "linkedin_url": "https://www.linkedin.com/company/agvend",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/agvend",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "AI21 Labs",
+    "description": "AI21 Labs is reimagining the way humans read and write, for the better.",
+    "company_url": "https://www.ai21.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6430917a967cb5bf8312a8d7_ai21%20labs.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/AI21Labs",
+    "linkedin_url": "https://www.linkedin.com/company/ai21/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/ai21-labs",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Airbyte",
+    "description": "Founded in 2020, Airbyte is the open-source standard for EL(T). They enable data teams to replicate data from applications, APIs, and databases to data warehouses, lakes, and other destinations.",
+    "company_url": "https://airbyte.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/668eea70bbaf7d3ff6343bf4_airbyte%20logo.png",
+    "stage": null,
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/airbytehq",
+    "linkedin_url": "https://www.linkedin.com/company/airbytehq",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/airbyte",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Alloy",
+    "description": "Alloy equips consumer goods brands to capture demand and streamline supply by breaking down silos within and across supply chain, sales and marketing teams. Alloy's cloud platform couples end-to-end inventory and shipment visibility with sell-in and sell-through analytics to surface relevant insights in real-time. Team members and leaders can proactively address risks and maximize opportunities as they monitor demand trends, evaluate performance against forecasts and drive collaboration internally and with partners to adjust execution and plans — down to the SKU/store/day level.",
+    "company_url": "https://alloy.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f0ffd9c9de0b505489290_Alloy.ai.png",
+    "stage": "Series A",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/goalloy",
+    "linkedin_url": "https://www.linkedin.com/company/alloy-inc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/alloy",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Alloy Therapeutics",
+    "description": "Alloy Therapeutics is a biotechnology ecosystem company empowering the global scientific community to make better medicines together. Through a community of partners, Alloy Therapeutics democratize access to tools, technologies, services, and company creation capabilities that are foundational for discovering and developing therapeutic biologics. We provide affordable, non-exclusive access to the entire drug discovery community from academic scientists, small and medium biotech, to the largest biopharma.",
+    "company_url": "https://www.alloytx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f1138318b73f984c77db9_Alloy%20Therapeutics%201.png",
+    "stage": "Series C+",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/alloytx?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/alloy-therapeutics-inc",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/alloy-therapeutics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Altos Labs",
+    "description": "Altos Labs™ is a biotechnology company focused on cellular rejuvenation programming to restore cell health and resilience, with the goal of reversing disease to transform medicine. The company comprises a community of leading scientists, clinicians, and leaders from both academia and industry working together towards this common mission.",
+    "company_url": "https://altoslabs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a296fa4042195_Altos%20Labs.png",
+    "stage": null,
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://www.twitter.com/altos_labs",
+    "linkedin_url": "https://www.linkedin.com/company/altoslabs",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/altos-labs",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "American Operator",
+    "description": null,
+    "company_url": "https://americanoperator.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/695bcce80f572b6fbfee9cff_AO%20LOGO%201.png",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://x.com/OperateUSA",
+    "linkedin_url": "https://www.linkedin.com/company/americanoperator",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/american-operator",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "AMP",
+    "description": "Headquartered in Los Angeles, with offices in Detroit, Bengaluru, London, and Shanghai, AMP is a global leader in energy management solutions for e-mobility. Since 2017, AMP has advanced energy and battery management technologies, through industry-leading software, hardware, and the cloud.",
+    "company_url": "https://www.amp.tech/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/64b851a4e5a89ff79e8c8326_Mask%20group%20(2).png",
+    "stage": "Exited",
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/amp-energy-management/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/aimip",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Anduin",
+    "description": "Anduin is a deal tech company committed to providing the alternative investment market with simple, yet powerful tools to streamline the deal process. Anduin brings trust and liquidity to private market transactions, helping all parties better understand and execute fair outcome.",
+    "company_url": "https://www.anduintransact.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f117e5cd6ed28d8495910_Anduin.png",
+    "stage": "Series B",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/anduintransact?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/anduin-transactions/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/anduin",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Anduril",
+    "description": "Anduril is not a traditional defense contractor. They are shaping the future of defense, transforming US & allied military capabilities with advanced technology. They emphasize speed and results and control their products from start to finish, including funding R&D to selling finished products off the shelf. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing path-making products that will change defense forever.",
+    "company_url": "https://www.anduril.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f22342cbe8fe985215579_anduril%20(1).png",
+    "stage": "Series C+",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/andurilindustries",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/anduril",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Anzenna",
+    "description": "Anzenna is the first solution to unify AI Usage Control and Insider Risk Management. It governs AI agents and employees across browsers, IDEs, MCP, OAuth apps, and data movement, linking every AI action to a verified identity. With autonomous, evidence-backed investigations and real-time remediation, Anzenna stops threats that access control alone cannot detect.",
+    "company_url": "https://www.anzenna.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6a5939b3ad15008210618083_image.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://x.com/AnzennaHQ",
+    "linkedin_url": "https://www.linkedin.com/company/anzenna",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/anzenna",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Arcos Labs",
+    "description": "Rethinking the practice of law",
+    "company_url": "https://www.arcoslabs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cabe7fa2eceb9e520ab0bc_arcos%20logo.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/arcos-labs/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/arcos-labs",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Armadin",
+    "description": "Armadin is an AI-native cybersecurity company focused on building the ultimate attacker. With AI-powered hyperattacks looming on the horizon, Armadin’s customers leverage our platform to proactively find and eliminate exploitable risk. Armadin’s swarm of AI agents operate relentlessly across the entire attack surface, uncovering real kill chains that require immediate action.",
+    "company_url": "https://www.armadin.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cac6d83e8e54cf1d972961_armadin%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/armadin/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "detail_url": "https://www.8vc.com/companies/armadin",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Asana",
+    "description": "Asana helps teams orchestrate their work, from small projects to strategic initiatives. Headquartered in San Francisco, CA, Asana has more than 119,000 paying customers and millions of free organizations across 190 countries. Global customers such as Amazon, Japan Airlines, Sky, and Affirm rely on Asana to manage everything from company objectives to digital transformation to product launches and marketing campaigns.",
+    "company_url": "https://asana.com/campaign/fac/think?gclid=CjwKCAjw_YShBhAiEiwAMomsEMZJnklatHGDhqBdA1ea60cEVKE2M2fA1T4NSdTeqBoy_1r4-unzVBoChYMQAvD_BwE&gclsrc=aw.ds",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29f9da041c3b_Asana%20Logo.svg",
+    "stage": "Exited",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/asana",
+    "linkedin_url": "https://www.linkedin.com/company/asana",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/asana",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Augment",
+    "description": "Augment is building fully autonomous AI assistants for the logistics industry.",
+    "company_url": "https://www.goaugment.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697bd19f97202643ce3d3fbb_augment%20(5).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/goaugment/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/augment",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Aviatrix",
+    "description": "Aviatrix cloud network platform delivers advanced networking, security and operational visibility required by enterprises with the simplicity and automation of cloud.",
+    "company_url": "https://aviatrix.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29f88f0421f8_image%20(1).png",
+    "stage": null,
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/aviatrixsys",
+    "linkedin_url": "https://www.linkedin.com/company/aviatrix-systems",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ],
+    "detail_url": "https://www.8vc.com/companies/aviatrix",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Baton",
+    "description": "Baton is a technology platform that eliminates detention and dwell for truck drivers. Long haul trucks drop off and pick up loads at their network of drop zones and Baton handles pick up and delivery to and from warehouses.",
+    "company_url": "https://www.baton.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29d888041fe4_White%20logo%202.png",
+    "stage": "Exited",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/baton-trucking/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/baton",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Bedrock Robotics",
+    "description": "Bedrock Robotics focuses on automating specialized heavy equipment in the construction and earth-moving sectors. The company develops upfit hardware for vehicles, machine learning models for autonomy, and cloud systems to enhance the capabilities of construction equipment. It primarily serves the robotics industry.",
+    "company_url": "https://bedrockrobotics.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/686be68168a507468d556818_Bedrock.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/BedrockRobotics",
+    "linkedin_url": "https://www.linkedin.com/company/bedrock-robotics/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "PropTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/bedrock-robotics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Bespoke Labs",
+    "description": "Bespoke Labs is a venture funded startup creating AI tools for data curation and post-training LLMs.",
+    "company_url": "https://www.bespokelabs.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cac0078e954b6a166621c0_bespoke.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/bespokelabsai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/bespoke-labs",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "BigHat Biosciences",
+    "description": "BigHat’s mission is to improve human health by making it far easier to design advanced, next-generation antibody therapeutics. Our AI-enabled experimental platform integrates a high-speed characterization or “wet” lab with machine learning technologies to speed the antibody engineering process. When applied, these design capabilities have the potential to drive the development of new generations of safer and more effective treatments for patients suffering from today’s most challenging diseases.",
+    "company_url": "https://www.bighatbio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a295d4d04209d_bighat.png",
+    "stage": "Series B",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/bighatbio",
+    "linkedin_url": "https://www.linkedin.com/company/bighat-biosciences/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/bighat-biosciences",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Blend",
+    "description": "Blend is the infrastructure powering the future of banking. Financial providers — from large banks, fintechs, and credit unions to community and independent mortgage banks — use Blend’s platform to transform banking experiences for their customers. Blend powers billions of financial transactions every day.",
+    "company_url": "https://blend.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a296930042239_image%20(20).png",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/blendlabsinc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/blend-",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "PropTech",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/blend",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Blink Health",
+    "description": "Blink Health is the digital health company on a mission to make prescriptions more affordable and accessible for everyone. Blink Health’s technology platform enables patients to access lower prices and better experiences on their prescriptions.",
+    "company_url": "https://www.blinkhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69a75f84a7820abf2c4503d6_image%20(7).png",
+    "stage": "Series C+",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/blinkhealth?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/blink-health/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/blink-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "BlueVoyant",
+    "description": "At BlueVoyant, they recognize that effective cyber security requires active prevention and defense across both your organization and supply chain. BlueVoyant's proprietary data, analytics and technology, coupled with deep expertise, works as a force multiplier to secure your full ecosystem.",
+    "company_url": "https://www.bluevoyant.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2918dc04223a_image%20(21).png",
+    "stage": "Series C+",
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/BlueVoyant",
+    "linkedin_url": "https://www.linkedin.com/company/bluevoyant/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity",
+      "Data & Analytics",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/bluevoyant",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Bobyard",
+    "description": "Bobyard automates the construction takeoff process with CV and NLP models to make cost estimates 10x faster while eliminating mistakes.",
+    "company_url": "https://www.bobyard.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697a4e93bef1429d4aa5bed4_long-bobyard%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/bobyard/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/bobyard",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Branch",
+    "description": "Branch delivers world-class financial services to the mobile generation. With offices in San Francisco, Lagos, Nairobi, Mumbai and Bangalore, Branch is a for-profit socially conscious company that uses the power of data science to reduce the cost of delivering financial services in emerging markets. Branch believes that everyone, everywhere deserves fair financial access. The rapid spread of smartphones presents an opportunity for the world's emerging middle class to access banking options and achieve financial flexibility.",
+    "company_url": "https://branch.co/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2950dd041e7a_Branch.png",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/branch-co",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/branch",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cambium",
+    "description": "Cambium is a leader in advanced material innovation for high-performance sectors, leveraging an AI-driven materials platform and integrated chemistry, materials science, biology, and manufacturing to accelerate the development and scale of next-generation materials. Together, Cambium and SHD deliver a seamless path from material discovery to certified, high-volume production.",
+    "company_url": "https://www.cambiumglobal.com",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69c5505269add829d31a4f71_cambium%20logo%20(1).png",
+    "stage": "Series A",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/cambium-bio/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cambium",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Candid Health",
+    "description": "Candid Health is building a modern medical payments platform that enables healthcare providers to focus on delivering high-quality, affordable and accessible care, rather than spending half their time figuring out how to get paid by insurance.",
+    "company_url": "https://www.joincandidhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649c3a520023bccfc87f3b31_CandidHealth.svg",
+    "stage": "Series B",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/candid_health",
+    "linkedin_url": "https://www.linkedin.com/company/candid-health",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/candid-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cartography",
+    "description": "Cartography Biosciences is a precision immunotherapy company developing the next-generation of targeted cancer therapies. Cartography is creating the first antigen atlas to identify targets that are specific to cancer, through comprehensive profiling of both healthy and tumor tissues, and using these insights to develop a pipeline of immunotherapies that are both safer and more effective. They are bridging immunology, genomics, and computational biology to understand the subtle, critical differences between normal and cancerous cells, ultimately solving the challenge of identifying targets for currently untreatable cancers.",
+    "company_url": "https://cartography.bio/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6356a80ab1d33295fd6097f5_logo-cartography%20(1)%201.png",
+    "stage": "Series A",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/CartographyBio",
+    "linkedin_url": "https://www.linkedin.com/company/cartographybio/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cartography",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Casetext",
+    "description": "casetext is developing revolutionary new legal AI tools such CoCounsel, which can complete document review, legal research memos, deposition preparation, and contract analysis in minutes — with results lawyers can trust.",
+    "company_url": "https://casetext.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/643091b8eb8313240af273cc_casetext.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/casetext",
+    "linkedin_url": "https://www.linkedin.com/company/casetext/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/casetext",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cellanome",
+    "description": "Cellanome is an integrative multi-omics platform that measures biology in an unprecedented resolution and scale using proprietary technology. It engages in cutting-edge synthetic biology and informatics methods.",
+    "company_url": "https://cellanome.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6421bf2140791b651456fb45_logo.8a31909.svg",
+    "stage": "Series A",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cellanome",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cellares",
+    "description": "Cellares is revolutionizing cell therapy manufacturing. They are developing a one-of-a-kind solution, The Cell Shuttle, to overcome the challenges associated with manufacturing so these life-saving therapies are affordable and widely available to patients who can benefit.",
+    "company_url": "https://www.cellares.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a296f56042078_cellares_logo_white%202.png",
+    "stage": "Series C+",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/cellares-corporation/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cellares",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cellino Bio",
+    "description": "Cellino Biotech develops intracellular delivery lasers and nanotechnology for gene editing applications.",
+    "company_url": "https://www.cellinobio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a293e54042182_Cellino.png",
+    "stage": "Series A",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/cellinobio/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cellino-bio",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Chaos",
+    "description": "Chaos Industries is a technology company that is building the next generation of defense and critical industry technologies. Applying an engineering-led strategy, Chaos provides mission-driven, world-class engineers with a platform to build solutions to critical real-world problems. The Chaos agile engineering approach enables rapid prototyping, while deep partnerships with defense and industry ensure real-world application.",
+    "company_url": "https://chaosinc.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/648c5609c3fb385f5f32bbf5_CHAOS_Wordmark_White.svg",
+    "stage": "Series A",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": "https://twitter.com/ChaosDefense",
+    "linkedin_url": "https://www.linkedin.com/company/chaosindustries/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/chaos",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Citizen",
+    "description": "Citizen is the No. 1 public safety app in the U.S., with a mission to make the world a safer place. Citizen provides 911 alerts so people can use their phones to keep themselves, and the people and places they love, safe. Citizen has notified people to evacuate burning buildings, deterred school buses from nearby terrorist attacks, and led to the rescue of kidnapped children and missing people.",
+    "company_url": "https://citizen.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29231c04222b_citizen.svg",
+    "stage": "Series B",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/citizen.com",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/citizen",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cityblock",
+    "description": "Cityblock was founded in 2017 as the first tech-driven provider for communities with complex needs. Cityblock delivers better care to where it’s needed most, investing upstream in highly personalized, prevention-oriented health and social care to ultimately drive down costs and improve outcomes. Cityblock's tech enables scale by bringing together practical information, coordination, and communication for their members and their care teams.",
+    "company_url": "https://www.cityblock.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29c58704223b_image%20(22).png",
+    "stage": "Series C+",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/cityblockhealth?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/cityblock-health",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/city-block",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Cognition",
+    "description": "Makers of Devin, the first AI software engineer. Cognition is an applied AI lab focused on reasoning. They're building AI teammates with capabilities far beyond today’s existing AI tools. By solving reasoning, they can unlock new possibilities in a wide range of disciplines—code is just the beginning.",
+    "company_url": "https://www.cognition.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/663a6ca08a9f7e76d77e5996_Cognition-Logo.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/cognition-ai-labs/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cognition",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Color",
+    "description": "Color Health provides the infrastructure to support durable and equitable public health across entire populations. Color’s technology and clinical services are the backbone of large-scale population health programs for over 200 institutions worldwide, with data and services spanning hereditary cancers, heart disease, infectious disease testing (including COVID-19), and community-based vaccination programs. Using a data driven approach, Color is democratizing access to health care insights.",
+    "company_url": "https://www.color.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f12e2b26188df5d7b1f04_Color.png",
+    "stage": null,
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/color",
+    "linkedin_url": "https://www.linkedin.com/company/color/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/color",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Commure",
+    "description": "Commure is mending fragmentation by uniting innovators across the health ecosystem to transform care with consumer-centric, data-driven digital and physical health at scale.‍",
+    "company_url": "https://www.commure.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29bcea042215_Frame%20(1).png",
+    "stage": "Series C+",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/commurehealth",
+    "linkedin_url": "https://www.linkedin.com/company/commure/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/commure",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Coram.ai",
+    "description": "Coram AI builds video intelligence systems for businesses of all sizes. With Coram AI, each camera \"works for you\" instead of just being a video recorder. Coram AI helps our customers gain new insights into their operations, safety, and security.",
+    "company_url": "http://www.coram.ai",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/642c93a6a7cbaf501fe5c99a_Negative_coram%20(1).svg",
+    "stage": "Seed",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/coram-ai",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/coram-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Create",
+    "description": "CREATE Medicines is a clinical-stage biotech pioneering in vivo multi-immune programming. Its proprietary mRNA-LNP platform directly programs immune cells inside the body to deliver scalable, repeat-dose, off-the-shelf immunotherapies. With proven human validation and next-generation RNA technology, CREATE is advancing a pipeline of in vivo CAR therapies to transform outcomes in cancer, autoimmunity, and fibrosis.",
+    "company_url": "https://createmedicines.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc362158576b49877f8ff7_create.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/createmedicines/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/create",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "CX2",
+    "description": "The future of warfare will be fought and won in the electromagnetic spectrum. In battlefields dominated by remotely-operated, unmanned systems, connectivity and control are as critical as firepower. The RF spectrum is the new frontline. CX2 isfighting to deliver spectrum dominance for the United States and our Allies.",
+    "company_url": "https://www.cx2.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/67d06de52a36a157aea6e091_Cx2%202.png",
+    "stage": "Seed",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/cx2-industries",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/cx2",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "DataHub",
+    "description": "DataHub is the #1 open source platform with a uniquely scalable and extensible metadata graph supporting manual and automated data management. DataHub Cloud is an enterprise-ready SaaS solution providing a fully-managed service of DataHub with additional AI-powered capabilities in discovery, observability, and governance to accelerate production-readiness of AI and data assets.",
+    "company_url": "https://datahub.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/680f9b3cf09ec590c5fc4918_DataHub%20logo%20(1).png",
+    "stage": null,
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/datahub-cloud/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/datahub",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "DayDream",
+    "description": "DayDream automates dental billing with AI + expert support—boosting collections, reducing operational costs, and giving practices the ability to scale.",
+    "company_url": "https://www.daydream.dental/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697d278a97a8a9478aba234c_daydream.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/daydreamdental",
+    "linkedin_url": "https://www.linkedin.com/company/daydream-dental/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/daydream",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Dealpath",
+    "description": "Dealpath is the leading cloud-based deal management platform for real estate investment powering hundreds of top firms.",
+    "company_url": "https://www.dealpath.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2956e6042243_dealpath.svg",
+    "stage": null,
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/dealpath",
+    "linkedin_url": "https://www.linkedin.com/company/dealpath/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "PropTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/dealpath",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Deliverr",
+    "description": "Deliverr lets you easily fulfill your marketplace and shopping cart orders. Delight your buyers with fast, reliable, predictable, and affordable order fulfillment.",
+    "company_url": "https://deliverr.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f130e69e68de7b9212caf_new-logo-white.svg",
+    "stage": "Exited",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/DeliverrInc",
+    "linkedin_url": "https://www.linkedin.com/company/deliverr-inc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/deliverr",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Digital Diagnostics",
+    "description": "Digital Diagnostics is a pioneering AI diagnostics company on a mission to transform the quality, accessibility and affordability of healthcare. Founded and led by Dr. Michael Abramoff, an ophthalmologist, neuroscientist and computer engineer, Digital Diagnostics developed a patented biomarker-based approach to build autonomous algorithms that make clinical decisions without human intervention. Digital Diagnostics and its flagship product IDx-DR, an autonomous AI system FDA-authorized to diagnose diabetic retinopathy and diabetic macular edema, has proven that intelligent diagnostic platforms can be used safely, efficiently and equitably to improve patient outcomes. As it expands into other diagnostic capabilities, Digital Diagnostics has paved the way for automated diagnosis to become a new standard of care that will contribute significantly to democratizing healthcare.",
+    "company_url": "https://www.digitaldiagnostics.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2920f404203e_digital-diagnostics.png",
+    "stage": null,
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/digital-diagnostics",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/digital-diagnostics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Digital Surgery",
+    "description": "Touch Surgery™ from Medtronic helps surgeons and health systems deliver consistent and high-quality surgery through AI, data and visualization.‍",
+    "company_url": "https://www.medtronic.com/covidien/en-us/products/digital-surgery.html",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a298249042041_digital-surgery.png",
+    "stage": null,
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/touchsurgery?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/medtronic-digital-surgery?trk=similar-pages",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/digital-surgery",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Dren Bio",
+    "description": "Dren Bio is a privately held, biopharmaceutical company focused on developing therapeutic antibodies for the treatment of cancer, autoimmune and other serious diseases.",
+    "company_url": "https://www.drenbio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f140869e68de7b9219d4d_Logo-white.svg",
+    "stage": "Series B",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/dren-bio",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Edra",
+    "description": "Edra studies your operations, turns your team's tribal knowledge into SOPs, and powers AI agents that execute them - all from the data you already have.",
+    "company_url": "https://www.edra.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69dfda0747b6ed7cfbc18d3d_Edra_logo_black%201.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://x.com/edra_ai",
+    "linkedin_url": "https://www.linkedin.com/company/edra-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/edra",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Elemy",
+    "description": "Elemy is a B2B2C platform for pediatric behavioral care, including pediatric autism. Elemy leverages technology to deliver a better experience to families, providers, and healthcare payors.Since launching in April 2020, Elemy has become one of the fastest-growing healthcare companies in the United States, scaling from 8 to over 800 employees in about 1.5 years.‍",
+    "company_url": "https://www.elemy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a293c8b0420c5_Logo%20white.svg",
+    "stage": null,
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/elemy-care/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/elemy",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Enclave",
+    "description": "AI writes code faster than teams can review it. Enclave keeps up. Enclave ingests your entire repo, reasons across services, and surfaces the vulnerabilities that actually matter, with precise fix instructions your team or your AI agent can act on immediately.",
+    "company_url": "https://enclave.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cfcbade64cfc041f107596_enclave-logo-white-flat.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/enclaveai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "detail_url": "https://www.8vc.com/companies/enclave",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Epirus",
+    "description": "Epirus is a high-growth technology company developing solid-state, software-defined directed energy systems that enable unprecedented counter-electronics effects and power management solutions to optimize power efficiency in defense and commercial applications. With a constant emphasis on innovation, they are redefining the future of power to bring tomorrow’s capabilities to life, today. And that’s just the beginning.",
+    "company_url": "https://www.epirusinc.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2924c70420b0_epirus-final-white-03.png",
+    "stage": "Series C+",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": "https://twitter.com/epirus",
+    "linkedin_url": "https://www.linkedin.com/company/epirus/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/epirus",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Esper",
+    "description": "Esper is the first cloud-based software to manage the end-to-end policymaking process. Policymakers save time and resources with a single source of truth for all policymaking activity.",
+    "company_url": "https://esper.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2925ac04206f_esper-logo2.png",
+    "stage": "Series A",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/esper-regulatory-technologies/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/esper",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Fabrion",
+    "description": null,
+    "company_url": "https://www.fabrion.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/692f4f0ded76c77fa76c57b7_fabrion%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/fabrionai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/fabrion",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Fieldguide",
+    "description": "Fieldguide is an enterprise software company building automation and collaboration software for assurance and advisory firms. Built by former Big Four practitioners and experienced technology leaders, their platform digitizes the end-to-end engagement workflow on a single, cloud-native platform. Fieldguide is trusted by top CPA firms to boost margins, win new business, and build stronger client relationships.",
+    "company_url": "https://www.fieldguide.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2979c40421a6_Fieldguide.png",
+    "stage": "Series A",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/fieldguide",
+    "linkedin_url": "https://www.linkedin.com/company/fieldguide-inc",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/fieldguide",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Fig.1",
+    "description": "Fig.1 Beauty share a lifelong passion for skincare, as well as a common vision: Demystify and democratize skincare, making skin health achievable for everyone.",
+    "company_url": "https://fig-1.co/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29a151042086_Fig1.png",
+    "stage": "Series A",
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/fig1co",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "detail_url": "https://www.8vc.com/companies/fig-1",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Flexport",
+    "description": "Flexport is building the platform for global logistics—empowering buyers, sellers and their logistics partners with the technology and services to grow and innovate.",
+    "company_url": "https://www.flexport.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a298b1c04222d_flexport.svg",
+    "stage": "Series C+",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/flexport",
+    "linkedin_url": "https://www.linkedin.com/company/flexport/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/flexport",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Flux",
+    "description": "Flux is your AI intern for hardware design that helps you plan, research, and engineer complete PCBs in a collaborative, browser-based eCAD.",
+    "company_url": "https://www.flux.ai/p",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cab22b822aef4c00955ca2_flux%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/BuildWithFlux",
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/flux",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Flywheel",
+    "description": "Flywheel is the revolutionary research data management platform powering healthcare innovation by accelerating collaboration, enabling machine learning, and streamlining the massive task of data aggregation, curation, and management.",
+    "company_url": "https://flywheel.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2981980420a3_flywheel.png",
+    "stage": "Series C+",
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/flywheel_io",
+    "linkedin_url": "https://www.linkedin.com/company/6599200/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/flywheel",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Forethought",
+    "description": "Forethought is a leading generative AI company providing customer service automation that helps support teams maximize efficiency and productivity.",
+    "company_url": "https://forethought.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/64309229554dad7cf0dac752_forethought.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/forethought_ai",
+    "linkedin_url": "https://www.linkedin.com/company/forethought-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/forethought",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Fractal",
+    "description": "Fractal Software is launching the next generation of vertical SaaS startups. They’re a collective of former founders and operators who believe that all industries deserve best in class, modern software to enhance their businesses. Fractal wants to partner with entrepreneurs who share the same passion and conviction for these ideas.",
+    "company_url": "https://www.fractalsoftware.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2940bc04218b_614cbc69252818f93d3b2f58_FractalWhite.svg",
+    "stage": "Series B",
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/fractal-software",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/fractal",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Freight Waves",
+    "description": "FreightWaves is the leading FreightIntel provider, offering current digital intelligence and context to the freight community on a central platform.FreightWaves'​ SaaS product, SONAR, is the leading freight market analytics tool and dashboard, aggregating billions of data points from hundreds of sources to provide the fastest data in the transportation and logistics sector. The platform is mode agnostic and has time-series and geo-based data from all modes of freight, including truck, rail, ocean, air, and warehouse.‍",
+    "company_url": "https://www.freightwaves.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29ee55042076_freightwaves.png",
+    "stage": null,
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/FreightWaves?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/freightwaves",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Data & Analytics",
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/freight-waves",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Galileo",
+    "description": "Galileo's mission is to make healthcare more effective and affordable for all, including the underserved, and they're developing technology to push the boundaries even further.",
+    "company_url": "https://galileohealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a290565042095_galileo.png",
+    "stage": "Series C+",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/galileohealth/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/galileo",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Gallatin AI",
+    "description": "Gallatin is building a logistics platform based on the needs and constraints of today's defense industry. Gallatin's platform creates actionable insights across the tactical, operational, and strategic levels providing integrated capabilities for first, middle, and last mile solutions where they're needed most.",
+    "company_url": "https://www.gallatin.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/686be5180b619572852a58b6_Gallatin%201.png",
+    "stage": null,
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": "https://x.com/GallatinAI",
+    "linkedin_url": "https://www.linkedin.com/company/gallatinai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Data & Analytics",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/gallatin-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Gatsby",
+    "description": "Gatsby is a new event tool built for teams, to make guest list planning and event coordination a breeze. They combine the beauty of invites with the behind-the-scenes functionality needed to execute on an unforgettable event — and the follow-up conversations that follow.",
+    "company_url": "https://gatsby.events/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/64627cb248c2ea15c235dd84_GatsbyLogo.svg",
+    "stage": "Seed",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/gatsby-events",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "detail_url": "https://www.8vc.com/companies/gatsby",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Generalist",
+    "description": "Generalist is a frontier lab for robot intelligence that trains robot foundation models, which generalize across thousands of form factors, environments, and tasks.",
+    "company_url": "https://generalistai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6a20c275bf39be1b56150741_generalist-horizontal-partial-height%20(1).svg",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://x.com/GeneralistAI",
+    "linkedin_url": "https://www.linkedin.com/company/generalistai",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/generalist",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Glimpse",
+    "description": "Glimpse help brands turn deductions into a revenue engine by automating deductions retrieval, validation, disputing, and accounting.",
+    "company_url": "https://tryglimpse.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697a4eead8813119397293bb_glimpse%20(3).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/try-glimpse/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/glimpse",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Guardant Health",
+    "description": "Guardant Health is a leading precision oncology company focused on helping conquer cancer globally through use of its proprietary blood tests, vast data sets and advanced analytics. The Guardant Health oncology platform leverages capabilities to drive commercial adoption, improve patient clinical outcomes and lower healthcare costs across all stages of the cancer care continuum. Guardant Health has commercially launched liquid biopsy-based Guardant360®, Guardant360 CDx, and GuardantOMNI® tests for advanced stage cancer patients, and Guardant Reveal™ for early-stage cancer patients. These tests fuel development of its LUNAR screening program, which aims to address the needs of asymptomatic individuals eligible for cancer screening and individuals at a higher risk for developing cancer with early detection.‍",
+    "company_url": "https://guardanthealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29f38504222e_guardant.png",
+    "stage": null,
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/guardanthealth",
+    "linkedin_url": "https://www.linkedin.com/company/guardanthealth",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/guardant-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Halo Health",
+    "description": "Halo Health is revolutionizing primary mental healthcare with its immediate access to clinical assessments and psychiatric care, both in person and virtually. Halo served over 1,000 patients in their first year, keeping 95% of their patients out of the emergency rooms for psychiatric emergencies. They developed a full continuum of outpatient services to deliver comprehensive wrap-around care for a diverse patient population, ranging from those covered by medicaid to those commercially insured.",
+    "company_url": "https://halomentalhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/67bc8874c3a9e8e585d1765f_White%20Horizontal.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/halo-mental-health/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/halo-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Harbor Health",
+    "description": "Harbor was created by people with decades of experience who wanted health to actually—and finally—work. Today, they're realizing their shared vision. From those who give health to those who figure out how to pay for it, they're all working together to run this totally new model of co-created health in Austin.",
+    "company_url": "https://www.harborhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a292ce2042254_harbor%20health%20(1).png",
+    "stage": "Series A",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/HealthAtHarbor",
+    "linkedin_url": "https://www.linkedin.com/company/harbor-health-team",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/harbor-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "HDVI",
+    "description": "HDVI provides commercial trucking fleets with best-in-class insurance backed by Munich Re Specialty Insurance (A+ Rated by AM Best) and Spinnaker Insurance Company (A- Rated by AM Best). HDVI also provides fleets with a powerful, easy-to-use solution to help them improve safety, compliance, and profitability. The HDVI approach combines next-generation insurance with telematics and an integrated suite of software and support—all included within the cost of a smart, competitive insurance policy.",
+    "company_url": "https://hdvi.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29ec60041fce_HDVI-2.png",
+    "stage": "Series B",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/gohdvi",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "FinTech / Insurance",
+      "Transportation / Mobility",
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hdvi",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Hearth",
+    "description": "Hearth is a Fintech company helping home improvement contractors grow and manage their business. Their SaaS platform, www.gethearth.com, provides over 10,000 contractors the financial tools they need to close more business, including financing solutions, invoicing, payment collections, insurance products, all in one, modern system designed specifically for the home improvement industry.",
+    "company_url": "https://www.gethearth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/63e66dc12732f74515f39044_Hearth.svg",
+    "stage": "Series B",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/gethearth",
+    "linkedin_url": "https://www.linkedin.com/company/gethearth",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hearth",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Hello Patient",
+    "description": "Hello Patient streamlines patient communication and scheduling for healthcare practices. Its conversational AI platform automates appointment scheduling, reminders, patient inquiries, and outbound engagement across voice, text, and chat. Integrated with EHR and practice-management systems, Hello Patient reduces administrative burden, improves patient access, and ensures no call or message goes unanswered — improving schedule utilization while reducing cost-to-serve.",
+    "company_url": "https://www.hellopatient.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6904d3759e1c6ce6a406150b_HPLogo-Full-Wht.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/hello-patient/about/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hello-patient",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Hill House",
+    "description": "Hill House Home is a digital-first lifestyle brand that brings beauty and joy to everyday rituals. Since launching with bedding in 2016, Hill House Home has extended its collections to offer bath, baby, accessories and apparel, including their widely beloved Nap DressTM. With its design-centric approach, Hill House Home offers impeccable quality, and timeless, feminine styles through quality products designed to enhance and celebrate life. Their specific aesthetic point-of-view and customer-led approach bring a fresh, accessible perspective to these time honored categories.",
+    "company_url": "https://www.hillhousehome.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a290d3f0420f5_Hill-House.png",
+    "stage": "Series B",
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": "https://twitter.com/hillhouse_home",
+    "linkedin_url": "https://www.linkedin.com/company/hill-house-homeinc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hill-house",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Hims",
+    "description": "Hims and hers offers a modern approach to health and wellness. Their mission is to eliminate stigmas and make it easier for people to access care and treatment for the conditions that impact their daily lives. That starts with creating an open and honest culture of care that is accessible for everyone, no matter who you are or where you live.",
+    "company_url": "https://www.forhims.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29eb95041bd5_Group%20(3).svg",
+    "stage": "Exited",
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": "https://twitter.com/wearehims",
+    "linkedin_url": "https://www.linkedin.com/company/hims-&-hers",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hims",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Hive",
+    "description": "Hive is the leading provider of cloud-based enterprise AI solutions, helping companies use AI to interpret video, image, audio, and text. The company offers end-to-end AI services, including pre-trained AI models served via API and a suite of enterprise applications. Hive's technology enables use cases including automated content moderation, brand protection and platform integrity, content-based ad targeting, advertising and sponsorship measurement, and more. Hive processes billions of API requests per month for many of the world’s largest and most innovative companies, with industry-leading accuracy enabled by Hive's full-stack approach.",
+    "company_url": "https://thehive.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2960a7042096_hive.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/hive_ai",
+    "linkedin_url": "https://www.linkedin.com/company/hiveai/mycompany/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hive",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Honor",
+    "description": "Honor is changing the way we care for our parents. Founded in 2014, the San Francisco–based company brings workforce management and technology expertise together with high-touch, personalized care to improve the in-home care experience. Since launching the Honor Care Network in 2017, Honor has partnered with a growing roster of independently owned home care agencies to deliver reliable, transparent, and high-quality care. The Honor Care Network currently provides non-medical home care services to families in more than 800 cities and towns across the United States.",
+    "company_url": "https://www.joinhonor.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a296d6a042088_honor.png",
+    "stage": "Series C+",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/honor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/joinhonor",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/honor",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Hopscotch",
+    "description": "At Hopscotch, they believe great healthcare should be accessible to all people across all communities. They are on a mission to transform healthcare for rural communities across the country, one at a time, through advanced primary care bringing the support that providers deserve and the care that patients need.",
+    "company_url": "https://www.hellohopscotch.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2905070421f1_Hopscotch.png",
+    "stage": "Series B",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/hopscotch-healthcare/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/hopscotch",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Illumio",
+    "description": "Illumio, the pioneer and market leader of Zero Trust segmentation, prevents breaches from becoming cyber disasters. Illumio protects critical applications and valuable digital assets with proven segmentation technology purpose-built for the Zero Trust security model. Illumio ransomware mitigation and segmentation solutions see risk, isolate attacks, and secure data across cloud-native apps, hybrid and multi-clouds, data centers, and endpoints, enabling the world’s leading organizations to strengthen their cyber resiliency and reduce risk.",
+    "company_url": "https://www.illumio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a293f2604219c_illumio.png",
+    "stage": null,
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/illumio",
+    "linkedin_url": "https://www.linkedin.com/company/illumio",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ],
+    "detail_url": "https://www.8vc.com/companies/illumio",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Indigov",
+    "description": "Indigov is a group of technologists working to bridge the gap between Silicon Valley and Capitol Hill.",
+    "company_url": "https://indigov.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29180b042183_download%201%20(Traced).svg",
+    "stage": null,
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/indigovern/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/indigov",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Indio",
+    "description": "Indio provides the modern solution for the insurance application and renewal process.",
+    "company_url": "https://www.useindio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a294b9a04223d_image%20(25).png",
+    "stage": "Exited",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/useindio",
+    "linkedin_url": "https://www.linkedin.com/company/indiotechnologies",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/indio",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Infra",
+    "description": "Modern infrastructure access",
+    "company_url": "https://infrahq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29b36c0421cc_logo-white%201.png",
+    "stage": null,
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/infrahq",
+    "linkedin_url": "https://www.linkedin.com/company/infrahq/about/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/infra",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Joby",
+    "description": "Joby spent more than a decade developing and testing an all-electric aircraft that will help achieve their vision of saving a billion people an hour every day, while helping to protect our precious planet. Designed to take off and land vertically, Joby's aircraft will travel up to 150 miles on a single charge, allowing a pilot and four passengers to leapfrog over the congestion below, emissions-free. The aircraft is quiet when it takes off and is nearly silent in flight, opening up unprecedented opportunities for traveling in both congested cities and under-served rural communities. With more than 1000 test flights behind them, Joby is planning to start commercial passenger flights in 2024.",
+    "company_url": "https://www.jobyaviation.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29b74a04207a_Joby.png",
+    "stage": null,
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/jobyaviation",
+    "linkedin_url": "https://www.linkedin.com/company/jobyaviation",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/joby",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Keycare",
+    "description": "KeyCare offers health systems the ability to easily augment their care teams, optimize capacity, and widen their digital front doors by partnering with a nationwide network of virtual care groups.",
+    "company_url": "https://www.keycare.org/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2949d70421fd_keycare.svg",
+    "stage": "Series A",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/KeyCareInc",
+    "linkedin_url": "https://www.linkedin.com/company/keycareinc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/keycare",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Kojo",
+    "description": "Kojo (formerly Agora Systems) is the leading materials procurement platform for trade and self-perform general contractors. By connecting office teams, field crews, the warehouse, and vendors on one all-inclusive procurement platform, contractors control their procurement process from takeoff to closeout, saving on material costs, reducing waste, and increasing productivity.",
+    "company_url": "https://www.usekojo.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29296d04218c_Kojo-Logo.png",
+    "stage": "Series C+",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/kojotechnologies/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/kojo",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Kos",
+    "description": "The world’s first virtual finance employee. Built for the operators at the center of America's industrial renewal.",
+    "company_url": "https://www.kos.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69e66521d3f695cf0a7384c7_Kosai%201%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/kos",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Latent Labs",
+    "description": "Latent Labs is making biology programmable to transform health and sustainability for the benefit of all.",
+    "company_url": null,
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc3752fadaa895e44cca73_latent%20labs%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/latent-labs",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Latus Bio",
+    "description": "The next chapter in AAV gene therapy",
+    "company_url": null,
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc36aa58576b49877fa1ef_latus%20logo%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/latus-bio",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Lightbeam.AI",
+    "description": "A pioneer in the data privacy automation (DPA) category, LightBeam is on a mission to empower organizations to manage and access their sensitive data securely.",
+    "company_url": "https://www.lightbeam.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29a2590421d1_lightbeam.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/LightBeamAI",
+    "linkedin_url": "https://www.linkedin.com/company/lightbeamai",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "detail_url": "https://www.8vc.com/companies/lightbeam-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Lighten",
+    "description": "Lighten is on a mission to reimagine the value of healthcare data to improve patient outcomes. We develop proprietary AI-enabled deep technology to accelerate clinical evidence generation.",
+    "company_url": "https://www.lighten-ai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc364942566b01f957ca0b_lighten%20logo%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/lighten-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/lighten",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Loop",
+    "description": "Loop's mission is to simplify logistics payments.",
+    "company_url": "https://www.loop.us/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a295c91042185_Frame.png",
+    "stage": "Series B",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/loop",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Luminary",
+    "description": "More than $100 billion in family and philanthropic giving capacity is created each year. But flaws in the current process impose over a billion in annual costs in order to access it. Luminary is building the first product for wealth managers to automate the complex, and inefficient estate planning process.",
+    "company_url": "https://www.withluminary.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/63ee55f941610eb83e22fed4_luminary-white.svg",
+    "stage": "Seed",
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/luminary",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Luminate",
+    "description": "Luminate is building an ecosystem of services and technologies designed to enable patients to receive cancer treatment at home. From the beginning, our vision has been clear: to help people live through and after cancer, not just survive.",
+    "company_url": "https://www.luminatemed.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc37113f3606f2785fd6e4_luminate.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/LuminateMed",
+    "linkedin_url": "https://www.linkedin.com/company/luminate-medical/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/luminate",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Luna",
+    "description": "Luna is the leading in-home physical therapy platform, offering 1:1 personalized care at home that is covered by insurance.",
+    "company_url": "http://getluna.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29683f0421f9_image%20(3).png",
+    "stage": null,
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/getlunacare",
+    "linkedin_url": "https://www.linkedin.com/company/getluna/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/luna",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Mammoth Biosciences",
+    "description": "Mammoth Biosciences is harnessing the diversity of nature to power the next-generation of CRISPR products. Through the discovery and development of novel CRISPR systems, the company is enabling the full potential of its platform to improve lives by reading and writing the code of life. Mammoth aims to democratize disease detection with an easy and affordable point-of-care test that allows real-time and simultaneous detection of multiple conditions. By leveraging its internal research and development and exclusive licensing to Cas12, Cas13, Cas14, and CasΦ, Mammoth can provide enhanced diagnostics and genome editing for life science research, healthcare, agriculture, biodefense and more. Based in San Francisco, Mammoth Biosciences is co-founded by CRISPR pioneer Jennifer Doudna and principal founders Trevor Martin, Janice Chen, and Lucas Harrington.",
+    "company_url": "https://mammoth.bio/about/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29fe5904207e_mammoth-Bio.png",
+    "stage": null,
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/mammothbiosci",
+    "linkedin_url": "https://www.linkedin.com/company/mammothbio",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/mammoth-biosciences",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Materialize",
+    "description": "Materialize is a streaming SQL database company that makes it easy for developers to understand streaming data, answer complex questions, and build intelligent applications using standard technology. Materialize allows users to ask questions about their data, and then get low-latency results even as the underlying data changes and keeps the results of the queries and incrementally updates them as new data comes in.",
+    "company_url": "https://materialize.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2975640421ad_Materialize-Logo.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://twitter.com/materializeinc",
+    "linkedin_url": "https://www.linkedin.com/company/materializeinc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/materialize",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Mendra",
+    "description": "Therapeutics for Rare Disease Enabled by AI",
+    "company_url": "https://www.mendra.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cabdfda2eceb9e520a9704_mendra%20(4).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/mendrainc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/mendra",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "MeritFirst",
+    "description": null,
+    "company_url": "https://www.meritfirst.us/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697bcc75dd1092c5be322520_Merit%20First%20(2).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/MeritfirstUS",
+    "linkedin_url": "https://www.linkedin.com/company/meritfirst/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/meritfirst",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Mindbloom",
+    "description": "Mindbloom is a mental health and wellbeing brand helping people achieve personal and clinical breakthroughs with at-home, clinician-prescribed psychedelic therapies.",
+    "company_url": "https://www.mindbloom.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f1521797bdca017f6c4d3_mindbloom%20logo%20(1).png",
+    "stage": "Series B",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/mymindbloom",
+    "linkedin_url": "https://www.linkedin.com/company/mymindbloom/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/mindbloom",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Model Medicines",
+    "description": "Model Medicines is an AI-driven, human health company using AI to model all of chemistry and human biology, to accelerate the creation of life-changing drugs.",
+    "company_url": "https://www.modelmedicines.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6a429d94c43c661c5ff4ea85_Screenshot%202026-06-30%20at%2012.28.23%E2%80%AFAM.png",
+    "stage": null,
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/modelmedicines",
+    "linkedin_url": "https://www.linkedin.com/company/modelmedicines/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/model-medicines",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "NewLimit",
+    "description": "NewLimit is a biotechnology company working to extend human healthspan by developing epigenetic reprogramming therapies.",
+    "company_url": "https://www.newlimit.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc36cfa8961c2d77094656_new%20limit.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/newlimit/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/newlimit",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Nile",
+    "description": "Nile is the first to guarantee secure connectivity. Co-Founders John Chambers and Pankaj Patel with a team of powerful engineers reimagined the enterprise network to be delivered entirely as-a-Service (aaS) including the extensive use of monitoring, analytics, and automation to fundamentally change how networks are deployed, secured, and maintained.",
+    "company_url": "https://nilesecure.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a290a1f04220c_nile-logo.svg",
+    "stage": "Series C+",
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/NileSecure",
+    "linkedin_url": "https://www.linkedin.com/company/nilesecure/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/nile",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Nimbus Health",
+    "description": "Nimbus Health is a network of technology-enabled pulmonary clinics redefining the standard of care for chronic respiratory disease patients across the country.",
+    "company_url": "https://www.nimbushealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6819025fa84f4348baa73edb_Nimbus%20Health%20logo%201.png",
+    "stage": null,
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/nimbus-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Nyansa",
+    "description": "Palo Alto, California-based Nyansa is a fast-growing innovator of advanced IT analytics software technology, venture-backed by Formation|8 and Intel Capital.",
+    "company_url": "https://www.nyansa.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f226efcc99aeb122ea296_nyansa.png",
+    "stage": "Exited",
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/nyansa",
+    "linkedin_url": "https://www.linkedin.com/company/nyansa-inc.",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/nyansa",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Nylas",
+    "description": "Developers around the world use Nylas to quickly and securely build email, scheduling, and work automation features into their applications. With Nylas, developers at innovative companies like Upwork, Wix, Freshworks, Lever, Dialpad, Ceridian, and Move.com get unprecedented access to rich communications data from their end-users, pre-built workflows that automate everyday tasks, embeddable UI/UX components for fast front-end development, and comprehensive security features - all delivered via a suite of powerful APIs that make integration easy.‍",
+    "company_url": "https://www.nylas.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f264bed9138be1292a32a_nylas%202%20(1).png",
+    "stage": null,
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/nylas",
+    "linkedin_url": "https://www.linkedin.com/company/nylas/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/nylas",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Octant",
+    "description": "Octant is a well-backed team of experienced scientists and entrepreneurs exploring new frontiers of biology. Octant is applying next-generation DNA sequencing, gene synthesis, and gene editing to revolutionize drug discovery in a quest for safer, more effective, and cheaper drugs.",
+    "company_url": "https://www.octant.bio/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2903cb041f9b_octant.png",
+    "stage": "Series B",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/OctantBio",
+    "linkedin_url": "https://www.linkedin.com/company/octantbio/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/octant",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Oculus",
+    "description": "The Oculus team at Facebook lets people experience anything, anywhere, with anyone through world-class VR hardware and software. With global departments dedicated to VR research, computer vision, haptics, social interaction, and more, Oculus is committed to driving the state of the art forward through relentless innovation.",
+    "company_url": "https://www.oculus.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2966c20420a8_Oculus.png",
+    "stage": null,
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/oculus-vr",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/oculus",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Opencare",
+    "description": "Opencare is focused on connecting patients to exceptional dental care, which means only recommending the top 10% of dentists in the city. They're right beside patients every step of the way -- from personalizing the initial search, to making it effortless to book appointments online, and ensuring the actual visit is as enjoyable as possible -- to make sure patients receive an experience that is easy and rewarding.",
+    "company_url": "https://www.opencare.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2965b404208d_opencare-logo-cross-and-text-purple.png",
+    "stage": "Series A",
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": "https://twitter.com/opencare",
+    "linkedin_url": "https://www.linkedin.com/company/opencare-com/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/opencare",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "OpenGov",
+    "description": "OpenGov is the leader in AI and ERP solutions for local and state governments in the U.S. More than 2,000 cities, counties, state agencies, and special districts rely on the OpenGov Public Service Platform to operate efficiently, adapt to change, and strengthen public trust. OpenGov's platform spans asset management, permitting, tax collection, financials, budgeting, procurement, and open data. Driven by a mission to power more effective and accountable government, OpenGov envisions a future of high-performance government for every community.",
+    "company_url": "https://opengov.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6894bd1a6f89553702956cd8_OpenGov-Logo-RGB-Color%201%20(1).png",
+    "stage": "Exited",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/opengov-inc",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "FinTech / Insurance",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/opengov",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Opto",
+    "description": "Opto's investment platform provides financial advisors with expert insights and tools to help them discover, execute, and service private investment strategies that help their clients build long term wealth.",
+    "company_url": "https://www.optoinvest.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a293083042253_Group%20213.png",
+    "stage": "Series A",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/optoinvest",
+    "linkedin_url": "https://www.linkedin.com/company/optoinvest/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/opto",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Orca Bio",
+    "description": "Orca Bio is a clinical-stage biotechnology company developing a pipeline of high precision allogeneic cell therapy products that are designed to safely replace patients’ diseased blood and immune system with a healthy one. Their manufacturing platform sorts donor blood with single-cell precision and a high level of purity and speed, enabling us to create proprietary, optimal therapeutic mixtures of immune and stem cells that have the potential to transform allogeneic cell therapy.",
+    "company_url": "https://orcabio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29c8d00420a9_Logo_Horizontal_Invert_Outlined%201.png",
+    "stage": "Series C+",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/orcabio",
+    "linkedin_url": "https://www.linkedin.com/company/orcabio",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/orca-bio",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Orchestra",
+    "description": "Orchestra helps R&D organizations reduce the operational complexity of drug development",
+    "company_url": "https://orchestra.bio/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc377251747ff9a76b80bd_orchestra%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/orchestra",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Oscar",
+    "description": "Health care is broken; we're trying to fix it. The Oscar team is focused on utilizing technology, design and data to humanize health care. They're a group of technology and health care professionals who looked at the current state of the US health care system, got frustrated by the horrible consumer experience, and decided to do something big about it. Backed by a renowned set of investors and advisors, they’ve set out to revolutionize health care.",
+    "company_url": "https://www.hioscar.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a296539041fac_Oscar.png",
+    "stage": null,
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/OscarHealth",
+    "linkedin_url": "https://www.linkedin.com/company/oscar-health/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/oscar",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Oula",
+    "description": "Oula is redesigning maternity care from the ground up. Their modern maternity center combines the best of obstetrics and midwifery care to deliver a more evidence-based and personalized pregnancy experience. From their collaborative medical team, welcoming clinic, and remote care platform, Oula is setting a new standard for pregnancy that unifies modern medicine and human intuition.",
+    "company_url": "https://oulahealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a294b58042188_oula.png",
+    "stage": "Series A",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/oula-health",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/oula",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Our Place",
+    "description": "At Our Place, they believe in the power of home-cooking to bring people together. Their mission is to create products and experiences that celebrate cultures, honor traditions, and cultivate connections.",
+    "company_url": "http://fromourplace.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29d2620420eb_OurPlace.png",
+    "stage": null,
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": "https://twitter.com/ourplace",
+    "linkedin_url": "https://www.linkedin.com/company/fromourplace/about/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/our-place",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Outrider",
+    "description": "Outrider, the pioneer in autonomous yard operations for logistics hubs, helps large enterprises improve safety and increase efficiency. The only company exclusively focused on automating all aspects of yard operations, Outrider eliminates manual tasks that are hazardous and repetitive. Outrider’s mission is to drive the rapid adoption of sustainable freight transportation by deploying zero-emission systems.",
+    "company_url": "https://www.outrider.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a291dea04209a_Outrider.png",
+    "stage": "Series C+",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/OutriderTech",
+    "linkedin_url": "https://www.linkedin.com/company/outridertech/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/outrider",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Outset",
+    "description": "Outset is the most advanced AI-moderated research platform for running high-quality qualitative research at scale.",
+    "company_url": "https://outset.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697a4f57dadaf86599e5a530_outset%201%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/OutsetAI",
+    "linkedin_url": "https://www.linkedin.com/company/outset-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/outset",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Overland AI",
+    "description": "Never risk a human life for a job a robot can do. Overland AI's tech saves lives and amplifies power—minimizing risk to human life while transforming operators into force multipliers on the modern battlefield.‍",
+    "company_url": "https://www.overland.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/67853565e3f3abff6c51149f_overland%20ai%20logo%201.png",
+    "stage": null,
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/overland-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/overland-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Palantir",
+    "description": "Palantir (NYSE: PLTR) helps the world's most important institutions use their data to solve their most urgent problems. Palantir's software lets their customers integrate and analyze all of their data so they can answer questions that they couldn't before. From delivering disaster relief to building safer automobiles, Palantir is honored to help make their partners better at their most important work.",
+    "company_url": "https://www.palantir.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2991bf042079_Palantir.png",
+    "stage": "Exited",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": "https://twitter.com/PalantirTech",
+    "linkedin_url": "https://www.linkedin.com/company/palantir-technologies",
+    "ticker_symbol": "NYSE: PLTR",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/palantir",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "PathAI",
+    "description": "PathAI's mission is to improve patient outcomes with AI-powered pathology. Their platform promises substantial improvements to the accuracy of diagnosis and the efficacy of treatment of diseases like cancer, leveraging modern approaches in machine learning.",
+    "company_url": "https://www.pathai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29ab53041f68_PathAi.png",
+    "stage": "Series C+",
+    "industries": [
+      "AI",
+      "Healthcare"
+    ],
+    "twitter_url": "https://twitter.com/path_ai",
+    "linkedin_url": "https://www.linkedin.com/company/pathai",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/pathai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Platform Science",
+    "description": "Since 2015, Platform Science has connected fleets across the nation with the tools they need to take control of their technology. As part of their ongoing mission to transform transportation, Platform Science made it easy for fleets to develop, deploy, and manage their commercial vehicles’ mobile devices and applications on a single platform. Through Platform Science's partnerships with industry leaders at every stage of the supply chain, they empower fleets with endless opportunities to innovate and create solutions that evolve as their businesses grow.‍",
+    "company_url": "https://www.platformscience.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a290aaf041e9c_platform-science.png",
+    "stage": "Series C+",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/PlatformScience?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/platform-science",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/platform-science",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "PointOne",
+    "description": "PointOne transforms timekeeping from an active burden into a passive process — capturing work as it happens and converting it into compliant, ready-to-bill narratives.",
+    "company_url": "https://pointone.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cabcceda722724c25f0dcb_pointone%20logo.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://www.linkedin.com/company/pointoneai/",
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "RegTech/Gov/Legal"
+    ],
+    "detail_url": "https://www.8vc.com/companies/pointone",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Polly",
+    "description": "Polly is transforming the mortgage industry with its modern, data-driven capital markets ecosystem that includes an advanced Product & Pricing Engine (PPE), Loan Trading Exchange, Analytics Platform, and Partner Platform. Polly's mission is to help capital markets and secondary teams operate smarter, more efficiently, and more profitably with best-in-class, end-to-end technology that is configured for each of their customers’ unique workflows and business needs.",
+    "company_url": "https://polly.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6421c8671a7c14dd4ff86fe2_Polly%20logo.png",
+    "stage": "Series B",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/pollyex",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Future of Work",
+      "PropTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/polly",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Ponder",
+    "description": "Ponder’s mission is to make data teams more productive. They empower data practitioners to get insights faster with tools they already know and love.",
+    "company_url": "http://ponder.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2925710421f2_Ponder.png",
+    "stage": "Exited",
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/ponderdata",
+    "linkedin_url": "https://www.linkedin.com/company/ponderdata",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/ponder",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Project44",
+    "description": "project44 is on a mission - to make supply chains work. They optimize the movement of products globally, delivering better resiliency, sustainability, and value for their customers.",
+    "company_url": "https://www.project44.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2926dd042077_project44.png",
+    "stage": "Series C+",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/freightpipes",
+    "linkedin_url": "https://www.linkedin.com/company/project-44/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/project44",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Promise",
+    "description": "Promise helps reduce delinquencies and increase revenue while helping people pay off debt sooner and with fewer penalties. Their intuitive approach to zero interest installment plans and relief distribution leads to increased enrollment and a 95%+ recovery rate on scheduled payments.",
+    "company_url": "https://www.promise-pay.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6421c90b13f1321fa1cc9ad0_Promise%20logo.png",
+    "stage": null,
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/joinpromise/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/promise",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Qualia",
+    "description": "Qualia is a new class of real estate and mortgage technology that makes buying and selling a home a quick, easy, and understandable process. Over half a million real estate and mortgage professionals use Qualia to power their real estate closings, and Qualia currently process transactions for millions of consumers every year. Their suite of products brings together homebuyers and sellers, mortgage lenders, title and escrow agents, and real estate agents onto a single shared platform, simplifying how homes are bought and sold. Qualia believes that real estate is an engine of economic growth in the United States, and that technology is the key to building healthy homeownership. Through their software, they work on improving how real estate is transacted in order to ensure a more understandable, secure, seamless home buying experience for all.",
+    "company_url": "https://www.qualia.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29bb6804208c_Qualia.png",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/qualiasoftware",
+    "linkedin_url": "https://www.linkedin.com/company/qualiasoftware/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity",
+      "PropTech",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/qualia",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Quince",
+    "description": "Quince is a consumer technology platform rebuilding retail from the infrastructure up. Through its proprietary Manufacturer-to-Consumer (M2C) operating system, the company integrates AI–driven demand forecasting, real-time production planning, and direct factory partnerships to align supply precisely with customer demand, removing the layers of markup, inventory risk, and inefficiency historically embedded in pricing.",
+    "company_url": "https://www.quince.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cac0ce5de6bd1bbb484a33_image%20(15)%201%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/onequince/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/quince",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Rainbow",
+    "description": "Rainbow is a specialty lines Managing General Underwriter built on modern technology and focused on small commercial insurance. The company’s customer-centric approach delivers superior loss performance and rewards business owners for putting safety first.",
+    "company_url": "https://www.userainbow.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/657a1ee8aabc9cda9d06ebc4_Rainbow_Word%20Mark.svg",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/userainbow/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/rainbow",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Ramp",
+    "description": "The ultimate platform for modern finance teams.",
+    "company_url": "https://ramp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/65b91fd491e5beb53de9f451_ramp-white.svg",
+    "stage": "Growth",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/tryramp",
+    "linkedin_url": "https://www.linkedin.com/company/ramp/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/ramp",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "RelateIQ",
+    "description": "SalesforceIQ powers sales teams with Relationship Intelligence technology. We’re building the next generation of intelligent software to transform the way teams work through data-driven insights.",
+    "company_url": "https://essentials.salesforce.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a297cf0042097_relate-IQ.png",
+    "stage": null,
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/salesforceiq",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Reserv",
+    "description": "Reserv leverages modern systems and creates new cutting-edge solutions to optimize any P&C claim. From complex data ingestion to automated coverage decisioning to dynamic customer experiences, Reserv is building the claims experience of the future.",
+    "company_url": "https://www.reserv.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/65424c443dc6c2cd58f8dfbf_64a57e8adc9d483585ad18f3_Logo%20(21)%20(1).png",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/Reserv_ai",
+    "linkedin_url": "https://www.linkedin.com/company/reserv-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/reserv",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Resilience",
+    "description": "Resilience (National Resilience, Inc.) is a first-of-its-kind manufacturing and technology company dedicated to broadening access to complex medicines and protecting biopharmaceutical supply chains against disruption. Founded in 2020, the company is building a sustainable network of high-tech, end-to-end manufacturing solutions to ensure the medicines of today and tomorrow can be made quickly, safely, and at scale.",
+    "company_url": "https://resilience.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a2970440420c2_resilience.svg",
+    "stage": "Series C+",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/IncResilience",
+    "linkedin_url": "https://www.linkedin.com/company/weareresilience/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Logistics / Supply Chain",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/resilience",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Ritten",
+    "description": "Ritten delivers cutting-edge medical records software that helps clinicians and administrators provide personalized, data-informed care.‍",
+    "company_url": "https://www.ritten.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/668eea44bae6f039a2dd539d_ritten%20logo.png",
+    "stage": "Series A",
+    "industries": [
+      "Healthcare"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/rittensoftware/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/ritten",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Rocketlane",
+    "description": "Rocketlane is purpose-built software to accelerate and streamline implementation and customer onboarding. With its unified workspace, it’s easy to collaborate with customers and deliver projects consistently, transparently, and delightfully. Moreover, Rocketlane helps you automate repetitive tasks and identify patterns across multiple projects to drive your execution strategy. They accelerate your time to value, improve visibility, and help you deliver 5-star experiences to your customers.",
+    "company_url": "https://www.rocketlane.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29deab0421a0_Rocketlane.png",
+    "stage": "Series A",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/RocketlaneHQ",
+    "linkedin_url": "https://www.linkedin.com/company/rocketlane/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/rocketlane",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Saris",
+    "description": null,
+    "company_url": "https://www.saris.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6a1799c48eac902ef967bbc7_Saris%20logo.png",
+    "stage": null,
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/saris",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Saronic",
+    "description": "Saronic is building cutting-edge unmanned surface vehicles that enable maritime security and domain awareness by combining best-in-class hardware, software and artificial intelligence into one scalable, fully integrated platform.",
+    "company_url": "https://www.saronic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6528654a19155be74b9d0c87_Saronic.svg",
+    "stage": "Series C+",
+    "industries": [
+      "Government & Defense"
+    ],
+    "twitter_url": "https://x.com/Saronic",
+    "linkedin_url": "https://www.linkedin.com/company/saronic-technologies/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Cybersecurity",
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/saronic",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Sequence Holdings",
+    "description": "Sequence Holdings is a permanent holding company that brings AI and engineering to the core of great American businesses.",
+    "company_url": "https://seqholdings.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cac6b0564e32d00a3364ca_sequence%20holdings%20(2).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/sequenceholdings/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/sequence-holdings",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Sesh",
+    "description": "Sesh was created to find solutions for a world without cigarettes or vapes. We were tired of trying other alternatives that either didn't work or were dissatisfying. We constantly strive for new, harm reducing alternatives that improve adult tobacco and vape users lives. We are confident that tobacco and vape-free alternatives will become a key focus worldwide and Sesh is committed to guiding the industry forward.",
+    "company_url": "https://seshproducts.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cac69ae3f3e356749575ab_sesh-logo%201%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/Seshproducts",
+    "linkedin_url": "https://www.linkedin.com/company/sesh-products/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/sesh",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "SILA Nanotechnologies",
+    "description": "Sila is a next generation battery materials company dedicated to accelerating energy transformation for a more sustainable future.",
+    "company_url": "https://www.silanano.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29c1b2042241_image%20(29).png",
+    "stage": "Series C+",
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": "https://twitter.com/SilaNanotech",
+    "linkedin_url": "https://www.linkedin.com/company/sila-nanotechnologies-inc-",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Climate / Sustainability"
+    ],
+    "detail_url": "https://www.8vc.com/companies/sila-nanotechnologies",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Sirona",
+    "description": "Sirona Medical Inc. is addressing the needs of today’s radiology practices with a novel cloud-native platform that unifies radiology IT applications – worklist, viewer, reporter, and AI – onto a single, streamlined Workspace. Sirona’s radiology operating system (RadOS) puts radiologists in the driver’s seat with AI-powered solutions that simplify their workflow and amplify their work product. Based in San Francisco, CA, Sirona Medical is founded on a deep understanding of both the practice and business of radiology, with the goal of enabling radiologists to work as fast as they can think.",
+    "company_url": "https://sironamedical.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a291e61042234_sirona.png",
+    "stage": "Series B",
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/Sirona_Medical",
+    "linkedin_url": "https://www.linkedin.com/company/sironamedical/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/sirona",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Socotra",
+    "description": "Socotra is focused on delivering agility to the trillion-dollar global insurance industry. Socotra works with global insurers to modernize their technology, making it easier for them to focus on creating innovative products to grow their business.",
+    "company_url": "https://www.socotra.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a290905042081_SOCOTRA%20VERTICAL%20HEX%20WHITE%201.png",
+    "stage": "Series C+",
+    "industries": [
+      "Financial Services"
+    ],
+    "twitter_url": "https://twitter.com/socotratech",
+    "linkedin_url": "https://www.linkedin.com/company/socotra/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/socotra",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Software",
+    "description": "Great software development starts with better visibility. Measure and improve your organization’s DevOps performance with real-time insights.",
+    "company_url": "https://www.software.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f161c199472a832e305a8_Software.png",
+    "stage": "Series A",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/software_hq",
+    "linkedin_url": "https://www.linkedin.com/company/softwaredotcom",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/software",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Sonoma Biotherapeutics",
+    "description": "Sonoma Biotherapeutics is inventing the future of living therapies for autoimmune disease — safe, effective treatments as unique as each individual patient. Regulatory T cell therapies that harness a patient’s own immune cells, powerful next generation gene editing techniques and advanced manufacturing and quality assurance processes. Sonoma’s mission is to create a best-in-class regulatory T cell therapy that delivers long-lasting, highly efficacious treatments leading to cures across a spectrum of autoimmune and degenerative diseases.",
+    "company_url": "https://www.sonomabio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29e1be042098_sonoma-bio.png",
+    "stage": "Series B",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/sonomabio",
+    "linkedin_url": "https://www.linkedin.com/company/sonoma-biotherapeutics/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "RegTech/Gov/Legal",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/sonoma-biotherapeutics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Spotnana",
+    "description": "Spotnana powers unparalleled global travel experiences. They are rebuilding the infrastructure of the travel industry in order to bring freedom, simplicity, and trust to travelers everywhere.",
+    "company_url": "https://www.spotnana.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29f05c0421ef_image%20(2).png",
+    "stage": null,
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/spotnanatechnology/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/spotnana",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Stack Health",
+    "description": "Stack Health builds personalized health plans to accelerate the transition to healthcare being owned by individuals.",
+    "company_url": "https://www.stackhealthcare.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cabf5574f18f09e24467ed_stack.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/stack-health-inc/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "detail_url": "https://www.8vc.com/companies/stack-health",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Standard Metrics",
+    "description": "Standard Metrics is an automated data platform that enables financial transparency between startups and investors, empowering founders to make better decisions in scaling their companies.",
+    "company_url": "https://standardmetrics.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a293c9f041f13_Standard-Metrics_Logo_Horizontal-720%201.svg",
+    "stage": "Series A",
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/metrics_co?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/standardmetrics",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/standard-metrics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Structify",
+    "description": "Structify is an organization that converts data into structured datasets that are tailored to individual needs.",
+    "company_url": "https://www.structify.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/697bd1058656d06e20ded90d_structify%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/structifyai?",
+    "linkedin_url": "https://www.linkedin.com/company/structifyai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/structify",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "TAP",
+    "description": "TAP || 8VC",
+    "company_url": "https://tap3d.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29d191042252_tap.png",
+    "stage": "Seed",
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/tap",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Tasca Therapeutics",
+    "description": "By harnessing the power of mass spectrometry-based proteomics to identify cancer-causing proteins that undergo a specific post-translational modification called auto-palmitoylation, Tasca is uniquely positioned to utilize previously unknown binding pockets to develop novel therapies for difficult-to-treat cancers.",
+    "company_url": null,
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cc3689773981dddcee820a_tasca%20(2).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": null,
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "detail_url": "https://www.8vc.com/companies/tasca-therapeutics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Terminal",
+    "description": "Terminal builds elite engineering teams to accelerate world-changing companies. Terminal identifies emerging tech hubs around the globe, and connect the top engineers with the most compelling companies. They provide complete operations and services to give companies all the benefits of a new office without any of the hassle. They are building communities of the top technologists to solve hard problems. They bring the top companies from around the world and help them run operations in new markets, while maintaining top-notch benefits and unique access to Silicon Valley and global tech leaders. Their amazing client teams span all types of software development including cutting-edge front-end frameworks, hyper-scale infrastructure, AR/VR/IOT, Data Science, DevOps, and much more.",
+    "company_url": "https://terminal.io/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/685f0420e662765b2555e634_Bitmap%20(2).png",
+    "stage": null,
+    "industries": [
+      "Smart Enterprise"
+    ],
+    "twitter_url": "https://twitter.com/JoinTerminal",
+    "linkedin_url": "https://www.linkedin.com/company/jointerminal",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/terminal",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Terminal Logistics",
+    "description": "Terminal helps logistics operators create a more efficient and resilient supply chain, ensuring that goods move safely, consistently, and predictably.",
+    "company_url": "https://www.terminal-industries.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/68628aa9ec3c3db2de23ba18_Terminal%20-%20Color.png",
+    "stage": null,
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/terminal-industries/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/terminal-logistics",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Terra Industries",
+    "description": null,
+    "company_url": "https://www.terraindustries.co/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/696528f0deab9ac6f6ff11ea_Terra%20Logo%20(1).png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/Terrahaptix",
+    "linkedin_url": "https://www.linkedin.com/company/terrahaptix/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "detail_url": "https://www.8vc.com/companies/terra-industries",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "The Boring Company",
+    "description": "To solve the problem of soul-destroying traffic, roads must go 3D, which means either flying cars or tunnels. Unlike flying cars, tunnels are weatherproof, out of sight and won't fall on your head. A large network of tunnels many levels deep would fix congestion in any city, no matter how large it grew (just keep adding levels). The key to making this work is increasing tunneling speed and dropping costs by a factor of 10 or more – this is the goal of The Boring Company. Fast to dig, low cost tunnels would also make Hyperloop adoption viable and enable rapid transit across densely populated regions, enabling travel from New York to Washington DC in less than 30 minutes.‍",
+    "company_url": "https://www.boringcompany.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f17482db40b9371db45b6_The%20Boring%20Company.png",
+    "stage": "Series C+",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/boringcompany",
+    "linkedin_url": "https://www.linkedin.com/company/tbc-theboringcompany/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/the-boring-company",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Thorin",
+    "description": "Thorin builds advanced AI tools for the world's most productive entrepreneurs and businesses.",
+    "company_url": "https://www.thorin.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/686be83be935f03ff5b15699_Thorin%201.png",
+    "stage": null,
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/thorin/",
+    "ticker_symbol": null,
+    "everywhere_tags": [],
+    "detail_url": "https://www.8vc.com/companies/thorin",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Tilda",
+    "description": "Tilda Research, based in San Francisco, is an innovator in clinical research execution. They focus on data integration, site-wide automation and real-time operational metrics to enable faster bench-to-market solutions for our research partners. They operate a growing network of clinical research sites in the US, and their team has worked on over 250 pan-indication Phase I thru IV studies.",
+    "company_url": "http://tilda.bio/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f184b91f882f0b8527277_tilda%201.png",
+    "stage": "Series A",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/tildaresearch/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics"
+    ],
+    "detail_url": "https://www.8vc.com/companies/tilda",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Trackonomy",
+    "description": "Whether by land, air, or sea, Trackonomy gives you true end-to-end visibility of your shipments across the globe. Stay in control of supply chain logistics with item-level precision, and without expensive infrastructure or workflow changes.‍",
+    "company_url": "https://trackonomysystems.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29bb13042045_Trackonomy.png",
+    "stage": "Series C+",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/trackonomy/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/trackonomy",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "TUL",
+    "description": "La mano derecha del ferretero. Somos la SuperApp del sector ferretero, la industria y la construcción en Latam. Encuentra fácil y rápido los materiales de construcción y ferretería que tu negocio necesita. ¡Descarga nuestra APP ahora!",
+    "company_url": "https://tul.com.co/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/649f16806aa671aa1a99b5fc_TUL.png",
+    "stage": "Series B",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": null,
+    "linkedin_url": "https://co.linkedin.com/company/soytul",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "detail_url": "https://www.8vc.com/companies/tul",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Twingate",
+    "description": "Twingate provides a simple, modern approach to securing online work. Twingate enables organizations to rapidly implement a modern zero trust network that is more secure and maintainable than VPNs. Delivered as a cloud-based service, Twingate empowers IT teams to easily configure a software defined perimeter without changing infrastructure, and centrally manage user access to internal apps, whether they are on-prem or in the cloud",
+    "company_url": "https://www.twingate.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29aecc0421a4_Twingate.png",
+    "stage": "Series B",
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/TwingateHQ",
+    "linkedin_url": "https://www.linkedin.com/company/twingate",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ],
+    "detail_url": "https://www.8vc.com/companies/twingate",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Unlearn",
+    "description": "Unlearn is the only company using AI to create Digital Twins to populate Intelligent Control Arms in clinical studies. By leveraging historical datasets and disease-specific machine-learning models, Unlearn generates virtual placebo patients, created from actual patient baseline data in clinical studies. This novel approach increases trial power and confidence, accelerates trial timelines, and enables patient level insights. Unlearn was founded in 2017 by a team of world-class machine learning scientists who shared a vision of using machine learning to streamline clinical trials.",
+    "company_url": "https://www.unlearn.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/6421d2fc9568f0471952b83f_63e1de6a1c9e720549fc8495_unlearn-w.png",
+    "stage": "Series B",
+    "industries": [
+      "Life Sciences"
+    ],
+    "twitter_url": "https://twitter.com/unlearnai",
+    "linkedin_url": "https://www.linkedin.com/company/unlearn-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/unlearn",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Ushur",
+    "description": "Ushur delivers the world’s first AI-powered Customer Experience Automation™ platform that has been purpose-built, from the ground up, to intelligently automate entire customer journeys, end to end. Designed to deliver delightful, hyper-personalized customer experiences through rapid issue resolution and unified, omnichannel engagement, Ushur is the first-of-its-kind system of intelligence. It combines Conversational Automation and Knowledge Work Automation in a No-Code, Cloud-native, SaaS platform to digitally transform every step of the complete enterprise customer experience – from Micro-engagements™ to entire customer journeys.",
+    "company_url": "https://ushur.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29fe20042238_ushur.png",
+    "stage": "Series C+",
+    "industries": [
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/ushurInc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/ushur-me",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/ushur",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Vals AI",
+    "description": "Vals AI is an independent platform committed to advancing the future of Gen AI through unbiased benchmarks and scalable evaluation infrastructure for labs and engineering teams.",
+    "company_url": "https://www.vals.ai/home",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cac043798008165948f7e3_Vals-dark%201.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": "https://x.com/ValsAI",
+    "linkedin_url": "https://www.linkedin.com/company/vals-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/vals-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Vector",
+    "description": "Vector, the mobile-first workflow and transportation management platform for shippers, logistics brokers, and carriers. Vector's LoadDocs product helps one reduce operational friction and increase productivity by streamlining workflows with electronic forms and best-in-class document capture.‍",
+    "company_url": "https://www.withvector.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29591a0420b4_Vector.png",
+    "stage": "Series A",
+    "industries": [
+      "Logistics"
+    ],
+    "twitter_url": "https://twitter.com/withvector",
+    "linkedin_url": "https://www.linkedin.com/company/withvector",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/vector",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "description": "Vercel combines the best developer experience with an obsessive focus on end-user performance. Their platform enables development teams to collaborate on and ship their best work. Vercel is the creator of Next.js, the world's favorite React framework, and they're building the best tools and workflow for frontend development teams. Their goal is to bring developers the scale, reliability, and performance they need in their tools and infrastructure - so they can focus on creating delightful experiences for their users.",
+    "company_url": "https://vercel.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/635154aa7d0a29ecd4042198_vercel-logotype-light%201.png",
+    "stage": "Series C+",
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/vercel",
+    "linkedin_url": "https://www.linkedin.com/company/vercel/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/vercel",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Waabi",
+    "description": "Waabi, founded by AI pioneer and visionary Raquel Urtasun, is an AI company building the next generation of self-driving technology. With a world class team and an innovative approach that unleashes the power of AI to “drive” safely in the real world, Waabi is bringing the promise of self-driving closer to commercialization than ever before. Waabi is backed by best-in-class investors across the technology, logistics and the Canadian innovation ecosystem, including Khosla Ventures, Uber, 8VC, Radical Ventures, OMERS Ventures and BDC Capital’s Women in Technology Venture Fund.",
+    "company_url": "https://waabi.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/644952f423146ecc9b7d3d4f_waabi.png",
+    "stage": null,
+    "industries": [
+      "Logistics",
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/Waabi_ai",
+    "linkedin_url": "https://www.linkedin.com/company/waabi/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Transportation / Mobility"
+    ],
+    "detail_url": "https://www.8vc.com/companies/waabi",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Wish",
+    "description": "Wish is a mobile e-commerce platform that connects millions of consumers with the widest selection of products delivered directly to their doors. Their mission is to provide everyone access to the most affordable and convenient shopping experience on the planet.‍",
+    "company_url": "https://www.wish.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/639a0b6818c9260ab9863b2e_wish.svg",
+    "stage": null,
+    "industries": [
+      "Consumer"
+    ],
+    "twitter_url": "https://twitter.com/wishshopping?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/wishshopping",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/wish",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Wispr Flow",
+    "description": "Wispr is reinventing personal computing for an AI-first world with neural interfaces. The company’s human-centered approach lets users interact with technology in a more natural way.",
+    "company_url": "https://www.flowvoice.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/67250fb4853d482ac06d095c_Flow.png",
+    "stage": null,
+    "industries": [
+      "Consumer",
+      "AI"
+    ],
+    "twitter_url": "https://twitter.com/wisprAI",
+    "linkedin_url": "https://www.linkedin.com/company/wispr/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "detail_url": "https://www.8vc.com/companies/wispr-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "WithCoverage",
+    "description": "The insurance brokerage industry is ready for a new standard: ambitious businesses often overpay for insurance, are inadequately protected, and are left with a non-transparent, disorganized experience. Most businesses don’t have an in-house Risk Management Team. That’s where we come in. WithCoverage provides ambitious businesses with a Modern Risk Management Solution. An expert team and powerful technology – designed to protect you today and as you scale.",
+    "company_url": "https://withcoverage.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cab266d391e4b58bf824e4_with%20coverage%20logo.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/withcoverage/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "detail_url": "https://www.8vc.com/companies/withcoverage",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Worktrace AI",
+    "description": "Worktrace AI is built by AI engineers and researchers from OpenAI, Microsoft, Google DeepMind, MIT, and Meta, with a goal to enable seamless agentic transformation within enterprises.",
+    "company_url": "https://www.worktrace.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/69cabdc3b0782db2f546d78c_worktrace%20logo.png",
+    "stage": null,
+    "industries": [],
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/worktrace-ai/",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "detail_url": "https://www.8vc.com/companies/worktrace-ai",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  },
+  {
+    "company_name": "Yugabyte",
+    "description": "Yugabyte is the company behind the open source YugabyteDB, a high-performance distributed SQL database for cloud native applications.Built using a unique combination of high-performance document store, auto sharding, per-shard distributed consensus replication and multi-shard ACID transactions (inspired by Google Spanner), YugabyteDB serves both scale-out RDBMS and internet-scale OLTP workloads with low query latency, extreme resilience against failures and global data distribution. As a cloud native database, it can be deployed across public and private clouds as well as in Kubernetes environments with ease.‍",
+    "company_url": "https://www.yugabyte.com/",
+    "logo_url": "https://cdn.prod.website-files.com/635154aa7d0a29a9ed041ba2/668eea81345a66c56d7e13e6_yugabyte%20logo.png",
+    "stage": "Series C+",
+    "industries": [
+      "IT Infrastructure"
+    ],
+    "twitter_url": "https://twitter.com/yugabyte",
+    "linkedin_url": "https://www.linkedin.com/company/yugabyte",
+    "ticker_symbol": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "detail_url": "https://www.8vc.com/companies/yugabyte",
+    "source_url": "https://www.8vc.com/companies",
+    "scraped_at": "2026-07-24T21:39:00.263175+00:00"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "_comment": "Per-firm metadata that isn't derivable from the datasets, used ONLY to fill BLANK cells. Right now that's just Source type (a hand classification). Everything else — Name, Source URL, Notes, Scraper module — is derived automatically. Add a firm here only if it needs a non-default Source type; discovered firms default to 'generic-extractor'.",
+  "source_type": {
+    "inflection_companies.json": "raw-html"
+  }
+}

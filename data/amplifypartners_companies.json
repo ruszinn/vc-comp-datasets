@@ -1,0 +1,2997 @@
+[
+  {
+    "company_name": "Achira",
+    "company_url": "https://achira.ai/",
+    "description": "Achira is building atomistic foundation simulation models to power the future of drug discovery.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "John Chodera",
+      "Theofanis Karaletsos"
+    ],
+    "founded_year": null,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/achira-ai/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/bio/achira.avif",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "ActionIQ",
+    "company_url": "https://www.actioniq.com/",
+    "description": "ActionIQ is changing how brands think about customer experience, digital transformation, and customer data.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Tasso Argyros",
+      "Nitay Joffe"
+    ],
+    "founded_year": 2014,
+    "partnered_year": 2014,
+    "linkedin_url": "https://www.linkedin.com/company/actioniq/",
+    "twitter_url": "https://twitter.com/ActionIQinc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "related_articles": [
+      {
+        "title": "Our $100M Series C Extension",
+        "url": "https://www.actioniq.com/blog/100-series-c-extension-leading-customer-data-platform/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed177d376fdba1468801a_63363f7243334fb4c08b78a8_actioniq.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Allium",
+    "company_url": "https://www.allium.so/",
+    "description": "Allium is a fast and comprehensive blockchain data platform for enterprises.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Ethan Chan",
+      "Cheng Han Lee"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/alliumlabs/",
+    "twitter_url": "https://twitter.com/AlliumLabs",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/6842e149518e3072f3cfe3f3_allium-logo-v2-black.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Anchorage",
+    "company_url": "https://www.anchorage.com/",
+    "description": "Anchorage is a premier digital asset platform for institutions.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Diogo Mónica",
+      "Nathan McCauley"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/anchorage/",
+    "twitter_url": "https://twitter.com/Anchorage",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed177430b928d63cd8cc7_65a80485b52075c9127ebf1e_a0746087-e4a6-446d-9122-c353f372d3e7-1669735538820.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Antithesis",
+    "company_url": "https://antithesis.com/",
+    "description": "Antithesis is one of the pioneers of Deterministic Simulation Testing: their platform runs your complete system, exhaustively analyzes its behavior, and exposes bugs as quickly as agents introduce them.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Will Wilson",
+      "Nick Lavezzo",
+      "Dave Scherer"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/antithesis-operations/",
+    "twitter_url": "https://x.com/AntithesisHQ",
+    "related_articles": [
+      {
+        "title": "A Deterministic Simulation Testing (DST) primer",
+        "url": "https://www.amplifypartners.com/blog-posts/a-dst-primer-for-unit-test-maxxers"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a2fe0e996631c4e8cb3f670_svgexport-1 (15).svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Anyscale",
+    "company_url": "https://www.anyscale.com/",
+    "description": "Anyscale is a fully-managed scalable Ray compute platform to develop, deploy, and manage Ray applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Robert Nishihara",
+      "Philipp Moritz",
+      "Ion Stoica",
+      "Michael I. Jordan"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/joinanyscale/",
+    "twitter_url": "https://twitter.com/raydistributed",
+    "related_articles": [
+      {
+        "title": "Anyscale Unveils Ray 2.0 and Adds an Additional $99M Funding",
+        "url": "https://www.globenewswire.com/en/news-release/2022/08/23/2502861/0/en/Anyscale-Unveils-Ray-2-0-and-Anyscale-Innovations-at-Ray-Summit-2022-Adds-an-Additional-99M-Funding-from-Existing-Investors-Addition-Intel-Capital-and-Foundation-Capital.html"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17734808eee312dc017_634af72f0007a1b9cf1be846_0114ec37-170e-4864-b9a9-f85452de1ce0-1633971232076.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Archera",
+    "company_url": "https://archera.ai/",
+    "description": "Archera is a cloud resource automation platform that enables organizations to operate dynamically in the cloud.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Aran Khanna",
+      "Nikhil Khanna"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/archera-ai/",
+    "twitter_url": "https://twitter.com/ArcheraAi",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed177c005ae3740aec8bd_634af766990236c6f47f80f0_archera.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Authzed",
+    "company_url": "https://authzed.com/",
+    "description": "Authzed is a database for application permissions.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Jake Moshenko",
+      "Joey Schorr",
+      "Jimmy Zelinskie"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/authzed/",
+    "twitter_url": "https://twitter.com/authzed",
+    "related_articles": [
+      {
+        "title": "Introducing Authzed",
+        "url": "https://authzed.com/blog/introducing-authzed/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed177f98fb67f81349336_65a8046bee347b3a008e34a9_Logo_Dark_Multi-Color.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Avoca",
+    "company_url": "https://www.avoca.ai/",
+    "description": "Avoca is the AI front office for home services, building always-on agents that answer every call, fill every board, and keep your team focused on the work that matters.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Apurva Shrivastava",
+      "Tyson Chen"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/avoca-ai/",
+    "twitter_url": "https://x.com/getavoca",
+    "related_articles": [
+      {
+        "title": "Avoca raises $125M Series B at $1B valuation",
+        "url": "https://www.avoca.ai/blog/avoca-raises-125m-series-b-1b-valuation"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a3bc5425ccd84d54f5356ec_avoca.svg",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Axiom",
+    "company_url": "https://axi.om/",
+    "description": "Axiom equips scientists with AI models which are more accurate and more affordable than traditional physical experiments.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Brandon White",
+      "Alex Beatson"
+    ],
+    "founded_year": null,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/axiombio1/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/axiom.svg",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Backtrace",
+    "company_url": "https://saucelabs.com/",
+    "description": "Backtrace, now part of Sauce Labs, provides best-in-class error monitoring solutions for software teams.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Abel Mathew",
+      "Samy Bahra"
+    ],
+    "founded_year": 2014,
+    "partnered_year": 2015,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/saucelabs",
+    "related_articles": [
+      {
+        "title": "Sauce Labs Extends Continuous Testing and Improvement Capabilities into Production Environments with Acquisition of Backtrace",
+        "url": "https://saucelabs.com/news/sauce-labs-extends-continuous-testing-and-improvement-capabilities-into-production-environments-with-acquisition-of-backtrace"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed179138b8d02bcfabc9b_6336527b32b68befe75f0496_Backtrace Transparent.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Bayes",
+    "company_url": "https://www.airtable.com/",
+    "description": "Bayes, now part of Airtable, built a no-code exploratory data visualization tool.",
+    "sector": "Data and Analytics",
+    "status": "Acquired",
+    "team": [
+      "William Wolf",
+      "Justen Woodbridge"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/airtable/",
+    "twitter_url": "https://x.com/airtable",
+    "related_articles": [
+      {
+        "title": "Airtable makes Bayes its first acquisition to up its data visualization game",
+        "url": "https://techcrunch.com/2021/08/11/airtable-makes-bayes-its-first-acquisition-to-up-its-data-visualization-game/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6842df22db990a9de2711520_wordmark.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Bexorg",
+    "company_url": "https://bexorg.com/",
+    "description": "Bexorg transforms entire brains into molecular and interventional platforms, enabling us to explore the brain in unprecedented ways.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Zvonimir Vrselja",
+      "Nenad Sestan"
+    ],
+    "founded_year": null,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/bexorg-inc/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/6825f74bc34cff2e195cd4ac_bexorg_logo.avif",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "bitdrift",
+    "company_url": "https://bitdrift.io/",
+    "description": "bitdrift is a mobile-first, next-generation observability platform.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Peter Morelli",
+      "Matt Klein",
+      "Martin Conte Mac Donell"
+    ],
+    "founded_year": 2023,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/bitdrift/",
+    "twitter_url": "https://twitter.com/bitdriftio",
+    "related_articles": [
+      {
+        "title": "Our investment in bitdrift",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-bitdrift"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17815e15addeb6494e5_6644f3a91d7aeac077c53597_logo_light.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Bluedata",
+    "company_url": "http://www.hpe.com",
+    "description": "Bluedata, now part of HPE, transforms how enterprises deploy AI, machine learning, and big data analytics.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Kumar Sreekanti",
+      "Tom Phelan"
+    ],
+    "founded_year": 2012,
+    "partnered_year": 2012,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "HPE to acquire BlueData",
+        "url": "https://www.hpe.com/us/en/newsroom/press-release/2018/11/hpe-to-acquire-bluedata.html"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed179138b8d02bcfabc97_63364b855add9a37a7c0bbfc_BlueData-vertical-standard-logo-removebg-preview 1.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Boltz",
+    "company_url": "https://boltz.bio/",
+    "description": "Boltz's open foundation models advance the frontier of AI in biology through open science and make them universally accessible to every scientist.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Gabriele Corso",
+      "Jeremy Wohlwend",
+      "Saro Passaro"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/boltz-bio/",
+    "twitter_url": "https://x.com/boltz_bio",
+    "related_articles": [
+      {
+        "title": "The future we are building at Boltz",
+        "url": "https://boltz.bio/manifesto"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/697d0fd01cecec9758fec76b_boltz-logo (1).svg",
+    "everywhere_tags": [
+      "BioTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Buddybuild",
+    "company_url": "https://www.apple.com/",
+    "description": "Buddybuild, acquired by Apple, is a continuous integration and delivery platform for mobile.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Dennis Pilarinos",
+      "Chris Stott"
+    ],
+    "founded_year": 2015,
+    "partnered_year": 2015,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "Apple buys app development service Buddybuild",
+        "url": "https://techcrunch.com/2018/01/02/apple-buys-app-development-service-buddybuild/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1799702cab0bb9ee89e_63364c32de27783bd7ec6b7a_buddybuild-removebg-preview 1.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Cambridge Cancer Genomics",
+    "company_url": "https://us.dantelabs.com/",
+    "description": "Cambridge Cancer Genomics, acquired by Dante Labs, develops precision oncology solutions to transform the way cancer patients are treated.",
+    "sector": "Digital Biology",
+    "status": "Acquired",
+    "team": [
+      "John Cassidy PhD",
+      "Harry Clifford PhD",
+      "Nirmesh Patel PhD",
+      "Evaline Tsai PhD"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/dantegenomics/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1798c2aa908a3e788c3_672277e75244fa73de278959_38eaf139-e50f-432c-bca0-f75e28665046.avif",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Cask Data",
+    "company_url": "https://cloud.google.com/data-fusion",
+    "description": "Cask, acquired by Google, makes building and running big data solutions on-premises or in the cloud easy.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Jonathan Gray",
+      "Todd Papaioannou",
+      "Nitin Motgi"
+    ],
+    "founded_year": 2011,
+    "partnered_year": 2012,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed179f98fb67f81349410_6350514941027a7f6fa523a0_cask-logotype.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Centivax",
+    "company_url": null,
+    "description": "Centivax’s mission is to accelerate the world’s transition to a post-pathogen humanity.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Dr. Jacob Glanville",
+      "Dr. Sawsan Youssef",
+      "Stephanie Wisner",
+      "David Tsao",
+      "Dr. Nicholas Bayless"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/centivax/",
+    "twitter_url": "https://www.centivax.com/",
+    "related_articles": [
+      {
+        "title": "Centivax Raises Oversubscribed $45 Million Series A",
+        "url": "https://www.prnewswire.com/news-releases/centivax-raises-oversubscribed-45-million-series-a-led-by-future-ventures-to-advance-universal-flu-vaccine-into-clinic-and-expand-universal-immunity-portfolio-302500567.html"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/697d0ecfd2dce96d17560b88_centivaxlogo-blackfont-final-removebg-preview.png",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Chai Discovery",
+    "company_url": "https://www.chaidiscovery.com/",
+    "description": "Chai Discovery is building frontier AI to predict and reprogram the interactions between biochemical molecules.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Joshua Meier",
+      "Jack Dent"
+    ],
+    "founded_year": 2023,
+    "partnered_year": 2024,
+    "linkedin_url": "https://www.linkedin.com/company/chaidiscovery/",
+    "twitter_url": "https://x.com/chaidiscovery",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17974d687afe2b8de83_672278f44484e8cb0469a0e1_LBGGq6UumwxmAWg2aKa4rzcAw.avif",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Chainguard",
+    "company_url": "https://www.chainguard.dev/",
+    "description": "Chainguard is the leader in securing the software supply chain by default.",
+    "sector": "Cybersecurity",
+    "status": "Active",
+    "team": [
+      "Dan Lorenc",
+      "Kim Lewandowski",
+      "Matt Moore",
+      "Ville Aikas"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/chainguard-dev/",
+    "twitter_url": "https://twitter.com/chainguard_dev",
+    "related_articles": [
+      {
+        "title": "Our Investment in Chainguard",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-chainguard"
+      },
+      {
+        "title": "Chainguard raises $50M to guard supply chains",
+        "url": "https://techcrunch.com/2022/06/02/chainguard-raises-50m-to-guard-supply-chains/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/691336baa1fb7b16b9ee7858_Chainguard Logo - Blurple.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Chef",
+    "company_url": "https://www.chef.io/",
+    "description": "Chef, now part of Progress, Chef is a continuous automation platform.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Adam Jacob",
+      "Jesse Robbins",
+      "Barry Steinglass",
+      "Nathan Haneysmith"
+    ],
+    "founded_year": 2008,
+    "partnered_year": 2012,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "Progress Announces Acquisition of Chef",
+        "url": "https://investors.progress.com/news-releases/news-release-details/progress-announces-acquisition-chef"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17a45d4733c1b2528b8_63365270822f04370970bb99_Chef.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "CMD",
+    "company_url": "https://www.elastic.co/",
+    "description": "cmd, acquired by Elastic, allows organizations to monitor and control user interaction within their Linux environment.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Jake King",
+      "Milun Tesovic"
+    ],
+    "founded_year": 2015,
+    "partnered_year": 2018,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "Elastic and Cmd join forces to help you take command of your cloud workloads",
+        "url": "https://www.elastic.co/blog/elastic-and-cmd-join-forces-to-help-you-take-command-of-your-cloud-workloads"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17a45d4733c1b2528e7_6336526b7ed9eb267886e864_CMD.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Command E",
+    "company_url": "https://getcommande.com/",
+    "description": "Command E, now part of Dropbox, is a unified search tool.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Tom Uebel",
+      "Ben Standefer"
+    ],
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/getcommande",
+    "related_articles": [
+      {
+        "title": "Welcome Command E to Dropbox!",
+        "url": "https://blog.dropbox.com/topics/company/welcome-command-e-to-dropbox-"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17a1750f1d72c75fff2_63505016b59a9b41469f9545_R0YdYQfIPXqzLxtKtNvZi8AbIeA1581441160190_200x200.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Conjur",
+    "company_url": "https://www.conjur.org/",
+    "description": "Conjur, acquired by CyberArk, is a comprehensive security orchestration platform",
+    "sector": "Cybersecurity",
+    "status": "Acquired",
+    "team": [
+      "Elizabeth Lawler",
+      "Kevin Gilpin"
+    ],
+    "founded_year": 2011,
+    "partnered_year": 2013,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17a8d4fd6f40d80a8d2_635166e541c8775431dfeb12_Conjur Transparent Logo.avif",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Continual",
+    "company_url": "https://continual.ai/",
+    "description": "Continual helps you build an AI copilot for your application or business.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Tristan Zajonc",
+      "Tyler Kohn"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/continualai/",
+    "twitter_url": "https://twitter.com/continual_ai",
+    "related_articles": [
+      {
+        "title": "Our Investment in Continual",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-continual"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17a55f7ca219de5252e_63506b077ab4294c41b167d5_Continual Logo Dark.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Covariant",
+    "company_url": "https://covariant.ai/",
+    "description": "Covariant is an AI Robotics company developing a universal AI that enables robots to see, reason, and act.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Peter Chen",
+      "Pieter Abbeel",
+      "Rocky Duan",
+      "Tianhao Zhang"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/covariant-ai/",
+    "twitter_url": "https://twitter.com/CovariantAI",
+    "related_articles": [
+      {
+        "title": "Building Brains for Robots",
+        "url": "https://www.amplifypartners.com/blog-posts/building-brains-for-robots"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17b8d4fd6f40d80a924_6336525132b68b72325f02ca_Covariant Transparent.svg",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Cubist",
+    "company_url": "https://cubist.dev/",
+    "description": "Cubist offers a software development kit that allows developers to easily build cross-chain decentralized apps.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Riad Wahby",
+      "Ann Stefan",
+      "Fraser Brown",
+      "Deian Stefan"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/cubist-inc/",
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "Cubist raises $7M seed round",
+        "url": "https://cubist.dev/blog/cubist-raises-seed-round"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17b87495af09240788d_640a1e956ff2457003c529ac_Logo Main Version — Orange.avif",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Dagster",
+    "company_url": "http://dagster.io",
+    "description": "Dagster empowers every organization to build a productive and scalable data platform.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Nick Schrock"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/products/elementl-dagster/",
+    "twitter_url": "https://twitter.com/dagster",
+    "related_articles": [
+      {
+        "title": "Why Elementl and Dagster: The Decade of Data",
+        "url": "https://dagster.io/blog/decade-of-data"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17e8d4fd6f40d80aae9_65a804c2f2d641b0278d35c6_dagster_logo_primary.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Datadog",
+    "company_url": "https://www.datadoghq.com/",
+    "description": "Datadog is the monitoring and security platform for cloud applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "IPO",
+    "team": [
+      "Olivier Pomel",
+      "Alexis Lê-Quôc"
+    ],
+    "founded_year": 2010,
+    "partnered_year": 2012,
+    "linkedin_url": "https://www.linkedin.com/company/datadog/",
+    "twitter_url": "https://twitter.com/datadoghq",
+    "related_articles": [
+      {
+        "title": "Datadog - Thank You and Congratulations",
+        "url": "https://www.amplifypartners.com/blog-posts/datadog-thank-you-and-congratulations"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17c14e9b0b83cada175_6331ccd8df93c97ead8312e1_Datadog.svg",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Datafold",
+    "company_url": "https://www.datafold.com/",
+    "description": "Datafold builds tools for automating analytical data quality management.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Gleb Mezhanksiy",
+      "Alex Morozov"
+    ],
+    "founded_year": 2020,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/datafold/",
+    "twitter_url": "https://twitter.com/datafoldcom",
+    "related_articles": [
+      {
+        "title": "Announcing Datafold",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-datafold"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17cce9dda385e9029fc_63507127fe4b6b1c1006b0b5_datafold.avif",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "DatologyAI",
+    "company_url": "https://www.datologyai.com/",
+    "description": "DatologyAI builds data curation tools to automatically select the best data on which to train GenAI models.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Ari Morcos",
+      "Bogdan Gaza",
+      "Matthew Leavitt"
+    ],
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "linkedin_url": "https://www.linkedin.com/company/datologyai",
+    "twitter_url": "https://twitter.com/datologyai",
+    "related_articles": [
+      {
+        "title": "Our Investment in Datology",
+        "url": "https://www.amplifypartners.com/blog-posts/datology"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17cee1b984e7f7a19fb_65d77e7304ee7820ceb25ec7_light_logo.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "David AI",
+    "company_url": "https://www.withdavid.ai/",
+    "description": "David AI is an audio data research company bringing AI into the real world through voice, the most important interface to human interaction.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Tomer Cohen",
+      "Ben Wiley"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/david-ai/",
+    "twitter_url": "https://x.com/withdavidai",
+    "related_articles": [
+      {
+        "title": "Announcing Our $50M Series B",
+        "url": "https://www.withdavid.ai/news/announcing-our-50m-series-b"
+      },
+      {
+        "title": "Announcing Our $25M Series A",
+        "url": "https://www.withdavid.ai/news/announcing-our-25m-series-a"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a3bc79dd395348690627631_david_ai_logo.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Determined AI",
+    "company_url": "https://www.determined.ai/",
+    "description": "Determined, acquired by HPE, is an open source deep learning training platform that makes building models fast and easy.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Evan Sparks",
+      "Ameet Talwalkar",
+      "Neil Conway"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/determined-ai/",
+    "twitter_url": "https://twitter.com/DeterminedAI",
+    "related_articles": [
+      {
+        "title": "https://www.hpe.com/us/en/newsroom/press-release/2021/06/hewlett-packard-enterprise-acquires-determined-ai-to-accelerate-artificial-intelligence-innovation-with-fast-and-simple-machine-learning-modeling.html",
+        "url": "https://www.hpe.com/us/en/newsroom/press-release/2021/06/hewlett-packard-enterprise-acquires-determined-ai-to-accelerate-artificial-intelligence-innovation-with-fast-and-simple-machine-learning-modeling.html"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17c87495af092407a46_6350df10c11a78f13442cfe3_Determined AI Transparent.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Diagrid",
+    "company_url": "https://www.diagrid.io/",
+    "description": "Diagrid helps developers simplify and de-risk distributed systems.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Mark Fussell",
+      "Yaron Schneider"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/diagrid-inc/",
+    "twitter_url": "https://twitter.com/diagridio",
+    "related_articles": [
+      {
+        "title": "Our Investment in Diagrid",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-diagrid"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17d9f546840cd4ac3f8_6348152a46c9fba5093246ba_Diagrid.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Diffbot",
+    "company_url": "https://www.diffbot.com/",
+    "description": "Diffbot provides knowledge-as-a-service to power intelligent applications.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Mike Tung"
+    ],
+    "founded_year": 2012,
+    "partnered_year": 2016,
+    "linkedin_url": "https://www.linkedin.com/company/diffbot/",
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "This know-it-all AI learns by reading the entire web nonstop",
+        "url": "https://www.technologyreview.com/2020/09/04/1008156/knowledge-graph-ai-reads-web-machine-learning-natural-language-processing/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17df3deed0bc99f5509_6336523d4115e91a82fe9354_Diffbot_Logo.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Dyndrite",
+    "company_url": "https://www.dyndrite.com/",
+    "description": "Dyndrite gives companies the power to deliver the future of digital manufacturing.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Harshil Goel"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/dyndrite/",
+    "twitter_url": "https://twitter.com/Dyndrite",
+    "related_articles": [
+      {
+        "title": "The Next 30 Years of Additive Manufacturing Will Be Defined by Production",
+        "url": "https://www.dyndrite.com/blog/the-next-30-years-of-additive-manufacturing-will-be-defined-by-production"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17dff4139ac1029946d_633652334115e9266bfe92f2_Dyndrite.svg",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Effectful",
+    "company_url": "https://www.effectful.co/",
+    "description": "Effectful provides primitives for building end-to-end applications in TypeScript.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Michael Arnaldi"
+    ],
+    "founded_year": 2023,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/effectfultech/",
+    "twitter_url": "https://twitter.com/EffectfulTech",
+    "related_articles": [
+      {
+        "title": "Our Investment in Effectful",
+        "url": "https://www.amplifypartners.com/blog-posts/effectful"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17eff4139ac102994a4_66202f296ec14cb170b3aaa2_effectful-logo-black.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Einblick",
+    "company_url": "http://www.databricks.com",
+    "description": "Einblick, now part of Databricks, is the fastest and most collaborative way to explore data, create predictions, and deploy data apps.",
+    "sector": "Data and Analytics",
+    "status": "Acquired",
+    "team": [
+      "Tim Kraska",
+      "Emanuel Zgraggen",
+      "Zeyuan Shang",
+      "Philipp Eichmann",
+      "Benedetto Buratti"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/einblick-analytics/",
+    "twitter_url": "https://twitter.com/databricks?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "related_articles": [
+      {
+        "title": "Announcing Our Investment in Einblick",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-our-investment-in-einblick"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17e2e9b2fdeeb2d5354_63365226f798ee5addceea82_einblick_Logo.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Emancro",
+    "company_url": "https://www.emancro.ai/",
+    "description": "Emancro is building robotic system that will initially address dire labor shortages in hospitals’ pharmacies.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Frederik Ebert"
+    ],
+    "founded_year": 2022,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/emancro/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17e5904d5bcbcc1a230_66f432a7af76fd26fb6f336b_64a484a5338b19621fbe4199_emancro-logo.svg",
+    "everywhere_tags": [
+      "Health",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Enlitic",
+    "company_url": "https://www.enlitic.com/",
+    "description": "Enlitic builds AI deep learning products to streamline radiologists' workflows and improve healthcare diagnosis.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Michael Sistenich"
+    ],
+    "founded_year": 2014,
+    "partnered_year": 2014,
+    "linkedin_url": "https://www.linkedin.com/company/enlitic/",
+    "twitter_url": "https://twitter.com/enlitic",
+    "related_articles": [
+      {
+        "title": "Enlitic Closes Series B Funding to Advance Artificial Intelligence Solutions for Radiologists",
+        "url": "https://www.businesswire.com/news/home/20190404005169/en/Enlitic-Closes-Series-B-Funding-to-Advance-Artificial-Intelligence-Solutions-for-Radiologists"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18079d0f53c03af0e0b_65a8055fbc0fa453efd4ab6f_Enlitic-LG-Full-Blue-3C-Small.avif",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Eppo",
+    "company_url": "https://www.geteppo.com/",
+    "description": "Eppo, now part of Datadog, is a next generation A/B experimentation platform.",
+    "sector": "Data and Analytics",
+    "status": "Acquired",
+    "team": [
+      "Chetan Sharma"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/geteppo/",
+    "twitter_url": "https://twitter.com/get_eppo",
+    "related_articles": [
+      {
+        "title": "Our Investment in Eppo",
+        "url": "https://www.amplifypartners.com/blog-posts/eppo"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17f2e9b2fdeeb2d540d_65a805954da1b8db0ac8e441_636372bad5bc30a49ee3b9ec_new-logo.avif",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "exe.dev",
+    "company_url": "https://exe.dev/",
+    "description": "Exe.dev is building a new generation of cloud infrastructure for developers and their agents.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "David Crawshaw",
+      "Josh Bleecher-Snyder"
+    ],
+    "founded_year": null,
+    "partnered_year": 2026,
+    "linkedin_url": "https://www.linkedin.com/company/ssh-exe-dev/",
+    "twitter_url": "https://x.com/ssh_exe_dev",
+    "related_articles": [
+      {
+        "title": "exe.dev and the perfect little computer",
+        "url": "https://www.amplifypartners.com/blog-posts/exe-dev-and-the-perfect-little-computer"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a2fded2c3d58ab224afcb26_exy.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Fastly",
+    "company_url": "https://www.fastly.com/",
+    "description": "Fastly is the world’s fastest global edge cloud network to develop, deliver, and secure digital experiences.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "IPO",
+    "team": [
+      "Artur Bergman"
+    ],
+    "founded_year": 2011,
+    "partnered_year": 2012,
+    "linkedin_url": "https://www.linkedin.com/company/fastly/",
+    "twitter_url": "https://twitter.com/fastly?_fsi=izINEvBR",
+    "related_articles": [
+      {
+        "title": "Congratulations Fastly! Reflecting on Seed to IPO",
+        "url": "https://www.amplifypartners.com/blog-posts/congratulations-fastly-reflecting-on-seed-to-ipo"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed180d4a3798fc70aec0d_63363e8032b68b79ed5e0f5e_fastly.svg",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Fermyon",
+    "company_url": "https://www.fermyon.com/",
+    "description": "Fermyon, now part of Akamai, created the first cloud-native WebAssembly PaaS that lets developers build better microservices faster.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Matt Butcher",
+      "Radu Matei"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/fermyon/?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+    "twitter_url": "https://twitter.com/fermyontech/",
+    "related_articles": [
+      {
+        "title": "Our Seed Investment in Fermyon",
+        "url": "https://www.amplifypartners.com/blog-posts/our-seed-investment-in-fermyon"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed17f9f546840cd4ac4ff_633651fa5add9a299cc10d7d_fermyon.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Fivetran (dbt)",
+    "company_url": "https://www.getdbt.com/",
+    "description": "Amplify was the first investor in dbt Labs, a pioneer of the analytics engineer and wildly popular open source dbt package. In 2026, dbt Labs merged with Fivetran. The combined company serves more than 100K data teams globally.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Tristan Handy",
+      "Drew Banin",
+      "Connor McArthur"
+    ],
+    "founded_year": null,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/dbtlabs/",
+    "twitter_url": "https://twitter.com/getdbt",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/fivetran.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Flux",
+    "company_url": "https://beamery.com/home/",
+    "description": "Flux, now part of Beamery, is an internal mobility platform that connects open work opportunities with best-fit internal talent.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Max Goodberg",
+      "Nick Ionita"
+    ],
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "Beamery Acquires Flux",
+        "url": "https://beamery.com/resources/news/beamery-acquires-flux"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed180ce9dda385e902c75_633651f04115e9870cfe8bf0_Flux.svg",
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Foxglove",
+    "company_url": "https://foxglove.dev/",
+    "description": "Foxglove is a visualization and debugging platform designed to accelerate robotics development.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Adrian Macneil",
+      "Roman Shtylman"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/foxglovedev/",
+    "twitter_url": "https://twitter.com/foxglovedev",
+    "related_articles": [
+      {
+        "title": "Foxglove Raises $3.7M to Build Better Developer Tools For Robotics",
+        "url": "https://foxglove.dev/blog/foxglove-raises-seed-funding-3.7M"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/692efef2909f70538d8ffa14_foxglove_logo.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Gallop",
+    "company_url": "https://www.higallop.com/",
+    "description": "Gallop allows developers to easily access NFT data, analytics, and insights.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Louis Lamoureux",
+      "Tim Schuermer"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/HiGallop",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed181138b8d02bcfac1aa_633651df4115e9dddbfe8b4d_Gallop.svg",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Goldsky",
+    "company_url": "https://goldsky.com/",
+    "description": "Goldsky provides real-time, high performance indexing via subgraphs and data replication pipelines.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Kevin Li",
+      "Jeff Ling"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/76612907",
+    "twitter_url": "https://twitter.com/goldskyio",
+    "related_articles": [
+      {
+        "title": "Goldsky raises $20M to bring real-time, on-chain data to crypto companies",
+        "url": "https://techcrunch.com/2022/09/13/goldsky-crypto-data-infrastructure-blockchain-startup-funding/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18115e15addeb6498f1_6525a6df4fe6690a5a6885cc_svg-combomark-color-dark.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Gorgias",
+    "company_url": "https://www.gorgias.com/",
+    "description": "Gorgias is the #1 rated helpdesk for ecommerce merchants.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Romain Lapeyre",
+      "Alex Plugaru"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "linkedin_url": "https://www.linkedin.com/company/gorgias/",
+    "twitter_url": "https://twitter.com/gorgiasio",
+    "related_articles": [
+      {
+        "title": "Gorgias’ $30 Million Series C and the Future of Customer Experience for Online Stores",
+        "url": "https://www.gorgias.com/blog/series-c"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1819f546840cd4ac5db_633651cf32b68be3c15ef842_Gorgias.svg",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Gradium",
+    "company_url": "https://gradium.ai/",
+    "description": "Gradium builds the technological backbone, models and infrastructure, to support all voice applications.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Neil Zeghidour",
+      "Laurent Mazare",
+      "Alexandre Défossez",
+      "Olivier Teboul"
+    ],
+    "founded_year": 2025,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/gradium-ai/",
+    "twitter_url": "https://x.com/GradiumAI",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/692f0117d8694197edf543ee_LOGO_GRADIUM.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Gremlin",
+    "company_url": "https://www.gremlin.com/",
+    "description": "Gremlin is the leading Chaos Engineering platform helping companies improve resilience and reduce downtime",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Josh Leslie",
+      "Kolton Andrus",
+      "Matthew Fornaciari"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/GremlinInc",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1818d4fd6f40d80acbc_65a806888ee59172b8763340_gremlin-logo-dark.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Hex",
+    "company_url": "http://hex.tech",
+    "description": "Hex is a collaborative data software platform for data teams.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Barry McCardel",
+      "Caitlin Colgrove",
+      "Glen Takahashi"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/hex-technologies/",
+    "twitter_url": "https://twitter.com/_hex_tech",
+    "related_articles": [
+      {
+        "title": "Announcing Our Investment in Hex",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-our-investment-in-hex"
+      },
+      {
+        "title": "Hex Raises $52 Million Series B",
+        "url": "https://www.prnewswire.com/news-releases/hex-raises-52-million-series-b-led-by-andreessen-horowitz-to-build-the-future-of-collaborative-analytics-and-data-science-301507312.html"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/692eff64641ea1dde2216608_svgexport-3.svg",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Hightouch",
+    "company_url": "https://hightouch.com/",
+    "description": "Hightouch is the Agentic Marketing Platform that marketing teams use to turn customer data into AI-driven campaigns.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Tejas Manohar",
+      "Kashish Gupta",
+      "Josh Curl"
+    ],
+    "founded_year": 2018,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/hightouchio/",
+    "twitter_url": "https://twitter.com/HightouchData",
+    "related_articles": [
+      {
+        "title": "Announcing Our Seed",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-our-investment-in-hightouch"
+      },
+      {
+        "title": "Hightouch Closes $40M Series B to Make Data Actionable",
+        "url": "https://www.prnewswire.com/news-releases/hightouch-closes-40m-series-b-to-make-data-actionable-increases-valuation-to-450m-301426831.html"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/692eff428d54856554d78c11_svgexport-1.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Inception",
+    "company_url": "https://www.inceptionlabs.ai/",
+    "description": "Inception’s breakthrough diffusion-based approach to language generation enables the world’s fastest, most efficient AI models with best-in-class quality.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Stefano Ermon",
+      "Volodymyr Kuleshov",
+      "Aditya Grover"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/inception-labs-ai/",
+    "twitter_url": "https://x.com/_inception_ai",
+    "related_articles": [
+      {
+        "title": "Introducing Mercury, the World’s First Commercial-Scale Diffusion Large Language Model",
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a3d3f90671efd3311e9755d_Framer Wordmark Black.svg",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Inevitable",
+    "company_url": "https://inevitabletech.com/",
+    "description": "Inevitable Tech invents and builds advanced growing systems using AI, plant science and automation",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "David Lee (CEO)"
+    ],
+    "founded_year": 2015,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/inevitable-tech/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1826fd30b4b582120d6_6470efe9fe67a729be7b9e5f_logo.svg",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Infinitopes",
+    "company_url": "https://www.infinitopes.com/",
+    "description": "Infinitopes’s AI/ML pipeline allows them to accurately discover the most effective tumor antigens, which they deliver in off-the-shelf vaccines aimed at preventing cancer recurrence.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Dr. Jonathan Kwok",
+      "Dr. Lian Ni Lee",
+      "Dr. Senthil Chinnakannan"
+    ],
+    "founded_year": 2021,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/infinitopes/",
+    "twitter_url": "https://x.com/Infinitopes_PI",
+    "related_articles": [
+      {
+        "title": "Can we vaccinate against cancer?",
+        "url": "https://features.cancerresearchuk.org/Progress2025/canwevaccinateagainstcancer/"
+      },
+      {
+        "title": "Saving lives with precision cancer immunotherapy",
+        "url": "https://iuk-business-connect.org.uk/casestudy/saving-lives-with-precision-cancer-immunotherapy/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/69737ea8864e5b0ffdfe42dc_Infinitopes Logo - Positive Landscape CMYK.svg",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Integris Software",
+    "company_url": "https://www.onetrust.com/",
+    "description": "Integris (acquired by OneTrust DataDiscovery) provides data discovery and classification technology, all powered by AI.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Kristina Bergman",
+      "Uma Raghavan",
+      "Raghu Gollamudi"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2016,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "OneTrust Enhances Data Discovery Capabilities with Acquisition of Integris Software",
+        "url": "https://www.onetrust.com/news/onetrust-enhances-data-discovery-capabilities-with-acquisition-of-integris-software/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed182f6609d5b90ef134f_633650d9a9242eb779160e39_Integris.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Intellimize",
+    "company_url": "https://www.intellimize.com/",
+    "description": "Intelimize, now part of Webflow, is a platform that uses AI to optimize for 1:1 personalized website experiences.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Guy Yalif",
+      "Brian Webb",
+      "Jin Lim"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/intellimize/",
+    "twitter_url": "https://twitter.com/intellimize",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18315e15addeb649981_633651c632b68b466d5ef80c_Intellimize Transparent-01.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "InterVenn",
+    "company_url": "https://intervenn.com/",
+    "description": "InterVenn has developed the first commercially available platform to exponentially improve the speed, scope, and scale of glycoproteomics.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Joshua Stahl",
+      "Carolyn Bertozzi, Ph.D.",
+      "Carlito Lebrilla, Ph.D."
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2018,
+    "linkedin_url": "https://www.linkedin.com/company/intervenn/",
+    "twitter_url": "https://twitter.com/vennbio?lang=en",
+    "related_articles": [
+      {
+        "title": "Announcing InterVenn BioSciences",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-intervenn-biosciences"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed183c5490e5100f57b94_65a806c821005316539368aa_intervenn-logo-full.svg",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Lamini",
+    "company_url": "https://www.lamini.ai/",
+    "description": "Lamini enables every enterprise to safely, quickly, and cost-effectively build their own Expert AI.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Sharon Zhou, PhD",
+      "Greg Diamos"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2023,
+    "linkedin_url": "https://www.linkedin.com/company/lamini-ai/",
+    "twitter_url": "https://twitter.com/LaminiAI",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1834948de7118cb5ed5_663404e7c8805505564ec33c_ba2fb9c5-c701-4ee1-a940-2046a9978ec3-1687297870790.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "LangChain",
+    "company_url": "https://www.langchain.com/",
+    "description": "LangChain is the platform developers and enterprises choose to build AI apps from prototype to production.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Harrison Chase",
+      "Ankush Gola"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/langchain/",
+    "twitter_url": "https://twitter.com/LangChainAI",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/6a354b98762ae276d777f5b5_langchain.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "LightCyber",
+    "company_url": "https://www.paloaltonetworks.com/",
+    "description": "LightCyber, now part of Palo Alto Networks, provides highly automated and accurate behavioral analytics technology.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Giora Engel",
+      "Michael Mumcuoglu"
+    ],
+    "founded_year": 2011,
+    "partnered_year": 2014,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/PaloAltoNtwks",
+    "related_articles": [
+      {
+        "title": "LightCyber Joins Palo Alto Networks",
+        "url": "https://www.paloaltonetworks.com/blog/2017/02/lightcyber-joins-palo-alto-networks/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed184257aa316f18727fd_635067492347dc52412bcce2_diagrid.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Luma AI",
+    "company_url": "https://lumalabs.ai/",
+    "description": "Luma AI is enables everyone to capture and experience the world in 3D.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Amit Jain",
+      "Alex Yu"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/luma-ai/",
+    "twitter_url": "https://twitter.com/LumaLabsAI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18415e15addeb649aef_648c9874b915ac15425e8f36_Luma Transparent.avif",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Mabl",
+    "company_url": "https://www.mabl.com/",
+    "description": "mabl is the enterprise SaaS leader of intelligent test automation for quality engineering.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Dan Belcher",
+      "Izzy Azeri"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/mabl/",
+    "twitter_url": "https://twitter.com/mablhq",
+    "related_articles": [
+      {
+        "title": "Welcoming mabl to the Amplify family",
+        "url": "https://www.amplifypartners.com/blog-posts/welcoming-mabl-to-the-amplify-family"
+      },
+      {
+        "title": "$40M Series C Fuels Next Stage of Growth",
+        "url": "https://www.mabl.com/blog/40m-series-c-fuels-next-stage-of-growth-mabl"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed184bc8b1fba73177f4a_63365120566e8019c258a5fd_Mabl_Transparent-removebg-preview.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Magic",
+    "company_url": "https://magic.dev/",
+    "description": "Magic is building a true AI colleague for software engineering.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Eric Steinberger",
+      "Sebastian De Ro"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/magicailabs/",
+    "twitter_url": "https://twitter.com/magicailabs",
+    "related_articles": [
+      {
+        "title": "Magic’s $23M Series A",
+        "url": "https://magic.dev/blog/series-a"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed185b07bfb98dfd12873_63e3e78f78383eef37dae67a_Magic Logo-01.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Manifold",
+    "company_url": "https://snyk.io/",
+    "description": "Manifold, now part of Snyk, allows you to discover, buy, and manage the best developer services for your application.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Jevon MacDonald",
+      "Matt Creager"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2017,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18577a9f7af11135da2_63365118effc6a7776ff0fa7_manifold.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Material Security",
+    "company_url": "https://material.security/",
+    "description": "Material Security develops data-driven security software to protect an organization's users and data.",
+    "sector": "Cybersecurity",
+    "status": "Active",
+    "team": [
+      "Ryan Noon",
+      "Abhishek Agrawal",
+      "Chris Park"
+    ],
+    "founded_year": 2017,
+    "partnered_year": null,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/material_sec",
+    "related_articles": [
+      {
+        "title": "Material Security Reaches $1.1 Billion Valuation for ‘Zero Trust’ Security on Microsoft and Google Email",
+        "url": "https://www.businesswire.com/news/home/20220511005584/en/Material-Security-Reaches-1.1-Billion-Valuation-for-%E2%80%98Zero-Trust%E2%80%99-Security-on-Microsoft-and-Google-Email"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed185c005ae3740aed81f_65a80752dad18aba8f6a3f76_8bb15ae4-ae79-48e4-8b45-5b430f7a8fe9.avif",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Maze",
+    "company_url": "https://maze.co/",
+    "description": "Maze is empowering modern teams to build better user experiences by testing and learning rapidly with real users.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Jonathan Widawski",
+      "Thomas Mary"
+    ],
+    "founded_year": 2018,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/mazedesign/?originalSubdomain=fr",
+    "twitter_url": "https://twitter.com/mazedesignhq",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/692effe619579e0bbe3da5a8_svgexport-1 (1).svg",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Meroxa",
+    "company_url": "https://meroxa.com/",
+    "description": "Meroxa is a data streaming platform designed to create a real-time data infrastructure.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "DeVaris Brown",
+      "Ali Hamidi"
+    ],
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/meroxa/",
+    "twitter_url": "https://twitter.com/meroxadata",
+    "related_articles": [
+      {
+        "title": "Our Series A Investment in Meroxa",
+        "url": "https://www.amplifypartners.com/blog-posts/our-series-a-investment-in-meroxa"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1855378b7b440e48821_63365105f705d82e1410394c_meroxa-logo.svg",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Metaphor",
+    "company_url": "https://metaphor.io/",
+    "description": "Metaphor, now part of KPMG, is a search and discovery tool built for data scientists, data engineers, and AI practitioners.",
+    "sector": "Data and Analytics",
+    "status": "Acquired",
+    "team": [
+      "Pardhu Gunnam",
+      "Mars Lan",
+      "Seyi Adebajo"
+    ],
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/metaphor-data/",
+    "twitter_url": "https://twitter.com/metaphordata?lang=en",
+    "related_articles": [
+      {
+        "title": "Our Investment in Metaphor Data",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-metaphor-data"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed186d79e341aa531feae_633650fd7172a173b66f3b23_Metaphor.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Minerva Labs",
+    "company_url": "https://minerva-labs.com/",
+    "description": "Minerva is the most effective anti-ransomware solution.",
+    "sector": "Cybersecurity",
+    "status": "Acquired",
+    "team": [
+      "Eddy Bobritsky",
+      "Erez Breiman",
+      "Omri Moyal"
+    ],
+    "founded_year": 2014,
+    "partnered_year": 2016,
+    "linkedin_url": "https://www.linkedin.com/company/minerva-labs/?originalSubdomain=il",
+    "twitter_url": "https://twitter.com/MinervaLabs",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18634808eee312dc6a5_633650f31ad73f4b13088f3c_Minerva Labs.svg",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Modal",
+    "company_url": "https://modal.com/",
+    "description": "Modal builds better infrastructure for data engineers and data scientists, and is the fastest way to run code in the cloud.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Erik Bernhardsson",
+      "Akshat Bubna"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/modal-labs/about/",
+    "twitter_url": "https://twitter.com/modal_labs",
+    "related_articles": [
+      {
+        "title": "How Modal built a data cloud from the ground up",
+        "url": "https://www.amplifypartners.com/blog-posts/how-modal-built-a-data-cloud-from-the-ground-up"
+      },
+      {
+        "title": "Our Investment in Erik and Akshat",
+        "url": "https://www.amplifypartners.com/blog-posts/modal"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed185f3deed0bc99f58cd_67dd8306cb9df19aae9b96d3_Modal-Logo-Dark.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Moonbounce",
+    "company_url": "https://moonbounce.io/",
+    "description": "The Moonbounce patented AI control engine closes the gap between intention and outcome, giving teams the real-time insight and nuanced control they need to create with conviction at any scale.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Brett Levenson",
+      "Ash Bharadwaj"
+    ],
+    "founded_year": 2024,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/moonbounceio/",
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "The Facebook insider building content moderation for the AI era",
+        "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/69cea13273789c35f3d67436_Moonbounce_Hero_Lockup_TM_Black.svg",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "MotherDuck",
+    "company_url": "https://motherduck.com/",
+    "description": "MotherDuck is a builder of a serverless, easy to use data analytics platform based on open source database DuckDB.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Jordan Tigani",
+      "Tino Tereshko",
+      "Leila Horejsi",
+      "Ryan Boyd"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/motherduck/",
+    "twitter_url": "https://twitter.com/motherduckdb",
+    "related_articles": [
+      {
+        "title": "Our Investment in MotherDuck",
+        "url": "https://www.amplifypartners.com/blog-posts/motherduck"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed186138b8d02bcfac336_6373b6ed23d4aa9d0ec4877a_221111_MotherDuck_Logo_1 (1).svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Motif Analytics",
+    "company_url": "https://www.motifanalytics.com/",
+    "description": "Motif Analytics is an analytics product tailored to answer complex business questions through analyzing event sequences.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Mikhail Panko",
+      "Theron Ji"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/motifanalytics/",
+    "twitter_url": "https://twitter.com/MotifAnalytics",
+    "related_articles": [
+      {
+        "title": "Motif Analytics Emerges from Private Beta with $5.7M Seed",
+        "url": "https://www.motifanalytics.com/posts/motif-analytics-press-release-feb-2024"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18677a9f7af11135f9f_65ca85cb40ed44a24e4aea14_658507f045bf93a367726a4e_Dark_Motif_Logo.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Near",
+    "company_url": "https://near.org/",
+    "description": "Near is a blockchain built to be simple, secure, and scalable.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Crypto",
+    "team": [
+      "Alexander Skidanov",
+      "Illia Polosukhin"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": "https://www.linkedin.com/company/near-protocol-project/",
+    "twitter_url": "https://twitter.com/nearprotocol",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed187d79e341aa531ff3c_65a80785fa4d8f984ea4d61f_near-logo.1416a213.svg",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "OctoAI",
+    "company_url": "https://octo.ai/",
+    "description": "OctoAI helps developers run, tune, and scale generative AI in the cloud.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Luis Ceze",
+      "Jason Knight",
+      "Jared Roesch",
+      "Tianqi Chen",
+      "Thierry Moreau"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/octoml/",
+    "twitter_url": "https://twitter.com/octoml",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18734808eee312dc71c_65a807a7e1955716f0fe50d5_1704222289-octoai_logo_light.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Outerbounds",
+    "company_url": "https://outerbounds.com/",
+    "description": "Outerbounds allows you to design and develop ML and data applications easily with open-source Metaflow.",
+    "sector": "Data and Analytics",
+    "status": "Active",
+    "team": [
+      "Ville Tuulos",
+      "Savin Goyal",
+      "Oleg Avdeëv"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/outerbounds/",
+    "twitter_url": "https://twitter.com/outerboundshq",
+    "related_articles": [
+      {
+        "title": "Our Investment in Outerbounds",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-outerbounds"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1879702cab0bb9ef1d6_63dae202b75bba72cebc0617_Outerbounds-logo-highres-BLACK.avif",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Parrot",
+    "company_url": "https://www.parrot.us/",
+    "description": "Parrot, now part of Filevine, is an AI-powered remote deposition platform that helps attorneys improve and accelerate outcomes.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Acquired",
+    "team": [
+      "Aaron O'Brien",
+      "Eric Baum"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2023,
+    "linkedin_url": "https://www.linkedin.com/company/parrot-us/",
+    "twitter_url": "https://twitter.com/parrot_us",
+    "related_articles": [
+      {
+        "title": "Parrot in TechCrunch",
+        "url": "https://techcrunch.com/2023/06/20/parrot-ai-a-transcription-platform-that-turns-speech-into-text-raises-11m-series-a/"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed188b4c3114f43fe3eb9_66030aad1a759d7f6cd95f47_logo long transparent.svg",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "PicnicHealth",
+    "company_url": "https://picnichealth.com/",
+    "description": "PicnicHealth unites clinical expertise, deep patient connections, and cutting-edge technology to empower health.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Noga Leviner",
+      "Troy Astorino"
+    ],
+    "founded_year": 2014,
+    "partnered_year": 2018,
+    "linkedin_url": "https://www.linkedin.com/company/picnichealth/",
+    "twitter_url": "https://twitter.com/PicnicHealth",
+    "related_articles": [
+      {
+        "title": "Announcing Our Investment in PicnicHealth",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-our-investment-in-picnichealth"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed188ee1b984e7f7a233d_6336507ef705d842ca103463_picnic-color.svg",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Polly",
+    "company_url": "https://www.polly.ai/",
+    "description": "Polly is an engagement app purpose-built for Slack, Microsoft Teams, and Zoom.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Samir Diwan",
+      "Bilal Aijazi"
+    ],
+    "founded_year": 2015,
+    "partnered_year": 2016,
+    "linkedin_url": "https://www.linkedin.com/company/polly.ai/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed188e59ad6881868e4c7_633650731ad73f1b4d088c47_Polly.svg",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "PostgresML",
+    "company_url": "https://postgresml.org/",
+    "description": "PostgresML is an open source Postgres based platform for your interactive AI powered applications",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Montana Low",
+      "Lev Kokotov"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/postgresml",
+    "related_articles": [
+      {
+        "title": "Our Investment in PostgresML",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-postgresml"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed188bee7dc598e31800c_645bbf0698f81906207fd894_logo.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Primer",
+    "company_url": "https://primer.ai/",
+    "description": "Primer lets organizations quickly explore and utilize the world's exponentially growing sources of text-based information.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Sean Gourley"
+    ],
+    "founded_year": 2015,
+    "partnered_year": 2015,
+    "linkedin_url": "https://www.linkedin.com/company/primer-ai/",
+    "twitter_url": "https://twitter.com/primer_ai",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1888d4fd6f40d80afcc_633650696a6d11337d49e1b3_Primer-logo_Final.svg",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Prisma",
+    "company_url": "https://www.prisma.io/",
+    "description": "Prisma is building the data layer for modern applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Johannes Schickling"
+    ],
+    "founded_year": 2016,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/prisma-io/",
+    "twitter_url": "https://twitter.com/prisma",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed189ee1b984e7f7a244b_6336505d822f044a1b70a02f_Prisma Transparent.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Reactor",
+    "company_url": "https://www.reactor.inc/",
+    "description": "Reactor is building the developer platform for real-time world models.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Alberto Taiuti",
+      "Bryce Schmidtchen"
+    ],
+    "founded_year": null,
+    "partnered_year": 2025,
+    "linkedin_url": "https://www.linkedin.com/company/reactor-world/",
+    "twitter_url": "https://x.com/reactorworld",
+    "related_articles": [
+      {
+        "title": "Introducing Reactor: The Developer Platform for World Models",
+        "url": "https://www.reactor.inc/blog/reactor-launch"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a3bc63d5a09a48c97597e16_reactor.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "ReadySet",
+    "company_url": "https://readyset.io/",
+    "description": "ReadySet is a SQL caching engine that helps developers build performant, real-time applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Alana Marzoev",
+      "Jon Gjengset"
+    ],
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/readysettech/",
+    "twitter_url": null,
+    "related_articles": [
+      {
+        "title": "Our Investment in ReadySet",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-readyset"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed1895904d5bcbcc1ac02_63365052a9384f4f18d65bcc_ReadySet.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Recursion",
+    "company_url": "https://www.recursion.com/",
+    "description": "Recursion is decoding biology to industrialize drug discovery.",
+    "sector": "Digital Biology",
+    "status": "IPO",
+    "team": [
+      "Blake Borgeson",
+      "Chris Gibson",
+      "Dean Li"
+    ],
+    "founded_year": 2013,
+    "partnered_year": 2016,
+    "linkedin_url": "https://www.linkedin.com/company/recursion-pharmaceuticals/",
+    "twitter_url": "https://twitter.com/recursionpharma",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18914e9b0b83cada74a_633650499a019c137705f2b3_Recursion.svg",
+    "everywhere_tags": [
+      "BioTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Replicated",
+    "company_url": "https://www.replicated.com/",
+    "description": "Replicated is a container-based platform for deploying cloud native applications inside customers'​ environments.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Grant Miller",
+      "Marc Campbell"
+    ],
+    "founded_year": 2014,
+    "partnered_year": 2016,
+    "linkedin_url": "https://www.linkedin.com/company/replicated/",
+    "twitter_url": "https://twitter.com/replicatedhq",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed189b07bfb98dfd12a30_633655d50ab1d6dd7bcefb11_replicated-logo-red 1.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Runway",
+    "company_url": "https://runwayml.com/",
+    "description": "Runway is a next generation video editing solution powered by machine learning.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Cristóbal Valenzuela",
+      "Anastasis Germanidis",
+      "Alejandro Matamala"
+    ],
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "linkedin_url": "https://www.linkedin.com/company/runwayml/",
+    "twitter_url": "https://twitter.com/runwayml",
+    "related_articles": [
+      {
+        "title": "Our Series A Investment in Runway",
+        "url": "https://www.amplifypartners.com/blog-posts/our-series-a-investment-in-runway"
+      },
+      {
+        "title": "The infrastructure behind Runway Characters",
+        "url": "/blog-posts/the-infrastructure-behind-runway-characters"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18945d4733c1b253492_633650351ad73fe584088b9d_Runway.svg",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Scribe",
+    "company_url": "https://scribe.com/",
+    "description": "Scribe instantly captures how your business actually works, giving your teams & AI agents the context they need to do their best work.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Jennifer Smith",
+      "Aaron Podolny"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/scribehow/",
+    "twitter_url": "https://mobile.twitter.com/ScribeHow",
+    "related_articles": [
+      {
+        "title": "Our Investment in Scribe",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-scribe"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a345acacfb33504418f49d9_Scribe Logo_Black.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "SiMa",
+    "company_url": "https://sima.ai/",
+    "description": "SiMa.ai is delivering the industry’s first software-centric, purpose-built MLSoC platform.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Krishna Rangasayee"
+    ],
+    "founded_year": 2018,
+    "partnered_year": 2018,
+    "linkedin_url": "https://www.linkedin.com/company/sima-ai/",
+    "twitter_url": "https://twitter.com/sima_inc?lang=en",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18a77a9f7af11136171_6336501d7172a1b3636f3547_SimaAI.svg",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Sonera",
+    "company_url": "https://www.sonera.io/",
+    "description": "Sonera is developing high-performance neural sensing technology for human-machine interfaces.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Nishita Deka",
+      "Dominic Labanowski"
+    ],
+    "founded_year": 2018,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/sonera-mag",
+    "twitter_url": "https://twitter.com/SoneraMagnetics",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18bbc8b1fba731782e8_6514b603773f8233fd552b7b_Violet Logo (1).avif",
+    "everywhere_tags": [],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Sourcegraph",
+    "company_url": "https://about.sourcegraph.com/",
+    "description": "Sourcegraph is a code intelligence platform to help you understand, fix, and automate across all your code.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Quinn Slack",
+      "Beyang Liu"
+    ],
+    "founded_year": 2013,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/sourcegraph/",
+    "twitter_url": "https://twitter.com/sourcegraph",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18b9702cab0bb9ef31d_633650156a6d11a13749e0dc_sourcegraph.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Spiral",
+    "company_url": "https://spiraldb.com/",
+    "description": "Spiral is the multimodal data platform for frontier AI. Every modality, machine-scale throughput.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Will Manning",
+      "Nicholas Gates",
+      "Robert Kruszewski"
+    ],
+    "founded_year": null,
+    "partnered_year": 2023,
+    "linkedin_url": "https://www.linkedin.com/company/spiraldb/",
+    "twitter_url": "https://x.com/SpiralDB",
+    "related_articles": [
+      {
+        "title": "Announcing Spiral",
+        "url": "https://spiraldb.com/blog/announcing-spiral"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/6a3bc8aa4570c83c2c44cd5c_spiral_logo (1).svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "StackRox",
+    "company_url": null,
+    "description": "Stackrox, now part of Red Hat, is a Kubernetes-native container security platform.",
+    "sector": "Cybersecurity",
+    "status": "Acquired",
+    "team": [
+      "Kamal Shah",
+      "Sameer Bhalotra",
+      "Ali Golshan"
+    ],
+    "founded_year": 2015,
+    "partnered_year": 2015,
+    "linkedin_url": null,
+    "twitter_url": "http://stackrox.com",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18b77a9f7af111361be_63365009f798ee0211ced3a3_StackRox_Wordmark.svg",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Suborbital",
+    "company_url": "https://suborbital.dev/",
+    "description": "Suborbital creates web services in an entirely new way, taking advantage of cloud native WebAssembly's capabilities.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Connor Hicks"
+    ],
+    "founded_year": 2021,
+    "partnered_year": 2021,
+    "linkedin_url": "https://www.linkedin.com/company/suborbital-software-systems/about/",
+    "twitter_url": "https://twitter.com/SuborbitalDev",
+    "related_articles": [
+      {
+        "title": "Announcing Our Seed Investment in Suborbital",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-our-seed-investment-in-suborbital"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18b79d0f53c03af1980_633d0449191b155ad35dd9f6_suborbital-banner-light.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Superlogical",
+    "company_url": "https://superlogical.com/",
+    "description": "Superlogical is building the multiplexer for all work.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Mitchell Hashimoto",
+      "Jack Pearkes",
+      "Alasdair Monk",
+      "Hector Simpson"
+    ],
+    "founded_year": 2026,
+    "partnered_year": 2026,
+    "linkedin_url": "https://www.linkedin.com/company/superlogical/",
+    "twitter_url": "https://x.com/superlogical",
+    "related_articles": [
+      {
+        "title": "Announcing Our Investment in Superlogical",
+        "url": "https://www.amplifypartners.com/blog-posts/announcing-our-investment-in-superlogical"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/superlogical-logo-vector.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Suplari",
+    "company_url": "https://suplari.com/",
+    "description": "Suplari, acquired by Microsoft, provides supplier spend insights that enable companies to proactively manage supplier spend.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Nikesh Parekh",
+      "Jeff Gerber",
+      "Brian White"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2017,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18b30829777ae066344_63364ff0f705d86b0b1026ea_Suplari_Logo.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Sym",
+    "company_url": "https://symops.com/",
+    "description": "Sym is an intelligent approvals-as-code platform for developers.",
+    "sector": "Cybersecurity",
+    "status": "Active",
+    "team": [
+      "Jonathan Bass",
+      "Adam Buggia"
+    ],
+    "founded_year": 2020,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/symops/",
+    "twitter_url": "https://twitter.com/symops",
+    "related_articles": [
+      {
+        "title": "Our Series A Investment in Sym",
+        "url": "https://www.amplifypartners.com/blog-posts/our-series-a-investment-in-sym"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18b9f546840cd4acb31_63364fe647356d69f703efce_Sym.svg",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "System Initiative",
+    "company_url": "https://www.systeminit.com/",
+    "description": "System Initiative is a collaborative power tool designed to remove the papercuts from DevOps work.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Adam Jacob",
+      "Mahir Lupinacci"
+    ],
+    "founded_year": 2019,
+    "partnered_year": 2019,
+    "linkedin_url": "https://www.linkedin.com/company/system-initiative/",
+    "twitter_url": "https://twitter.com/thesysteminit",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18cd4a3798fc70af182_64931a87f3a7c0d174f0b744_SI-Logotype-Pref-Pos-RGB.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Tahoe Therapeutics",
+    "company_url": "https://www.tahoebio.ai/about",
+    "description": "Tahoe maps how chemistry perturbs biology to build a virtual model of the human cell.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Hani Goodarzi",
+      "Kevan Shokhat",
+      "Johnny Yu",
+      "Nima Alidoust"
+    ],
+    "founded_year": null,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/tahoe-therapeutics/",
+    "twitter_url": "https://x.com/tahoe_ai",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/6825f550c46cbf3cd0ac5dad_tahoe.svg",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Temporal",
+    "company_url": "https://temporal.io/",
+    "description": "Temporal enables developers to write highly reliable and scalable applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Maxim Fateev",
+      "Samar Abbas"
+    ],
+    "founded_year": null,
+    "partnered_year": 2020,
+    "linkedin_url": "https://www.linkedin.com/company/temporal-technologies/",
+    "twitter_url": "https://twitter.com/temporalio",
+    "related_articles": [
+      {
+        "title": "Our Investment in Temporal",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-temporal"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18cff4139ac102999bd_6331ce21c41b20ca517a03a9_Temporal .svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "TigerBeetle",
+    "company_url": "https://tigerbeetle.com/",
+    "description": "TigerBeetle is the financial transactions database designed for mission critical safety and performance.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Joran Greef"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/tigerbeetle/",
+    "twitter_url": "https://twitter.com/TigerBeetleDB?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "related_articles": [
+      {
+        "title": "Our Investment in TigerBeetle",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-tigerbeetle"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18c5b46e54492414126_63d84a38402eb039e9e5cfcf_tb-logo.svg",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "tldraw",
+    "company_url": "http://tldraw.dev/",
+    "description": "The tldraw SDK provides a complete canvas experience as a React component.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Steve Ruiz"
+    ],
+    "founded_year": 2022,
+    "partnered_year": null,
+    "linkedin_url": "https://www.linkedin.com/company/tldraw/",
+    "twitter_url": "https://x.com/tldraw",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/68434f0102eee0057b9ca45d_tldraw_lockup_black@2x.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Tracelytics",
+    "company_url": "https://www.appneta.com/",
+    "description": "Tracelytics, acquired by AppNeta, provides performance analysis and diagnostic service for web applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Spiros Eliopoulos",
+      "Chris Erway",
+      "Dan Kuebrich"
+    ],
+    "founded_year": 2012,
+    "partnered_year": 2012,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18c1750f1d72c760a58_6350166c91e8448dc59e16a8_Tracelytics.avif",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Unblocked",
+    "company_url": "https://getunblocked.com/",
+    "description": "Unblocked helps answer questions software development teams have about their applications.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Active",
+    "team": [
+      "Dennis Pilarinos"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/getunblocked/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18cff4139ac102999fa_6696e0bcb6d10e5f888fbc90_Unblocked-logo-with-text-coloured.avif",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Useful Sensors",
+    "company_url": "https://usefulsensors.com/",
+    "description": "Useful sensors uses AI and machine learning to improve peoples’ everyday lives through smarter interfaces.",
+    "sector": "Machine Learning and Artificial Intelligence",
+    "status": "Active",
+    "team": [
+      "Pete Warden",
+      "Manjunath Kudlur"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": null,
+    "twitter_url": "https://twitter.com/usefulsensors",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18d77a9f7af111362b1_65a80890bec50aeffd907fea_useful-sensors-logo-color-2.avif",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Vera",
+    "company_url": "http://www.helpsystems.com",
+    "description": "Vera, aquired by HelpSystems, enables organizations to secure, track, and revoke access to confidential data, across any platform or device.",
+    "sector": "Cybersecurity",
+    "status": "Acquired",
+    "team": [
+      "Ajay Arora",
+      "Prakash Linga"
+    ],
+    "founded_year": null,
+    "partnered_year": null,
+    "linkedin_url": null,
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18d5904d5bcbcc1b0c4_63364f6847356d574e03ed02_Vera Logo.svg",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "VeriSIM Life",
+    "company_url": "https://www.verisimlife.com/",
+    "description": "VeriSIM Life is building AI enabled biosimulation models.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Jo Varshney DVM PhD"
+    ],
+    "founded_year": 2017,
+    "partnered_year": 2018,
+    "linkedin_url": "https://www.linkedin.com/company/verisim-life/",
+    "twitter_url": "https://x.com/VeriSIMlife",
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18dd79e341aa532021f_6722776ebbe0bf6abb12b254_62c54148a9afd7854309a244_VeriSIM_Brand-Logo-Black.avif",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "Visby Medical",
+    "company_url": "https://www.visbymedical.com/",
+    "description": "Visby Medical is a medical diagnostics company with portable PCR testing technology.",
+    "sector": "Digital Biology",
+    "status": "Active",
+    "team": [
+      "Adam de la Zerda PhD"
+    ],
+    "founded_year": 2012,
+    "partnered_year": 2018,
+    "linkedin_url": "https://www.linkedin.com/company/visbymedical/",
+    "twitter_url": null,
+    "related_articles": [],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18dff4139ac10299a47_672276e3d2cc187ea9bf45a9_visbymedical-logo.avif",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "WarpStream",
+    "company_url": "https://www.warpstream.com/",
+    "description": "WarpStream, now part of Confluent, is a Kafka compatible data streaming platform built directly on top of S3.",
+    "sector": "Developer Tools and Computing Infrastructure",
+    "status": "Acquired",
+    "team": [
+      "Richard Artoul",
+      "Ryan Worl"
+    ],
+    "founded_year": 2023,
+    "partnered_year": 2023,
+    "linkedin_url": "https://www.linkedin.com/company/warpstream/",
+    "twitter_url": "https://twitter.com/warpstream_labs",
+    "related_articles": [
+      {
+        "title": "Our Investment in WarpStream",
+        "url": "https://www.amplifypartners.com/blog-posts/our-investment-in-warpstream"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18dee1b984e7f7a2827_65f368314436b69ca02e1a74_648b6533f5a15b77119276ee_Group 103.svg",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  },
+  {
+    "company_name": "YeshID",
+    "company_url": "https://www.yeshid.com/",
+    "description": "YeshID develops an identity and access management software that is simple and easy to use.",
+    "sector": "Cybersecurity",
+    "status": "Active",
+    "team": [
+      "Dana Wolf",
+      "Alex Vaystikh"
+    ],
+    "founded_year": 2022,
+    "partnered_year": 2022,
+    "linkedin_url": "https://www.linkedin.com/company/yeshid/",
+    "twitter_url": "https://mobile.twitter.com/yeshidco",
+    "related_articles": [
+      {
+        "title": "A seed round to build the next generation of cloud identity and access management",
+        "url": "https://www.yeshid.com/post/simple-and-powerful-identity-and-access-management-the-somehow-still-unsolved-problem"
+      }
+    ],
+    "logo_url": "https://amplifypartners.com/images/logos/680ed18ed79e341aa532029b_63364ed0d772bb4249e1a39f_YeshID.svg",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://amplifypartners.com/portfolio/company",
+    "scraped_at": "2026-08-03T08:04:11+00:00"
+  }
+]

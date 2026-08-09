@@ -1,0 +1,547 @@
+[
+  {
+    "company_name": "Aluna",
+    "company_url": "https://alunacare.com/",
+    "description": null,
+    "founders": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Luma Labs",
+    "company_url": "https://lumalabs.ai/",
+    "description": "Luma AI is the creative AI platform for video generation and image creation. Powered by the world's leading video generation models, Ray and Uni, and creative agents handling end-to-end workflows. Trusted by leading agencies and brands. Try it free.",
+    "founders": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Markforged",
+    "company_url": "https://markforged.com/",
+    "description": "Markforged produces the leading additive manufacturing platform for manufacturing and factory floors. Our best-in-class industrial carbon fiber and metal…",
+    "founders": [],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Owl Labs",
+    "company_url": "https://owllabs.com/",
+    "description": "Discover Owl Labs, the leader in hybrid work tech. 360-degree video conferencing with crystal clear audio and video for remote meetings that feel in-person.",
+    "founders": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Sesame",
+    "company_url": "https://www.sesame.com/",
+    "description": "Sesame builds personal agents for curious people. Follow a thought. Work out an idea. Discover something new. Preview available now on iOS. Coming to intelligent eyewear in 2027.",
+    "founders": [],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Suno",
+    "company_url": "https://suno.com/",
+    "description": "Create stunning original music for free in seconds using our AI generator. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
+    "founders": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Trisk Bio",
+    "company_url": "https://triskbio.com/",
+    "description": "Trisk Bio provides scalable, preclinical AAV manufacturing for research grade and NHP studies.",
+    "founders": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "ApartmentList",
+    "company_url": "https://www.apartmentlist.com/",
+    "description": "Apartment List is a free service that helps you find the perfect apartment. Click to view move-in specials, photos, floorplans, rates, amenities and more...",
+    "founders": [],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Baselane",
+    "company_url": "https://www.baselane.com/",
+    "description": "Gain clarity and control of your rental property finances with all-in-one banking, accounting, and automated rent collection. Sign up with Baselane for free!",
+    "founders": [],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "EarnIn",
+    "company_url": "http://www.earnin.com/",
+    "description": "EarnIn is an app that gives you access to the pay you've earned - when you want it. Get paid for the hours you've worked without waiting for payday.",
+    "founders": [
+      "Ram Palaniappan",
+      "Balance Shield",
+      "Tip Yourself"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Flexible Finance",
+    "company_url": "https://getflex.com/",
+    "description": "Flex lets you split bills into two payments, keep more cash on hand, and build credit history—giving renters more financial control every month.",
+    "founders": [
+      "Does Flex",
+      "Flexible Finance",
+      "Shragie Lichtenstein",
+      "New York",
+      "Park Ave"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Mudflap",
+    "company_url": "https://www.mudflapinc.com/",
+    "description": "Get huge cost-plus diesel discounts with Mudflap—the network recommended by 94% of owner-operators and fleets.",
+    "founders": [],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Side",
+    "company_url": "https://www.side.com/",
+    "description": "Side's real estate brokerage platform empowers top-producing agents to own their own companies without the burden of operating a brokerage.",
+    "founders": [],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Steadily",
+    "company_url": "https://www.steadily.com/",
+    "description": "Fast, affordable landlord insurance for rental property owners and investors. Covers property damage, liability and loss of rent. Get a quote in minutes.",
+    "founders": [],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Zest AI",
+    "company_url": "https://www.zest.ai/",
+    "description": "Accurately assess, confidently decision, and perpetually optimize your lending business with proven AI technology. Zest AI is for lenders that want to create a smarter, inclusive, and more efficient lending process, to be agile and confident through any economic conditions.",
+    "founders": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "August Health",
+    "company_url": "https://www.augusthealth.com/",
+    "description": "Streamline operations and improve resident care with our senior living solutions.",
+    "founders": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Chameleon",
+    "company_url": "https://www.chameleon.io/",
+    "description": "Chameleon builds context on your product, identifies friction, creates in-app guidance, and monitors outcomes, so your product keeps getting better.",
+    "founders": [
+      "With Chameleon",
+      "Bea Patricia",
+      "Shores Hotel"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Fivetran",
+    "company_url": "https://www.fivetran.com/",
+    "description": "Effortlessly centralize all the data you need so your team can deliver better insights, faster. Start for free.",
+    "founders": [],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Flock Safety",
+    "company_url": "https://www.flocksafety.com/",
+    "description": "Clear evidence for safer communities. Flock connects detection, investigation, and response with LPR cameras, video, drones, and audio detection. Privacy first.",
+    "founders": [],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Mashgin",
+    "company_url": "https://www.mashgin.com/",
+    "description": "Powering billions of transactions for thousands of retailers, we're the only patented 3D AI checkout. Just place items and our AI does the rest in 0.5 seconds.",
+    "founders": [],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Parabola",
+    "company_url": "https://parabola.io/",
+    "description": "Describe a messy, recurring process. Parabola builds the agent that runs it at production scale, shows its work, and stays audit-ready.",
+    "founders": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Sieve",
+    "company_url": "https://www.sievedata.com/",
+    "description": "High-quality video, audio, image, and interaction data for frontier AI.",
+    "founders": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Hookdeck",
+    "company_url": "https://hookdeck.com/",
+    "description": "From webhooks to external event streams, Hookdeck ensures every event is received, processed, and monitored reliably at scale, giving you complete visibility and control.",
+    "founders": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Ampersand",
+    "company_url": "https://www.withampersand.com/",
+    "description": "Ampersand is the best way to build native product integrations with your customers' CRMs & GTM apps. Scalable architecture, great pricing, high-touch support.",
+    "founders": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "LM Studio",
+    "company_url": "https://lmstudio.ai/",
+    "description": "Bionic is LM Studio's agent for work and code. Create documents, slides, PDFs, and software with local or frontier open models.",
+    "founders": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Rainforest",
+    "company_url": "https://www.rainforestpay.com/",
+    "description": "Grow revenue with payfac-as-a-service built for vertical SaaS. Accept card, PayPal, Venmo, ACH, Apple Pay. Fast integration, next-day funding.",
+    "founders": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Light",
+    "company_url": "https://www.poweredbylight.com/",
+    "description": "Get the benefits of power without the burden as we manage risk, regulatory compliance, payments, and customer support.",
+    "founders": [
+      "Michael Sachse",
+      "Residential Energy",
+      "San Jacinto",
+      "Tyler Moragne",
+      "Sam Calisch"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Meadow",
+    "company_url": "https://meadowfi.com",
+    "description": "Meadow’s modern tools help higher education institutions boost enrollment, retention, and payment outcomes by simplifying the student financial experience.",
+    "founders": [
+      "Meadow Pre"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Reach",
+    "company_url": "https://embedreach.com",
+    "description": "Reach helps you grow your customers revenue, by offering embeddedable CRM marketing tools and agency services.",
+    "founders": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Baya Systems",
+    "company_url": "https://www.bayasystems.com/",
+    "description": "Baya Systems delivers chiplet-ready, software-defined unified fabric solutions enabling efficient data movement and scalable, high-performance AI systems.",
+    "founders": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Centaur Labs",
+    "company_url": "https://www.centaurlabs.com/",
+    "description": "Centaur.ai delivers high-quality data annotation powered by 100,000+ experts. Accelerate your AI development with precision-labeled datasets.",
+    "founders": [],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Lightforce",
+    "company_url": "https://lf.co/",
+    "description": "LightForce delivers 3D printed patient-specific braces. Generated from a digital orthodontic treatment plan. Made for one. Born from light.",
+    "founders": [
+      "Palladium Orthodontics"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Lightmatter",
+    "company_url": "https://lightmatter.co/",
+    "description": "Rethinking the limits of AI, Lightmatter merges photonics and computing to build a future where speed, efficiency, and intelligence converge.",
+    "founders": [
+      "Nick Harris",
+      "Bryant Street",
+      "Mountain View"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "LogRocket",
+    "company_url": "https://logrocket.com/",
+    "description": "LogRocket helps you understand problems affecting your users, so that you can get back to building great software.",
+    "founders": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Nubis",
+    "company_url": "https://www.nubis-inc.com/",
+    "description": null,
+    "founders": [],
+    "everywhere_tags": [],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Xtalic",
+    "company_url": "http://www.xtalic.com/",
+    "description": "Our electroplated nanostructured metal alloys enable high temperature electrical contacts for the electric vehicle and semiconductor applications.",
+    "founders": [],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "General Medicine",
+    "company_url": "https://www.generalmedicine.co/",
+    "description": "General Medicine makes it easy to get the care you need, when you need it—from virtual visits to labs, imaging, referrals, and prescriptions. Most insurance accepted and up-front prices.",
+    "founders": [],
+    "everywhere_tags": [
+      "BioTech",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Headlight",
+    "company_url": "https://headlight.health/",
+    "description": "Headlight provides range of online therapy services that help you understand, overcome your mental health challenges, and learn healthy coping skills.",
+    "founders": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Mevo",
+    "company_url": "https://mevo.com.br/",
+    "description": "Da receita digital com opção de compra online ao medicamento entregue em casa.",
+    "founders": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "CloudZero",
+    "company_url": "https://www.cloudzero.com/",
+    "description": "CloudZero is the AI ROI Company. Unify AI spend and business context to understand the ROI of all your AI investment",
+    "founders": [
+      "Claude Code"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Sila",
+    "company_url": "https://www.silanano.com/",
+    "description": "The modern silicon anode was invented and scaled by Sila. Titan Silicon delivers 20% more energy density for batteries powering millions of devices…",
+    "founders": [
+      "Gleb Yushin"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Apollo",
+    "company_url": "https://www.apollographql.com/",
+    "description": "Connect agents and apps to GraphQL and REST APIs with proven infrastructure trusted by enterprise leaders.",
+    "founders": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "CloudBees",
+    "company_url": "https://www.cloudbees.com/",
+    "description": "CloudBees Unify is the enterprise control and context plane for your entire AI-powered software delivery lifecycle: open, multi-agentic, and continuously secure.",
+    "founders": [],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Salsify",
+    "company_url": "https://www.salsify.com/",
+    "description": "Move faster, work smarter, and scale efficiently with Salsify PXM, the intelligent product experience management platform.",
+    "founders": [],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  },
+  {
+    "company_name": "Smartcat",
+    "company_url": "https://www.smartcat.com/",
+    "description": "Smartcat is your all-in-one AI translation platform with industry-leading AI translation, AI localization, AI content generation, and AI-human workflows.",
+    "founders": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://matrixpartners.com",
+    "scraped_at": "2026-07-28T03:50:26+00:00"
+  }
+]

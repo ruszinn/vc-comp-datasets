@@ -1,0 +1,516 @@
+[
+  {
+    "company_name": "Radiant Nuclear",
+    "tagline": null,
+    "description": "Radiant Nuclear is redefining advanced nuclear energy through its flagship 1MW portable microreactor, Kaleidos. Designed for military bases, data centers, remote industrial sites, and grid-constrained environments, Kaleidos delivers reliable baseload power for up to 20 years using TRISO fuel and passive helium cooling. Unlike traditional nuclear projects that require decade-long development cycles, Radiant is transforming nuclear into a repeatable, factory-manufactured product that can be deployed by truck or airlift. The company is positioned at the intersection of Defense Technology and AI Infrastructure, where reliable, dispatchable power is becoming the defining constraint of growth.",
+    "company_url": "https://www.radiantnuclear.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/radiant-nuclear/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Radiant-Nuclear@2x.jpg",
+    "founders": [
+      {
+        "name": "Doug Bernauer",
+        "title": "Founder & Chief Executive Officer",
+        "url": "https://www.linkedin.com/in/doug-bernauer?utm_source=chatgpt.com"
+      },
+      {
+        "name": "Bob Urberger",
+        "title": "Co-Founder & Chief Technology Officer",
+        "url": "https://research.contrary.com/company/radiant?utm_source=chatgpt.com"
+      },
+      {
+        "name": "Dr. Rita Baranwal",
+        "title": "Chief Nuclear Officer",
+        "url": "https://www.linkedin.com/in/dr-rita-baranwal-4454a78a/"
+      }
+    ],
+    "categories": [
+      "clean-energy",
+      "sustainability",
+      "sustainability-clean-energy"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Anduril",
+    "tagline": "Revolutionizing defense technology with AI-powered systems to protect democracy.",
+    "description": "Anduril is at the forefront of modern defense innovation, leveraging advanced AI and autonomous systems to tackle complex security challenges. Their cutting-edge technology includes unmanned aerial systems, surveillance towers, and mission-command software, designed to enhance situational awareness and provide real-time actionable intelligence. By merging technology with mission-critical objectives, Anduril empowers defense agencies to safeguard democracy effectively. With a clear focus on innovation and a mission to defend democratic values, Anduril represents a compelling investment in the rapidly evolving defense tech sector.",
+    "company_url": "https://www.anduril.com",
+    "company_profile_url": "https://inflectionvc.com/portfolio/anduril/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Anduril@2x.jpg",
+    "founders": [
+      {
+        "name": "Palmer Luckey",
+        "title": "Founder",
+        "url": "https://www.linkedin.com/in/palmerluckey/"
+      },
+      {
+        "name": "Brian Schimpf",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/brian-schimpf/"
+      },
+      {
+        "name": "Matt Grimm",
+        "title": "COO",
+        "url": "https://www.linkedin.com/in/matthew-grimm/"
+      }
+    ],
+    "categories": [
+      "artificial-intelligence",
+      "ai-high-performance-computing",
+      "defense-tech"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "CoreWeave",
+    "tagline": "CoreWeave delivers GPU-optimized cloud computing solutions tailored for AI, machine learning, and high-performance applications.",
+    "description": "CoreWeave is a leading provider of GPU-accelerated cloud computing infrastructure, designed to meet the computational demands of modern artificial intelligence (AI), machine learning (ML), and rendering workloads. Founded in 2017, CoreWeave has evolved from its origins in cryptocurrency mining to become a critical partner for businesses requiring high-performance, scalable cloud solutions. By leveraging industry-leading NVIDIA GPUs, CoreWeave offers unparalleled speed and efficiency, making it a preferred choice for developers and researchers pushing the boundaries of AI and ML innovation. CoreWeave’s unique approach to cloud computing focuses on delivering specialized, cost-effective solutions that outperform traditional general-purpose cloud providers. With data centers strategically located to maximize performance and reduce latency, CoreWeave supports a wide range of industries, including healthcare, finance, media, and gaming. Its rapid growth and emphasis on customer-centric solutions have solidified its reputation as an industry innovator. As the demand for GPU-powered computing continues to rise, CoreWeave’s commitment to scaling infrastructure and advancing cutting-edge technology presents a compelling investment opportunity. The company’s ability to adapt to emerging trends and cater to specialized needs ensures its position as a vital player in the AI-driven future.",
+    "company_url": "https://www.coreweave.com",
+    "company_profile_url": "https://inflectionvc.com/portfolio/coreweave/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Coreweave_Logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Michael Intrator",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/michael-intrator/"
+      },
+      {
+        "name": "Brian Venturo",
+        "title": "CTO",
+        "url": "https://www.linkedin.com/in/brianventuro/"
+      },
+      {
+        "name": "Brannin McBee",
+        "title": "Chief Strategy Officer",
+        "url": "https://www.linkedin.com/in/brannin-mcbee-8a378a2a/"
+      }
+    ],
+    "categories": [
+      "artificial-intelligence",
+      "ai-high-performance-computing",
+      "defense-tech"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Exowatt",
+    "tagline": null,
+    "description": "Exowatt is addressing the defining constraint of the AI era: megawatts. As artificial intelligence accelerates global electricity demand, particularly from data centers, Exowatt provides a scalable, deployable solution that combines solar capture, long-duration thermal storage, and on-demand electricity generation in a single containerized system. Its modular platform stores heat for up to five days in a patented silicon composite battery and converts it into reliable baseload power without grid dependence. At roughly $1.5 million per megawatt and deployable in under 12 months, Exowatt offers similar stability to nuclear approaches at a fraction of the capital cost and timeline.",
+    "company_url": "https://www.exowatt.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/exowatt/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Exowatt@2x.jpg",
+    "founders": [
+      {
+        "name": "Hannan Parvizian",
+        "title": "Co-Founder & Chief Executive Officer",
+        "url": "https://x.com/HaPi31415?utm_source=chatgpt.com"
+      },
+      {
+        "name": "Jack Abraham",
+        "title": "Co-Founder & Chairman",
+        "url": "https://www.exowatt.com/news/exowatt-unveils-pioneering-modular-energy-platform-to-revolutionize-renewable-energy-for-ai-driven-data-centers?utm_source=chatgpt.com"
+      }
+    ],
+    "categories": [
+      "ai",
+      "ai-high-performance-computing",
+      "clean-energy",
+      "sustainability-clean-energy"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Abnormal Security",
+    "tagline": "Safeguarding businesses from sophisticated email attacks with AI-driven precision.",
+    "description": "Abnormal Security uses cutting-edge artificial intelligence to combat advanced email threats like phishing, business email compromise (BEC), and ransomware. By analyzing user behavior and communication patterns, the platform identifies and neutralizes threats with unmatched accuracy. Its people-first approach ensures seamless integration and reduced false positives, protecting organizations’ most critical asset—their people. As the threat landscape continues to evolve, Abnormal Security’s innovative solutions position it as a leader in email security and a prime investment opportunity in cybersecurity.",
+    "company_url": "https://abnormalsecurity.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/abnormal-security/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Abnormal-Security@2x.jpg",
+    "founders": [
+      {
+        "name": "Evan Reiser",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/evanreiser/"
+      },
+      {
+        "name": "Sanjay Jeyakumar",
+        "title": "CTO",
+        "url": "https://www.linkedin.com/in/sanjay-jeyakumar/"
+      }
+    ],
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "ai-high-performance-computing",
+      "cybersecurity",
+      "email-protection"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Redwood Materials",
+    "tagline": "Pioneering sustainable battery recycling to power a cleaner future.",
+    "description": "Redwood Materials is redefining the future of energy with innovative recycling solutions that recover valuable materials from used batteries. By closing the loop on battery production, Redwood reduces waste and lowers the environmental impact of energy storage technologies. Their mission aligns with global sustainability goals, making them a vital player in the transition to a cleaner, greener economy. With growing demand for electric vehicles and renewable energy, Redwood Materials is a visionary company leading the charge in sustainable innovation.",
+    "company_url": "https://www.redwoodmaterials.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/redwood-materials/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Bolt_logo@2x.jpg",
+    "founders": [
+      {
+        "name": "JB Straubel",
+        "title": "Founder",
+        "url": "https://www.linkedin.com/in/jbstraubel/"
+      }
+    ],
+    "categories": [
+      "battery-recycling",
+      "clean-energy",
+      "sustainability",
+      "sustainability-clean-energy"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Epirus",
+    "tagline": null,
+    "description": "Epirus is revolutionizing defense technology with its breakthrough directed energy systems designed to neutralize drone swarms and other electronic threats. By harnessing electromagnetic pulse (EMP) capabilities, Epirus provides military, government, and commercial clients with innovative, scalable, and energy-efficient solutions for modern security challenges. Their proprietary software-defined power approach enables adaptable and precise threat mitigation, setting them apart in the evolving defense landscape. With the rise of autonomous and unmanned aerial systems (UAS), traditional defense measures struggle to keep pace. Epirus’ flagship product, Leonidas, delivers a next-generation counter-electronics solution capable of disabling drones and electronic devices with pinpoint accuracy. This game-changing technology is compact, portable, and adaptable to various defense applications, from critical infrastructure protection to battlefield operations. By focusing on rapid deployment and sustainable power efficiency, Epirus is shaping the future of electronic warfare and national security. As the demand for advanced counter-drone and EMP solutions continues to grow, Epirus stands at the forefront of this sector with its innovative technology and strategic partnerships. Its strong leadership team and commitment to pushing the boundaries of directed energy make it an attractive investment opportunity in the defense and security space.",
+    "company_url": "https://www.epirusinc.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/epirus/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Epirus_Logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Andy Lowery",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/andy-lowery-79592426/"
+      },
+      {
+        "name": "Bo Marr",
+        "title": "Co-Founder & CTO",
+        "url": "https://www.linkedin.com/in/bo-marr-7691203/"
+      }
+    ],
+    "categories": [
+      "data-analytics",
+      "data-analytics-data-analytics",
+      "defense-tech",
+      "unified-platform"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud",
+      "Climate / Sustainability",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Proofpoint",
+    "tagline": "Defending against cyber threats with people-centric security and compliance solutions.",
+    "description": "Proofpoint specializes in protecting organizations’ greatest assets—their people—from advanced cyber threats and compliance risks. Their comprehensive suite includes email security, data loss prevention, and security awareness training, all designed to mitigate human-centric vulnerabilities. By focusing on the behaviors and interactions of users, Proofpoint effectively identifies and neutralizes threats such as phishing, ransomware, and insider threats. Their innovative approach ensures that organizations can safeguard sensitive information and maintain regulatory compliance in an ever-evolving threat landscape.",
+    "company_url": "https://www.proofpoint.com/us",
+    "company_profile_url": "https://inflectionvc.com/portfolio/proofpoint/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Proofpoint_Logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Sumit Dhawan",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/sumitdhawan"
+      },
+      {
+        "name": "Rohit Dixit",
+        "title": "Chief Customer Officer",
+        "url": "https://www.linkedin.com/in/rohit-dixit-123456/"
+      }
+    ],
+    "categories": [
+      "cybersecurity",
+      "data-loss-prevention",
+      "email-protection"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Groq",
+    "tagline": "Pushing the boundaries of AI computation with revolutionary chip technology.",
+    "description": "Groq is at the forefront of AI hardware innovation, developing the Tensor Streaming Processor (TSP) architecture to accelerate workloads in artificial intelligence, machine learning, and high-performance computing. Their product suite, including GroqCard™ and GroqRack™, offers unparalleled compute speed and energy efficiency, enabling enterprises to deploy AI applications at scale. Founded by Jonathan Ross, who previously initiated Google’s Tensor Processing Unit (TPU) project, Groq continues to challenge industry norms, providing faster and more efficient solutions for complex computational tasks.",
+    "company_url": "https://www.groq.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/groq/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/GroqLogo@2x.jpg",
+    "founders": [
+      {
+        "name": "Jonathan Ross",
+        "title": "Founder & CEO",
+        "url": "https://www.linkedin.com/in/jonathan-ross-123456/"
+      }
+    ],
+    "categories": [
+      "ai",
+      "ai-computation",
+      "artificial-intelligence",
+      "ai-high-performance-computing",
+      "chip-technology",
+      "high-performance-computing"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Databricks",
+    "tagline": "Unifying data and AI to unlock groundbreaking insights for businesses worldwide.",
+    "description": "Databricks combines data engineering, machine learning, and business analytics into a single, unified platform. Built on the open-source Apache Spark framework, the platform accelerates data processing and enables businesses to derive actionable insights faster. With a focus on collaboration and innovation, Databricks empowers teams to solve complex problems and drive better decision-making. As data continues to grow in scale and complexity, Databricks offers an essential solution for enterprises aiming to stay competitive.",
+    "company_url": "https://www.databricks.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/databricks/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Databricks_Logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Ali Ghodsi",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/alighodsi/"
+      },
+      {
+        "name": "Reynold Xin",
+        "title": "Co-Founder",
+        "url": "https://www.linkedin.com/in/reynoldxin/"
+      }
+    ],
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "ai-high-performance-computing",
+      "data-analytics",
+      "data-analytics-data-analytics",
+      "unified-platform"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "xAI",
+    "tagline": "Building artificial general intelligence (AGI) to solve humanity’s most complex problems across domains from robotics to aerospace.",
+    "description": "Founded by Elon Musk in 2023, xAI is developing AGI designed to integrate across a vast technology stack—including X (formerly Twitter), Tesla, Neuralink, Optimus, SpaceX, and Starlink. Created as a “maximally truth-seeking” alternative to other labs, xAI is positioned to lead the next era of machine intelligence through massive-scale infrastructure and ecosystem synergy. Its supercomputer, Colossus, is the most powerful AI training cluster in the world, scaling to 200,000 GPUs in just seven months.",
+    "company_url": "https://x.ai/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/xai/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/xAI@2x.jpg",
+    "founders": [
+      {
+        "name": "Elon Musk",
+        "title": "Founder & CEO",
+        "url": "https://twitter.com/elonmusk"
+      }
+    ],
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "ai-high-performance-computing",
+      "high-performance-computing"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Palantir Technologies",
+    "tagline": "Transforming complex data into actionable intelligence for critical decision-making.",
+    "description": "Palantir Technologies specializes in making sense of vast amounts of complex data. Their platforms, such as Palantir Foundry and Gotham, are trusted by governments, defense agencies, and corporations to inform high-stakes decisions. By integrating, analyzing, and visualizing data, Palantir enables clients to unlock insights that drive results. With its unmatched capabilities in big data analytics, Palantir is a transformative force in industries ranging from national security to financial services.",
+    "company_url": "https://www.palantir.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/palantir-technologies/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/palantir-technologies-logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Alex Karp",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/alexkarp/"
+      },
+      {
+        "name": "Peter Thiel",
+        "title": "Co-Founder",
+        "url": "https://www.linkedin.com/in/peterthiel/"
+      }
+    ],
+    "categories": [
+      "analytics",
+      "big-data",
+      "data-analytics",
+      "data-analytics-data-analytics",
+      "data-intelligence"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Deeptech / Robotics / AR/VR",
+      "Data & Analytics"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "tagline": "Empowering developers to build and deploy web applications at lightning speed.",
+    "description": "Vercel provides developers with the tools to create, deploy, and scale modern web applications effortlessly. Their powerful serverless platform optimizes performance and simplifies workflows, allowing teams to focus on building great user experiences. With its flagship product, Next.js, Vercel has become the go-to solution for developers seeking speed, reliability, and scalability. By streamlining the development lifecycle, Vercel is revolutionizing web development and enabling businesses to achieve faster time-to-market.",
+    "company_url": "https://www.vercel.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/vercel/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Klarna@2x.jpg",
+    "founders": [
+      {
+        "name": "Guillermo Rauch",
+        "title": "CEO",
+        "url": "https://www.linkedin.com/in/rauchg/"
+      }
+    ],
+    "categories": [
+      "digital-deployment",
+      "webdev",
+      "webdev-digitaltools"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Shield AI",
+    "tagline": "Building autonomous AI systems to protect service members and civilians.",
+    "description": "Shield AI develops cutting-edge autonomous systems and AI pilots designed to enhance operational effectiveness and safety in defense scenarios. Their flagship AI pilot, Hivemind, enables drones and aircraft to execute missions without GPS, communications, or human intervention, adapting in real-time to dynamic environments. Since its deployment in combat in 2018, Hivemind has demonstrated capabilities ranging from indoor building clearance to complex aerial engagements. Shield AI’s commitment to innovation and protection positions it as a leader in the defense technology sector, offering transformative solutions that safeguard lives.",
+    "company_url": "https://shield.ai/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/shield-ai/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Sheild-AI-Logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Ryan Tseng",
+        "title": "Co-Founder & CEO",
+        "url": "https://www.linkedin.com/in/ryan-tseng-123456/"
+      },
+      {
+        "name": "Brandon Tseng",
+        "title": "Co-Founder & President",
+        "url": "https://www.linkedin.com/in/brandon-tseng-123456/"
+      }
+    ],
+    "categories": [
+      "ai",
+      "artificial-intelligence",
+      "auto-sys",
+      "auto-sys-defense-tech",
+      "defense-tech"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "CHAOS Industries",
+    "tagline": "Engineering and deploying next-generation detection, monitoring, and communications systems for defense and critical infrastructure.",
+    "description": "Founded in 2022 by industry veterans from Epirus, Palantir, and 8VC, CHAOS Industries has become the fastest-growing defense tech company in the world. The company’s solutions span early-warning detection, battlefield communications, and secure data networks designed for real-time operational environments. Its $5.2B pipeline and massive Series C round led by NEA, Accel, and 8VC reflect deep confidence in its mission and momentum.",
+    "company_url": "https://www.chaosindustries.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/chaos-industries/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/Chaos@2x.jpg",
+    "founders": [
+      {
+        "name": "John Tenet",
+        "title": "Co-Founder",
+        "url": "https://www.linkedin.com/in/john-tenet-038b1232/"
+      },
+      {
+        "name": "Dr. Bo Marr",
+        "title": "Co-Founder & CTO",
+        "url": "https://www.linkedin.com/in/bo-marr-7691203/"
+      },
+      {
+        "name": "George Tenet",
+        "title": "Executive Chairman",
+        "url": null
+      }
+    ],
+    "categories": [
+      "auto-sys-defense-tech",
+      "communications",
+      "defense-tech",
+      "national-security"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  },
+  {
+    "company_name": "Space X",
+    "tagline": "Pioneering space exploration to make life multi-planetary.",
+    "description": "SpaceX is transforming the future of space travel with groundbreaking technologies like reusable rockets and advanced spacecraft. From launching satellites to sending astronauts to the International Space Station, SpaceX’s innovations lower costs and open new frontiers for exploration. The company’s long-term vision to colonize Mars underscores its commitment to humanity’s survival and advancement. With a proven track record of delivering success on ambitious projects, SpaceX is redefining what is possible in aerospace and making space more accessible than ever.",
+    "company_url": "https://www.spacex.com/",
+    "company_profile_url": "https://inflectionvc.com/portfolio/space-x/",
+    "logo_url": "https://inflectionvc.com/wp-content/uploads/2024/12/SpaceX-Logo@2x.jpg",
+    "founders": [
+      {
+        "name": "Elon Musk",
+        "title": "Founder & CEO",
+        "url": "https://twitter.com/elonmusk"
+      }
+    ],
+    "categories": [
+      "rocketry",
+      "space-exploration",
+      "space-rockets"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://inflectionvc.com/portfolio/",
+    "scraped_at": "2026-07-01T23:29:48.780613+00:00"
+  }
+]

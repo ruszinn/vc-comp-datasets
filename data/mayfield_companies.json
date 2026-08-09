@@ -1,0 +1,3340 @@
+[
+  {
+    "company_name": "HashiCorp",
+    "description": "Applications infrastructure suite.",
+    "company_url": "https://www.hashicorp.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/hashicorp-2/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/bio-logo-1.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "HCP",
+    "exchange": "NASDAQ",
+    "acquirer": "IBM",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/hashicorp/",
+    "x_url": "https://x.com/hashicorp",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Securiti",
+    "description": "AI & Data Controls and Security Cloud",
+    "company_url": "https://securiti.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/securiti/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SECURITI.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Veeam",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/securitiai",
+    "x_url": "https://x.com/SecuritiAI",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Lyft",
+    "description": "Collaborative ridesharing service.",
+    "company_url": "https://www.lyft.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/lyft/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/individual-logo-1.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "LYFT",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/lyft/",
+    "x_url": "https://x.com/lyft",
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Outreach",
+    "description": "Agentic Teammates for Revenue Teams",
+    "company_url": "https://www.outreach.io/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/outreach/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/OUTREACH.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/outreach-saas/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Poshmark",
+    "description": "The largest social marketplace for fashion.",
+    "company_url": "https://poshmark.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/poshmark/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/gamechangers-logo-1.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "POSH",
+    "exchange": "NASDAQ",
+    "acquirer": "NAVER",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/poshmark/",
+    "x_url": "https://x.com/Poshmarkapp",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Mammoth Biosciences",
+    "description": "CRISPR Therapeutics Platform",
+    "company_url": "https://mammoth.bio/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/mammoth-biosciences/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MAMMOTH.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/mammothbio/",
+    "x_url": "https://x.com/mammothbiosci",
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "BigPanda",
+    "description": "Agentic AI for IT Ops",
+    "company_url": "https://www.bigpanda.io/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/big-panda/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/BIGPANDA.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Patrick Salyer"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/bigpanda/",
+    "x_url": "https://x.com/bigpanda",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Marketo",
+    "description": "SaaS marketing automation pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/marketo/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MARKETO.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "MKTO",
+    "exchange": "NASDAQ",
+    "acquirer": "Vista Equity",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Solar City",
+    "description": "Solar utility pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/solar-city/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SOLARCITY.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "SCTY",
+    "exchange": "NASDAQ",
+    "acquirer": "Tesla",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Nuvia",
+    "description": "Leading-edge silicon design company.",
+    "company_url": "https://www.qualcomm.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/nuvia/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/NUVIA.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Qualcomm",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/nuviainc/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Couchbase",
+    "description": "The world’s first engagement database software company.",
+    "company_url": "https://www.couchbase.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/couchbase/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/COUCHBASE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "BASE",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/couchbase/",
+    "x_url": "https://x.com/couchbase",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Service Max",
+    "description": "SaaS Field Service Platform.",
+    "company_url": "https://www.servicemax.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/service-max/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SERVICEMAX.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "GE Digital",
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/servicemax/",
+    "x_url": "https://x.com/servicemax",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Moat",
+    "description": "SaaS brand analytics platform.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/moat/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MOAT-e1724803078481.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Oracle",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Rancher",
+    "description": "Open source container management solutions provider.",
+    "company_url": "https://www.rancher.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/rancher/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/RANCHER.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "SUSE",
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/rancher/",
+    "x_url": "https://x.com/Rancher_Labs",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Volterra",
+    "description": "Cloud platform for distributed applications.",
+    "company_url": "https://www.f5.com/products/distributed-cloud-services",
+    "company_profile_url": "https://www.mayfield.com/portfolio/volterra/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/VOLTERRA.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "F5 Networks",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/volterra-io/",
+    "x_url": "https://x.com/volterra",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "CloudGenix",
+    "description": "A leading SD-WAN solution for modern applications, including the Cloud.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/cloudgenix/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CLOUDGENIX.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Palo Alto Networks",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Cloudsimple",
+    "description": "VMware-as-a-service in public clouds.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/cloudsimple/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CLOUDSIMPLE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Google",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Portworx",
+    "description": "A technology leader in data services for containers.<br />",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/portworx/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/PORTWORX.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Pure Storage",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Gigya",
+    "description": "A leader in Customer Identity Management.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/gigya/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/GIGYA.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "SAP",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "3Com",
+    "description": "Networking technology pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/3com/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/3COM.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "Coms",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "3Par",
+    "description": "Leading provider of utility storage.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/3par/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/3PAR.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "PAR",
+    "exchange": "NYSE",
+    "acquirer": "HP",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "AI Fabrik",
+    "description": "Edge Inference Neocloud",
+    "company_url": "https://aifabrik.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/ai-fabrik/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/06/ai-fabrik-logo.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/aifabrik/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Akeana",
+    "description": "RISC-V IP Provider",
+    "company_url": "https://www.akeana.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/akeana/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/08/Akeana-Scaled.png",
+    "sectors": [
+      "AI",
+      "Semiconductors"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/akeana/about/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Alchemy",
+    "description": "Web3 Development Platform",
+    "company_url": "https://www.alchemy.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/alchemy/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ALCHEMY.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Alif Semiconductor",
+    "description": "Microcontroller for Edge AI",
+    "company_url": "https://alifsemi.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/alif-semiconductor/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ALIF.png",
+    "sectors": [
+      "AI",
+      "Semiconductors"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Alignable",
+    "description": "Largest Business Networking Platform",
+    "company_url": "https://www.alignable.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/alignable/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ALIGNABLE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/alignable/",
+    "x_url": "https://x.com/Alignable",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Amgen",
+    "description": "Fortune 500 biotechnology pioneer.",
+    "company_url": "https://www.amgen.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/amgen/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/AMGEN-scaled.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "AMGN",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Applied Biosystems",
+    "description": "Therapeutics Platform for Cognitive Health",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/applied-biosystems/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/APPLIEDBIOSYSTEMS.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "APPB",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Applied Cognition",
+    "description": "Therapeutics Platform for Cognitive Health",
+    "company_url": "https://appliedcognition.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/applied-cognition/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/06/AC_Logo_Centered_tagline_Logo.jpg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Arbor Software",
+    "description": "Analytical software platform.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/arbor-software/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ARBORSOFTWARE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "PeopleSoft/Oracle",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Atari",
+    "description": "Founder of the interactive entertainment industry.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/atari/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ATARI.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Infogames",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "AttoTude",
+    "description": "High-Speed Interconnect Based on THz Radio Over Wire",
+    "company_url": "https://www.attotude.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/attotude/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/04/GetAttachmentThumbnail.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/attotude/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Aurascape",
+    "description": "AI and Agents Security Prevention for Employees",
+    "company_url": "https://aurascape.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/aurascape-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/08/Aurascape-Logo-scaled.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/aurascape-ai/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Avanex",
+    "description": "Optical and networking equipment leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/avanex/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/AVANEX.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "AVNX",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Basis",
+    "description": "Wrist-based wearable health pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/basis/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/BASIS.png",
+    "sectors": [
+      "Consumer",
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Intel",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Bespoke Labs",
+    "description": "Post Training RL Infrastructure for Agents",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/bespoke-labs/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/07/Bespoke-Labs-Logo-1-1.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Brighter",
+    "description": "Health insurance platform that transforms passive patients into healthcare consumers.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/brighter/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/BRIGHTER.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Cigna",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Brokk",
+    "description": "AI-Powered Coding Platform for Large Codebases",
+    "company_url": "https://brokk.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/brokk/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/06/Brokk.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": null,
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/buildwithbrokk/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "BroadVision",
+    "description": "Portal infrastructure leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/broadvision/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/BROADVISION-scaled.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "BVSN",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Centrify",
+    "description": "Providing secure access to hybrid enterprise through the power of identity services.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/centrify/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CENTRIFY.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Thoma Bravo",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Citrix",
+    "description": "Virtualization platform.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/citrix/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CITRIX.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "CTXS",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Cognichip",
+    "description": "Agentic Teammates for Chip Engineers",
+    "company_url": "https://www.cognichip.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/cognichip/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/05/Cognichip-TM-logo-color-horz.jpg",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/cognichip/jobs/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Compaq",
+    "description": "Portable computing pioneer.<br />",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/compaq/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/COMPAQ-scaled.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "HP",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Concur",
+    "description": "SaaS expense management leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/concur/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CONCUR.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "CNQR",
+    "exchange": "NASDAQ",
+    "acquirer": "SAP",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Crunchbase",
+    "description": "AI-Powered Company Intelligence Provider",
+    "company_url": "https://www.crunchbase.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/crunchbase/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CRUNCHBASE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/crunchbase",
+    "x_url": "https://x.com/crunchbase",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Cube",
+    "description": "Spreadsheet Native FP&A Platform",
+    "company_url": "https://www.cubesoftware.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/cube/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CUBE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Cypress",
+    "description": "Network equipment integrated circuit leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/cypress/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/CYPRESS.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "CY",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "DevRev",
+    "description": "Agentic Teammates for Business Teams",
+    "company_url": "https://devrev.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/devrev/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/DEVREV.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": "https://x.com/devrevinc",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Docket",
+    "description": "Agentic Teammates for B2B Web Sales",
+    "company_url": "https://www.docketai.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/docket/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/Docket-logo-GB.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Patrick Salyer"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/docket-inc/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "DuploCloud",
+    "description": "Agentic Teammates for DevOps",
+    "company_url": "https://duplocloud.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/duplo-cloud/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/DUPLOCLOUD.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Patrick Salyer"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/duplocloud/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Echelon",
+    "description": "Energy control networking leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/echelon/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ECHELON-scaled.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "ELON",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Elastica",
+    "description": "Cloud security pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/elastica/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ELASTICA.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Blue Coat Systems/Symantec",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Exaforce",
+    "description": "Agentic Teammates for Security Ops Teams",
+    "company_url": "https://www.exaforce.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/exaforce/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/04/Exaforce-Logo-White-Padding.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/exaforce/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Foodsmart",
+    "description": "The world's largest Telenutrition and Foodcare network that makes eating well easy, affordable, and accessible.",
+    "company_url": "https://foodsmart.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/foodsmart/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/FOODSMART-e1724805139197.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "TPG",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Frore Systems",
+    "description": "Liquid Cooling for AI Data Centers",
+    "company_url": "https://www.froresystems.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/frore-systems/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/FRORE.png",
+    "sectors": [
+      "AI",
+      "Semiconductors"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/froresystems/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Genentech",
+    "description": "Biotech pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/genentech/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/GENENTECH.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "GENE",
+    "exchange": "NYSE",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Gruve",
+    "description": "AI Inference & Agentic Infrastructure Platform",
+    "company_url": "https://gruve.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/gruve/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/04/Logo_Green-scaled.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/gruveai/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Hang Ten",
+    "description": "Agentic SAP Managed Service",
+    "company_url": "https://hangten.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/hang-ten/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/06/Hang_Ten_Logo_Black.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": null,
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/hang-ten-systems/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Heartstream",
+    "description": "Automatic external defibrillators.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/heartstream/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/HEARTSTREAM.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "HP",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Highbeam",
+    "description": "AI-Optimized Finance Platform for Omnichannel Brands",
+    "company_url": "https://www.highbeam.co/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/highbeam/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/HIGHBEAM-e1724805459288.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/highbeam-co/",
+    "x_url": "https://x.com/HighbeamApp",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Highway 9 Networks",
+    "description": "AI Wireless Infrastructure for Enterprises",
+    "company_url": "https://highway9.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/highway-9-networks/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/HIGHWAY9-e1724805676461.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/highway9-networks/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "HouseWhisper",
+    "description": "Agentic Teammates for Real Estate Agents",
+    "company_url": "https://www.housewhisper.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/housewhisper/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/06/banner.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/housewhisper/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Inception",
+    "description": "Diffusion Language Models",
+    "company_url": "https://www.inceptionlabs.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/inception-labs/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/03/Framer-Wordmark-Black.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/inception-labs-ai/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "InfluxData",
+    "description": "Timeseries Data Platform",
+    "company_url": "https://www.influxdata.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/influx-data/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/INFLUXDATA.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/influxdb/",
+    "x_url": "https://x.com/influxdb",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Inphi",
+    "description": "Electronic components leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/inphi/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/INPHI.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "IPHI",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Intuitive Surgical",
+    "description": "Robotic-assisted surgery pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/intuitive-surgical/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/INTUITIVE-scaled.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "ISRG",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Kana",
+    "description": "Agentic Teammates for Marketing Teams",
+    "company_url": "https://www.kana.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/kana/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/03/kana_logo_primary-3.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/kana-intelligence/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "LAM Research",
+    "description": "Plasma-etching semiconductor pioneers.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/lam-research/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/LAMRESEARCH.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "LRCX",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Legato",
+    "description": "Storage and recovery software platform.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/legato/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/LEGATO.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "EMC",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Linear Technologies",
+    "description": "Semiconductor pioneers.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/linear-technologies/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/LINEARTECH.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "LLTC",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "LSI Logic",
+    "description": "Multi-function semiconductor leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/lsi-logic/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/LSILOGIC.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "LSI",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Marco Polo",
+    "description": "Data Workspace for AI Agents",
+    "company_url": "https://marcopolo.dev/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/marco-polo/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MarcoPolo-1.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/marcopolodev/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Matrimony.com",
+    "description": "Pioneer in online matchmaking and marriage services.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/matrimony-com/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MATRIMONY-e1724805964169.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "Matrimony.NS",
+    "exchange": "IPO India",
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Millennium Pharma",
+    "description": "Cancer therapeutics providers.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/millennium-pharma/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MILLENNIUMPHARMA.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "MLNM",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "MindsDB",
+    "description": "Business Insights Platform",
+    "company_url": "https://mindsdb.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/mindsdb/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MINDSDB.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha",
+      "Sri Pangulur"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/mindsdb/",
+    "x_url": "https://x.com/MindsDB",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Minimus",
+    "description": "Supply Chain Security Platform",
+    "company_url": "https://www.minimus.io/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/minimus/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/04/Minimus_Logo_Horizontal_Primary.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/minimusio/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "MIPS",
+    "description": "Microprocessor architecture designer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/mips/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MIPS.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "MIPS",
+    "exchange": "NASDAQ",
+    "acquirer": "Silicon Graphics",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Mirvie",
+    "description": "Pregnancy Health Diagnostics Platform",
+    "company_url": "https://www.mirvie.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/mirvie/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MIRVIE.png",
+    "sectors": [
+      "Human Health"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/mirvie/",
+    "x_url": "https://x.com/mirviedx",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Mobile 365",
+    "description": "Mobile SMS carrier leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/mobile-365/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/MOBILE365.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Sybase",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Multiply",
+    "description": "Agentic Media Agency for B2B",
+    "company_url": "https://gomultiply.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/multiply/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/09/multiply-logo-BbbNRFMR-1.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Patrick Salyer",
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/multiply-growth/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Neubird",
+    "description": "Agentic Teammates for Production Ops",
+    "company_url": "https://neubird.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/neubird/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/neubirdai-logo-medium.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/neubird-ai/",
+    "x_url": "https://x.com/NeuBirdAI",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "NewPort Communications",
+    "description": "High-speed communications chips for the optical networking industry.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/newport-communications/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/NEWPORTCOMM.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Broadcom",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Nuance",
+    "description": "Speech software leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/nuance/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/NUANCE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "NUAN",
+    "exchange": "NASDAQ",
+    "acquirer": "Microsoft",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Numeral",
+    "description": "Agentic Sales Tax Service",
+    "company_url": "https://www.numeral.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/numeral/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/09/Numeral-Logo-2.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/numeralhq/",
+    "x_url": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Obot",
+    "description": "Enterprise MCP Gateway",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/obot/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/09/obot-logo-scaled.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "OpenLight",
+    "description": "Integrated Photonics for AI Datacenters",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/openlight/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/09/OpenLight-FullColor-TM-Horizontal45.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Opti",
+    "description": "AI-native Identity and Access Management Platform",
+    "company_url": "https://www.opti.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/opti/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/12/Opti-.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Orb",
+    "description": "Usage Based AI Native Billing System",
+    "company_url": "https://www.withorb.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/orb/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/09/1500_Orb-Logotype_Dark.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Adyen",
+    "partners": [
+      "Sri Pangulur"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/orbhq/",
+    "x_url": "https://x.com/useorb",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Paz.AI",
+    "description": "Agentic Commerce Platform",
+    "company_url": "https://www.paz.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/paz-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/03/Paz.ai-336-x-72-px-1.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Patrick Salyer"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/pazai/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Pensive",
+    "description": "Agentic Grader & Tutor for Higher Education",
+    "company_url": "https://www.pensive.com/schools",
+    "company_profile_url": "https://www.mayfield.com/portfolio/pensive/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/03/Pensive.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Patrick Salyer",
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/pensiveai/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Peribit",
+    "description": "WAN acceleration leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/peribit/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/PERIBIT.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Juniper Networks",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Gist",
+    "description": "AI Visibility, Engagement, and Monetization Platform",
+    "company_url": "https://gist.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/gist/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/06/Gist-3.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Pulse",
+    "description": "Mobile news reader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/pulse/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/PULSE.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "LinkedIn",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Pure Networks",
+    "description": "Networking software platforms.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/pure-networks/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/PURENETWORKS.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Cisco",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Pure Software",
+    "description": "Software testing leaders.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/pure-software/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/PURESOFTWARE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "PRSW",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Qtera",
+    "description": "Optical networking systems leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/qtera/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/QTERA-e1724806495495.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Nortel Networks",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Quantum",
+    "description": "Disk drive pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/quantum/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/QUANTUM.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "QMCO",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Quickoffice",
+    "description": "Smartphone productivity provider.<br />",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/quickoffice/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/QUICKOFFICE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Google",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Qunar.Com",
+    "description": "China-based travel search leader.<br />",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/qunar-com/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/QUNAR.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "QUNR",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Qventus",
+    "description": "Agentic Teammates for Hospital Operations",
+    "company_url": "https://qventus.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/qventus/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/QVENTUS.png",
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "Human Health"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/qventus-inc/",
+    "x_url": "https://x.com/qventus",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Qwiet AI",
+    "description": "Application Security Platform",
+    "company_url": "https://qwiet.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/qwiet-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/QWIET.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/qwiet/",
+    "x_url": "https://x.com/QwietAi",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Redback Networks",
+    "description": "Broadband networking systems leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/redback-networks/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/REDBACK.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "RBAK",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Red Beacon",
+    "description": "Home Services Marketplace.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/red-beacon/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/REDBEACON.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Home Depot",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Retym",
+    "description": "Coherent DSP for AI Datacenters",
+    "company_url": "https://www.retym.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/retym/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/08/Retym.png",
+    "sectors": [],
+    "mayfield_status": null,
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/retym/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Revefi",
+    "description": "Agentic Teammates for Data Engineers",
+    "company_url": "https://www.revefi.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/revefi/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/REVEFI.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/revefi/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Rhoda AI",
+    "description": "Foundation Model for Physical AI",
+    "company_url": "https://www.rhoda.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/rhoda-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2026/03/Rhoda.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/rhoda-ai/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Rubicon Project",
+    "description": "Automated Advertising Exchange.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/rubicon-project/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/RUBICON.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "RUBI",
+    "exchange": "NYSE",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "S3 Graphics",
+    "description": "Graphics chip pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/s3-graphics/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/S3GRAPHICS.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "SonicBlue",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "SambaNova",
+    "description": "AI Inference System",
+    "company_url": "https://sambanova.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/sambanova-systems/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/08/Picture1.jpg",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "SanDisk",
+    "description": "Flash data storage pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/sandisk/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SANDISK-scaled.png",
+    "sectors": [
+      "Semiconductors"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "SNDK",
+    "exchange": "NASDAQ",
+    "acquirer": "Western Digital",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Scrunch AI",
+    "description": "AI-First Agent Experience Platform",
+    "company_url": "https://scrunchai.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/scrunch-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/11/scrunch-logo-2026.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Sitecore",
+    "partners": [
+      "Patrick Salyer"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/scrunchai/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Sema4.ai",
+    "description": "Agentic Teammates for Finance Teams",
+    "company_url": "https://sema4.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/sema4-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SEMA4AI-NEW.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/sema4-ai/",
+    "x_url": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Seekout",
+    "description": "Agentic Recruitment Service",
+    "company_url": "https://app.seekout.io/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/seekout/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SEEKOUT.png",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/seek0ut/",
+    "x_url": "https://x.com/seekouthq",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "SGI",
+    "description": "Visualization computing pioneer. Incubated at Mayfield.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/sgi/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SGI.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "SGI",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "SmartRecruiters",
+    "description": "The leading talent acquisition platform for enterprises.",
+    "company_url": "https://www.smartrecruiters.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/smart-recruiters/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SMARTRECRUITERS.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/smartrecruiters/",
+    "x_url": "https://x.com/Smartrecruiters",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Storsimple",
+    "description": "Hybrid cloud storage leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/storsimple/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/STORSIMPLE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Microsoft",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Supio",
+    "description": "Agentic Teammates for Legal Practitioners",
+    "company_url": "https://www.supio.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/supio/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/04/Supio__Logo_Lockup_Forest_Clear.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Sri Pangulur"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/supio/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "SwiftStack",
+    "description": "Hybrid-cloud data management platform.<br />",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/swiftstack/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/SWIFTSTACK.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "NVIDIA",
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Tandem",
+    "description": "Fault tolerant computing pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/tandem/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/TANDEM.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Compaq/HP",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Teambridge",
+    "description": "Workforce Management System",
+    "company_url": "https://teambridge.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/teambridge/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/09/Teambridge-Logo-Black.jpg",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Sri Pangulur"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/team-bridge/posts/?feedView=all",
+    "x_url": "https://x.com/TeamBridge_",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Tejas Networks",
+    "description": "Leading optical networking products provider.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/tejas-networks/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/TEJAS.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "TEJASNET.NS",
+    "exchange": "IPO India",
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Tensordyne",
+    "description": "Math, Chips, and Systems for AI Inference",
+    "company_url": "https://www.tensordyne.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/tensordyne/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/tensordyne_logotype_rgb_black.png",
+    "sectors": [
+      "AI",
+      "Semiconductors"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": "https://www.linkedin.com/company/tensordyne/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Teserac",
+    "description": "LLM for Batteries",
+    "company_url": "https://www.teserac.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/chemix/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/Teserac-.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "TIBCO",
+    "description": "Business integration software leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/tibco/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/TIBCO-scaled.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": "TIBX",
+    "exchange": "NASDAQ",
+    "acquirer": "Vista Equity Partners",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Tripp",
+    "description": "Agentic Teammates for Wellness Coaching",
+    "company_url": "https://www.tripp.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/tripp/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/TRIPP.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": "https://x.com/TRIPPVR",
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "TrustRadius",
+    "description": "B2B Technology Decisioning Platform",
+    "company_url": "https://www.trustradius.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/trust-radius/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/TRUSTRADIUS.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Rajeev Batra"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/trustradius/",
+    "x_url": "https://x.com/trustradius",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Upscale AI",
+    "description": "Scale-Up and Scale-Out Networking Systems for AI Datacenters",
+    "company_url": "https://upscaleai.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/upscale-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/09/light-br-color.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/upscale-ai-inc/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "UARE.ai",
+    "description": "Agentic Digital Twins for Humans",
+    "company_url": "https://www.uare.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/uare-ai/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2025/09/uare.ai-1.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/eternos/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Vantive",
+    "description": "Call center software leaders.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/vantus/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/VANTIVE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "VNTV",
+    "exchange": "NYSE",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Versa Networks",
+    "description": "AI Powered SASE Platform",
+    "company_url": "https://versa-networks.com/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/versa-networks/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/VERSA.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Ursheet Parikh"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/versa-networks/",
+    "x_url": "https://x.com/versanetworks",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Velaura",
+    "description": "Chips for Physical AI",
+    "company_url": "https://velaura.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/velaura/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/Venlaura.jpeg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Navin Chaddha"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/velaura-ai-inc/posts/?feedView=all",
+    "x_url": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Vijil",
+    "description": "Trust Infrastructure Platform for Agents",
+    "company_url": "https://www.vijil.ai/",
+    "company_profile_url": "https://www.mayfield.com/portfolio/vijil/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/Vijil-Small-e1722232482785.png",
+    "sectors": [
+      "AI"
+    ],
+    "mayfield_status": "Current",
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "partners": [
+      "Vijay Reddy"
+    ],
+    "linkedin_url": "https://www.linkedin.com/company/vijil/",
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Web Methods",
+    "description": "Application integration platform leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/web-methods/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/WEBMETHODS.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Public",
+    "ticker_symbol": "WEBM",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "WiChorus",
+    "description": "Smart 4G Telecoms pioneer.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/wichorus/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/WICHORUS.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "TelLabs",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "WideOrbit",
+    "description": "Leading provider of advertising management technology for cable networks, local television stations and radio stations.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/wideorbit/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/08/WideOrbit-Logo.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Lumine Group",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  },
+  {
+    "company_name": "Zenprise",
+    "description": "Mobile security leader.",
+    "company_url": null,
+    "company_profile_url": "https://www.mayfield.com/portfolio/zenprise/",
+    "logo_url": "https://www.mayfield.com/wp-content/uploads/2024/07/ZENPRISE.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "mayfield_status": "Milestone",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Citrix Systems",
+    "partners": [],
+    "linkedin_url": null,
+    "x_url": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.mayfield.com/meet-our-founders/",
+    "scraped_at": "2026-07-27T21:45:31.535416+00:00"
+  }
+]

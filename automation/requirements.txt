@@ -1,0 +1,5 @@
+# Self-contained nightly pipeline. Pure requests + BeautifulSoup — the bespoke
+# scrapers use them, the generic extractor uses them, and gh.py / zapier_client.py
+# use requests too. No headless browser, no second HTTP library.
+requests==2.32.3
+beautifulsoup4==4.12.3

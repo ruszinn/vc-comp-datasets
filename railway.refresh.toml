@@ -1,0 +1,18 @@
+# Config for the SECOND Railway service: the weekly full refresh.
+#
+# Railway config-as-code OVERRIDES dashboard settings, so two services sharing
+# one railway.toml would both run discover. Instead each service reads its own
+# file: the discovery service uses railway.toml (default), and the refresh
+# service must set Settings -> Config-as-code -> file path = railway.refresh.toml.
+#
+# Cron Schedule stays in the dashboard (Railway's reliable method):
+#   0 8 * * 1   (Mondays 08:00 UTC — an hour after discovery's daily 07:00,
+#   so the two never overlap). Needs the GitHub + Airtable variables but NOT
+#   ANTHROPIC_API_KEY: the factory only runs in discover mode.
+
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python3 automation/pipeline.py --mode refresh"
+restartPolicyType = "never"

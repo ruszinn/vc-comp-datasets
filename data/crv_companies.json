@@ -1,0 +1,4174 @@
+[
+  {
+    "company_name": "3T Biosciences",
+    "slug": "3t-biosciences",
+    "description": "3T is an immunotherapy company developing next-generation, transformative therapies for broad patient populations.",
+    "company_url": "https://3tbiosciences.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a68a0d10006c9b4a9417d9e96b304c98ebab008f-217x241.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": null,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "7AI",
+    "slug": "7ai",
+    "description": "The agentic security platform.",
+    "company_url": "https://7ai.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/25c24a8b689e36faf9f2b0b6e1590cfaf87031e2-80x40.svg",
+    "founders": [
+      "Lior Div",
+      "Yonatan Striem Amit"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Accompany",
+    "slug": "accompany",
+    "description": "Next generation relationship management software.",
+    "company_url": "https://www.accompany.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/f0914fa696a8fc7b840f6e8012ee6db01e2b2235-1302x172.png",
+    "founders": [
+      "Ryan McDonough",
+      "Amy Chang",
+      "Matthias Ruhl"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2013,
+    "status": "Acquired",
+    "acquirer": "Cisco",
+    "ticker_symbol": null,
+    "exit_year": 2018,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Aerodome",
+    "slug": "aerodome",
+    "description": "Making communities safer with advanced drone-as-first-responder (DFR) technology.",
+    "company_url": "https://www.aerodome.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/475a0b8ed4e21b89928513620d128671caf3092c-137x20.svg",
+    "founders": [
+      "Rahul Sidhu",
+      "Kenaniah Cerny"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2024,
+    "status": "Acquired",
+    "acquirer": "Flock Safety",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Affirmed Networks",
+    "slug": "affirmed-networks",
+    "description": "A Microsoft company.",
+    "company_url": "https://www.affirmednetworks.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b5c1093d6333ecac553286bd933d793d57010181-1872x578.svg",
+    "founders": [
+      "Hassan Ahmed"
+    ],
+    "year_founded": 2010,
+    "year_partnered": 2010,
+    "status": "Acquired",
+    "acquirer": "Microsoft",
+    "ticker_symbol": null,
+    "exit_year": 2020,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Agora",
+    "slug": "agora",
+    "description": "Streamlining and demystifying compensation.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7a9ec6c7e84136b7c9fb725ecd19521e84838bec-900x219.png",
+    "founders": [
+      "Miles Hobby",
+      "Geoffrey Tisserand"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2020,
+    "status": "Acquired",
+    "acquirer": "Payscale",
+    "ticker_symbol": null,
+    "exit_year": 2022,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Airtable",
+    "slug": "airtable",
+    "description": "Build AI apps faster, no code needed.",
+    "company_url": "https://www.airtable.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/bd8833bb7039f33b3589fb2cab7cafe8d2d648da-259x56.svg",
+    "founders": [
+      "Andrew Ofstad",
+      "Howie Liu",
+      "Emmett Nicholas"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Alice",
+    "slug": "alice",
+    "description": "Trust, safety and security for the AI era.",
+    "company_url": "https://alice.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/69d3ef8fbb3992ed3d62dc8033c3f2b7444a002b-1107x282.svg",
+    "founders": [],
+    "year_founded": 2018,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Apex",
+    "slug": "apex",
+    "description": "Mass-manufacturing productized satellite platforms to accelerate deployment of critical, next-generation constellations.",
+    "company_url": "https://www.apexspace.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e8ece5fdfa8b747da8c989354bb98f9c151053ba-404x77.svg",
+    "founders": [
+      "Ian Cinnamon",
+      "Max Benassi"
+    ],
+    "year_founded": 2022,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Apparate Labs",
+    "slug": "apparate-labs",
+    "description": "Real-time generative video.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0ff4cbeae05b7563701ffeae7bc9287b9e34b68e-1094x278.png",
+    "founders": [
+      "Will Shen"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2023,
+    "status": "Acquired",
+    "acquirer": "Luma",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Arena",
+    "slug": "arena",
+    "description": "Arena helps brands create meaningful conversations and transition them into transactions with Commerce AI, Live Blog and Live Chat.",
+    "company_url": "https://arena.im/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/dbea64323096c430f395fc659137e3213fadc40c-116x24.svg",
+    "founders": [
+      "Paulo Martins"
+    ],
+    "year_founded": null,
+    "year_partnered": null,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Astrix",
+    "slug": "astrix",
+    "description": "Access management for third-party integrations.",
+    "company_url": "https://astrix.security/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/03c4c9664fa4c858746a724c9db43404787db80b-135x30.svg",
+    "founders": [
+      "Idan Gour",
+      "Alon Jackson"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Atrium",
+    "slug": "atrium",
+    "description": "Atrium automates sales management.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9c85a2ed3b4b14555d51a659fedde5c64c9b6e57-1328x348.svg",
+    "founders": [
+      "Jason Heidema"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2016,
+    "status": "Acquired",
+    "acquirer": "Fullcast",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Automox",
+    "slug": "automox",
+    "description": "Patch everything. Automate anything. AI is here for IT.",
+    "company_url": "https://www.automox.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/f386e84fb7db92f3e949fc62072b55c189dca61b-140x35.svg",
+    "founders": [],
+    "year_founded": 2015,
+    "year_partnered": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Aveksa",
+    "slug": "aveksa",
+    "description": "Cloud-based enterprise access solution.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/aeecf22ad9630f16934f1c9eb6a7f088a050bbd7-1672x463.svg",
+    "founders": [
+      "Deepak Taneja"
+    ],
+    "year_founded": 2004,
+    "year_partnered": 2005,
+    "status": "Acquired",
+    "acquirer": "EMC Corporation",
+    "ticker_symbol": null,
+    "exit_year": 2013,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Aviatrix",
+    "slug": "aviatrix",
+    "description": "Network infrastructure for the cloud era.",
+    "company_url": "https://aviatrix.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/65679d82b5f1f0cddf2c697563028f4f0791d7be-244x38.svg",
+    "founders": [
+      "Doug Merritt",
+      "Sherry Wei"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Axiom",
+    "slug": "axiom",
+    "description": "Leveraging AI models for more accurate predictions for human drug toxicity and exposure.",
+    "company_url": "https://www.axi.om/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d8b441ec5cab50127648bf50773c0bb7b1257f6b-270x69.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Bbot",
+    "slug": "bbot",
+    "description": "The leading digital order and pay solution for the hospitality industry.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/23e99ddedb0dc19674bd7b2ab6fab8568af70049-1816x602.png",
+    "founders": [
+      "Steve Simoni"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2021,
+    "status": "Acquired",
+    "acquirer": "DoorDash",
+    "ticker_symbol": null,
+    "exit_year": 2022,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Bettermode",
+    "slug": "bettermode",
+    "description": "The platform built to power customer communities.",
+    "company_url": "https://bettermode.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/f5b7e500d1470eb92be9d66fb0b8e51920f65846-161x30.svg",
+    "founders": [
+      "Siavash Mahmoudian"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Bird",
+    "slug": "bird-rides",
+    "description": "On a mission to provide eco-friendly transportation for everyone. Love, Bird.",
+    "company_url": "https://www.bird.co/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e29f0b02b0c6b828783111227613fc6d3b59de3e-67x38.svg",
+    "founders": [
+      "Travis VanderZanden"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2018,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "BRDS",
+    "exit_year": 2021,
+    "featured": false,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Blockchain.com",
+    "slug": "blockchain-com",
+    "description": "Blockchain.com is the world’s most popular way to buy, sell and trade crypto.",
+    "company_url": "https://www.blockchain.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/267c2dc16cd9b0866b98b4401a7ed953fa75d580-161x24.svg",
+    "founders": [
+      "Peter Smith"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Browserbase",
+    "slug": "browserbase",
+    "description": "The leader in web browser automation.",
+    "company_url": "https://www.browserbase.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/70267aa7e9e4d64cb9707d239f053e80fd761219-181x36.svg",
+    "founders": [
+      "Paul Klein IV"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Cable",
+    "slug": "cable",
+    "description": "The all-in-one financial crime effectiveness testing platform.",
+    "company_url": "https://cable.tech/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/2fc38cf4efaff5badfc1e0c4a255f8284c0e60cf-74x24.svg",
+    "founders": [
+      "Natasha Vernier"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2022,
+    "status": "Acquired",
+    "acquirer": "Synctera",
+    "ticker_symbol": null,
+    "exit_year": 2026,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Capy",
+    "slug": "capy",
+    "description": "The IDE for the parallel age.",
+    "company_url": "https://capy.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/8d6158c1465fc6b2f122c0c85484c892a97c1a5e-213x61.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Careforce",
+    "slug": "careforce",
+    "description": "Enabling healthcare organizations to bring more patients in the door and reduce care coordination burden on staff with autonomous AI workers.",
+    "company_url": "https://careforce.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3843cf4eeeeaa9be4012ff2ff4e2afc3f6132d27-168x22.svg",
+    "founders": [
+      "Huzaifa Sial"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Carrot",
+    "slug": "carrot",
+    "description": "Carrot is a global, comprehensive fertility and family care platform, supporting members and their families through many of life's most memorable moments.",
+    "company_url": "https://www.get-carrot.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b6599c6cc79cd8859e7eb5eaa6a39a40be45fdc2-419x63.svg",
+    "founders": [
+      "Tammy Sun",
+      "Dr. Asima Ahmad"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Checkly",
+    "slug": "checkly",
+    "description": "A modern Monitoring as Code workflow for developers: programmable, fast, reliable.",
+    "company_url": "https://www.checklyhq.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7fb4dce2efae3da62d67a9ac6582ec2459abc860-100x30.svg",
+    "founders": [
+      "Tim Nolet",
+      "Hannes Lenke",
+      "Timo Euteneuer"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Ciena",
+    "slug": "ciena",
+    "description": "Ciena is a global leader in optical and routing systems, services and automation software.",
+    "company_url": "https://www.ciena.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/41f673d2218ea0377367df4531189ff2507d6f84-451x144.svg",
+    "founders": [],
+    "year_founded": 1992,
+    "year_partnered": 1994,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "CIEN",
+    "exit_year": 1997,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Ciro",
+    "slug": "ciro",
+    "description": "Ciro is a sales productivity app that changes how sales teams find customers.",
+    "company_url": "https://www.ciro.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a03d640189df62b374f099c21ef75ad3611cb069-79x32.svg",
+    "founders": [],
+    "year_founded": 2022,
+    "year_partnered": 2022,
+    "status": "Acquired",
+    "acquirer": "Reevo",
+    "ticker_symbol": null,
+    "exit_year": 2026,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Clarent",
+    "slug": "clarent",
+    "description": "Clarent provides business intelligence for senior living.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/23e23d3c29f98d3a4bcf0a1e1c4391eeaba31f18-2000x457.png",
+    "founders": [
+      "Paul Jarvis",
+      "Henry Hutcheson"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2022,
+    "status": "Acquired",
+    "acquirer": "ProCare HR",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "ClassPass",
+    "slug": "classpass",
+    "description": "ClassPass is the easiest way to find and book fitness classes.",
+    "company_url": "https://classpass.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/64ff4a6e16ec0121af8511b18eab61b0f1d0f55a-124x24.svg",
+    "founders": [
+      "Payal Kadakia"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2014,
+    "status": "Acquired",
+    "acquirer": "Mindbody",
+    "ticker_symbol": null,
+    "exit_year": 2021,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Clerk",
+    "slug": "clerk",
+    "description": "Clerk integrates complete user management UIs and APIs, purpose-built for React, Next.js and the modern web.",
+    "company_url": "https://clerk.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/360f124d04bcbcd30821ea53e1b4886dca2d73f1-62x18.svg",
+    "founders": [
+      "Braden Sidoti",
+      "Colin Sidoti"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Closure",
+    "slug": "closure",
+    "description": "The first digital analyst for law enforcement.",
+    "company_url": "https://www.closure-intel.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7f00d205ca4bc6b758180d9ab690b26230256878-1291x359.png",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "CloudGenix",
+    "slug": "cloudgenix",
+    "description": "CloudGenix provides next generation SD-WAN software.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/ae18e348bfbbcc0752ed919aeb4f12e10986a5a4-1518x162.svg",
+    "founders": [
+      "Kumar Ramachandran"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2013,
+    "status": "Acquired",
+    "acquirer": "Palo Alto Networks",
+    "ticker_symbol": null,
+    "exit_year": 2020,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "CodeRabbit",
+    "slug": "coderabbit",
+    "description": "CodeRabbit cuts code review time and bugs in half.",
+    "company_url": "https://www.coderabbit.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e1ec4beadee59e1ccb5e59e347f833acd5f98f90-160x30.svg",
+    "founders": [
+      "Guritfaq Singh",
+      "Harjot Gill"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Collate",
+    "slug": "collate",
+    "description": "Empowering life sciences development.",
+    "company_url": "https://collate.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/bf58d96867b4828215606261f4d508b9368c1fb0-1126x356.png",
+    "founders": [
+      "Surbhi Sarna",
+      "Nate Smith",
+      "Jigish Patel"
+    ],
+    "year_founded": 2025,
+    "year_partnered": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Color",
+    "slug": "color",
+    "description": "Color is a comprehensive cancer management solution.",
+    "company_url": "https://www.color.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/4dfbdb7c3a3ad0ea93ace2cde086d7546eff01ff-89x28.svg",
+    "founders": [
+      "Nish Bhat",
+      "Elad Gil",
+      "Taylor Sittler",
+      "Othman Laraki"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Concourse",
+    "slug": "concourse",
+    "description": "AI agents for corporate finance teams.",
+    "company_url": "https://www.concourse.co/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6d3d7a97ab4486886a5dff19985c85cfb3d712b1-134x22.svg",
+    "founders": [
+      "Ted Michaels",
+      "Matthieu Hafemeister"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Cratejoy",
+    "slug": "cratejoy",
+    "description": "Powering the new world of subscription commerce.",
+    "company_url": "https://www.cratejoy.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/8b9d1ae5f4cbd3fefc350eb891e1c129a6790fe8-88x34.svg",
+    "founders": [
+      "Alex Morse",
+      "Amir Elaguizy"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Cribl",
+    "slug": "cribl",
+    "description": "Cribl, the AI Platform for Telemetry, empowers enterprises to manage and analyze telemetry for humans and agents with no lock-in, no data loss, no compromises.",
+    "company_url": "https://cribl.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5b7e4d564bd88a4e153e8f218e3be7edafc1710a-116x32.svg",
+    "founders": [
+      "Dritan Bitincka",
+      "Clint Sharp",
+      "Ledion Bitincka"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Cursor",
+    "slug": "cursor",
+    "description": "The best way to code with AI.",
+    "company_url": "https://cursor.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/eceda4199bb40d8186a66d9dca770bf5ec54e565-2170x516.svg",
+    "founders": [],
+    "year_founded": 2022,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Cybereason",
+    "slug": "cybereason",
+    "description": "The most advanced endpoint protection platform.",
+    "company_url": "https://www.cybereason.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b993088b455fc4c3d2a1d554214edd9e1e193f6e-1250x318.webp",
+    "founders": [
+      "Yossi Naar",
+      "Lior Div",
+      "Yonatan Striem-Amit"
+    ],
+    "year_founded": 2012,
+    "year_partnered": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Cyera",
+    "slug": "cyera",
+    "description": "Cyera is the data security platform that empowers security teams to manage and protect all of their company’s sensitive data.",
+    "company_url": "https://www.cyera.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e2b2e972c32dc8c6b505e7c04d672218e356cd73-135x33.svg",
+    "founders": [],
+    "year_founded": 2021,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Datadog",
+    "slug": "datadog",
+    "description": "Datadog is the monitoring and security platform for cloud applications.",
+    "company_url": "https://www.datadoghq.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9034a866b4754a30eae84addc2f8e5b92e63c9c7-800x203.svg",
+    "founders": [
+      "Alexis Lê-Quôc",
+      "Olivier Pomel"
+    ],
+    "year_founded": 2010,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Datum",
+    "slug": "datum",
+    "description": "Reimagining the Internet for AI.",
+    "company_url": "https://www.datum.net/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/4755d12335acc50c4cff014941bfc4bbf366498b-742x148.svg",
+    "founders": [],
+    "year_founded": 2024,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "PropTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Deciduous",
+    "slug": "deciduous",
+    "description": "Deciduous is developing a novel class of immune-modulatory therapies designed to promote a healthy lifespan.",
+    "company_url": "https://www.deciduoustx.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/18d75f1b3b807a6b7e969625cab9997b8461a311-300x61.svg",
+    "founders": [
+      "Robin Mansukhani"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "DoorDash",
+    "slug": "doordash",
+    "description": "DoorDash is the premier local commerce platform.",
+    "company_url": "https://www.doordash.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/1cabd9a2c2b3371724ba6460aef6b2dfd0af3daa-154x18.svg",
+    "founders": [
+      "Tony Xu"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2013,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "DASH",
+    "exit_year": 2020,
+    "featured": true,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Doppler",
+    "slug": "doppler",
+    "description": "Doppler is the first SecretOps platform.",
+    "company_url": "https://www.doppler.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6dfcefae5f0215a98b5dc8aeb1098bcea25ffb2d-562x108.svg",
+    "founders": [
+      "Brian Vallelunga"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Drift",
+    "slug": "drift",
+    "description": "Drift is pioneering conversational marketing: the new way that businesses buy from businesses.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3d1a6f3b9d9cb09b3952f2594da0c9b77a5a2509-869x217.png",
+    "founders": [
+      "Elias Torres",
+      "David Cancel"
+    ],
+    "year_founded": 2014,
+    "year_partnered": 2014,
+    "status": "Acquired",
+    "acquirer": "Salesloft",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Dropbox",
+    "slug": "dropbox",
+    "description": "Modern file sharing for the masses.",
+    "company_url": "http://www.dropbox.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/ea96766ec886ffd02ad2071e01e2abab3930228d-1000x197.svg",
+    "founders": [
+      "Drew Houston",
+      "Arash Ferdowsi"
+    ],
+    "year_founded": 2007,
+    "year_partnered": 2013,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "DBX",
+    "exit_year": 2018,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Dyna",
+    "slug": "dyna",
+    "description": "General and robust AI robots that power the future of the physical economy.",
+    "company_url": "https://www.dyna.co/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d47d4e6e4ad1bb86e05c71a65469181579e8bbcf-1536x288.png",
+    "founders": [
+      "Lindon Gao",
+      "Jason Ma",
+      "York Yang"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Dyno",
+    "slug": "dyno",
+    "description": "AI and biotech pioneers building high-performance genetic technologies to unlock the potential of next-gen medicine and enable genetic agency for all patients.",
+    "company_url": "https://www.dynotx.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/867fb0e2dbf85007aa9f700f1e55a4016e5ed807-338x104.svg",
+    "founders": [
+      "Eric Kelsic"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Emotive",
+    "slug": "emotive",
+    "description": "The human-to-human marketing platform that uses conversational text messaging to help eCommerce brands grow revenue faster.",
+    "company_url": "https://emotive.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e76748b54452c911cda357992c3d32262f95557e-85x26.svg",
+    "founders": [
+      "Zachary Wise",
+      "Brian Zatulove"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2021,
+    "status": "Acquired",
+    "acquirer": "Privy",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Encord",
+    "slug": "encord",
+    "description": "Encord is the universal data layer for AI.",
+    "company_url": "https://encord.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a32f768d4f427a4880f0ffae100612478f9fde2b-160x32.svg",
+    "founders": [
+      "Eric Landau",
+      "Ulrik Stig Hansen"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "EqualLogic",
+    "slug": "equallogic",
+    "description": "Simplifying networked storage.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0339b5bff059e7957a3fcb36059ab18dff328969-1896x283.png",
+    "founders": [
+      "Paula Long"
+    ],
+    "year_founded": 2001,
+    "year_partnered": 2001,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Eventual",
+    "slug": "eventual",
+    "description": "Multimodal data platform for AI systems.",
+    "company_url": "https://www.eventual.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9a20bc587023222b1a106283c4f5f720bfd46e42-391x77.png",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "EXO Therapeutics",
+    "slug": "exo-therapeutics",
+    "description": "A new paradigm in medicine. Unlocking intractable drug targets with exosites.",
+    "company_url": "https://exo-therapeutics.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/95ac13e9c39caf458da7520c846462b773b16d67-1200x704.png",
+    "founders": [
+      "Michael Bruce"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Factorial",
+    "slug": "factorial",
+    "description": "The business software to manage your whole team.",
+    "company_url": "https://factorialhr.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b89273b90f68b9bd740ee1505b9c72ebea8cf079-268x56.svg",
+    "founders": [
+      "Jordi Romero",
+      "Bernat Farrero"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Fauna",
+    "slug": "fauna",
+    "description": "FaunaDB is a strongly consistent OLTP database with a hybrid document-relational data model accessed via a NoSQL query language (FQL).",
+    "company_url": "https://faunadb.org/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/f0d65661962357240471c7f1f3541d88f8d23280-618x161.svg",
+    "founders": [
+      "Evan Weaver",
+      "Matt Freels"
+    ],
+    "year_founded": 2012,
+    "year_partnered": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Fleet",
+    "slug": "fleet",
+    "description": "It's time device management went open source.",
+    "company_url": "https://fleetdm.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/4c6402d01451b4724ca3f4922d38b5a1ed8f7a0f-799x325.svg",
+    "founders": [
+      "Mike McNeil"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Flipturn",
+    "slug": "flipturn",
+    "description": "Flipturn is the unified control center for EV charging operations—built for properties, businesses and fleets.",
+    "company_url": "https://www.getflipturn.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/8e3a0174b77782cbb8b12c304674f66aefb6e9d0-457x51.svg",
+    "founders": [],
+    "year_founded": 2022,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Flock",
+    "slug": "flock",
+    "description": "Shaping the future of safety, together.",
+    "company_url": "https://www.flocksafety.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6f06811a74540dc5e6ed6266658b3cd18b5b0b0c-99x24.svg",
+    "founders": [],
+    "year_founded": 2017,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "FlutterFlow",
+    "slug": "flutter-flow",
+    "description": "The fastest AI design tool.",
+    "company_url": "https://www.flutterflow.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/2b59403641b14279956b36a9a8cec87ef8d78697-158x29.svg",
+    "founders": [
+      "Abel Mengistu",
+      "Alex Greaves"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Freenome",
+    "slug": "freenome",
+    "description": "Pioneering the most comprehensive multiomics platform for early cancer detection using a routine blood draw.",
+    "company_url": "https://www.freenome.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5b248a7feb8c8817c9dcee06d0f0bdc32bf39822-456x72.svg",
+    "founders": [
+      "Mike Nolan"
+    ],
+    "year_founded": 2014,
+    "year_partnered": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Fulcrum",
+    "slug": "fulcrum",
+    "description": "Fulcrum provides insurance agencies and brokers with AI automations for time consuming manual tasks including proposal creation, policy checking, coverage comparisons and more.",
+    "company_url": "https://www.withfulcrum.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/99d62dcf015fded5970f839317b1469316f82535-1380x215.svg",
+    "founders": [
+      "Sambhav Anand",
+      "Arjun Mangla"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Givers",
+    "slug": "givers",
+    "description": "Givers enrolls, supports and pays family caregivers through state programs.",
+    "company_url": "https://www.givers.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/78dd1552f1c5f4b0862b17f76f3955ab750c16f1-1476x300.png",
+    "founders": [
+      "Max Mayblum"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "PropTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Glympse Bio",
+    "slug": "glympse-bio",
+    "description": "Bioengineered sensors for noninvasive disease monitoring.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/84465c8c49125b816b226cf853436b729750874e-1508x536.svg",
+    "founders": [
+      "Caroline Loew"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2018,
+    "status": "Acquired",
+    "acquirer": "Sunbird",
+    "ticker_symbol": null,
+    "exit_year": 2023,
+    "featured": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Gorgias",
+    "slug": "gorgias",
+    "description": "Sell more and resolve support inquiries with conversational AI.",
+    "company_url": "https://www.gorgias.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3375413e33285360b9a54c7e4bb7206f631f73ea-139x36.svg",
+    "founders": [
+      "Alex Plugaru",
+      "Romain Lapeyre"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "GrabCAD",
+    "slug": "grabcad",
+    "description": "GrabCAD’s open and enterprise-ready software platform drives additive manufacturing at scale through connected solutions.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6ffdf6209a3695f56bdb8c41d634dce97c3a384d-118x16.svg",
+    "founders": [
+      "Hardi Maybaum"
+    ],
+    "year_founded": 2009,
+    "year_partnered": 2012,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Great Expectations",
+    "slug": "great-expectations",
+    "description": "Great Expectations helps data teams have confidence in their data, no matter what.",
+    "company_url": "https://greatexpectations.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e5c250484089a7f9b2648474c0065d5a7a99a1be-1500x399.png",
+    "founders": [
+      "Abe Gong"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "GreyNoise",
+    "slug": "greynoise",
+    "description": "GreyNoise analyzes internet background noise.",
+    "company_url": "https://www.greynoise.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a35d65e6b286995a77800beb59215484a76509c8-140x13.svg",
+    "founders": [
+      "Andrew Morris"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Gupshup",
+    "slug": "gupshup",
+    "description": "Gupshup is the leading platform for building and deploying industry-trained conversational AI agents for every business across marketing, commerce and support use cases.",
+    "company_url": "https://www.gupshup.ai",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/131aabd1b65a99d77f299fbd41c7d0f69f3e2140-895x148.svg",
+    "founders": [
+      "Beerud Sheth"
+    ],
+    "year_founded": 2004,
+    "year_partnered": 2008,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Hadrius",
+    "slug": "hadrius",
+    "description": "AI-native compliance infrastructure.",
+    "company_url": "https://www.hadrius.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/cac8cba2e04679df9aa89a089ce88c36af437502-616x146.svg",
+    "founders": [
+      "Thomas Stewart",
+      "Som Mohapatra",
+      "Allen Calderwood"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "HubSpot",
+    "slug": "hubspot",
+    "description": "The agentic customer platform to scale your business.",
+    "company_url": "https://www.hubspot.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7122592c7aeb654c5c05ab69220f11a1dd094aad-1256x356.svg",
+    "founders": [
+      "Dharmesh Shah",
+      "Brian Halligan"
+    ],
+    "year_founded": 2006,
+    "year_partnered": 2011,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "HUBS",
+    "exit_year": 2014,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Ibasis",
+    "slug": "ibasis",
+    "description": "iBASIS is the independent force driving transformation in global communications.",
+    "company_url": "https://ibasis.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b480b3d9ba01554d1c0d48a6dc54318246583ad1-1200x300.png",
+    "founders": [],
+    "year_founded": 1996,
+    "year_partnered": 1998,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "IBAS",
+    "exit_year": 2002,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Impart",
+    "slug": "impart",
+    "description": "Impart is the unified runtime protection platform that helps security teams stop AI, API and web application attacks in production - at scale, with confidence.",
+    "company_url": "https://www.impart.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0abd0481395ef285330d4c7b11a668551d0365c5-151x36.svg",
+    "founders": [
+      "Marc Harrison",
+      "Brian Joe",
+      "Jonathan Divincenzo"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Inworld",
+    "slug": "inworld",
+    "description": "Powering the next wave of AI applications with the #1 ranked TTS.",
+    "company_url": "https://inworld.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b3c8fbf2367012abe50e0815639a18107243c524-94x18.svg",
+    "founders": [],
+    "year_founded": 2021,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Iterable",
+    "slug": "iterable",
+    "description": "Iterable, the AI-powered communication platform that turns customers into lifelong fans.",
+    "company_url": "https://iterable.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/946d3a1833d25d06f1c8106e9411732ed15f0bf4-135x20.svg",
+    "founders": [
+      "Sam Allen",
+      "Andrew Boni"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Jeeves",
+    "slug": "jeeves",
+    "description": "Finance tools for global teams - all in one place.",
+    "company_url": "https://www.tryjeeves.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9b3d5fa23c9d52da8b85fe956cd21341be7203e8-1049x349.svg",
+    "founders": [
+      "Dileep Thazhmon"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Joyful Health",
+    "slug": "joyful-health",
+    "description": "Automating financial operations for healthcare providers - starting with handling denials and unpaid claims.",
+    "company_url": "https://www.joyfulhealth.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/61548552fb8f90040c85afdadc7869a1b77a66a9-142x24.svg",
+    "founders": [
+      "Warren Green",
+      "Eliana Berger"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Juxta",
+    "slug": "juxta",
+    "description": "Juxta's revolutionary geospatial system remotely maps any environment on the planet and tracks subjects indoors or out, with sub-meter accuracy.",
+    "company_url": "https://www.juxta.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/eb26c5e24563abf97aaa045bc4eb717cc6420a3b-799x230.png",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Kapwing",
+    "slug": "kapwing",
+    "description": "The all-in-one video editor.",
+    "company_url": "https://www.kapwing.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9f8e9d547a0df701e58d9b2ff0c8c364294d3a84-1200x147.png",
+    "founders": [
+      "Eric Lu",
+      "Julia Enthoven"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Ketch",
+    "slug": "ketch",
+    "description": "Ketch is modern privacy management software that keeps your data clean, permissioned and AI-ready.",
+    "company_url": "https://www.ketch.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/48b82f5cd12cb78a11ee0b3f27b6f36bbd99c1cb-672x220.svg",
+    "founders": [
+      "Tom Chavez"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Koala",
+    "slug": "koala",
+    "description": "Koala uses agentic AI to help reps prioritize the most meaningful signals, qualify accounts and maintain engagement from contact to close.",
+    "company_url": "https://getkoala.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d04aef8c34646062a2c71be61699d9b0867d9b72-94x30.svg",
+    "founders": [
+      "Tido Carriero",
+      "Netto Farah",
+      "Matthew Shwery"
+    ],
+    "year_founded": 2022,
+    "year_partnered": 2024,
+    "status": "Acquired",
+    "acquirer": "Cursor",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Kodiak",
+    "slug": "kodiak",
+    "description": "Purpose-built, AI-powered ground autonomy solution enables reliable and efficient driverless movement in a wide variety of environments.",
+    "company_url": "https://kodiak.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/188642105d6f0c457bc69e3e110dbc8b299f8603-250x60.svg",
+    "founders": [
+      "Don Burnette",
+      "Paz Eshel"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2018,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "KDK",
+    "exit_year": 2025,
+    "featured": false,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Kong",
+    "slug": "kong",
+    "description": "Secure, manage, speed up, monetize and cost-control every LLM, MCP, event and API request.",
+    "company_url": "https://konghq.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/2074ec0c4418206197a82689338ed80c49daf610-126x40.svg",
+    "founders": [
+      "Marco Palladino",
+      "Augusto Marietti"
+    ],
+    "year_founded": 2009,
+    "year_partnered": 2011,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "LanceDB",
+    "slug": "lancedb",
+    "description": "Developer-friendly, open source AI-native multimodal lakehouse.",
+    "company_url": "https://www.lancedb.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0bb4cbc2215657625b253c2a9aa99bb3cfaac7fd-1170x273.png",
+    "founders": [
+      "Chang She",
+      "Lei Xu"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Legit",
+    "slug": "legit",
+    "description": "Legit is the only ASPM platform purpose-built to secure AI-led application development.",
+    "company_url": "https://www.legitsecurity.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a3e56430809c3573e7c23dffff75932d04d7e7ff-131x33.svg",
+    "founders": [
+      "Lior Barak",
+      "Roni Fuchs",
+      "Liav Caspi"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Lokalise",
+    "slug": "lokalise",
+    "description": "Lokalise is the most loved and trusted localization tool – partnering with over 3,000 companies globally across product, engineering, marketing, content and design teams.",
+    "company_url": "https://lokalise.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9610504d442326f536f4db929ad45cf7575d0ed0-71x15.svg",
+    "founders": [
+      "Petr Antropov",
+      "Nick Ustinov"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Loop",
+    "slug": "loop",
+    "description": "Loop's AI-powered platform unites tracking, editing, returns, exchanges, fraud prevention, shipping and more.",
+    "company_url": "https://www.loopreturns.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/312d9d0f0229e205046d909e8f1b3b77975b0c65-500x160.svg",
+    "founders": [
+      "Hannah Bravo"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Lotus AI",
+    "slug": "lotus-ai",
+    "description": "Your AI doctor, powered by real doctors world-class primary care, free and available 24/7.",
+    "company_url": "https://lotus.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c9a84e4f3749e27c7232c60e83c9437191a58e68-599x106.svg",
+    "founders": [
+      "KJ Dhaliwal",
+      "Zekka Nelson"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Luma",
+    "slug": "luma",
+    "description": "Creative agents that make you prolific.",
+    "company_url": "https://lumalabs.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/2fc648f33a93b1213bf89b9c1f1a1b846f70f152-73x18.svg",
+    "founders": [
+      "Amit Jain",
+      "Alex Yu",
+      "Alberto Taiuti"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Mabl",
+    "slug": "mabl",
+    "description": "Mabl leverages AI to streamline test automation across web, mobile, API, accessibility and performance, empowering teams to innovate quickly and release faster while ensuring high-quality deliveries.",
+    "company_url": "https://www.mabl.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/edb5e1384c0e39c8008af857d73b0bc5ab1a7c7d-348x104.svg",
+    "founders": [
+      "Dan Belcher",
+      "Izzy Azeri"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "MeiliSearch",
+    "slug": "meilisearch",
+    "description": "Meilisearch is a RESTfull search API that is the ready-to-go solution for everyone wanting a powerful, fast and relevant search experience for their end-users.",
+    "company_url": "https://www.meilisearch.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0b93346e6474eded174a68c44cf4eb6ca7a21814-162x24.svg",
+    "founders": [
+      "Quentin de Quelen",
+      "Clement Renault",
+      "Thomas Payet"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Mercury",
+    "slug": "mercury",
+    "description": "Mercury is the fintech more than 300,000 ambitious companies and entrepreneurs trust with their finances.",
+    "company_url": "https://mercury.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0fe943205ee928569ef825e9f486a2fe7dac8bd0-139x32.svg",
+    "founders": [
+      "Immad Akhund"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "MileIQ",
+    "slug": "mileiq",
+    "description": "MileIQ automatically logs your drives and calculates their value.",
+    "company_url": "https://www.mileiq.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/160ad536d5aff19d4b81b6677fbad1f7a22dae86-180x51.svg",
+    "founders": [
+      "Chuck Dietrich",
+      "Dan Bomze"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Millennial Media",
+    "slug": "millennial-media",
+    "description": "Millennial Media is the leading mobile ad marketplace, making mobile simple for the world’s top brands, app developers and mobile web publishers.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c5c0a1fa8cd9feb8baa7b22dbfbfbc128695befe-1924x320.png",
+    "founders": [
+      "Paul Palmieri"
+    ],
+    "year_founded": 2006,
+    "year_partnered": 2007,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": 2012,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Napkin AI",
+    "slug": "napkin-ai",
+    "description": "Napkin empowers anyone to communicate their ideas visually.",
+    "company_url": "https://www.napkin.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d959ddf2538cc9f2a55d3e49ce6ff6485bb679ff-124x36.svg",
+    "founders": [
+      "Jérôme Scholler",
+      "Pramod Sharma"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Netezza",
+    "slug": "netezza",
+    "description": "Netezza delivers deep analytics, business intelligence, and AI/ML through a unified, governed and cost-effective data warehouse built for scalability and hybrid cloud flexibility.",
+    "company_url": "https://www.ibm.com/products/netezza",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/507957b333e55322a6277bc3da1b5bcb61474852-1929x497.svg",
+    "founders": [
+      "Jit Saxana"
+    ],
+    "year_founded": 2000,
+    "year_partnered": 2000,
+    "status": "Acquired",
+    "acquirer": "IBM",
+    "ticker_symbol": null,
+    "exit_year": 2010,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Niantic",
+    "slug": "niantic",
+    "description": "Niantic inspires people to explore the world, together.",
+    "company_url": "https://nianticlabs.com",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/548d3dd64441aa282ca7a49da2c9e18a153863b6-150x48.svg",
+    "founders": [
+      "John Hanke"
+    ],
+    "year_founded": 2010,
+    "year_partnered": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Nobl9",
+    "slug": "nobl9",
+    "description": "Nobl9 helps you stop reacting and start managing reliability with intent.",
+    "company_url": "https://www.nobl9.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e2f5c5aff1237ef9c2e34e6c0d106d07a067deac-445x69.svg",
+    "founders": [
+      "Marcin Kurc"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Northspyre",
+    "slug": "northspyre",
+    "description": "Transforming real estate development with automation, analytics and AI.",
+    "company_url": "https://www.northspyre.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/0f4851fd1b5c17daf3f38425eefd26c6f9108a5d-197x40.svg",
+    "founders": [
+      "William Petronella"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "PropTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Oak",
+    "slug": "oak",
+    "description": "Building the AI-native identity operating system.",
+    "company_url": "https://www.oak.id/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7969de36659197821fc7d05f2677c149f711275d-1359x437.svg",
+    "founders": [
+      "Shai Morag",
+      "Tal Marom"
+    ],
+    "year_founded": 2026,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Omen",
+    "slug": "omen",
+    "description": "Reimagining machine intelligence from the inside out with AI powered prediction.",
+    "company_url": "https://www.omen.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a3a18b672b1aa993851fe36da26f58396cfb3725-83x20.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "OneLogin",
+    "slug": "onelogin",
+    "description": "OneLogin by One Identity, a wholly owned subsidiary of Quest Software, leads the market in identity and access management.",
+    "company_url": "https://www.onelogin.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c7935d26c67a067aa87496d05cbbc25058933ffa-324x80.svg",
+    "founders": [],
+    "year_founded": 2009,
+    "year_partnered": 2010,
+    "status": "Acquired",
+    "acquirer": "One Identity by Quest",
+    "ticker_symbol": null,
+    "exit_year": 2021,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Oportun",
+    "slug": "oportun",
+    "description": "Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach.",
+    "company_url": "https://oportun.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/73d6fa36e13c4dd959e8e3dd3c278dd474bfb76f-135x34.svg",
+    "founders": [
+      "Raul Vazquez"
+    ],
+    "year_founded": 2005,
+    "year_partnered": 2007,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "OPRT",
+    "exit_year": 2019,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Osmosis",
+    "slug": "osmosis",
+    "description": "Osmosis is a reinforcement fine-tuning platform that helps companies create task-specific models that outperform foundation models at a fraction of the cost.",
+    "company_url": "https://osmosis.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5e1ab7c7d5a2f4717299c806e37b85ddff2fbc7d-109x22.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Outtake",
+    "slug": "outtake",
+    "description": "Outtake agentic AI secures modern attack surfaces with advanced search, real-time threat classification and automated response.",
+    "company_url": "https://outtake.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e96a92df7cefce67bf6957ff0b4e5e1dc01f0441-136x24.svg",
+    "founders": [
+      "Alex Arjun Dhillon"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Parabol",
+    "slug": "parabol",
+    "description": "Parabol gives structure to meetings, and turns outcomes into knowledge your whole team can search, share and build upon.",
+    "company_url": "https://www.parabol.co/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/575a7dc528bd5251cc81e784247f60eca969b668-4003x800.svg",
+    "founders": [
+      "Jordan Husney"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Patreon",
+    "slug": "patreon",
+    "description": "Patreon is the best place for creators to build community with their biggest fans, share exclusive work and turn their passions into lasting creative businesses.",
+    "company_url": "https://www.patreon.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/00904b34f2b657a39a54a7491d6c89feda7cea1e-650x131.svg",
+    "founders": [
+      "Sam Yam",
+      "Jack Conte"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Performable",
+    "slug": "performable",
+    "description": "Mid-funnel marketing automation.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/4b23b864ed029cc645f62e4bc06f5210133a15cd-1025x149.svg",
+    "founders": [],
+    "year_founded": 2010,
+    "year_partnered": 2010,
+    "status": "Acquired",
+    "acquirer": "Hubspot",
+    "ticker_symbol": null,
+    "exit_year": 2011,
+    "featured": false,
+    "everywhere_tags": [],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Periodic Labs",
+    "slug": "periodic-labs",
+    "description": "AI that accelerates discoveries across physics, chemistry and many other fields.",
+    "company_url": "https://periodic.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c2d4857ec5d758afb4a4a3649ad0aedbe9d5b6e2-1209x169.svg",
+    "founders": [
+      "Ekin Dogus Cubuk",
+      "Liam Fedus"
+    ],
+    "year_founded": 2025,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "PillPack",
+    "slug": "pillpack",
+    "description": "PillPack is a full-service pharmacy designed around your life.",
+    "company_url": "https://www.pillpack.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/70ef706b707aa5a8daeb0c7ba69f72709ae757a9-1635x1377.png",
+    "founders": [
+      "TJ Parker",
+      "Elliot Cohen"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2015,
+    "status": "Acquired",
+    "acquirer": "Amazon",
+    "ticker_symbol": null,
+    "exit_year": 2018,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Pilot",
+    "slug": "pilot",
+    "description": "Pilot provides the most reliable accounting, CFO and tax services for startups and small businesses.",
+    "company_url": "https://pilot.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6cf46bef1829556e3e12a8815619bf4c703b19c3-65x35.svg",
+    "founders": [
+      "Jessica McKellar",
+      "Waseem Daher",
+      "Jeff Arnold"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Plexium",
+    "slug": "plexium",
+    "description": "Plexium is the premier, next-generation targeted protein degradation company, seeking to discover a wide range of monovalent target protein degraders that address the limitations of PROTACs and cereblon.",
+    "company_url": "https://plexium.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/ef0e170507cbd486e7f22af8fcbdfadb1043f847-231x58.svg",
+    "founders": [
+      "Swamy Vijayan"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Postman",
+    "slug": "postman",
+    "description": "The API platform used by more than 40 million developers.",
+    "company_url": "https://www.postman.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/02cf414b2355300029cd2b2bb447c8dc60d9bad3-317x285.svg",
+    "founders": [
+      "Abhinav Asthana",
+      "Ankit Sobti",
+      "Abhijit Kane"
+    ],
+    "year_founded": 2014,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Power",
+    "slug": "power",
+    "description": "Making it easy for patients to find and access leading medical research.",
+    "company_url": "https://www.withpower.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7f7833518bd3ffd2fb1d159a02a11658b61894a8-121x23.svg",
+    "founders": [
+      "Brandon Li",
+      "Bask Gill"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Power Finance",
+    "slug": "power-finance",
+    "description": "Power was the first credit card issuer built on modern tech, from the ground up.",
+    "company_url": "https://usepower.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e291eb28e782546ef7b3063a9b3cdb69bce02631-546x109.svg",
+    "founders": [],
+    "year_founded": 2021,
+    "year_partnered": 2021,
+    "status": "Acquired",
+    "acquirer": "Marqeta",
+    "ticker_symbol": null,
+    "exit_year": 2023,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "ProjectDiscovery",
+    "slug": "projectdiscovery",
+    "description": "Detect real, exploitable vulnerabilities. Harness the power of Nuclei for fast and accurate findings without false positives.",
+    "company_url": "https://projectdiscovery.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/667b660ebaac037282085d50b948ff2205f6f17a-160x22.svg",
+    "founders": [
+      "Rishi Sharma",
+      "Sandeep Singh"
+    ],
+    "year_founded": 2021,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Protege",
+    "slug": "protege",
+    "description": "Protege is the trusted source for AI-ready, real-world data and expertise at every stage of the AI lifecycle.",
+    "company_url": "https://withprotege.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6ce8bd71c0802bf6d7d3ffbe986f780a4d1d4dd2-136x32.svg",
+    "founders": [
+      "Bobby Samuels",
+      "Travis May"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Proton",
+    "slug": "proton",
+    "description": "Protect your privacy with one encrypted ecosystem: mail, VPN, drive, pass and more.",
+    "company_url": "https://proton.me/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/653536c651009068baeedd0e597eac7b0a7e41de-98x25.svg",
+    "founders": [],
+    "year_founded": 2014,
+    "year_partnered": 2014,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Pulley",
+    "slug": "pulley",
+    "description": "Pulley makes permitting fast and predictable for commercial project teams.",
+    "company_url": "https://www.withpulley.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5ea00b3c927ad2e5f5f9e0f44b89985facfbaaa3-63x22.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Quantive",
+    "slug": "quantive",
+    "description": "Enabling organizations to improve internal alignment and maintain focus through the world's most powerful OKRs platform.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5a454d0f33c5c51648f6ee1530f3390ead320569-1004x186.svg",
+    "founders": [
+      "Ivan Osmak"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2019,
+    "status": "Acquired",
+    "acquirer": "WorkBoard",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Qubole",
+    "slug": "qubole",
+    "description": "Qubole delivers a self-service platform for big data analytics built on Amazon Web Services, Microsoft and Google Clouds.",
+    "company_url": "https://www.qubole.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/1e31a9f5b967ddeacf9f7ab4f2913fbc9599e27b-1200x484.png",
+    "founders": [
+      "Ashish Thusoo"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2011,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Recapped",
+    "slug": "recapped",
+    "description": "The AI platform that consolidates everything buyers need in one place, makes reps 2x more efficient and scores deals in real-time.",
+    "company_url": "https://www.recapped.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/de1d255b1645b5eedd320e26ec316df4f1a87855-118x20.svg",
+    "founders": [
+      "Mark Fershteyn",
+      "Ujwal Battar"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Recursion Pharmaceuticals",
+    "slug": "recursion-pharmaceuticals",
+    "description": "Decoding biology to radically improve lives.",
+    "company_url": "https://www.recursion.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/7316cc6bd32dcd539b2b70cf2145e4d456849504-465x100.svg",
+    "founders": [
+      "Blake Borgeson",
+      "Chris Gibson"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2017,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "RXRX",
+    "exit_year": 2021,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Reflection AI",
+    "slug": "reflectionai",
+    "description": "Frontier open intelligence accessible to all.",
+    "company_url": "https://reflection.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/1e51f989c3e2bd9338c3aef70d3282162b0fbe75-146x18.svg",
+    "founders": [
+      "Misha Laskin",
+      "Ioannis Antonoglou"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Release",
+    "slug": "release",
+    "description": "An ephemeral environment with every pull request.",
+    "company_url": "https://release.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/4b23cc1c895b4fd5bf3ed66a5bc242cdd0c98ae5-177x40.svg",
+    "founders": [],
+    "year_founded": 2019,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Resilience",
+    "slug": "resilience",
+    "description": "At Resilience, we’re creating a new category that integrates cybersecurity, cyber insurance and cyber risk management.",
+    "company_url": "https://cyberresilience.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/6906b1be6198a63ba17f200f9f439e081e41011e-175x30.svg",
+    "founders": [],
+    "year_founded": 2016,
+    "year_partnered": 2016,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "ResortPass",
+    "slug": "resortpass",
+    "description": "ResortPass makes it easy to indulge in the luxury of a spectacular getaway—without ever leaving town.",
+    "company_url": "https://www.resortpass.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c528de7ae1f377c308e57a524f09e5598d7fa327-1200x111.svg",
+    "founders": [
+      "Michael Wolf"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2018,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Respond",
+    "slug": "respond",
+    "description": "Respond Software is the cybersecurity investigation automation company and creator of the Respond Analyst, an XDR engine built to accelerate investigations for security operations teams.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e929639dae8989ebce6ae46d6b6c14a73a315b49-1368x459.svg",
+    "founders": [
+      "Mike Armistead"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2016,
+    "status": "Acquired",
+    "acquirer": "FireEye",
+    "ticker_symbol": null,
+    "exit_year": 2020,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Ring",
+    "slug": "ring",
+    "description": "Making neighborhoods safer.",
+    "company_url": "https://ring.com",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e347f9acb4d517495b46c8ea32d6a484cf8f3b86-47x30.svg",
+    "founders": [
+      "Jamie Siminoff"
+    ],
+    "year_founded": 2012,
+    "year_partnered": 2012,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "RPX",
+    "slug": "rpx",
+    "description": "RPX Corporation is the leading provider of patent risk solutions, offering defensive buying, acquisition syndication and patent intelligence services.",
+    "company_url": "https://www.rpxcorp.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d9b9adf308690a312cd1b7d86853169a0fc3551d-90x44.svg",
+    "founders": [
+      "John Amster"
+    ],
+    "year_founded": 2008,
+    "year_partnered": 2008,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "SalesPatriot",
+    "slug": "salespatriot",
+    "description": "For distributors and manufacturers in the defense supply chain.",
+    "company_url": "https://salespatriot.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c990aa73bbf4603398adeb8e107052ee691f8415-998x200.png",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Scanner",
+    "slug": "scanner",
+    "description": "World’s fastest and most scalable security data lake.",
+    "company_url": "https://scanner.dev/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5e88f8fdd74e97b0ee0d6dc0d1bee0c321fcc98d-98x20.svg",
+    "founders": [],
+    "year_founded": 2021,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Scribd",
+    "slug": "scribd",
+    "description": "Access millions of human-sourced documents, find the answers you're looking for and dive deeper on any topic.",
+    "company_url": "https://www.scribd.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/815401d1fddbf0e575e63aa848a71f68e92d6ba7-1000x244.svg",
+    "founders": [
+      "Jared Friedman",
+      "Trip Adler"
+    ],
+    "year_founded": 2006,
+    "year_partnered": 2008,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Sense",
+    "slug": "sense",
+    "description": "Real-time insight into your energy use and home activity.",
+    "company_url": "https://sense.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/5f74fc20a85774b75e81240a7012515e59b9a064-110x24.svg",
+    "founders": [
+      "Ryan Houlette",
+      "Christopher Micali",
+      "Mike Phillips"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2013,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Session M",
+    "slug": "session-m",
+    "description": "SessionM is a customer engagement and loyalty platform empowering the world’s most innovative brands to forge stronger and more profitable customer relationships.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e48cf5b069d62809369a1e05bbe3451086761ca2-1024x292.svg",
+    "founders": [
+      "Scott Weller",
+      "Mark Hermann",
+      "Lars Albright"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2012,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Shef",
+    "slug": "shef",
+    "description": "Meals by local personal chefs, delivered weekly.",
+    "company_url": "https://shef.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a7005e8d07cf46cb1f796f67db17dd43155df3a5-2250x1260.png",
+    "founders": [
+      "Alvin Salehi",
+      "Joey Grassia"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Signal Sciences",
+    "slug": "signal-sciences",
+    "description": "Signal Sciences is the fastest growing web application security company in the world.",
+    "company_url": "https://www.signalsciences.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/fda3a9a7bdb44ebe78d1dcd0aa8dc21783179c51-1920x279.png",
+    "founders": [
+      "Zane Lackey",
+      "Andrew Peterson",
+      "Nick Galbreath"
+    ],
+    "year_founded": 2014,
+    "year_partnered": 2017,
+    "status": "Acquired",
+    "acquirer": "Fastly (NYSE: FSLY)",
+    "ticker_symbol": null,
+    "exit_year": 2020,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "SignalFx",
+    "slug": "signalfx",
+    "description": "SignalFx enables real-time cloud monitoring and observability for infrastructure, microservices, and applications by collecting and analyzing metrics and traces across every component in your cloud environment.",
+    "company_url": "https://www.splunk.com/en_us/about-splunk/acquisitions/signalfx.html?301=/en_us/investor-relations/acquisitions/signalfx.html",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/70682fd9ca0d4542858e53692d6a79d0f0cd9de1-686x296.svg",
+    "founders": [
+      "Karthik Rau",
+      "Phillip Liu"
+    ],
+    "year_founded": 2013,
+    "year_partnered": 2015,
+    "status": "Acquired",
+    "acquirer": "Splunk",
+    "ticker_symbol": null,
+    "exit_year": 2019,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "SimpliVity",
+    "slug": "simplivity",
+    "description": "Simplifying IT systems with software-defined, hyper converged infrastructure.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/eb1b5c20ad3e6584b012daf5b23e0a0d3fbe5f67-2048x529.svg",
+    "founders": [
+      "Doron Kempel"
+    ],
+    "year_founded": 2009,
+    "year_partnered": 2009,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Siro",
+    "slug": "siro",
+    "description": "Building an AI coach for field sales.",
+    "company_url": "https://siro.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/36dedcc544db062b48b1cf9d8802f4e90edfbae8-1424x304.png",
+    "founders": [
+      "Jake Cronin",
+      "Joe Jordan"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2023,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Skild AI",
+    "slug": "skild-ai",
+    "description": "Building general purpose robotic intelligence.",
+    "company_url": "https://www.skild.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/19fca9230f6aad6ae225a416d6d4505e61df7969-173x40.svg",
+    "founders": [
+      "Deepak Pathak",
+      "Abhinav Gupta"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2024,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Sleuth",
+    "slug": "sleuth",
+    "description": "Sleuth helps engineering achieve alignment with the business, and ensure predictable delivery with operational excellence.",
+    "company_url": "https://www.sleuth.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/e65ef4005d60b76ef8cff65523665c1c5b5a9779-2037x1348.png",
+    "founders": [
+      "Dylan Etkin",
+      "Don Brown",
+      "Michael Knighten"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Sonus Networks",
+    "slug": "sonus-networks",
+    "description": "Communications software and network solutions.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/104ab0d0d27e2e523c70cd3ce97815e051359714-1400x262.svg",
+    "founders": [],
+    "year_founded": 1997,
+    "year_partnered": 1997,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": 2000,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Speechworks",
+    "slug": "speechworks",
+    "description": "Pioneering speech recognition computer-software.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/87e053ada700f4d1c8e270fcb8df7f7871796543-461x113.svg",
+    "founders": [],
+    "year_founded": 1994,
+    "year_partnered": 1995,
+    "status": "Acquired",
+    "acquirer": "ScanSoft",
+    "ticker_symbol": "NASDAQ:SPWX",
+    "exit_year": 2003,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Squire",
+    "slug": "squire",
+    "description": "All-in-one barbershop management platform.",
+    "company_url": "https://getsquire.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/604af0788f78a46b484b33299281a338124fa428-77x28.svg",
+    "founders": [
+      "Songe LaRon",
+      "Dave Salvant"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Standard AI",
+    "slug": "standard-ai",
+    "description": "Bringing the power of AI to physical retail.",
+    "company_url": "https://standard.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/fba93745f975fc0a41ecce1b6166ecc839dc4d31-335x47.svg",
+    "founders": [
+      "Angie Westbrock"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Standard Template Labs",
+    "slug": "standard-template-labs",
+    "description": "Standard Template Labs is building a new system that learns how enterprise work happens and applies that understanding to reduce manual coordination.",
+    "company_url": "https://stlabs.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3cfe52710268996ccaf35b6ffa214f13021d68b9-771x183.svg",
+    "founders": [
+      "Amit Agarwal"
+    ],
+    "year_founded": 2025,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Startree",
+    "slug": "startree",
+    "description": "StarTree, powered by Apache Pinot™, is the platform for continuous insights at scale.",
+    "company_url": "https://startree.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/1b3b2ddfed43f3a23c6f24d26c5780af1a3643ce-500x84.svg",
+    "founders": [
+      "Kishore Gopalakrishna"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Storyboard",
+    "slug": "storyboard",
+    "description": "The Fleet AI Assistant that ends phone calls, drives compliance, and boosts productivity—all through voice.",
+    "company_url": "https://storyboard.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3a4511ea7f34d6243f6d4919081d6e45a6478c7c-791x115.svg",
+    "founders": [
+      "JP Gooderham"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Strapi",
+    "slug": "strapi",
+    "description": "The open-source headless CMS for AI powered websites and apps.",
+    "company_url": "https://strapi.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9e074428dba984891bab0747faf9bd47caac43f6-132x32.svg",
+    "founders": [
+      "Aurélien Georget",
+      "Pierre Burgy",
+      "Jim Laurie"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Switch Therapeutics",
+    "slug": "switch-therapeutics",
+    "description": "Switch Therapeutics is developing biomarker-gated, innovative genetic medicines to transform the treatment of central nervous system diseases.",
+    "company_url": "https://www.switchthera.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/c800f35599e188593e83d8e0cabc79ae4f6b4d93-336x133.svg",
+    "founders": [
+      "Dee Datta"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Sybase",
+    "slug": "sybase",
+    "description": "The first high-performance database management system for online applications.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d9e611a2509b5eb210014895bb63465fd86a3dab-1779x488.svg",
+    "founders": [],
+    "year_founded": 1984,
+    "year_partnered": 1986,
+    "status": "Acquired",
+    "acquirer": "SAP",
+    "ticker_symbol": "NYSE: SY",
+    "exit_year": 2010,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Tailscale",
+    "slug": "tailscale",
+    "description": "Simple, secure networks for teams of any scale.",
+    "company_url": "https://tailscale.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/059dadda54af0c3157efd852b9a9dca499a8db27-145x28.svg",
+    "founders": [
+      "Avery Pennarun"
+    ],
+    "year_founded": 2019,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Talon One",
+    "slug": "talon-one",
+    "description": "The leading incentives engine that powers loyalty programs and promotions for the world’s most-loved brands.",
+    "company_url": "https://www.talon.one/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/59a219626a938d303257196c928f76703bad0b15-118x23.svg",
+    "founders": [
+      "Christoph Gerber",
+      "Sebastian Haas"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2020,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Taste",
+    "slug": "taste",
+    "description": "Making AI models and agents feel right, starting with design.",
+    "company_url": "https://tastelabs.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/8deff75e78d6e35fbf8c676b1d5fb7858d774250-2134x386.png",
+    "founders": [
+      "Thais Castello Branco"
+    ],
+    "year_founded": 2025,
+    "year_partnered": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Tavus",
+    "slug": "tavus",
+    "description": "Tavus is a research lab pioneering human computing.",
+    "company_url": "https://www.tavus.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/2707f87bdf4e60a8260d9e472e6622add14ee69d-102x20.svg",
+    "founders": [],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Theker",
+    "slug": "theker",
+    "description": "Building AI-native generalist robots for industrial production environments.",
+    "company_url": "https://www.theker.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/df0d2c431b91fdebe01239306b48027eebf4f08d-2714x677.png",
+    "founders": [
+      "Carla Gómez Cano",
+      "Jiaqiang Ye Zhu"
+    ],
+    "year_founded": 2022,
+    "year_partnered": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Thesis",
+    "slug": "thesis",
+    "description": "AI-powered care team platform for scalable clinical capacity.",
+    "company_url": "https://thesiscare.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b332354176ee4d91faea371faba2095d3ee0195a-97x24.svg",
+    "founders": [
+      "Niren Gandra",
+      "Aditya Pandyaram"
+    ],
+    "year_founded": 2024,
+    "year_partnered": 2026,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Tinybird",
+    "slug": "tinybird",
+    "description": "The analytics backend for your app.",
+    "company_url": "https://www.tinybird.co/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d3895b1a38ccb27d72335bc78d83c113d6258a02-109x25.svg",
+    "founders": [],
+    "year_founded": 2019,
+    "year_partnered": 2022,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Trail Security",
+    "slug": "trail-security",
+    "description": "A next-generation data loss prevention company.",
+    "company_url": "https://www.cyera.io/platform/data-loss-prevention",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/a279446737be929753d67fafbb5541e1298f7b0d-800x800.svg",
+    "founders": [
+      "Zohar Vittenberg",
+      "Nadav Zingerman",
+      "Roei Mutay"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2024,
+    "status": "Acquired",
+    "acquirer": "Cyera",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Udacity",
+    "slug": "udacity",
+    "description": "With over a decade of experience creating digital talent at scale, Udacity’s comprehensive solutions address the global talent shortages impacting growth, productivity and innovation.",
+    "company_url": "https://www.udacity.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/9053b2a58516624b729c3cdbc771bc8e4ced9301-144x35.svg",
+    "founders": [
+      "Sebastian Thrun"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2011,
+    "status": "Acquired",
+    "acquirer": "Accenture",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Upstream Security",
+    "slug": "upstream-security",
+    "description": "Powering connected vehicle cybersecurity and data management.",
+    "company_url": "https://upstream.auto/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/46615df08b0d5d3f9606100de02527ee9feb93f3-147x30.svg",
+    "founders": [
+      "Yoav Levy",
+      "Yonatan Appel"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2017,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Vega",
+    "slug": "vega",
+    "description": "Redefining the boundaries of security operations by eliminating the limits and compromises of the past.",
+    "company_url": "https://vega.io/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/1ec047575478ba360750ceedc87b7ff69b058920-1600x490.png",
+    "founders": [
+      "Shay Sandler",
+      "Eli Rozen"
+    ],
+    "year_founded": null,
+    "year_partnered": 2025,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "slug": "vercel",
+    "description": "Self-driving infrastructure for apps and agents.",
+    "company_url": "https://vercel.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/69c8c6da8b67b97e614d6fddedb4b11752de09ce-261x52.svg",
+    "founders": [
+      "Guillermo Rauch"
+    ],
+    "year_founded": 2015,
+    "year_partnered": 2015,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Viki",
+    "slug": "viki",
+    "description": "Video streaming service with over 35 million monthly active users.",
+    "company_url": "https://www.viki.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b23bd3fe6a5b280a09ba6b12f0759d3abd801134-499x392.svg",
+    "founders": [
+      "Changseong Ho",
+      "Jiwon Moon",
+      "Razmig Hovaghimian"
+    ],
+    "year_founded": 2007,
+    "year_partnered": 2008,
+    "status": "Acquired",
+    "acquirer": "Rakuten",
+    "ticker_symbol": null,
+    "exit_year": 2013,
+    "featured": false,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Virtusa",
+    "slug": "virtusa",
+    "description": "Business transformation that lasts starts with engineering first.",
+    "company_url": "https://www.virtusa.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3e19af86e764ff4d16617a83f9a4e35ac9668779-272x64.svg",
+    "founders": [],
+    "year_founded": 1996,
+    "year_partnered": 2000,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "VRTU",
+    "exit_year": 2007,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Viz.ai",
+    "slug": "viz-ai",
+    "description": "AI-powered care coordination solution closing the gaps between patients, clinicians and life-saving treatments.",
+    "company_url": "https://www.viz.ai/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/1e7d75a6ae0f2802c3133d41abd1318f870a957b-97x53.svg",
+    "founders": [
+      "David Golan",
+      "Chris Mansi"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Vlingo",
+    "slug": "vlingo",
+    "description": "Voice-powered user interface that unlocks access to mobile phone wireless data services.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/8c2d7790bf588d2c40da6b9ad1872df40c3e8566-846x305.svg",
+    "founders": [],
+    "year_founded": 2006,
+    "year_partnered": 2006,
+    "status": "Acquired",
+    "acquirer": "Nuance Communications",
+    "ticker_symbol": null,
+    "exit_year": 2011,
+    "featured": false,
+    "everywhere_tags": [],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Voyage",
+    "slug": "voyage",
+    "description": "Voyage is delivering on the promise of self-driving cars.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/f99a8fe57fb4a10ec462eeaddd00067a731fb75b-1909x530.svg",
+    "founders": [
+      "Oliver Cameron"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2017,
+    "status": "Acquired",
+    "acquirer": "Cruise",
+    "ticker_symbol": null,
+    "exit_year": 2021,
+    "featured": false,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Voyage AI",
+    "slug": "voyage-ai",
+    "description": "Building embedding/vectorization models, customized for your domain and company, for better retrieval quality.",
+    "company_url": "https://www.voyageai.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/614a0134411e98ac087df544531ca261a67c3be3-1051x338.svg",
+    "founders": [
+      "Tengyu Ma"
+    ],
+    "year_founded": 2023,
+    "year_partnered": 2024,
+    "status": "Acquired",
+    "acquirer": "MongoDB",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "featured": false,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Wave",
+    "slug": "wave",
+    "description": "One-stop money management for small business owners.",
+    "company_url": "https://www.waveapps.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/f787cdd45a98a9fee5ddada57c87437ef765ebfb-1626x468.svg",
+    "founders": [
+      "Kirk Simpson",
+      "James Lochrie"
+    ],
+    "year_founded": 2010,
+    "year_partnered": 2011,
+    "status": "Acquired",
+    "acquirer": "H&R Block",
+    "ticker_symbol": null,
+    "exit_year": 2019,
+    "featured": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Wheel",
+    "slug": "wheel",
+    "description": "A leading provider of telehealth and virtual care solutions that set the standard in next-generation healthcare delivery.",
+    "company_url": "https://www.wheel.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3f2cc531f05f38e229ddf02e6af854acf9073b08-107x30.svg",
+    "founders": [
+      "Michelle Davey",
+      "Griffin Mulcahey"
+    ],
+    "year_founded": 2018,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Health",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "WildType",
+    "slug": "wild-type",
+    "description": "Making cultivated seafood, starting with sushi-grade salmon.",
+    "company_url": "https://www.wildtypefoods.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/84aae037a0576a93cb999c10a8c8b88387dbf833-144x24.svg",
+    "founders": [
+      "Justin Kolbeck",
+      "Aryé Elfenbein"
+    ],
+    "year_founded": 2016,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Wish",
+    "slug": "wish",
+    "description": "Wish is a mobile e-commerce platform that connects millions of consumers with the widest selection of products delivered directly to their doors.",
+    "company_url": "https://www.wish.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/b2a4fc673191042934b886851884357a1c600c5b-66x23.svg",
+    "founders": [
+      "Piotr Szulczewski",
+      "Danny Zhang"
+    ],
+    "year_founded": 2010,
+    "year_partnered": 2010,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "Nasdaq:WISH",
+    "exit_year": 2020,
+    "featured": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Wonderment",
+    "slug": "wonderment",
+    "description": "Wonderment helps Shopify brands reduce support tix, improve retention & increase upsells with a better order tracking experience.",
+    "company_url": "https://www.wonderment.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d8f4afdb6904f467eb5e5b30eff210c003dc52f0-2014x386.png",
+    "founders": [
+      "Wesley Abbey",
+      "Jessica Meher",
+      "Brian Whalley",
+      "Zac Saunders"
+    ],
+    "year_founded": null,
+    "year_partnered": 2021,
+    "status": "Acquired",
+    "acquirer": "Loop",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "featured": false,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Workstream",
+    "slug": "workstream",
+    "description": "Workstream is the smarter way to hire and retain hourly workers.",
+    "company_url": "https://www.workstream.us/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/591629f680381ce5ff4f11a53b0e1685f3229083-215x30.svg",
+    "founders": [
+      "Desmond Lim",
+      "Max Wang",
+      "Lei Xu"
+    ],
+    "year_founded": 2017,
+    "year_partnered": 2019,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "X",
+    "slug": "x",
+    "description": "Giving everyone the power to create and share ideas and information instantly, without barriers.",
+    "company_url": "https://x.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/46edf8038f7fdd08d55a98d6d0a152929db75049-20x20.svg",
+    "founders": [
+      "Jack Dorsey",
+      "Biz Stone",
+      "Ev Williams",
+      "Dick Costello"
+    ],
+    "year_founded": 2006,
+    "year_partnered": 2007,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "TWTR",
+    "exit_year": 2013,
+    "featured": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Xamarin",
+    "slug": "xamarin",
+    "description": "Cross-platform development software simplifying mobile app building.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/60fbc19a1b6670000f4fd80e40c3576af1aeb92f-2136x522.png",
+    "founders": [
+      "Nat Freidman",
+      "Miguel de Icaza"
+    ],
+    "year_founded": 2011,
+    "year_partnered": 2012,
+    "status": "Acquired",
+    "acquirer": "Microsoft",
+    "ticker_symbol": null,
+    "exit_year": 2016,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Yammer",
+    "slug": "yammer",
+    "description": "Connecting and engaging employees across organizations.",
+    "company_url": null,
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/440c6c3b69df5f1aef59993ab69be8533a8f6578-1007x211.svg",
+    "founders": [
+      "David Sacks"
+    ],
+    "year_founded": 2008,
+    "year_partnered": 2008,
+    "status": "Acquired",
+    "acquirer": "Microsoft",
+    "ticker_symbol": null,
+    "exit_year": 2012,
+    "featured": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Zendesk",
+    "slug": "zendesk",
+    "description": "Zendesk powers exceptional service for every person on the planet.",
+    "company_url": "https://www.zendesk.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/d9b93c5e01393e95895b014a5ff5862998f0cbca-79x57.svg",
+    "founders": [
+      "Alexander Aghassipour",
+      "Morten Morten",
+      "Mikkel Svane"
+    ],
+    "year_founded": 2007,
+    "year_partnered": 2009,
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "ZEN",
+    "exit_year": 2014,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Zerto",
+    "slug": "zerto",
+    "description": "Empowers customers to run an always-on business by simplifying the protection, recovery and mobility of on-premises and cloud applications.",
+    "company_url": "https://www.zerto.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/84b56ac3096ef491736857eea503611a3e448b44-1080x552.png",
+    "founders": [
+      "Ziv Kadem"
+    ],
+    "year_founded": 2009,
+    "year_partnered": 2016,
+    "status": "Acquired",
+    "acquirer": "Hewlett Packard Enterprise",
+    "ticker_symbol": null,
+    "exit_year": 2021,
+    "featured": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  },
+  {
+    "company_name": "Zip",
+    "slug": "zip",
+    "description": "Zip is the world's leading intake and procurement orchestration platform: one place for any employee to initiate a purchase or vendor request.",
+    "company_url": "https://ziphq.com/",
+    "logo_url": "https://cdn.sanity.io/images/58537uhq/production/3f4e8340d23263f237fb0d7f02bb8fd7d5831b7a-54x36.svg",
+    "founders": [
+      "Lu Cheng",
+      "Rujul Zaparde"
+    ],
+    "year_founded": 2020,
+    "year_partnered": 2021,
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "featured": true,
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crv.com/companies",
+    "scraped_at": "2026-08-03T08:14:24.530483+00:00"
+  }
+]

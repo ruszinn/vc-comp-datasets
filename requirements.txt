@@ -1,0 +1,4 @@
+# Repo-root requirements so Railway's nixpacks builder installs deps for the
+# nightly pipeline (and the bespoke scrapers it runs). Pure requests + bs4.
+requests==2.32.3
+beautifulsoup4==4.12.3

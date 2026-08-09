@@ -1,0 +1,2079 @@
+[
+  {
+    "company_name": "Apaluma",
+    "company_url": "https://www.apaluma.com/",
+    "description": "A unified platform for government data",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Abstract Security",
+    "company_url": "https://www.abstract.security/",
+    "description": "Data platform with an AI-powered assistant to centralize the management of security analytics. Transcends next-gen SIEM solutions by real-time data correlation between streams, optimizing detection efficiency and reducing costs",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "aescape",
+    "company_url": "https://www.aescape.co/",
+    "description": "A robotics company building intelligent, highly personalized wellness experiences designed to help people have better relationships with their bodies",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Airvine",
+    "company_url": "https://airvine.com/",
+    "description": "Silicon Valley-based innovator of intelligent broadband wireless backhaul solutions for the enterprise",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Aizon",
+    "company_url": "https://www.aizon.ai/",
+    "description": "Data analytics application for industrial processes in biotech and pharma manufacturing",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "BioTech",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Akua",
+    "company_url": "https://www.akua-inc.com/",
+    "description": "Global real-time visibility, security and analytics platform for tracking and monitoring high value cargo",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Aliro",
+    "company_url": "https://www.aliroquantum.com",
+    "description": "Harvard University spinout building a quantum computing software development platform",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Amplify",
+    "company_url": "https://getamplifylife.com/",
+    "description": "Digital life insurance platform that offers consumers trustworthy advice and ethical life insurance products they can use while living",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Ancestry.com",
+    "company_url": "https://www.ancestry.com/",
+    "description": "Online genealogical services Acquired by Permira",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "AnyTeam",
+    "company_url": "https://www.anyteam.com/",
+    "description": "The world's first AI-native Sales operating system (OS), purpose-built for B2B sales professionals",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Argo Space",
+    "company_url": "https://www.argospace.com/",
+    "description": "Provides in-space transportation for satellites and payloads from LEO to GEO, Lunar Orbit, and beyond, using refuellable, high-deltaV transport vehicles",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Argon AI",
+    "company_url": "https://argon-ai.com/",
+    "description": "AI automating clinical and commercial workflows for life science professionals",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Armory",
+    "company_url": "https://www.armory.io",
+    "description": "Continuous delivery software platform leveraging open source Spinnaker Acquired by  Harness",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Arro",
+    "company_url": "https://www.arrofinance.com/",
+    "description": "Credit platform that empowers U.S. consumers to grow their credit through financial literacy training and behavioral science incentives",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Arturo",
+    "company_url": "https://www.arturo.ai/",
+    "description": "Data insights and predictions for insurers of residential properties",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "AutoFi",
+    "company_url": "http://www.autofi.com/",
+    "description": "Financial technology solution for the auto industry",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Backer",
+    "company_url": "https://backer.com",
+    "description": "World’s first social college fund",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Barndoor AI",
+    "company_url": "https://barndoor.ai/",
+    "description": "Provides a single platform to control access, enforce policy, and monitor the activity of AI agents across organizations",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "BetterUp",
+    "company_url": "https://www.betterup.com/",
+    "description": "Leadership development platform bringing personalized coaching to employees at all levels",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Bizo",
+    "company_url": "https://business.linkedin.com/marketing-solutions",
+    "description": "Business audience marketing platform Acquired by LinkedIn",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Bleacher Report",
+    "company_url": "http://bleacherreport.com/",
+    "description": "Open source sports network and community publishing site Acquired by Time Warner",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "BlueArc",
+    "company_url": "https://www.hitachivantara.com/en-us/home.html",
+    "description": "Provider of high performance unified network storage systems to enterprise markets Acquired by Hitachi Data Systems",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Bluefields",
+    "company_url": "https://bluefieldsspecialty.com/",
+    "description": "Tech-enabled insurance platform that builds curated insurance programs for underserved specialty markets",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Bolster",
+    "company_url": "https://bolster.ai/",
+    "description": "Automated detection and takedown of phishing and counterfeit websites",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Brace",
+    "company_url": "https://brace.ai/",
+    "description": "Software to revolutionize loan servicing",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Brightmail",
+    "company_url": "https://www.broadcom.com/",
+    "description": "Anti-spam & virus software Acquired by Symantec",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Britive",
+    "company_url": "https://www.britive.com/",
+    "description": "Privileged access management solution that helps enterprise assign, monitor, and manage privileged access across applications and infrastructure",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "BuildingConnected",
+    "company_url": "https://www.buildingconnected.com/",
+    "description": "The pre-construction bid management platform Acquired by Autodesk (ADSK)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "BuildVision",
+    "company_url": "https://www.buildvision.io/",
+    "description": "Commercial construction procurement platform revolutionizing the construction supply chain",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "PropTech"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Byte Kitchen",
+    "company_url": "https://www.bytekitchen.io/",
+    "description": "A food delivery platform that enables independent restaurants to expand their geographic footprint with minimal upfront investment",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Carbonite",
+    "company_url": "https://www.carbonite.com/",
+    "description": "Online backup service for consumers and small businesses IPO (CARB)",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Casetext",
+    "company_url": "https://casetext.com/",
+    "description": "Utilizes AI and machine learning to create technology solutions for legal professionals, enhancing efficiency and representation quality Acquired by Thomson Reuters",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Casper",
+    "company_url": "https://casper.com/",
+    "description": "Leading direct-to-consumer mattresses and sleep products IPO (CSPR)",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Catch",
+    "company_url": "https://catch.co/",
+    "description": "Personal benefits platform for the next generation of independent workers",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Chime",
+    "company_url": "https://www.chime.com/",
+    "description": "Leading U.S. challenger bank IPO (NASDAQ: CHYM)",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Clasp",
+    "company_url": "https://www.clasp.com/",
+    "description": "Fintech platform connecting students, employers, and institutions through employer-sponsored loans, focused on reducing student debt and fostering long-term employer-employee commitments",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Cleary",
+    "company_url": "https://www.gocleary.com/",
+    "description": "Employee experience platform that helps companies personalize internal communications",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Clovers",
+    "company_url": "https://clovers.ai/",
+    "description": "Interview intelligence platform built to help organizations uncover bias and hire faster",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Clyde",
+    "company_url": "https://www.joinclyde.com/",
+    "description": "Enabling retailers to launch extended warranty and accident protection programs",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Coa",
+    "company_url": "https://www.joincoa.com/",
+    "description": "A platform that is making mental health and emotional fitness more accessible through tech-enabled products and services",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Comparably",
+    "company_url": "https://www.comparably.com/",
+    "description": "A platform that provides culture and compensation data for public and private companies Acquired by ZoomInfo",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Coupa",
+    "company_url": "https://www.coupa.com/",
+    "description": "Cloud-based purchasing and procurement software IPO (NASDAQ: COUP)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Darkhive",
+    "company_url": "https://www.darkhive.ai/",
+    "description": "Develops autonomous drones for commercial and government personnel designed to be scalable in cost, deployment, and management",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "RegTech/Gov/Legal",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "DataStax",
+    "company_url": "https://www.datastax.com/",
+    "description": "Helps harness crucial enterprise data to scale Generative AI using technologies like Astra DB and DataStax Enterprise—vector and NoSQL databases powered by Apache Cassandra—and Langflow, the open-source tool for low-code AI application development Acquired by IBM",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Denim",
+    "company_url": "https://www.denim.com/ ",
+    "description": "Enables freight brokers to streamline broker operations and attract the best carrier relationships through its intuitive payments platform",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Descartes Labs",
+    "company_url": "https://www.descarteslabs.com/",
+    "description": "Geospatial AI platform to build predictive models for happenings on the planet",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Enigma",
+    "company_url": "https://enigma.com/",
+    "description": "Connects real world and internal data to bring intelligence to critical decisions",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Enview",
+    "company_url": "https://enview.com/",
+    "description": "Geospatial AI to protect the world's critical infrastructure Acquired by Matterport (MTTR)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Equinix",
+    "company_url": "https://www.equinix.com/",
+    "description": "Internet hosting services IPO (EQIX)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Espresa",
+    "company_url": "https://www.espresa.com/",
+    "description": "A culture benefits platform that supports HR and people teams",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Everyset",
+    "company_url": "https://www.everyset.com/",
+    "description": "Integrated film and media production platform",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "FairClaims",
+    "company_url": "https://www.fairclaims.com/",
+    "description": "Online dispute resolution platform for enterprises",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Feedback Loop",
+    "company_url": "https://feedbackloop.com/",
+    "description": "The agile research platform for rapid consumer feedback Acquired by DISQO",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Flo Technologies",
+    "company_url": "https://meetflo.com/",
+    "description": "Connected water control system Acquired by Moen",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Flume Health",
+    "company_url": "https://flumehealth.com/",
+    "description": "The infrastructure layer for a new generation of health plans",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Flurry",
+    "company_url": "https://www.flurry.com/",
+    "description": "Mobile app analytics and advertising platform Acquired by Yahoo!",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Folia Health",
+    "company_url": "https://www.foliahealth.com/",
+    "description": "A patient-centered health platform that uses smart mobile technology to improve care outcomes for individuals with complex medical conditions by enabling high-quality data capture, tracking, and sharing with care teams",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Forma AI",
+    "company_url": "https://www.forma.ai/",
+    "description": "Automating sales compensation for the enterprise",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Fountain",
+    "company_url": "https://get.fountain.com/",
+    "description": "An enterprise hiring platform for hourly workers",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Good Technology",
+    "company_url": "https://www.blackberry.com/us/en",
+    "description": "Provider of enterprise mobile computing software and services Acquired by BlackBerry",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Great Jones",
+    "company_url": "https://www.greatjones.co/",
+    "description": "End-to-end residential property management platform Acquired by Roofstock",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Gridwise",
+    "company_url": "https://gridwise.io/",
+    "description": "Leading business app for helping rideshare and gig drivers maximize and track earnings, expenses, profitability, and mileage",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Griptape",
+    "company_url": "https://www.griptape.ai/",
+    "description": "Developer platform for building and deploying enterprise-grade AI applications Acquired by Foundry",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Hamlet",
+    "company_url": "https://www.myhamlet.com/",
+    "description": "Empowers communities by transforming local information into accessible insights shared via newsletters, fostering well-informed residents. Coverage includes real estate, development, business updates, safety, voter guides, and more",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "PropTech"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "HamsaPay",
+    "company_url": "https://www.hamsapay.com/",
+    "description": "World's first smart B2B cross-border payments & trade finance network",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Hansa",
+    "company_url": "https://www.withhansa.com/",
+    "description": "Business intelligence platform helping commercial lenders reduce delinquency risk and offer credit-building products to their borrowers",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Harness",
+    "company_url": "https://www.harness.io/",
+    "description": "Integrates, orchestrates, and automates security throughout the code development lifecycle",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "HitRecord",
+    "company_url": "https://hitrecord.org/",
+    "description": "A cloud-based platform for collaboration on creative projects",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Homelight",
+    "company_url": "https://www.homelight.com/",
+    "description": "An online marketplace connecting home sellers with real estate agents",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Huckleberry",
+    "company_url": "https://huckleberry.com/",
+    "description": "Simplifying insurance for small businesses",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Hungryroot",
+    "company_url": "https://www.hungryroot.com/",
+    "description": "An AI-powered personal grocery service delivering healthy food with recipe and meal planning support",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Inpher",
+    "company_url": "https://www.inpher.io/",
+    "description": "Enables its customers to run advanced multi party analytics without sharing sensitive data Acquired by Arcium",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Inscribe",
+    "company_url": "https://www.inscribe.ai/",
+    "description": "Automating document verification using NLP and computer vision technology",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Intangible",
+    "company_url": "https://www.intangible.ai/",
+    "description": "AI-native 3D platform that lets creative teams in media and entertainment build, iterate and share high-quality scenes, images and videos",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Inverse",
+    "company_url": "https://www.inverse.com",
+    "description": "A technology-driven media company focused on emerging ideas, new technologies and trends",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Iron Ox",
+    "company_url": "https://ironox.com/",
+    "description": "The world’s first autonomous farm, powered by robotics, AI, and advanced plant science",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Jargon",
+    "company_url": "https://www.jargon.com/",
+    "description": "A content management system for voice, empowering teams to author and manage voice apps Acquired by Remitly (RELY)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "JustiFi",
+    "company_url": "https://www.justifi.ai/",
+    "description": "Embedded fintech platform built for vertical SaaS platforms and marketplaces",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Kinetic",
+    "company_url": "https://www.wearkinetic.com/",
+    "description": "Wearable device and analytics platform that enables a more connected industrial workforce",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Knapsack",
+    "company_url": "https://www.knapsack.cloud/",
+    "description": "An enterprise-grade design system platform that helps cross-functional teams create shared workflows that result in code reuse, leading to efficient, scalable, and better user experiences",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Koan",
+    "company_url": "https://www.koan.co/",
+    "description": "SaaS system to collaboratively manage goals and OKRs across organizations",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Koxa",
+    "company_url": "https://www.koxa.io/",
+    "description": "An API platform that connects ERPs and accounting software directly to corporate bank accounts",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Leapfin",
+    "company_url": "https://leapfin.com/",
+    "description": "Financial Data Management solution that provides CFOs with confidence in their GAAP financials so they can trust their strategic decisions Acquired by Airwallex",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "LearnLux",
+    "company_url": "https://learnlux.com/",
+    "description": "Financial wellness platform that provides trusted financial planning resources for all employees",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Like.com",
+    "company_url": "https://www.google.com/",
+    "description": "Visual search and e-commerce engine Acquired by Google",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Liminary",
+    "company_url": "https://www.liminary.io/",
+    "description": "AI productivity platform for knowledge workers",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Magma Design",
+    "company_url": "https://www.synopsys.com/",
+    "description": "Electronic design automation software Acquired by Synopsys",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Marble",
+    "company_url": "https://www.marbleapi.com/",
+    "description": "A versatile and powerful API built to power digital health innovation",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "MarketDial",
+    "company_url": "https://marketdial.com/",
+    "description": "In-store experiment and data platform for retail",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Molekule",
+    "company_url": "https://molekule.com/",
+    "description": "Next-generation, molecular-level air purification using nanotechnology and PECO",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Nav",
+    "company_url": "https://www.nav.com/",
+    "description": "A B2B credit and financing tool for SMBs to manage their business credit",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Near Space Labs",
+    "company_url": "https://nearspacelabs.com/",
+    "description": "Providing high-resolution, updated imagery with the largest zero-emission balloon fleet in the stratosphere",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Norby",
+    "company_url": "https://www.norby.live/",
+    "description": "An audience engagement platform built for creators and community builders",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Novo",
+    "company_url": "https://banknovo.com/",
+    "description": "A modern banking platform for SMBs",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Omada AI",
+    "company_url": "https://omada.ai/",
+    "description": "AI marketing team that proactively manages SMB growth end-to-end",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Omniture",
+    "company_url": "https://www.adobe.com/experience-cloud.html",
+    "description": "Online marketing and web analytics Acquired by Adobe Web Analytics",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Oncue",
+    "company_url": "https://www.oncue.co/",
+    "description": "A virtual booking service and software platform for the $20B moving services industry",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "OPT Industries",
+    "company_url": "https://optindustries.com/",
+    "description": "An advanced digital manufacturing suite, specializing in designing and mass-producing consumer products",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Overjet",
+    "company_url": "https://www.overjet.ai/",
+    "description": "AI to automate the analysis of clinical data for the dental industry",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Pandora",
+    "company_url": "https://www.pandora.com/",
+    "description": "Music streaming and automated music recommendation internet radio service IPO (P)",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Personal Capital",
+    "company_url": "https://www.personalcapital.com/",
+    "description": "Online wealth management and financial advisory platform Acquired by Empower Retirement",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Phil",
+    "company_url": "https://phil.us/",
+    "description": "Platform for prescription management and delivery",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Postmates",
+    "company_url": "https://postmates.com/",
+    "description": "Local, on-demand delivery from any merchant Acquired by Uber",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "PowerToFly",
+    "company_url": "https://powertofly.com/",
+    "description": "An online hiring platform to place experienced diverse candidates in remote jobs",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "preNAV",
+    "company_url": "https://www.prenav.com/",
+    "description": "AI and drone platform to digitize and inspect critical infrastructure",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Primer Technologies",
+    "company_url": "https://primer.ai/",
+    "description": "ML platform that reads and summarizes documents for enterprises and governments",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Provarity",
+    "company_url": "https://www.provarity.com/",
+    "description": "Presales platform that enables companies to streamline the POC process",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Pulse",
+    "company_url": "https://getpulse.team/",
+    "description": "Automatic status for Slack",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Qualiti",
+    "company_url": "https://www.qualiti.ai/",
+    "description": "AI-driven automated software testing platform",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Quokka",
+    "company_url": "https://www.quokka.io/",
+    "description": "A digital security and privacy company, that offers proactive, light-touch security solutions that put users and their privacy first",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Rainforest",
+    "company_url": "https://www.rainforestqa.com/",
+    "description": "Modern testing for web and mobile apps",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "RealBlocks",
+    "company_url": "https://www.realblocks.com/home",
+    "description": "Technology platform that connects advisors and investors to the best alternative investment managers",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Rebag",
+    "company_url": "https://rebag.com/",
+    "description": "Omni-channel platform for buying and selling luxury goods",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Rec",
+    "company_url": "https://www.rec.us/",
+    "description": "Platform connecting Parks & Rec departments, coaches, and city residents—making it seamless to book, manage, and engage in recreational activities",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Reltio",
+    "company_url": "https://www.reltio.com/",
+    "description": "Master data management platform to manage connected customer data in the enterprise",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Revelstoke",
+    "company_url": "https://www.revelstoke.io/",
+    "description": "The first low-code, high-speed Security Orchestration, Automation and Response Platform built on a Unified Data Layer. Next-gen SOAR gives SOC teams the power to work smarter, faster and more effectively than ever before Acquired by Arctic Wolf",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Roofr",
+    "company_url": "https://roofr.com/",
+    "description": "Workflow automation software for roofing contractors",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Saba",
+    "company_url": "https://www.saba.com/",
+    "description": "Enterprise learning management software IPO (SABA)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "SeaMicro",
+    "company_url": "https://www.amd.com/en",
+    "description": "New generation of lower power computing systems Acquired by Advanced Micro Devices",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Security Advisor",
+    "company_url": "https://www.knowbe4.com/security-advisor",
+    "description": "Provides the only real-time and personalized security awareness platform that delivers a measurable reduction in security incidents Acquired by KnowBe4 (KNBE)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Servicemax",
+    "company_url": "https://www.servicemax.com/",
+    "description": "Cloud-based field service management software Acquired by GE",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Stellar Pizza",
+    "company_url": "https://www.eatstellarpizza.com/",
+    "description": "A fully automated, robotic food production platform",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "StepMobile",
+    "company_url": "https://step.com/",
+    "description": "Mobile banking platform for Gen-Z households Acquired by Beast Industries",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "SwiftShift",
+    "company_url": "https://www.swiftshift.com/",
+    "description": "Workforce management platform for the home healthcare space",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Syncari",
+    "company_url": "https://syncari.com/",
+    "description": "The world’s only no-code data automation platform empowers revenue leaders to make better decisions by providing trusted customer data in the right place at the right time",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "TakeLessons",
+    "company_url": "http://takelessons.com/",
+    "description": "Marketplace for offline lessons Acquired by Microsoft (MSFT)",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Telegraph",
+    "company_url": "https://telegraph.io/",
+    "description": "Cloud-based operating system that uses cutting-edge technology to bring instant visibility and seamless logistics to the freight rail supply chain",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "The College Sports Company",
+    "company_url": "https://www.collegesportsco.com/",
+    "description": "A college sports media and production company building brands, original content, talent, and products that bring fans closer to the teams and athletes they love",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "The Lasso",
+    "company_url": "https://www.thelasso.com/",
+    "description": "Helps people take back control of their car-related finances through refinancing and finding the best price to trade in their car",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "TiVo",
+    "company_url": "https://www.tivo.com/",
+    "description": "Digital video recording services IPO (TIVO)",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Tread",
+    "company_url": "https://tread.io/",
+    "description": "B2B market network for construction material logistics",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "PropTech"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Treeswift",
+    "company_url": "https://www.treeswift.com/",
+    "description": "Building robotics-enabled forest mapping and monitoring systems",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "UserEvidence",
+    "company_url": "https://userevidence.com/",
+    "description": "Automates social proof for GTM teams, generating verified case studies, testimonials, and stats in minutes",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Validity Sensors",
+    "company_url": "https://www.synaptics.com/",
+    "description": "Fingerprint sensor solutions for authentication, mobile payment and touch-based navigation systems Acquired by Synaptics",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "VanishID",
+    "company_url": "https://vanishid.com",
+    "description": "Next-generation, proactive, predictive analytics platform that enables customers to stop social engineering attacks before they happen",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Vectice",
+    "company_url": "https://www.vectice.com/",
+    "description": "Asset management and collaboration software suite for data science teams",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Verodin",
+    "company_url": "https://www.verodin.com/",
+    "description": "Platform to measure cybersecurity effectiveness Acquired by FireEye",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Virage Logic",
+    "company_url": "http://www.viragelogic.com/",
+    "description": "Leading provider of semiconductor intellectual property Acquired by Synopsys",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "PropTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Vungle",
+    "company_url": "https://vungle.com/",
+    "description": "Leading mobile in-app advertising platform Acquired by Blackstone",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Weave",
+    "company_url": "https://www.getweave.com/",
+    "description": "Modernizing the way small businesses communicate and interact with their customers IPO (NYSE: WEAV)",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "WeRecover",
+    "company_url": "https://www.werecover.com/",
+    "description": "An online booking engine for addiction recovery centers",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "X-Bow Systems",
+    "company_url": "https://www.xbowsystems.com/",
+    "description": "Revolutionizing solid rocket motors with breakthroughs in additive manufacturing",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Featured"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Yardstik",
+    "company_url": "https://yardstik.com/",
+    "description": "A comprehensive background screening platform, built for software platform businesses",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Yipes",
+    "company_url": "https://www.rcom.co.in/",
+    "description": "Leading provider of managed Ethernet and application delivery services for the global enterprise Acquired by  Reliance Communications",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "YotaScale",
+    "company_url": "https://www.yotascale.com/",
+    "description": "Collaborative and automated approach to cloud cost management",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Zivian Health",
+    "company_url": "https://www.zivianhealth.com/",
+    "description": "An administrative platform helping healthcare organizations find great collaborating physicians for their Nurse Practitioners and Physician Assistants",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Current",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  },
+  {
+    "company_name": "Zoosk",
+    "company_url": "https://www.zoosk.com/login/registration",
+    "description": "Online dating platform Acquired by Spark Networks",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.crosslinkcapital.com/portfolio",
+    "scraped_at": "2026-08-08T07:04:12+00:00"
+  }
+]

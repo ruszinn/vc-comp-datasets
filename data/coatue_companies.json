@@ -1,0 +1,4475 @@
+[
+  {
+    "company_name": "Abacus.AI",
+    "company_url": "https://www.abacus.ai",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6AexdKEIATn5rBmwWqFJbb/b6bee5d25f68e6021712f2f364c7bae8/abacus-ai.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "AbogenBio",
+    "company_url": "https://www.abogenbio.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/23B5uCc9WJHVad1VLNbM81/1f4eba8b3bcec20d4e15b3d308b4a649/AbogenBio.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Accutar Biotech",
+    "company_url": "https://www.accutarbio.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7piPPeqY31mJNsm6aH1Mhc/0976f1d4346936fb9e9330d00f695101/AccutarBiotech.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Agora",
+    "company_url": "https://www.agora.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3axhvvfBMRXMoDpfObquzY/57c83b7f77b5fd8aab68bf94499f1415/agora.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "AI21 Labs",
+    "company_url": "https://www.ai21.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4Vx5WjWJ9BiPVDVsl3ACjt/43cbcedb2fa3ca7405b3dc34ea44e553/ai21labs.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Airbyte",
+    "company_url": "https://www.airbyte.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3qc2uO0JWMYGGm1O4ucley/e53006a40aea3d2afdd3279fe04aa5ef/airbyte.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Airtable",
+    "company_url": "https://www.airtable.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1iBsLv1gXiclDET2ZgASGe/b1e7022898db2cc9f5a41f6be2cb8391/airtable.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "AI Rudder",
+    "company_url": "https://airudder.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7dP1XkQfRRU3HjM8lCCMKO/fa3473419515260059e326796588ad11/airudder.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Akasa",
+    "company_url": "https://www.akasa.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/yEJeSFhjSjzqEXfPXnhG2/ffed1bb5a3f3f6a2b063c48baf7a16dd/akasa.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Alan",
+    "company_url": "https://www.alan.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6be0zfrokaj3U0rEdWQ9vq/d52302585ffdb905eec0e5c59ff25f17/alan.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Albert",
+    "company_url": "https://www.albertinvent.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/329GNUKW1gDsQU5UXcJtIT/e0da1d7f985a0287992c82d761b85d29/albert.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Alchemy Insights",
+    "company_url": "https://www.alchemy.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/R6fsxf9M1sBsx0nFPwWR4/4e51133dc74a6347d17b4ce055ab404c/alchemy.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Amo",
+    "company_url": "https://www.amo.co/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6H2EKwNppuCFq34V6gEOZZ/d04354bbbcd13efeef7a7d61762b5718/Amo.jpg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Anaplan",
+    "company_url": "https://www.anaplan.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5uNDRj2ynhB0Uly87SFd4c/9a37eafb45a851689ee53f2ae786d04a/anaplan.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Anduril Industries",
+    "company_url": "https://www.anduril.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6dA5yGulSCplj2dYS1Ie95/3ffe61162fea16d553a0e2a5c1100a61/anduril.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Ankorstore",
+    "company_url": "https://www.ankorstore.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/8jWDPCzYZvMob5arDNvLp/e2bcdf6092b121835285e4c2cc3c76b3/ankorstore.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Ant Group",
+    "company_url": "https://www.antgroup.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4ce0mfuhJdukFLOACUx1fH/0fbc75d2739ee1dda001438d46d8fad9/ant-group.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Anthropic",
+    "company_url": "https://www.anthropic.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4LjvyTMuC0qTGkHIXcBf5W/4deb0da646b745a59fe31d82bfe5c3d0/anthropic.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Applied Intuition",
+    "company_url": "https://www.appliedintuition.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6Vza06VMP1lNNfAFaGbqwc/e0490532da6b0da8fe69a3b937d95f52/applied-intuition.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "AppZen",
+    "company_url": "https://www.appzen.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/62A0BuoGpbydsN3laukXmU/33e7ac40cb30c7d78dfa67db9adf2820/appzen.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Ara",
+    "company_url": "https://www.arascreens.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1FjetmMnWnhr9akpwLgnFv/212c2a54375ed71e1d9d38dbfaa3a617/Ara.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Arch",
+    "company_url": "https://www.getarch.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/oeNKX7MY86BqvoBqumIHE/3632d3793c7987b7a742fd731aa9fa3a/Arch.jpg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Arta Finance",
+    "company_url": "https://artafinance.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/61zETOEks02BtEO36tBKDe/ba8030015755c83eb9c5bdf2a16c074d/Arta_Financial.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Artera",
+    "company_url": "https://artera.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/zqTuI0uxZCIicMHcoXCSR/da63eacc223658372ad68257d55173ea/artera.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Artsy",
+    "company_url": "https://www.artsy.net/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1FfbQ0YE7jw7hyBhopUs59/8115159796c48ac2fd1086c203cce969/artsy.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Atma Sciences",
+    "company_url": "https://apps.apple.com/us/app/gizmo-make-gizmos/id6740640581",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6dMoA8rSWHQ9ukAcsMVLN0/b0c6835eb525347f12021dd59d29fa40/atma.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "ATTAbotics",
+    "company_url": "https://www.attabotics.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5qYO1OF8auYDSF9e6jraiC/92d29bdfee3680f706693e01d2176743/attabotics.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Attentive",
+    "company_url": "https://www.attentive.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7EqPFLW0TpL8NV8UfwBai7/2f5180b9b0eee16d62f29a2be6775033/attentive.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Aurora Solar",
+    "company_url": "https://www.aurorasolar.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6S24U9Bw42Tpdm8R4QxQIQ/e96489675ce9be3533d6fff83f930e8f/aurora.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Avail",
+    "company_url": "https://www.avail.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5ytpRylQNDBSe2cGik19My/a92490db5767d3515267ffff653e71a9/avail.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Aven",
+    "company_url": "https://www.aven.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3CpGK0hxEMZAEWvJ643OSn/25425b5580a268b2ac176e6247b097d2/Aven.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Avvo",
+    "company_url": "https://www.avvo.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2zzfQ76Qb3JIgjChhsX1xl/fbf2dd63ce9b9219d7d5204d2d5c138c/avvo.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Axoni",
+    "company_url": "https://axoni.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/RPvBRNOtveBL6IOMDO59Y/3421901ebd1555333d63e505fa28a787/Axoni.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "BeReal",
+    "company_url": "https://www.bere.al",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/339vyyBcz452aHwzs32x8f/2481ddffa083de8af883fd6e895bb4b9/bereal.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "BharatPe",
+    "company_url": "https://bharatpe.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6g5Hrz1csomXZliYSOAtYB/d36730919e7fda5c7c7dd8eefee54c39/bharatpe.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Bigeye",
+    "company_url": "https://www.bigeye.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4QYtr1OaQQXBMi7p1zQkGm/f1456b0b7536be946b347523d8f6e10a/bigeye.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "BitDeer",
+    "company_url": "https://www.bitdeer.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7ikqHvwqJJdk2zLq4JqLrQ/c715332aa828ef2a953627fed4556c76/Bitdeer.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Bitso",
+    "company_url": "https://www.bitso.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3W4cdQVMopFOO6raeTqW4f/a9f7fe979918da4a5627e158c2463587/bitso.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Blend",
+    "company_url": "https://www.blend.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7hxWvnS4vjOPJlmxcO62At/607e9d1a3d7156793ff36cd3ccdf56dc/blend.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Bond",
+    "company_url": "https://www.bond.tech",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/66tg0M7V5ogVYaDuHDQZQW/352b96eae2bf520de560e1bf58200c23/bond.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "BondLink",
+    "company_url": "https://www.bondlink.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6ipH8wbbq4vShxlHAyvZP0/5ca725764bbbf4cdacee0aaadd2545f0/Bondlink.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Boost Insurance",
+    "company_url": "https://www.boostplatform.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/xYpWAbDoo1yzb3i2Tedqg/c63f343b8a504c8af0fcbbfc8f997e3a/boost-insurance.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "BOSS Zhipin",
+    "company_url": "https://www.zhipin.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7AqWfaBS9lEKVn8xAixqEo/a3708b3a93cefada8c26788d6230b83c/boss-zhipin.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Box",
+    "company_url": "https://www.box.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/V41tii6u24LwCPfg39uTJ/6c6421810aafc7ef458d9ceba52c665f/box.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Braintrust",
+    "company_url": "https://www.usebraintrust.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/41FJhIpp0fBdBXScEeOfWd/3b0282598969acc30874fd12fb197141/braintrust.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Brud",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2T7WTg6jmLmlE3vRuAcLjI/6950e6440a082178874fbbc83c7cf439/brud.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Bungalow",
+    "company_url": "https://www.bungalow.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1troh0vTaKUr8EWOyGunlb/d0738956b53d37f30e2927387ce6f6bf/bungalow.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Butterflies AI",
+    "company_url": "https://www.butterflies.ai/landing",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1yhJGe0Ju8RZq6RYGY8MsI/3841a8e6d5e243b72373bab6991e22e8/Butterflies_AI.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "By Mason",
+    "company_url": "https://www.bymason.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7J6plqiJaS1rsQ6f2Opbnd/035a0f0d188a7f0e3153e6d180ae7ccf/by-mason.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "ByteDance",
+    "company_url": "https://www.bytedance.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/27xGGU0srpFCBUo99hOHYy/c1ca96985432d43bc829c15be9bd2551/bytedance.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cadence",
+    "company_url": "https://www.cadence.care",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/N81WSzl6t2XtxDftPF6vZ/069dba50ae9106bae7a1f4897728c5cf/cadence.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Calendly",
+    "company_url": "https://www.calendly.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5coEsDFNIZQ9TWNXXnc6wG/8c3206db25ef94372b4a4e86e2d65ac7/calendly.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Canal",
+    "company_url": "https://www.shopcanal.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/0Xyr2bavOV9VYYh1xajQu/0f81f171fc625f5f0ef43f553a07ec91/Canal.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Canva",
+    "company_url": "https://www.canva.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4OEP5PbE4ELihwW4w92Jbd/e9623fd474a5fa59972103a9ee1aea5b/canva.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Careem",
+    "company_url": "https://www.careem.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4TnNqLWCGAZyELJnIpnORf/861608d8145acd54c492cd8d13212598/Careem.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Caris Life Sciences",
+    "company_url": "https://www.carislifesciences.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6UcvU404z71bFj0II032ta/22673b1aaf305dcee2f2cccb6d04b920/caris-life-sciences.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cato Networks",
+    "company_url": "https://www.catonetworks.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3X8QgQy4nBfAe83ApjMLjc/873ea2d241742b10bd9a0c8d22ad3940/cato-networks.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Causal",
+    "company_url": "https://www.causal.app",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1IcGIJ9zVPbkfQFoRkeCQO/005e6052b085e256394e07e6506cd314/causal.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cerebras Systems",
+    "company_url": "https://www.cerebras.net",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/270pmBNiKiFfeWLwXYnGTD/71d29b8afac609f568fbea5bb4fae208/cerebras-systems.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "CertiK",
+    "company_url": "https://www.certik.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2oQU5twazEY1ndojTRynAT/fcab0affefdb3c6fd4b9c1e93791e5f5/certik.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "CHAGEE Singapore",
+    "company_url": "https://www.chagee.com.sg/en",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/71KntpYObksAJ9NhgBVtVE/4cc99cc2a7bdfcb4f6e1f6d330618913/Chagee.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Chainalysis",
+    "company_url": "https://www.chainalysis.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/48tKMynY0dfWuNf2shrzal/0b5630f478c0584c0f7cad2f6d3c214d/chainalysis.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Checkout.com",
+    "company_url": "https://www.checkout.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2JVaneloEj93Jn3R8CbXif/355aaac50a88b7be7a05a4dcf05f5886/checkout.com.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Checkr",
+    "company_url": "https://www.checkr.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2JcUTJGN6gnQOY1rs4JvAR/fb1ea1c4372a7716ed0b6ce0a4073418/checkr.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Chime",
+    "company_url": "https://www.chime.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/zxK8v6GdGlt1ZOzBvH6yO/e11c0c3aed41e5eb25771174d9c0ea0d/chime.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Choco",
+    "company_url": "https://www.choco.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5uamGCOXHVhtRUS5m65f8B/38a1d1cc5ed0db0772aea3f7c1d431e2/choco.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Choosy",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/rOG0ySK2LTCm9PrvlyK5R/7346083a984b419e09f75ee4c092ad22/choosy.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "CityMaps",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/31tYK5V6IEs1FaLgMzYvFe/87a7b5b6fd13f4292f02a670e20239c4/citymaps.jpg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Clara",
+    "company_url": "https://www.clara.cc",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1xZmyJgXJ4NYTYYTP9PZ98/28a6ecb5e750e70282f3533fd6bdc134/clara.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Classin",
+    "company_url": "https://www.classin.com/en",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2oAI9NZCoB5KHryIw5alZ5/28cbd26ba535fc07478076d286a1404a/classin.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "ClickHouse",
+    "company_url": "https://www.clickhouse.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7vRotbE9TWH0vHoaYalMRU/25d7e332adf12d4713b12d0007e6aa05/clickhouse.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Clockwise",
+    "company_url": "https://www.getclockwise.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7KhzCdueWb8hVo4sLLZ4IJ/db1133587eab50ac371e87a3ee4ae662/clockwise.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cloudwalk",
+    "company_url": "https://www.cloudwalk.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/624iAqvaxFIolKEGNuKfXJ/b6ac7cd80132bfc34e8ec7b3e3efcf65/cloudwalk.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cobalt Robotics",
+    "company_url": "https://www.cobaltrobotics.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7nWroFkuK3Y3Acf0FYEtOV/18bcfe90f1e07127befef947d03452c8/cobalt-robotics.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cockroach Labs",
+    "company_url": "https://www.cockroachlabs.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4UIUa5q6r6abemJDVc5eQW/3f668b082c0feafd4bcdc39e3e4d20c3/cockroach-labs.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Codi",
+    "company_url": "https://www.codi.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5JJGp6iKyCRbt71ChXwjrt/270a0f32e6da77d73d191d9cb1bd217a/codi.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cohesity",
+    "company_url": "https://www.cohesity.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6kHqmejZtW9cvCkiMIdCPa/b38a782461619467fb8d630f2ffaa382/Cohesity.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Commerce Layer",
+    "company_url": "https://www.commercelayer.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4vctN06564V0Y0DYWxusp6/d4566c352cc64c561981d070f1198de0/commerce-layer.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "CommonStock",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/36mpB8lQpstyZmW2Ul4TNC/00ddd001bf01989255e83b77927dd24b/commonstock.png",
+    "fund_type": "Venture",
+    "status": "Exit",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Commonwealth Fusion Systems",
+    "company_url": "https://www.cfs.energy",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4VqfMzoPBBa2WOVkmNmWI4/3a11effb92fc3df4fd844658d73b57c1/commonwealth-fusion-systems.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Confluent",
+    "company_url": "https://www.confluent.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3bn9pauhFRz9qSkRBZoyla/4e50a1241c19acaf2a77d201e36f2378/confluent.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Coreweave",
+    "company_url": "https://www.coreweave.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/SKvFc3f3C8mVwQhTBjKMg/2c7c0232d95f9a0b7db0b340a81dccbc/coreweave.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Coursedog",
+    "company_url": "https://www.coursedog.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/37WrZiFBQoBVFTGfLnp7yY/c250965db2f9e31f82aff57d864525f8/coursedog.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Covariant",
+    "company_url": "https://covariant.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4rK4lsGVAW2EBiz6nUVX48/2961a2cde82e99ee6b2a0b15eaf511e2/Covariant.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cove.Tool",
+    "company_url": "https://www.cove.tools",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6tz4m4exetCtVdECdk5Xn5/b7f4e0125ff516efe89aa8dd646f3f52/cove-tool.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "CRED",
+    "company_url": "https://www.cred.club",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5xHGeR5s6KekLF6pqsL9eu/0338108df06e738bfd4fd9506eab5e35/cred.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Crypthulhu Studios",
+    "company_url": "https://www.crypthulhu.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6YLlPceV0sUGF5YynhsCAt/f19b91b5d7a563c9c29eac95fb4a6255/Crypthulhu.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cursor",
+    "company_url": "https://cursor.com/home",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4oYxUZaJOg9SxyKGVGPTKS/b92ecff55bfda6478c8f984c8a5fccd8/cursor.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cybersyn",
+    "company_url": "https://www.cybersyn.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1YPf3w8oHwPYqQsrZ3epfP/ed7b6a5709efaf39eba59e7d11e9ba3b/cybersyn.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Cyera",
+    "company_url": "https://www.cyera.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6ob3Qe7VJ9r1ROjUHY8aEP/eb13810247b3c87e818ad349e84345a0/cyera.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dagster Labs",
+    "company_url": "https://dagster.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2qB4kqSx9cZgJ6B2fxcEg9/9e26d72b866c38b93a513c15896620b9/Dagster.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dapper Labs",
+    "company_url": "https://www.dapperlabs.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/73PclOn1c3NOIZhUR68Mc4/57420050728eba52fafa6f44cfc5ec93/dapper-labs.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Databricks",
+    "company_url": "https://www.databricks.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5d8dbOqz8iaf1kKdzTFFpq/9540fa783f81ed7fed9787b2c1cc0e21/databricks.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "DayOne",
+    "company_url": "https://dayonedc.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4QzMffPThnPJKGNKtBdIgC/93b15ff3376afe5a6facaee1f869b9f3/DayOne.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dbt Labs",
+    "company_url": "https://www.getdbt.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1c4mLWScXRhENOOn1FbjWT/be489528133d7452d7c4b21c59bae6f3/dbt-labs.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dcbel",
+    "company_url": "https://www.dcbel.energy/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4st9hFOQIexo0aVXCzmIho/25a1b0c032737d0ce704de25f5b46c4e/dcbel.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Decagon",
+    "company_url": "https://decagon.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/30XrNnGgmGWaiAb6HfLlTc/0d0599d4aec6e0ad4f466d35d6f880ac/decagon.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Decidehq",
+    "company_url": "https://www.getbespoke.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/xNrgZyOTfLpDOVPmqKfR8/a9132f5b51838feaa4c3376dee0111c8/decidehq.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Deel",
+    "company_url": "https://www.deel.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4Gqvm7aMuirduenpY8N2JZ/91148a699b9c6a8380808aa42ae2841e/deel.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Deep Instinct",
+    "company_url": "https://www.deepinstinct.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4CmMW6eVRQDnyLyb9rCLbj/2fbe5ae305560fe179ed591412338907/deep-instinct.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "DeepJudge",
+    "company_url": "https://www.deepjudge.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6NRytEjwCwTCiOZyAHJpRS/c8f587858dbff38dfe94874e00025294/deepjudgelogo.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Deepnote",
+    "company_url": "https://deepnote.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5envSrMQdZhleS2XBLtSEC/a78e12b0a9427dc5342bcb61f6497a0b/Deepnote.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Defined Networking",
+    "company_url": "https://www.defined.net",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1UUxtSyJe2dmYrIwfLlVJA/72edd3396a1c293eb1673c8993c1de99/defined-networking.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Deliverect",
+    "company_url": "https://www.deliverect.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/yw70YWIGfr0taIM2cDFLj/d55ee5718900473c4d9baa486a6cee27/deliverect.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Deliverr",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/DJPcsVyKUI2IgTQRQKkmJ/4bb48bde7368f77e82b38c4d97471dfd/deliverr.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Device Plane",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5TaRtJTqz9S73R1cu4Iuc7/e6577946a8fd0dcf445dbf20180047e7/deviceplane.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dialect",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3OxHoojyxXo5ABWpWkYWSL/dfa713f7c06de0938e3cd5b019fee770/Dialect.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Didi Global",
+    "company_url": "https://www.didiglobal.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/77nXWOHIgT9rrcwZihiLuF/a8079ba3d5db1276398a0b3b8410a1d5/didi-global.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dingdong Maicai",
+    "company_url": "https://www.100.me/home/index",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7KmtIQT3ya12Fc8CraZjdl/2a2291bbb4a5942b0a57e4b63ba8029d/Dingdong.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dirac",
+    "company_url": "https://www.diracinc.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3QaRuXMkdp6lR2uOiHYfAi/61b7091632e0f27f08787afb68689649/dirac-logo.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Discord",
+    "company_url": "https://www.discord.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/64ln52Dk4mEKm8nwBFIsjO/c87b250a7f582c214a8cfd6355b72c06/discord.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Distyl",
+    "company_url": "https://distyl.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1fnC2WgRbfqMbIf2Dy2WAC/967f03060f8bd88b60d8cfa548b15309/Distyl.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Transportation / Mobility",
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "DNA Script",
+    "company_url": "https://www.dnascript.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5FB6JR0my3XfYWFqdxMSuR/749a49107708bfa7f5ce44d87a02f1ab/dna-script.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Docker",
+    "company_url": "https://www.docker.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/L90VFbyy2ia9kvxe60HBI/f27f7230d456eb9f22dc51458e4de79e/docker.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Domino Data Lab",
+    "company_url": "https://www.dominodatalab.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4q0khSXCOaqOrkrRlhl6w1/fd5044e78b83f29c5058f750fd01123f/domino-data-lab.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "DoNotPay",
+    "company_url": "https://www.donotpay.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2X8cOHkp7Dw3Etg7CgAL3p/fdca39e743a8f494531c0d28eaedb5be/donotpay.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "DoorDash",
+    "company_url": "https://www.doordash.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4g4hhq2kJCl68E0lJxc6VV/03bf89eec36477a730c22ad824ccb5db/doordash.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Dune",
+    "company_url": "https://www.dune.xyz",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2ENA1H0JUxefiDGbEy1HWY/eb18b5eb266b33071d08577a6aef9bf4/dune.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "EarnIn",
+    "company_url": "https://www.earnin.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/63vwM6RY1ehmU9yCMgdjWE/a6da379303e81dfb661ee2fc2200748c/EarnIn.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Edge Impulse",
+    "company_url": "https://www.edgeimpulse.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2JWsSkQT9xJ9fa2103iJAt/9b9366bddd21fea7f01d6ec126de032f/edge-impulse.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Endeavor Group Holdings",
+    "company_url": "https://endeavorco.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6pr3bc4y8aGohwDpQ6YJTK/c4e55b6ff1206834008a336677d041d5/Endeavor.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Endor Labs",
+    "company_url": "https://www.endorlabs.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1JvlPxFyWZv7MbTvW3POzA/73e4b81e8be0afe2c256fffa1370dfec/endor-labs.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "EnPlusOne Biosciences",
+    "company_url": "https://www.enplusonebio.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/24EuagL91u5wmmkJH9imeI/05bad043313ea92429a2045ba5e3fc7f/enplusone.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Enter",
+    "company_url": "https://www.enter.de/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/ykOKYuLiuA9dMIxUHkiRh/a8279a310aee4b3387fad5d867328cbb/enter.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Evernote",
+    "company_url": "https://www.evernote.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/Aq84NtdeZXnZGKSkTeKTu/711c3d41943323a9b0f06c89cfc9db34/evernote.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "FanCraze",
+    "company_url": "https://www.fancraze.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6bA4eBkY5h9uCXbtdeSp9G/6a7247bac67ed83dbe43499f08d7ff15/fancraze.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Fero",
+    "company_url": "https://www.fero.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5y0onEetxD2JGJumRWtCiG/3ab7201d4f75e700eb55429963467eb3/fero.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Figma",
+    "company_url": "https://www.figma.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/b3pJepBX1ThqqQ8dxYtQ0/6dc8c4eabfa09e9041c34f8fc90a631d/figma.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Figure AI",
+    "company_url": "https://www.figure.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/01yHQJ2gksIOdlvm5zEN2Y/f5eef33a6db436f746370f97aa56b259/figure.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Fireblocks",
+    "company_url": "https://www.fireblocks.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6Ki8qDVEGDaXE9hNuw6MWz/b4a935415f7287e679e60b96977ab9ce/fireblocks.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Fiture",
+    "company_url": "https://www.fiture.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3kPSbUW7GdlEWbHNqhi4WH/47cb9af4cd123c45ae38aa74caf0ee5b/fiture.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Flex",
+    "company_url": "https://www.getflex.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2IroVXDMoIaybbGJFI6Lor/241af8a85c382dbc7aeb4968868a465a/flex.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "FlexCompute",
+    "company_url": "https://www.flexcompute.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/39x6H8fOuZEbNBzp8erfkN/bf0ed4934ca99aceaaf5679eb5aecf3c/flexcompute.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Flipboard",
+    "company_url": "https://flipboard.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6JqshsR5xTnn8HGFVfXqID/6ee7d44d2979a97f3a4f225282245c3d/flipboard.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Flock Safety",
+    "company_url": "https://www.flocksafety.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/cOnnjuDfJZk7ELRxbGbzc/e701b7f4d21b7cb10c632b29eece4383/flocksafety.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Flockjay",
+    "company_url": "https://flockjay.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/OBGpQvHvmkHtSMmN9x8Uz/9d552d92f03bead169b473f74e8da041/flockjay.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Fonoa",
+    "company_url": "https://www.fonoa.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4hrdYWIJy09XN3SpPdSqcN/2b9aa8f46ee9b8f26e39f91e4e7afa7c/fonoa.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Form Energy",
+    "company_url": "https://www.formenergy.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1ayznLtorNNpE4q75FzLAy/2562ca416354f73a48ca8fef9ada83d6/form-energy.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Front",
+    "company_url": "https://front.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5rkabGrtjLlEWx1hbDjgpY/eef60461c16f51d7e77dbe2417b1643b/front.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Gantry",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/C1gmy14gYtPjzIRJiKv3v/25336ab45c2ee6608f64ebda2efd046c/gantry.png",
+    "fund_type": "Venture",
+    "status": "Exit",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Geneva",
+    "company_url": "https://www.geneva.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6um0e9nSoc5UX3EwjCekF1/8ad694b2542b69c072537379a3d3600c/geneva.png",
+    "fund_type": "Venture",
+    "status": "Exit",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Ghost",
+    "company_url": "https://www.driveghost.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/tv3CB48KeApQqe5TUokgj/5caabd28c2d45db857b233ba416c8493/ghost.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Gif Your Game",
+    "company_url": "https://www.gifyourgame.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5DqTA1gs72DDOTscNvYyjT/895c7fe39215463ba2482f476c1310cb/gifyourgame.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Glean",
+    "company_url": "https://www.glean.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7HPolMwQLuo84pje9Ss5OB/2c668f92fac8d004a362b18394df2379/GleanLogo.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "GitLab",
+    "company_url": "https://www.gitlab.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3zYLSZVrGSBIJX6R2OJTsx/d1de60d809cd6c4ba060d54f52a22153/gitlab.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Gong",
+    "company_url": "https://www.gong.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7wfyHQKY7wCzf6A0bLwgHr/4913a1ee74ce849c2e067e912ef095ed/gong.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Gorillas",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2Z2qI3w11PGTHSkeqoRipJ/497dd1491f3fbfa1f277b37374410340/gorillas.png",
+    "fund_type": "Venture",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "GoStudent",
+    "company_url": "https://www.gostudent.org",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5hlO7P5gtn6jyH04FLk1CW/8ed0d3893a0e6e623368ede347d089f5/gostudent.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Grab",
+    "company_url": "https://www.grab.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/uK8NMGqPDoxLIL9LqkO2d/7e1bbef5fc8d6104a936c652332fa8f0/grab.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Grafana Labs",
+    "company_url": "https://www.grafana.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2vnhjyGUXsvK3cNEplBkaz/5a60d11e24c15c1df7f147dd36da98ed/grafana-labs.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Graphy",
+    "company_url": "https://graphy.dev/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4uXlBCI31iA4vEJ1Ee7Y3T/615c0cd6a287807195aaf864b072b453/graphy.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "GuMing",
+    "company_url": "https://www.gumingnc.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3To1CYmzzr1Buc8HcuYOcu/2d073aa4d9751eb665dd38b1812d68bc/guming.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "GV20 Therapeutics",
+    "company_url": "https://www.gv20tx.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4xsmMkIl8tMjiqKX56gJPU/d7607ab9e417fdb41b7ca26e095ce415/gv20.jpg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Handshake",
+    "company_url": "https://www.joinhandshake.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/17dFNbVVHOhb1lb1aMr8N5/e424d96f4f19378f191a59c0e38371e0/handshake.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Harvey",
+    "company_url": "https://www.harvey.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2o9c8b3z4Ax5rWCkzLizbk/fcd6955dbb1f66672f59fc2ef5f397e7/harvey.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Haystack",
+    "company_url": "https://www.haystackteam.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3jIdN7bJat27gvDnyTkLTT/2b68693f82553f73ead6c9b720727857/haystack_logo.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "HealthEdge",
+    "company_url": "https://www.healthedge.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2mO0e9anEnuHg2Xdk39qs5/bff822e2a635da0bb955715437809818/healthedge.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "HeyTea",
+    "company_url": "https://www.heytea.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4kq41W3rXLXoI4iYQqIvQX/a67e283b75506ad3c51c4fd5cc53f9f4/heytea.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Hinge Health",
+    "company_url": "https://www.hingehealth.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5TbTafV1RzQ1UiPfCZv3iC/e7632a598e33980cd456176671bc2709/HingeHealth.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Hopin",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6nTIQVuH9BZ32CX1dlVXY0/65ba247f2bd96a8a279af14be6c9426e/hopin.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "HotelTonight",
+    "company_url": "https://www.hoteltonight.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1X9ufJeYZUiNH2yqimGXWi/209a787ca8df625990094853ff5ce7d0/hoteltonight.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "HTTPie",
+    "company_url": "https://httpie.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/54ZBcOosIFanJPjwJpbhUr/8e6e4103babcf5402ae517839b3c4bb0/httpie.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Hugging Face",
+    "company_url": "https://www.huggingface.co",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3mMPgShPgGdd7eicihvHnw/10500aece43c8a752af790f27e2e8c5e/hugging-face.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Hut 8",
+    "company_url": "https://hut8.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/Y4gHJdA8TQmLUP3lIbxth/64deb33eb438f3efe4b9f5092168ede9/hut8.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Iambic",
+    "company_url": "https://www.iambic.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5hjHQlaBofeOfFaZldlHi6/4ae7c5f2c42d2500d91f4c962def67e5/iambic.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Iconic Hearts",
+    "company_url": "https://www.iconichearts.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/79IVTfKmTST3Bi25eTHvYr/3fd81e2ea464c8a679e838255a84f4b5/iconichearts.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Impira",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4b191kU2kOuEYstMpaIgEe/7a474459169b1afaac27c4c429a45178/impira.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Impossible Foods",
+    "company_url": "https://www.impossiblefoods.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7HmGOlTKkMHZj8ZLt380eH/73d4b54a9ace9f9cf195cf3aa1ce3d66/impossible-foods.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Infinitus Systems",
+    "company_url": "https://www.infinitus.ai",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/219chmzwV1LXk4rfyK07ox/cedf721ef6c5f2314eff31250700064b/infinitus-systems.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Instacart",
+    "company_url": "https://www.instacart.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7JVikjrHZRKDMzaGC9npTR/b34a81b86ce95dc9ab5945a1e74415b1/instacart.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Instant Design",
+    "company_url": "https://js.design/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/56uL8R55cxFU1NmybLapJt/bbf248c19b88d51bc8bfa225ff9a91be/instantdesign.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Inxeption",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2E9C31S4NG3TZ3BB25osHt/3397ede7f2b1e5636725e70b0a64b4a9/inxeption.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "iQIYI",
+    "company_url": "https://www.iqiyi.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3EWScyJgVG9al3gSC0IQEX/2b0130af166f18e8932f8c6daa672a0e/iqiyi.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Island",
+    "company_url": "https://www.island.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1aDUWAnb7NTyUnVANuH0En/076d4d7bcbe2d164c3523048d2a0b5a8/island.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Jasper",
+    "company_url": "https://www.jasper.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6noDZMtSsO70w0z6BCtUYd/90cdf520c793ce258212116022f4b2ce/Jasper.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Jet",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7orRin5uU8zh3wkAC8YdA4/1d2a1dec7ad9f0985f12f2d6e7137ca1/jet.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Jetify",
+    "company_url": "https://www.jetify.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/44bjnol8B0BqwqUcAHAT3E/387936035f03f834e50fb4b69753472b/jetify.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Jetpack.io",
+    "company_url": "https://www.jetpack.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/D1dKfqTMiPSl9V17Uk0kf/3eb6e4701476ef3031f23602721e5b6d/Jetpack2.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Juul Labs",
+    "company_url": "https://www.juullabs.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1yjN8xO1EHySsfjPrKifxg/3604dc2a652f087792eeca9161f3fd6d/juul.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Karat Financial",
+    "company_url": "https://www.trykarat.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1KPJ6CprVZrk8baaxjY6h9/cda06cd962f506e611976bae0cd99f33/karat.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Keep",
+    "company_url": "https://www.keep.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/LpJvXT07nP7MYw0SjPOH6/9ff6665178045f0954338227bf836e72/keep.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kikoff",
+    "company_url": "https://kikoff.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/76LWfmfMPunkJ4174bG1fi/87a0187fdff0c0ccb455886b474e4499/kikoff.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Knowde",
+    "company_url": "https://www.knowde.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/APHf4qnCugUkaI949ZcBc/324e3b68899b4857140689456969a7b3/knowde.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Komodo",
+    "company_url": "https://www.komodohealth.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6k8xC49FgbI2Tc9nq9ajMu/68e28f871d68c029c3201acdd7dc796a/Komodo_Health.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kuaikan Comics",
+    "company_url": "https://www.kuaikanmanhua.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5E1GoD90DDNwKSDHxniRYA/38d18e2299c72a79137fdf7bd3e2babe/kuaikan.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kubecost",
+    "company_url": "https://www.kubecost.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4sscAGxuC0lpZt31SI9eSm/25baa84d34f0fb1528348ad53c5c3424/kubecost.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kujiale",
+    "company_url": "https://www.kujiale.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/uAfLqgt7cvOnwe4Dqru5f/bf44711632fab6e179b7479b188c67d1/kujiale.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kurtosis",
+    "company_url": "https://www.kurtosistech.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6C6lAsXSIOPCuVR4eUaopv/33921f3f7b3e0473a3e782a51e2351af/kurtosis.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kustomer",
+    "company_url": "https://www.kustomer.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/48eJ7VxJMzQ1DSAmIa46GO/3c495cfb4478a56478db7a4acab3ffa1/kustomer.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Kyligence",
+    "company_url": "https://kyligence.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2jczoP0fNoqLZK1donZYd/c47675d09104e943cb42a2b5f97d8079/kyligence.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lacework",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/16LWQ7kSnu0v361MoPhdsC/e83fc74edf28c0671639c5e813254ea9/lacework.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "LatchBio",
+    "company_url": "https://latch.bio/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/10PtfjXmzcnYcKQL9gvsGq/a200233625572cfafe2978a9e869f8f9/latchbio.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lead Bank",
+    "company_url": "https://lead.bank/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5P3lmdGm4yryhK5Ci7dvwy/bb5f65f15fb837db33a2f9bac34e3e94/LeadBank.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Legion Security",
+    "company_url": "https://www.legionsecurity.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1vLMkA41q9We2cUWrud6eK/a83fd5f44ef5dc81481fa99bf6d1d8ea/legion.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "LendingClub",
+    "company_url": "https://www.lendingclub.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/AwiB7tQUzAjTDTWEOV787/af379eb608f0cc9880fde7f2325532a6/lendingclub.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lighter",
+    "company_url": "https://lighter.xyz/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/JZIMVvKOA4yj8iOwu3987/192d27c6baa08a1295d9e54d48f70795/lighter.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lightning AI",
+    "company_url": "https://lightning.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5A0hBVo3oLMQ5dbAMecIcP/d7317d969ab6bf17e11540a4efffc16f/lightning-ai.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lightspark",
+    "company_url": "https://www.lightspark.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2OnAoaG5sVIzU5JL39e6Px/df3458652c1112af16f220c9dc35a9ed/lightspark.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lime",
+    "company_url": "https://www.li.me",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1iX6SxG3nM6JsKmWwzVSJO/bb06ca72da3e15b5523bc52046595c9a/lime.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lindy",
+    "company_url": "https://www.lindy.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2R4QdGGxAIJIlPCJKNv00w/33f7759ba4aebb2713665a25685ad973/lindy.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Linktree",
+    "company_url": "https://www.linktr.ee",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/43SnkLkbtXJyTUo8ecJOhS/ebc7ea9c0f53b1c54f2cfb7908b9f563/linktree.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Little Freddie",
+    "company_url": "https://www.littlefreddie.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/982cQvuuchrjIpWCp1h2S/c0361afa3a66057fb2dcfd35b42f720f/little-freddie.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "LiveControl",
+    "company_url": "https://www.livecontrol.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3I4du4SN5YLrdNC8m7oS4I/bbca9b06a4583fce99030867cfdf7172/livecontrol.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Loom",
+    "company_url": "https://www.loom.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/eAC4Kjm5xBk3YyKptok9Z/62a7913a4444cfa0c1ebcb161a9cba55/loom.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lunchbox",
+    "company_url": "https://www.lunchbox.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3W9bSTlh9tbzWNWVwsv6jW/d64ce8ca83631fa401c8799a1f441dfa/lunchbox.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lutra AI",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/blrPqdcU2Y9ewJEUI8eNs/d52b17bf95ff7fb4ac005c43b02c4bf4/lutra.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lyft",
+    "company_url": "https://www.lyft.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7t19elARDQp1bX4cmNT0Tu/e04fb426c9115c8248cc9bcf125abd9e/lyft.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Lyra",
+    "company_url": "https://www.lyrahealth.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1D2PXrbboHcb6SmaTPb2z4/fbd06a584f1b399dabe958b6b6b27ae7/lyra.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "M1",
+    "company_url": "https://www.m1.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/gRaKVMZiTQIKnPxLIkUlH/80dae786e73021019a04e1387c283ae1/m1.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Mafengwo",
+    "company_url": "https://www.mafengwo.cn/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/28kStQMMSNTCvlYpw0Hfbr/541a9b591d4f73c3ce2595b7a702609d/mafengwo.jpg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Magical",
+    "company_url": "https://www.getmagical.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/FSh8mswWvYnW1yPb8unoH/ae9dd5030b4a1deb8d575627fb4afbc2/magical.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Manner Coffee",
+    "company_url": "https://www.wearemanner.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2r7mqo95zrllyS8LoJ6DBl/10c95443fd108b63afcbec68e96ba399/manner-coffee.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Marqeta",
+    "company_url": "https://www.marqeta.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5C3OABmVCB53c1YXD84BiX/672948c414079209845f3be31644ca9f/marqeta.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Mech-Mind",
+    "company_url": "https://www.mech-mind.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6mQZqN0YJXYIllGWmAVRuK/b58b7b193aaa8f45b8b1a196438ff406/mech_mind.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Mei tuan",
+    "company_url": "https://www.meituan.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2JGqEBNUxTdICnKSrLWGb/9097f01fcdeb33322d4c555ca68b4afb/mei-tuan.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Meld",
+    "company_url": "https://www.meld.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4oX4x2MqGoJnmnoP0aZ11y/0f9c1a17329df54c6e5aeb1664d54694/meld.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Melio",
+    "company_url": "https://www.meliopayments.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5HXOF59Gdtvd0HQ6p2GHNh/107a0a65b69855576e35062050c6d753/melio.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Mercury",
+    "company_url": "https://www.mercury.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6iL1u9omWzuusCvwxquSYV/baa47f2d82712a2a89b8969870e67d22/mercury.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Meticulous Ai",
+    "company_url": "https://www.meticulous.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/EE4fCOKDAMIxjIMl53twK/4ef971fded99f4669b31dac302d0bf56/meticulous.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Miter",
+    "company_url": "https://www.miter.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5CAf4ShXzhPXOruVJ88DGE/785069c246810cace5cb9d1926357374/miter.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Monzo",
+    "company_url": "https://www.monzo.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5zI0n9kqZ2kYqM02Mc5ZWd/6ee8d49b699cf844c1177e7363ea6c77/monzo.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Moonpay",
+    "company_url": "https://www.moonpay.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/voccdx5swvFvLHPzQ9him/abf7e163a42c6c2701162d250426a8a0/moonpay.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Mux",
+    "company_url": "https://www.mux.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/45lMRK90kkRdug9mq97QJv/c532f7ef7e93b2d2d1db99bacf10f0ee/mux.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "N26",
+    "company_url": "https://www.n26.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7kvMd2ipKeBzeom0A6aH3m/33ec24d5be53fb9440005fc980963833/n26.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Nate",
+    "company_url": "https://www.nate.tech",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6W4UDUYlaI77wsiEwuF1EO/45d7b770d9b01f1036372770f9e4044c/nate.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Navan",
+    "company_url": "https://tripactions.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/29qbnOIRfa7Y1tEVhiXTtT/1fc2da72b61fc8f1e91d706b44e4cfce/navan.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "NDEA",
+    "company_url": "https://ndea.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4cTfa4v8nGIHTnTgMvCwL3/807fc6751122eb5321197acc97a492d0/ndea.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Nextdoor",
+    "company_url": "https://www.nextdoor.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7mzeCHWkiVZ5bbM9Lq3bub/92bb1ab28165ef4e4cdb64539dc8860e/nextdoor.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "ngrok",
+    "company_url": "https://ngrok.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/720bpj5Fy3JtiCg62WnYCE/94562bda0712f91d473a98002c67cc7d/ngrok_for_website.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Niantic",
+    "company_url": "https://www.nianticlabs.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/76ZiPFV8iEHL5AcOU8AZYH/ca816d8a91e754e922449455ee37e2c5/niantic.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Nice",
+    "company_url": "https://www.oneniceapp.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4iLMoym5ImmOc8kCdfQ95N/4becbcd45807b0c3e22c9f37e21a7bed/nice.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "NinjaOne",
+    "company_url": "https://www.ninjaone.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7lrsHUWs74llbStqlLfBMT/9d91b6593d423674da3ec63ecbd22eb5/ninjaone.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Niutron",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6FAiMbhqaDaTGugQRqbZdr/03a8e9dd42607ae41b77238d5b23b73c/niutron.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Nomic AI",
+    "company_url": "https://home.nomic.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6P2AUm6ebSmzRS3mqSykKL/24bc2aff3abbec88cbfb841327ceba28/nomic.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Norm Ai",
+    "company_url": "https://www.norm.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/380VyuGjq0ZsxlOJYER7H2/471815bc01a220911072604db9aa488b/NormAi.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Notion",
+    "company_url": "https://www.notion.so",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/oQ7OfMmR3w4BpUlhMxqb9/5987ce8d4ce18b248de989d28f0b9abd/notion.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "OfferUp",
+    "company_url": "https://about.offerup.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/11z8pN9atpHjYGhigDKUF9/d63a9e3d555c8355fb131eb2624bbdf6/offerup.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Onaroll",
+    "company_url": "https://www.onaroll.co/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1zKsuRhL1SmNS9hKcOdUgX/64964d3901389ae59cce1a981d662350/onaroll.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "OneText",
+    "company_url": "https://home.onetext.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5IzCAzzFIsMoj53DDWBw1W/168d84f94868e95e387f81f01bd6d6fc/onetext.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "OneTrust",
+    "company_url": "https://www.onetrust.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3WejhJztzwPp0qbvajCsPr/cde70f88fe49e33a596ce9de6eb8bb7d/onetrust.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Open",
+    "company_url": "https://o-p-e-n.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2xz7e88JAID7GhJMnD1Y0Z/1e69637ede44ec30d864b7152598b1c0/open.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "OpenAI",
+    "company_url": "https://openai.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/65Zz0L7BJUq3BcVoQzAUjE/f4345552543e3ad27efa86073ebd5fd0/openai.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Opendoor Technologies",
+    "company_url": "https://www.opendoor.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/40kJzEi93W42BQiA4gMsGz/22f542900a43aaeab41cd50ec0ce730e/opendoor.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "OpenEvidence",
+    "company_url": "https://www.openevidence.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2KpCXyfMxGM37RjORreso/0ad8b17eaf13b6e11f2d7e2b79c149f8/openevidence.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "OpenSea",
+    "company_url": "https://www.opensea.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4SeYJCKmBCvGnZBM8TCxSn/fe1a6d3b78dbdee828dcc6ce5694caa1/opensea.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Orbit",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/eKrtINjxufKYvMlqbDB6D/12204e61a2cc9e07f2210735648361f3/orbit.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Origin",
+    "company_url": "https://www.useorigin.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1zdjCWf8xWrBiBzdTvRlOH/37230549d1be0a1648c7ee4bc26050dc/origin.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Oscar",
+    "company_url": "https://www.hioscar.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5fW3fij0v8RIKw75Onk9gX/cd58f8e7d26d87e5d51f66f43df8949e/oscar.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Our Next Energy",
+    "company_url": "https://www.one.ai",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/nAsaPYiSowC4CCy92WMK3/607721865aa04a136c434e46aa85f6a2/our-next-energy.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Outschool",
+    "company_url": "https://www.outschool.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5cEsySEhyfCa8oNddF616N/1f438e5c40db8a5aaa07439a0af97390/outschool.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Panther",
+    "company_url": "https://www.panther.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6CEmUa5Mny2uP270xOWxZl/7f1d88a543561333d5f1cde4bbe2b5a5/panther.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Patch",
+    "company_url": "https://www.patch.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7k9keEOaMB4O5ODlWrrgt/962d73aa05c16f12206f44f8b80b6e13/Patch.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Patreon",
+    "company_url": "https://www.patreon.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6uhdlAzVVMxR31r5rLcjkn/d17f4df24220691a3cea0d4cb40341bd/patreon.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Peloton",
+    "company_url": "https://www.onepeloton.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3dTlxuJAT5bbrriYkmNHW5/9dfa8bf3eed0c1b94369ccd85e10cb2d/peloton.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Persona Identities",
+    "company_url": "https://www.withpersona.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/56wLXZWsdgixfRJQAZPPhc/006acbd9c95e5a3ba615e9fa6d7aefc4/persona-identities.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "PingCap",
+    "company_url": "https://www.pingcap.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6fcSoNnddwxjTt2h99msmb/a13e96898ea4512b18ccea927b76faa4/pingcap.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "PingPong",
+    "company_url": "https://www.international.pingpongx.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/9z3pcfK2muFzcg6dedWIr/1cfda1abdcd8a5e9d59c8247099a8f29/pingpong.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Pinwheel",
+    "company_url": "https://www.pinwheelapi.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1M0tEm0arhxAM6qMCHcovm/d0fae53a49182cf212c9305778c848f2/pinwheel.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Placement",
+    "company_url": "https://www.placement.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/12n4rjQapfuAnCAnSb4gR5/6daa51c76e83383cd0db4c8dfc95976c/placement.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Plaid",
+    "company_url": "https://www.plaid.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7GTQcpJJCniivngHbJLkCQ/40bce50a41e2abaa5f3497b073b24a0b/plaid.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "PlayVS",
+    "company_url": "https://www.playvs.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/103p23jfoXM9bG2h9Yrp9c/257a0e9f643af68c937ebb5418f81019/playvs.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Pleo",
+    "company_url": "https://www.pleo.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5n4DfXGnaEEbfp0R2agdli/824b49a0a6779fcd3a66270566003f47/pleo.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Pocus",
+    "company_url": "https://www.pocus.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/58z7otcFeZR8dHfDCClFUv/720c0a94cd0b899c59bfc63fd4c09701/pocus.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "PortalOne",
+    "company_url": "https://www.portalone.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2R34LHcqWC4GNn0iNcNzCG/c8a3ebb97a492d1fa09edea9ba6b6d70/portal_one.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Portofino Technologies",
+    "company_url": "https://www.portofino.tech/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6RMJ06RfpLjquA2X4a5ymr/b28faf32653dd2bbed2a079396365614/portofino.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Postman",
+    "company_url": "https://www.postman.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1hdloo6KLnpRs4SfvT1V47/a314c3679e13a4a22266c82acd3de0d1/postman.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Product Science",
+    "company_url": "https://www.productscience.ai",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3ey7ScBFgpDDetfAYDlTgu/a6875a7186d00cd43fe2fb2345f31d9f/product-science.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Quikr",
+    "company_url": "https://www.quikr.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5srgytveDFztkjaFKjFHV0/a0a02bf2adc8e9a33d3242f95d9dd69b/quikr.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Quilter",
+    "company_url": "https://www.quilter.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2mkPIDbmZ6xzK4wvSxyXsQ/c57691c048ec8c0f2a64e4ab18043b28/quilter.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "RadPod",
+    "company_url": "https://radpod.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6e2fY7mDJcISvws1WYm4WL/c7eac48f8cce402312abf6076687d0b9/radpod.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Ramp",
+    "company_url": "https://www.ramp.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6IP4k83KLX74SvzCixrgI1/cf4eb444dbc16519200401bd0a9bd839/ramp.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rapyd",
+    "company_url": "https://www.rapyd.net",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3YU9KxdnEMA5uEUaQvG5xg/05977d673b9cebcb09b1cdabc796a13d/rapyd.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Raycast",
+    "company_url": "https://www.raycast.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3qMXh6edtc7PIgI43tFVMO/6b1061fa9382784a0c3ce2c37ddb942e/raycast.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rebel Foods",
+    "company_url": "https://www.rebelfoods.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2Q5ExS0T5uEPjdPSVaq7YG/4b371ec0e56585a2fd3dca65ebc56c2c/rebel-foods.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rec Room",
+    "company_url": "https://www.recroom.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2imiKsPyJGVuFScTpsRLHt/efafbaa8485fb178518abf7fdfb5faac/rec-room.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Reddit",
+    "company_url": "https://www.redditinc.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5K4w6BmdlmswtfHjjr8EUL/ebc576b33e18decf4b2fd58a0a3f72a0/reddit.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Redwood Materials",
+    "company_url": "https://www.redwoodmaterials.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2WDFqPyNsQmhKyyPI9Z8MO/351b12d16ab14e2cc267d84e4b08f5e6/redwoodmaterials.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Reify Health",
+    "company_url": "https://www.reifyhealth.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1tpNMTjxyTNlKoxq3oysri/a95ca30475306f1270b0308ca574f799/reify-health.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Relativity",
+    "company_url": "https://www.relativityspace.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5U1soZScHsoiYxuGP0WeWL/0189b1ed442eafca24b40dfacb4bd2f1/relativity.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Reliable Robotics (Air)",
+    "company_url": "https://www.reliable.co",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2qDXwpp1EBq41VoiEllpTt/9db7d003798889c9a5338f78b66e7eda/reliable-robotics-air.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Replit",
+    "company_url": "https://www.replit.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1IRnQCi0HK8IEtfilne2lM/3867f8137ce68f96569051de5d7d3d7f/replit.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Retool",
+    "company_url": "https://retool.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5ciI3FjpD7oCHOaJgpF6CF/6160a194a0ad9335600596a7e71181d7/retool.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Revolut",
+    "company_url": "https://www.revolut.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/H5nKhbqRZwPywKX0fugfx/42ab27ec8ce161c506e944a7d74a05d6/revolut.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "RevOps",
+    "company_url": "https://www.revops.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4bCVmCaJ7wP91VkIglqVZz/33f5b0c25ba6a9712a8e788257222c4f/revops.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rippling",
+    "company_url": "https://www.rippling.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1cBDqx9s7y7W3gH4KOcEBv/2e5fb038c2d3c7e257acb7a85ba47bdc/rippling.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rivian",
+    "company_url": "https://www.rivian.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/Hid90jpps9dLSL9ZSZjJ9/daad65f7aff79c215e5aebb26a8911db/rivian.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Root Insurance",
+    "company_url": "https://www.joinroot.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1GZ5zHqrNaVBQJMMljMiAN/9b9d08701d8857e9fbe8c2687a58ac74/root-insurance.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rootline",
+    "company_url": "https://rootline.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1fRL5ZryIlcvMzj4oW87CS/557f8c3203dadd91a3685654e2e130c6/rootline.jpg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Rox",
+    "company_url": "http://www.rox-electric.com/en/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/40IkQrlRUKOWnBzk44RbF6/e672905f46a0a275117847872d452c4e/rox.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Runway",
+    "company_url": "https://www.runwayml.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5EqZxUiWCMplJ94n0BRD1O/a1daa98d35a087d869dc325a6d7435c5/runway.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Satispay",
+    "company_url": "https://www.satispay.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3YcOv7OhemFDaQqAlVv9nD/1349a7d2e1de67f6d3251986ed2d93cf/satispay.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Saturn",
+    "company_url": "https://www.joinsaturn.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/61TyWU1t6ghmDe3ntv6zab/41780f067bfb96787f74819f8396d6e8/saturn.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Scala",
+    "company_url": "https://scaladatacenters.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4sY6mF8r5l1tIvIsZBtnBd/cd8ce0ae8145eea4e2a6ba9e022d254b/scala.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Scale AI",
+    "company_url": "https://www.scale.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7pH0WZYm5idB1htLvQRC5O/9ff09a8d4220306eba339f690a9204c6/scale-ai.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "ServiceTitan",
+    "company_url": "https://www.servicetitan.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5Gs3TbO8ytB3wExV5hL7be/df6c560f0aa8cf44e0445034676af006/servicetitan.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "ShadowBot",
+    "company_url": "https://www.yingdao.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6ahuASUlGCCCTpOuAZO0mM/f39c376ba9022384c6cc408a35789eef/shadowbot.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Side",
+    "company_url": "https://www.sideinc.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2ew8O8jMrtimAepEhmcmwO/a9692a6654afd54b1308028c185866e0/side.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sierra Space",
+    "company_url": "https://www.sierraspace.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/xYNiYzcPBIllRBWoujjSZ/a7a200b68909209e51e726d6e2c61a44/sierra-space.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "SiFive",
+    "company_url": "https://www.sifive.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/XMJm5ftx1BnAzd4NtVT0n/a621e912bcc74a3540671a242b920bd5/sifive.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sila",
+    "company_url": "https://www.silanano.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6yVo6tcu9iz5xkC9NS7oFN/5478eb579106e379242832790c38c579/Sila.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Silverflow",
+    "company_url": "https://www.silverflow.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2zYKy4ZtROyKsUYIwsuxLx/ed26242a542e3e963fea2fb01a9a48b1/silverflow.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Singular Genomics",
+    "company_url": "https://www.singulargenomics.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1DEQrSZH72ef0NtIemK2mz/72067db0d4c8142673a9dcff4d061054/singulargenomics.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Skild AI",
+    "company_url": "https://www.skild.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/50u9neTrLrb9lxKcAPMm2/098542692192b20de371af602701b5fd/skildai.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "SkyPilot",
+    "company_url": "https://docs.skypilot.co/en/latest/docs/index.html",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1aHUVgavgObreaRQ2qJgCa/27699ef5757d49a7b7a97eb8495a0adc/SkyPilotsvg.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Slack",
+    "company_url": "https://www.slack.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1Le3p8Q9hbkYay5hx9HQD6/545fca365bb46bb8e2843385f3ab50f2/slack.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Snap Group",
+    "company_url": "https://www.snapchat.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/697J5K7Vl0HleIfr0B2WUd/e4d12fc0de54258356eb3b1c6bbcb023/snap-group.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Snowflake",
+    "company_url": "https://www.snowflake.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/11Xvd8F2NSkkHFxkz7kZNP/aeb23960bbd11379f33513ef88668e33/snowflake.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Snyk",
+    "company_url": "https://www.snyk.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/G5SoFL0PB8L7SUo1SeDkG/44cfb5567d431e886d1bdbd64de10538/snyk.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sourceful",
+    "company_url": "https://www.sourceful.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1QY9KckgYmbglB50BFue54/fc687da7a669d440d0aa5b09eee16d30/sourceful.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sourcegraph",
+    "company_url": "https://www.sourcegraph.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/17tIve6hiRXLKWQTvLwc7t/152335542bdf8d98986fb6c730e9a5fa/sourcegraph.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "SpaceX",
+    "company_url": "https://www.spacex.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1pC5vf8TDPIXWWqLPZpXcf/20eefb90c806481d67d5440a1a426281/spacex.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Spotify",
+    "company_url": "https://www.spotify.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/Bf4vVheEeamYjxePr8sMI/120dbde36f9cb8c1148321178bd8acee/spotify.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "SpotOn",
+    "company_url": "https://www.spoton.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/63ss4JOTM6G7RaXgksjorz/9c16040da0e61d8312590da7605fffeb/spoton.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Stability",
+    "company_url": "https://stability.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1rJkad4mnI5nVfHnbrdwnr/d1e373babed67132534e008e3b57ff17/StabilityAI.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Starburst",
+    "company_url": "https://www.starburstdata.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4HWB9skbEXIcv4VFLaFmWQ/c6f9b8701dd8a959971d0ea34034b2b8/starburst.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "StarkWare",
+    "company_url": "https://www.starkware.co",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3ZNaUoqrvC5Huf6wyFHgrQ/64f48564b9f6f35ea5b7eaae48fbb242/starkware.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Stash",
+    "company_url": "https://www.stash.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4PD33kVUF7zmBlkjvhKxGx/e94ddab1e52b28073fd5239f50f7579a/stash.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Step",
+    "company_url": "https://www.step.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3LUIKpv5mb5wy7IrMbC0hT/f359dc00494874c6373c506de4ff5ef3/step.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Stratify",
+    "company_url": "https://www.stratifytech.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2v1iEyj2dlwMeZZ6S37XPj/7d617df13bc01a499a7d45b6cdf11ebe/stratifytech.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Stripe",
+    "company_url": "https://www.stripe.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/12mfb6Y62pXK4M80I5f6Tz/9ee5a3ae3237cc784863d68a3981e475/stripe.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Stytch",
+    "company_url": "https://stytch.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2nyQe8UrbFU8nqpvoDvFcF/7e62195fca1e402703f1ec4ebbb075d6/stytch.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sumble",
+    "company_url": "https://sumble.com/orgs",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/30F9rIKLUtit875MlgRl1t/65c749ab0a72043a9d6123c9ab41f593/sumble.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sunday",
+    "company_url": "https://www.sundayapp.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1eS4e5D5OoojkgmpuyXnmz/fa4dcd549672f819d9f59df2ab4ecefe/sunday.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sunday Robotics",
+    "company_url": "https://www.sunday.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2m178IHKtxfaTulYL5zhrn/961ad1f27d34a6882df280316052f04d/sunday.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sundeck",
+    "company_url": "https://sundeck.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3jMDtR5LFL3JTyFDkkHF3i/d4f1b6a19a1e46a4719288ce31fdf065/sundeck.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Supabase",
+    "company_url": "https://www.supabase.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6uYqj4DGp9OKnxOIjsfOnH/ccba211ee307f6487bbab3cd20e7db7c/supabase.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Superhuman",
+    "company_url": "https://superhuman.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/222cJyEaGFOvKNfAaNT9fU/323174b34241b77e787e07f22db494c7/superhuman.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Swarm Aero",
+    "company_url": "https://www.swarm.aero/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2qbv5eCigXbAUqy23rabkj/e768964b7885cda0d721339911ab5a88/swarm.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Sweep",
+    "company_url": "https://www.sweep.net",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7vVC8SZQSVqTuUNpt0Hv8E/864a3313b62abd367272a48ce8bfdc03/sweep.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Swiggy",
+    "company_url": "https://www.swiggy.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/100RygRfQ1FGXzPFhmT2Ej/bb82ca0a80b6ebd6907af79a9101e0e4/swiggy.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Tackle.io",
+    "company_url": "https://www.tackle.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1L2L6rnHrEQ9eGESKUKzUC/bb4d06910b681aefe076d2cd60350ce9/tackle-io.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Take Take Take",
+    "company_url": "https://taketaketake.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4H6WAS3Y1jWfDLVkw2Olxd/03ab2cb134dd9e4b7a06785dd75bf0a2/taketaketake.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Tamara",
+    "company_url": "https://tamara.co/en-SA",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4l20yLtYJADLn0xjo3G4N4/1293ea9903c1d7a86fab69a301a918d9/tamara.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Teamflow",
+    "company_url": "https://www.teamflowhq.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3U3YdJ4Ohkz604Nxn6EI3p/e049375bdf8d596bd206cdf4743896a1/teamflow.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Tencent Music Entertainment Group",
+    "company_url": "https://www.tencentmusic.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3qVApUhcMNZfjIotMgmi0i/38fe040592d933f9bb498ef1a95233ab/tencent_music_entertainment.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "The Boring Company",
+    "company_url": "https://www.boringcompany.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/45JjoQWf4UG8yiKeZcQK4j/0259680edc31776c9047975709ce0785/theboringcompany.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "The Supplant Company",
+    "company_url": "https://supplant.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4yjR9hnBrNE1E3rO6ZUHIo/ec791baec01040f654ae0e82c013f5f3/supplant.jpg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Titan",
+    "company_url": "https://www.titan.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4KuAUNb5HfeMsWrCzUQ4kg/d3c575e3a30bb1d6250b58d07246da66/Titan.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Together AI",
+    "company_url": "https://www.together.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3iTzDGvhWOB11oyyUxXRGC/f09526517eab60acfe26c431fe39df68/togetherai.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Tome",
+    "company_url": "https://lightfield.app/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6r7MBBfiJ5oOCyA8t4ZMTP/447abb3d3ed0dd4663015eff174f3349/magical-tome.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Tul",
+    "company_url": "https://www.tul.io/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1hRBeVX51WGEfudG3qO9Sn/d09d9b2631e408fd77de42fd782492b7/tul.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Twaice",
+    "company_url": "https://www.twaice.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2nyLTIUxTPVLpiQLYiOUB1/4f3c76f29a4c7bde2bebc5e97568869c/twaice.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Uber",
+    "company_url": "https://www.uber.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/wvSfyQDshltsje2p0Qb83/4cd57e80b1bae37d31c0a8732953315d/uber.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "UiPath",
+    "company_url": "https://www.uipath.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6I31YnVRCBSFQlEb985ZtD/25ac8ba30ecd68996b26a0c5461096b5/uipath.png",
+    "fund_type": "Growth",
+    "status": "Exit",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Universal Hydrogen",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5eLyEggg0NBsLotgFUq6s6/d76254f402467744cbd5f80d384a5e03/universalhydrogen.jpg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Unsupervised",
+    "company_url": "https://www.unsupervised.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/52kPZgGVJNdteiePRfqg3U/637e7004970eea94d010beba69d6c6d1/unsupervised.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Upgrade",
+    "company_url": "https://www.upgrade.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/73GDBT6IvTnALk9XWRnQqm/004c78c89581e814b33c5c9f540f24ad/upgrade.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Uplight",
+    "company_url": "https://www.uplight.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4fW3Pkzk2lqXmSJ7qK4SG6/582f3be9052f55ce961a28a934443e03/uplight.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "UpStream",
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1rTfMfLN1Lo3a5Ugw4tESB/351c5a0c5e093b1c5eb637952152676f/Upstream_logo_for_website.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Valsoft Corporation",
+    "company_url": "https://www.valsoftcorp.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3R9kvheJltjnmf20cjq723/5704873349bc8dcd6dc9742bf33b5e2e/valsoft.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Vantage Data Centers",
+    "company_url": "https://vantage-dc.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1CEdyK7jjAR6HJQ8kQUzSE/926c2f4d2ffb49c3ab6ec3939e7e93ec/vantage.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Vay",
+    "company_url": "https://www.vay.io",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4El3mKTvV3qYLiNSKiAvGu/23f272f5d6414a196c1c8c4c53a2595b/vay.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Vedantu",
+    "company_url": "https://www.vedantu.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/7rGpTqkZSVFlIP0xN6vZkH/fa9822d80f42e4ad3272b29b91d8e302/vedantu.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "company_url": "https://vercel.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6onjRcAxKkfwk96zy9EJ32/bfb68826d2ec610ef16250cad3f53159/vercel.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Verse",
+    "company_url": "https://verse.inc/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5ikKDDE3nQ550cDM5jAIw8/fcf872961b26861f91b4a5cd43ce2add/verse.jpg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "VIPkid",
+    "company_url": "https://www.vipkid.com.cn",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4VKazlWZwBeSYRbPrdjpwK/8c60311bbf0737fc06103d04f8a01904/vipkid.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Voltron Data",
+    "company_url": "https://www.voltrondata.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/62oc73mI90pkcWw2nVdmNb/8495e6df8e3b7c486fb78fb831c7e4b2/voltron-data.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "WeaveGrid",
+    "company_url": "https://www.weavegrid.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2lopnFmqnZg1RSZNRwNcQj/0b10d989e2c1d1886ded0a8951fa1fae/weavegrid.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Webull",
+    "company_url": "https://www.webull.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/25eztFGK08yw1rcUy6wv79/1c2daa0390a2792af9308e327b1cbea6/webull.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Weidan",
+    "company_url": "https://www.weidian.com/?source=guanwang",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/6EG1QIPngXZrStSj3YwjxO/f50da2671df804feb4297b4ff0c3dbab/weidian.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Weights & Biases",
+    "company_url": "https://www.wandb.ai",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3SY00mkKjvAMxbgmPBdcT7/d43350196baf3c235b5e09df3d9db72a/weights-and-biases.png",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Wheel",
+    "company_url": "https://www.wheel.com",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/1d2DqDkiG7WITYyFFO2EYs/b0228c488760588dda4c02c37bdb783c/wheel.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Wisdom AI",
+    "company_url": "https://www.askwisdom.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5VckviButIRwRlgAtBWEWl/0fe05c4d8ed9d21040af86ae657fdd9e/wisdom.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Wish",
+    "company_url": "https://www.wish.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/19WzFW5uSYZynGzAxVTJL2/d7cdaa6b6f6c87b31e780470f7e87b72/Wish.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Workstream",
+    "company_url": "https://www.workstream.us",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5v8LgXAxRNIY8laAsGbV2A/3f0fdfceee036605a4ba1d91e65ab068/workstream.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "xAI",
+    "company_url": "https://x.ai/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/39JHvVMh1qOpF89v0WQiDW/8f3a69eb44ef8f460197e6f2e03aa246/xai.svg",
+    "fund_type": "Venture",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Xendit",
+    "company_url": "https://www.xendit.co",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/5gvgQqJZuOpdpcrkeWzFrC/d856c33b8e52db2d33ef9a58b81d1071/xendit.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Xpeng",
+    "company_url": "https://www.xpeng.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/4A8eq6rbKlvHlXGYx8KBcN/2e12cfceee1b7179e54a478de10d9e87/xpeng.svg",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Youxinpai",
+    "company_url": "https://www.youxinpai.com/trade",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/63epj2mu4apPRFOuuFaYz0/5d06142a1ef16090a8ca38ce76f83bc7/youxinpai.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "YQN",
+    "company_url": "https://www.yqn.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/3JrTFT7asXRAuG15Cd4VNK/f5c8a193ab1cb6e356be78e2a14ac41e/yqn.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Zuiyou",
+    "company_url": "https://www.izuiyou.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/28ic1R9FmwJU5L0gghDdNm/f5eca3c15de7615a23aafe2e017c212d/zuiyou.png",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  },
+  {
+    "company_name": "Zuoyebang",
+    "company_url": "https://www.zybang.com/",
+    "logo_url": "https://images.ctfassets.net/iqem6dz8q0mk/2HzdZJKrp5SxqnQrx2ryZP/73afb5e16bce301ac78e3c3ca92827bb/Zuoyebang.png_f_webp",
+    "fund_type": "Growth",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.coatue.com/portfolio",
+    "scraped_at": "2026-07-01T23:19:58.636800+00:00"
+  }
+]

@@ -1,0 +1,2759 @@
+[
+  {
+    "company_name": "1mind",
+    "company_url": "https://www.1mind.com/",
+    "description": "Redefining go-to-market with AI Superhumans",
+    "stage": "Series A",
+    "status": null,
+    "year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/69a0909518af4beb15ee1653_68379ada480712707c0de7a9_Vector.svg",
+    "founders": [],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Acopia Networks",
+    "company_url": null,
+    "description": "Network file virtualization",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Chris Lynch",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Cheng Wu",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Airgo",
+    "company_url": null,
+    "description": "Inventors of MIMO Wi-Fi",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Greg Raleigh",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "VK Jones",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "AirOps",
+    "company_url": "https://www.airops.com/",
+    "description": "AI workflows for growth teams",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/63dc5c54d41d447bb303d7e7_62203a95de528a5df3774455_airops-wordmark-black.svg",
+    "founders": [
+      {
+        "name": "Alex Halliday",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Matt Hammel",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Data",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Algorand",
+    "company_url": "https://www.algorand.com/",
+    "description": "Blockchain for business",
+    "stage": "Series A",
+    "status": "Unicorn",
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b81856f6c854bf2222_6398d0a6fb2888b2e282144e_Algorand.avif",
+    "founders": [
+      {
+        "name": "Silvio Micali",
+        "role": "Founder"
+      }
+    ],
+    "domains": [
+      "Web3"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Almanac",
+    "company_url": "https://almanac.io/",
+    "description": "Async collaboration",
+    "stage": "Seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb288848d68214cb_61ddbd3c0965b877fbca211d_Almanac%20Logo.svg",
+    "founders": [
+      {
+        "name": "Adam Nathan",
+        "role": "CEO & Co-Founder"
+      }
+    ],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Altor Networks",
+    "company_url": null,
+    "description": "Virtualization security",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb28880edd8214a2_Altor_Logo_Full_Vector_Desktop.svg",
+    "founders": [
+      {
+        "name": "Amir Ben-Efraim",
+        "role": "CEO & Founder"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Amber Networks",
+    "company_url": null,
+    "description": "Service edge router",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Amar Gupta",
+        "role": "Founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "AMI Labs",
+    "company_url": "https://amilabs.xyz/",
+    "description": "Building intelligent systems that understand the real world",
+    "stage": "Seed",
+    "status": null,
+    "year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6a0bfaf1b44aff4d42f254bc_AMI_BLACK_LOGOTYPE.png",
+    "founders": [],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Angle Health",
+    "company_url": null,
+    "description": "AI-enabled health insurance",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b9a1b12fa2fd03b9e3_63e2b47cbc8a9d1276219a8d_6147f295cc5fdd1b1f7d0600_Angle_Full-brand-p-2600.avif",
+    "founders": [
+      {
+        "name": "Tylon Wang",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Anirban Gangopadhyay",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Healthcare"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Aporeto",
+    "company_url": "https://www.paloaltonetworks.com/company/press/2019/palo-alto-networks-completes-acquisition-of-aporeto",
+    "description": "Cloud security for micro-service architectures",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b76dae819f963804e8_63dbf4a86b6d452ea8684240_aporeto.avif",
+    "founders": [
+      {
+        "name": "Amir Sharif",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Dimitri Stiliadis",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Satyam Sinha",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Jason Schmitt",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Ario",
+    "company_url": "https://www.heyario.com/",
+    "description": "Consumer AI assistant",
+    "stage": "Seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/66c66d4733fbc95421bf744e_image%20(52).png",
+    "founders": [
+      {
+        "name": "Sumit Agarwal",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "MengMeng Chen",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Around",
+    "company_url": "https://www.around.co/",
+    "description": "Next-gen video calling",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6786eb085ff33a5b33b1abf1_image%20(2).png",
+    "founders": [
+      {
+        "name": "Dominik Zane",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Pavel Serbajlo",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Arpelos Biosciences",
+    "company_url": null,
+    "description": "Developing multifunctional therapeutics",
+    "stage": "Seed",
+    "status": null,
+    "year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/682768ba79853f23012a18a5_Arpelos%20Logo%20-%20No%20Background%20-%20No%20Biosciences.png",
+    "founders": [
+      {
+        "name": "Josh Peters",
+        "role": "CEO and co-founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "ArrowPoint Communications",
+    "company_url": null,
+    "description": "Content networking for the internet",
+    "stage": "Series B",
+    "status": "IPO",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Cheng Wu",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Aruba Networks",
+    "company_url": "http://www.arubanetworks.com/",
+    "description": "Enterprise wireless networks",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b75a96922559331eb5_6398d0a6fb28887f5a8214a6_output-onlinepngtools%2520(16).avif",
+    "founders": [
+      {
+        "name": "Pankaj Manglik",
+        "role": "CEO and Co-founder"
+      },
+      {
+        "name": "Dominic Orr"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Asimov",
+    "company_url": "https://www.asimov.io/",
+    "description": "Programming living biological systems",
+    "stage": "Series A",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b75d2a30db07fcb124_6398d0a6fb28886066821484_asimov.avif",
+    "founders": [
+      {
+        "name": "Alec Nielsen",
+        "role": "CEO and co-founder"
+      },
+      {
+        "name": "Christopher Voigt",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Douglas Densmore",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Raja Srinivas",
+        "role": "Co-founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "AttoTude",
+    "company_url": null,
+    "description": "Datacenter interconnect technology",
+    "stage": "Seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/67a662e4a19c9f93dafc23aa_Attotude.png",
+    "founders": [
+      {
+        "name": "Dave Welch",
+        "role": "CEO & Founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Base",
+    "company_url": "http://base.ai",
+    "description": "Customer marketing platform",
+    "stage": "Seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb2888b4238214da_Base-logo-Formarly_Formerly-Crowdvocate.svg",
+    "founders": [
+      {
+        "name": "Gal Biran",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Gal Briner",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Bespoke Labs",
+    "company_url": "https://bespokelabs.ai/",
+    "description": null,
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6a4baf0810a978cc44690efc_Bespoke-Labs-Logo-Black.svg",
+    "founders": [],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Billables.ai",
+    "company_url": "https://billables.ai/",
+    "description": "AI-powered legal time tracking",
+    "stage": "Seed",
+    "status": null,
+    "year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/67070bc2f9fe3c46ef0ec310_billables.png",
+    "founders": [
+      {
+        "name": "Arvind Sujeeth",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Nancy Jeng",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "BlueJeans Network",
+    "company_url": "http://bluejeans.com",
+    "description": "Video communications",
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b8308843563552a295_6398d0a6fb288818d6821490_output-onlinepngtools%2520(6).avif",
+    "founders": [
+      {
+        "name": "Krish Ramakrishnan",
+        "role": "Chief of Innovation & Products"
+      },
+      {
+        "name": "Alagu Periyannan",
+        "role": "CTO"
+      }
+    ],
+    "domains": [
+      "Autonomous apps",
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "BlueRock Security",
+    "company_url": "https://www.bluerock.io/",
+    "description": "Next-generation runtime security",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/66c666681e5c25d1ecbbf654_bluerock.png",
+    "founders": [
+      {
+        "name": "Bob Tinker",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Osman Ismael",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security",
+      "Infrastructure"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "BoomPop",
+    "company_url": "https://boompop.com/",
+    "description": "AI-powered, event-planning platform",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/690aad5c67deda01d2007110_Boompop_wordmark_black.png",
+    "founders": [],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Broadsoft",
+    "company_url": null,
+    "description": "Unified communications",
+    "stage": "Series B",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b808c698b55d025a39_6398d0a6fb2888b30a82149a_output-onlinepngtools%2520(12).avif",
+    "founders": [
+      {
+        "name": "Michael Tessler",
+        "role": "CEO and Co-founder"
+      },
+      {
+        "name": "Scott Hoffpauir",
+        "role": "CTO and Co-founder"
+      },
+      {
+        "name": "Pete Bonee",
+        "role": "Co-founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Cartography Biosciences",
+    "company_url": "https://cartography.bio/",
+    "description": "Precision antibody-based therapeutics for oncology",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83b95c3283d1e426a32d_6398d0a6fb2888150c8214b1_1GuakIQg.avif",
+    "founders": [
+      {
+        "name": "Kevin Parker",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Howard Chang",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Ansuman Satpathy",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Cellanome",
+    "company_url": null,
+    "description": "Multiomics platform measuring biology at scale",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/678708f6ecf9eceecb00562c_yovv5Tds.png",
+    "founders": [
+      {
+        "name": "Mostafa Ronaghi",
+        "role": "CEO & Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "CertiK",
+    "company_url": "https://certik.org/",
+    "description": "Secures and monitors blockchain and Web3 apps",
+    "stage": "Seed",
+    "status": "Unicorn",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83ba5d2a30db07fcb223_6398d0a6fb288895e8821485_certik.avif",
+    "founders": [
+      {
+        "name": "Ronghui Gu",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Zhong Shao",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security",
+      "Web3"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Chemify",
+    "company_url": "http://www.chemify.io/",
+    "description": "Digitizing chemistry and chemical discovery",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/68dc5434e7dc456d20968afa_chemify_logo.png",
+    "founders": [
+      {
+        "name": "Lee Cronin",
+        "role": "CEO / CSO"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Classiq",
+    "company_url": "https://www.classiq.io/",
+    "description": "Quantum algorithm design platform",
+    "stage": "Series A",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83baf5ffed205f5e0c01_63dbf478c633fb76773ead78_classiq.avif",
+    "founders": [
+      {
+        "name": "Nir Minerbi",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Amir Naveh",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Developer tools",
+      "Infrastructure"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Clear Labs",
+    "company_url": "https://www.clearlabs.com/",
+    "description": "Automated pathogen genomic sequencing/epidemiology",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bcca44765abbb64b60_6398d0a6fb28885c81821420_Clear%2520Labs.avif",
+    "founders": [
+      {
+        "name": "Sasan Amini",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Mahni Ghorashi",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData",
+      "Healthcare"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Cogniac",
+    "company_url": "https://cogniac.ai/",
+    "description": "Computer vision AI",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83ba23642e985a2b3b06_6398d0a6fb2888f2dd821448_Cogniac.avif",
+    "founders": [
+      {
+        "name": "Bill Kish",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Amy Wang",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Cohesity",
+    "company_url": "https://www.cohesity.com/",
+    "description": "Data management platform",
+    "stage": "Series A",
+    "status": "Unicorn",
+    "year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb28887cf782128d_Cohesity-List.svg",
+    "founders": [
+      {
+        "name": "Mohit Aron",
+        "role": "Founder"
+      },
+      {
+        "name": "Sanjay Poonen",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure",
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Complex Media Network",
+    "company_url": "https://www.complex.com/about",
+    "description": "Cross-cultural vertical media network",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Rich Antoniello",
+        "role": "Former CEO and Founder"
+      },
+      {
+        "name": "Marc Ecko",
+        "role": "Chief Brand & Creative Officer and Co-founder"
+      }
+    ],
+    "domains": [],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Cumulus Networks",
+    "company_url": "http://cumulusnetworks.com/",
+    "description": "Open disaggregated networks",
+    "stage": "Seed",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bb7baf9ff35dd5359b_6398d0a6fb288809bc82148f_Cumulus_Networks_(computer_network_business)_logo.avif",
+    "founders": [
+      {
+        "name": "JR Rivers",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Nolan Leake",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Josh Leslie",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure",
+      "DevOps"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Cyberhaven",
+    "company_url": "https://www.cyberhaven.com/",
+    "description": "Data detection and response",
+    "stage": "Series B",
+    "status": "Unicorn",
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/64b9c61ac0d0f5cc3924f42c_cyberhaven-logo-light%20(3).avif",
+    "founders": [
+      {
+        "name": "Howard Ting",
+        "role": "CEO"
+      },
+      {
+        "name": "Volodymyr Kuznetsov",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Deepgram",
+    "company_url": "https://www.deepgram.com/",
+    "description": "Deep learning speech infrastructure",
+    "stage": "Series A",
+    "status": "Unicorn",
+    "year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6903c133e2e51838f47fa26c_Deepgram-wordmark-black.png",
+    "founders": [
+      {
+        "name": "Scott Stephenson",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Adam Sypniewski",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI",
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "DeepSight",
+    "company_url": "https://deepsightinc.com/",
+    "description": "Diagnostic medical imaging",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bd21412e5e793cbb69_6398d0a6fb2888690f821474_DeepSight.avif",
+    "founders": [
+      {
+        "name": "Nader Sadrzadeh",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Lan Yang",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Demisto",
+    "company_url": "https://www.demisto.com/",
+    "description": "Security orchestration, automation, & response platform",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bc5a9692255933aca3_6398d0a6fb288874258214af_Demisto-Full-Color-Logo.avif",
+    "founders": [
+      {
+        "name": "Dan Sarel",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Guy Rinat",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Rishi Bhargava",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Slavik Markovich",
+        "role": "CEO and Co-founder"
+      }
+    ],
+    "domains": [
+      "Security",
+      "AI"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Develop Health",
+    "company_url": "https://www.develophealth.ai/",
+    "description": "Qualify medication options",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/69366c11d9e7a43d26bab5d6_Develop%20Health%20Logotype.svg",
+    "founders": [],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Drip Capital",
+    "company_url": "http://www.dripcapital.com/",
+    "description": "Trade finance platform",
+    "stage": "Seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bd9cd291c465451415_6398d0a6fb2888468a8213a3_Drip.avif",
+    "founders": [
+      {
+        "name": "Pushkar Mukewar",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Neil Kothari",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "FinTech"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "DTEX Systems",
+    "company_url": "http://www.dtexsystems.com",
+    "description": "Insider risk management",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bdf5ffed205f5e0db8_64419799bc60941e1e956b93_DTEX_Logo_070721_Positive_RGB_NotAg%255B82%255D.avif",
+    "founders": [
+      {
+        "name": "Marshall Heilman",
+        "role": "CEO"
+      },
+      {
+        "name": "Mohan Koo",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Rajan Koo",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Dust",
+    "company_url": "https://dust.tt/",
+    "description": "Multiplayer agentic AI system",
+    "stage": "Series B",
+    "status": null,
+    "year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6a0b424b433a073035fc5815_Dust_Logo%20-%20Ambra%20Zhang.png",
+    "founders": [],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Espressive",
+    "company_url": "http://espressive.com",
+    "description": "Gen AI-based digital workplace assistant",
+    "stage": "Series B",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bdcc158e6987b6860d_6398d0a6fb288871288213a4_Espressive.avif",
+    "founders": [
+      {
+        "name": "Pat Calhoun",
+        "role": "CEO & Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Feathery",
+    "company_url": "https://www.feathery.io/",
+    "description": "Unified data intake workflows",
+    "stage": "Seed",
+    "status": null,
+    "year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bdf7a9929ae8ce23b7_640a3f9e316671a6786332dd_feathery-logo-type.avif",
+    "founders": [
+      {
+        "name": "Peter Dun",
+        "role": "CEO & Co-Founder"
+      }
+    ],
+    "domains": [
+      "Developer tools"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Findem",
+    "company_url": "https://www.findem.ai/",
+    "description": "AI-powered hiring",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/67885796b854f168c192ed49_full_logo_in_dark_blue.png",
+    "founders": [
+      {
+        "name": "Hariharan Kolam",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Raghu Venkat",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "FireEye",
+    "company_url": "http://www.fireeye.com/",
+    "description": "Security platform to counter next-gen cyber attacks",
+    "stage": "Pre-seed",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb2888dfc382148b_fe-logo-white.svg",
+    "founders": [
+      {
+        "name": "Ashar Aziz",
+        "role": "CEO and Founder"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Fusion-io",
+    "company_url": null,
+    "description": "Enterprise flash storage pioneer",
+    "stage": "Series B",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bf0dd4ac1699a20f7f_6398d0a6fb28885cc28214a4_output-onlinepngtools%2520(15).avif",
+    "founders": [
+      {
+        "name": "David Flynn",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Rick White",
+        "role": "Co-founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Glyphic Biotechnologies",
+    "company_url": "https://glyphic.bio/",
+    "description": "Accurate protein sequencing",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bd6dae819f96380943_6398d0a6fb288808c8821472_Glyphic%2520Bio.avif",
+    "founders": [
+      {
+        "name": "Joshua Yang",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Daniel Estandian",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Gong",
+    "company_url": "http://www.gong.io/",
+    "description": "Revenue intelligence platform",
+    "stage": "Series A",
+    "status": "Unicorn",
+    "year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb28887ca88214d8_gong-logo.svg",
+    "founders": [
+      {
+        "name": "Amit Bendov",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Eilon Reshef",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Goodfire",
+    "company_url": "https://www.goodfire.ai/",
+    "description": "AI interpretability research",
+    "stage": "Series A",
+    "status": "Unicorn",
+    "year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/680922c967f373467b86f037_Goodfire-logo-.webp",
+    "founders": [],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Gradient",
+    "company_url": "https://gradient.ai/",
+    "description": "Productionizing LLMs",
+    "stage": "Seed",
+    "status": null,
+    "year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/65de5639b4d615abfe4df40c_gradient.png",
+    "founders": [
+      {
+        "name": "Chris Chang",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Mark Kim-Huang",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Forrest Moret",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI",
+      "FinTech"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Gray Swan",
+    "company_url": "https://www.grayswan.ai/",
+    "description": "Enterprise Security for AI-Powered Applications",
+    "stage": "Series A",
+    "status": null,
+    "year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6a1878676bc19dd503ee34db_Gray%20Swan%3DDark%20Vertical%20(1).svg",
+    "founders": [],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "GYANT",
+    "company_url": "https://gyant.com/",
+    "description": "CRM automation for healthcare",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c0afc2cd3acac70cb6_6398d0a6fb2888324f821471_Gyant%2520v2.png",
+    "founders": [
+      {
+        "name": "Stefan Behrens",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Pascal Zuta",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Healthcare"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Habu",
+    "company_url": "https://habu.com/",
+    "description": "Data collaboration software",
+    "stage": "Series B",
+    "status": "Acquired",
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83be08c698b55d025d0a_63dbf44fd3068fda671d418b_habu.avif",
+    "founders": [
+      {
+        "name": "Matt Kilmartin",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Michael Moreau",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "HeadsUp",
+    "company_url": null,
+    "description": "PLG conversion engine",
+    "stage": "Seed",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/63dc3c5d253b9e60ec5146dd_HeadsUp_%20Conversion%20Engine%20for%20Product%20Led%20Sales-0.svg",
+    "founders": [
+      {
+        "name": "Earl Lee",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Momo Ong",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Human Archive",
+    "company_url": "https://www.humanarchive.ai/",
+    "description": "Data lab modeling human embodied intelligence",
+    "stage": "Seed",
+    "status": null,
+    "year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6a15de255782b1edcb696fb3_fewewewew.png",
+    "founders": [],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Human Interest",
+    "company_url": "http://humaninterest.com/",
+    "description": "Small business 401(k)",
+    "stage": "Series A",
+    "status": "Unicorn",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bea5eb52039d56c471_6398d0a6fb288831b3821482_human%2520interest.avif",
+    "founders": [
+      {
+        "name": "Jeff Schneble",
+        "role": "CEO"
+      },
+      {
+        "name": "Roger Lee",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Paul Sawaya",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "FinTech"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Hydrolix",
+    "company_url": "https://www.hydrolix.io/",
+    "description": "Cloud data platform for observability",
+    "stage": "Seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bed8742bdac4a02fd1_6398d0a6fb28884d8282147e_Hydrolix.avif",
+    "founders": [
+      {
+        "name": "Marty Kagan",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Hasan Alayli",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "IBEAM Broadcasting",
+    "company_url": null,
+    "description": "Video content delivery network",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bee20c8c9bd9a3b917_6398d0a6fb2888554482149c_output-onlinepngtools%2520(14).avif",
+    "founders": [
+      {
+        "name": "Nils Lahr",
+        "role": "CTO and co-founder"
+      },
+      {
+        "name": "Navin Chaddha",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Bruce Lawler",
+        "role": "VP Engineering and Operations and Co-founder"
+      },
+      {
+        "name": "Peter Desnoes",
+        "role": "Co-founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Infinera",
+    "company_url": "http://www.infinera.com/",
+    "description": "Integrated optical network transport",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bed6fb2fa78ba6e79e_6398d0a6fb288868d182149f_logo-header-200px%2520(1).avif",
+    "founders": [
+      {
+        "name": "Jagdeep Singh",
+        "role": "CEO and co-founder"
+      },
+      {
+        "name": "David Welch",
+        "role": "CIO"
+      },
+      {
+        "name": "Drew Perkins",
+        "role": "CTO and co-founder"
+      },
+      {
+        "name": "Tom Fallon",
+        "role": "Former CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Instart",
+    "company_url": null,
+    "description": "Digital experience management",
+    "stage": null,
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb2888585c82146f_Instart-List.svg",
+    "founders": [
+      {
+        "name": "Manav Mital"
+      },
+      {
+        "name": "Raghu Venkat",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Hari Kolam",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Sumit Dhawan",
+        "role": "former CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure",
+      "DevOps"
+    ],
+    "prior_work": "N/A",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Inventive",
+    "company_url": "https://www.madeinventive.com/",
+    "description": "Embedded AI data analyst",
+    "stage": "Seed",
+    "status": null,
+    "year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6661f48a86bf08f8be6b4c8b_Logo.png",
+    "founders": [
+      {
+        "name": "Erik Kuld",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Kavita Shah",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Clarence Tso",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI",
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Jaris",
+    "company_url": "https://jaris.io/",
+    "description": "Embedded finance platform",
+    "stage": "Pre-seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bf1fe79603342f1fdb_6398d0a6fb2888694d8214a0_jaris.avif",
+    "founders": [
+      {
+        "name": "Chris Aristides",
+        "role": "CEO & Founder"
+      }
+    ],
+    "domains": [
+      "FinTech"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Jasper",
+    "company_url": "http://www.jasper.com/",
+    "description": null,
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c25d2a30db07fdccf8_63dc66feebb37b525157da41_jasper-3.avif",
+    "founders": [
+      {
+        "name": "Jahangir Mohammed",
+        "role": "CEO and founder"
+      }
+    ],
+    "domains": [
+      "Developer tools"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Jellyfish",
+    "company_url": "https://jellyfish.co/",
+    "description": "Engineering intelligence platform",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bfb93a4669f295bf87_6398d0a6fb288863f982144d_Jellyfish.avif",
+    "founders": [
+      {
+        "name": "Andrew Lau",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Phil Braden",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "David Gourley",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps",
+      "Developer tools"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Jut",
+    "company_url": "http://www.jut.io/",
+    "description": "DevOps Analytics Platform",
+    "stage": null,
+    "status": null,
+    "year": null,
+    "logo_url": null,
+    "founders": [],
+    "domains": [],
+    "prior_work": "N/A",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Juvo",
+    "company_url": "http://juvo.com",
+    "description": "Consumer lending based on mobile data",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c1f5ffed205f5e5523_6398d0a6fb28888e5682135f_Juvo.avif",
+    "founders": [
+      {
+        "name": "Steve Polsky",
+        "role": "CEO & Founder"
+      }
+    ],
+    "domains": [
+      "FinTech",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Link Cell Therapies",
+    "company_url": "https://linkcelltx.com/",
+    "description": "Developing the first true AND gate platform for cell therapy",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/68dc525d578f2131565285ff_linkcell-logo.webp",
+    "founders": [
+      {
+        "name": "Robbie Majzner, MD",
+        "role": "Founder & Board Member"
+      },
+      {
+        "name": "Crystal Mackall, MD",
+        "role": "Founder & Board Member"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Lumigo",
+    "company_url": "https://lumigo.io/",
+    "description": "Monitoring and debugging for modern cloud applications",
+    "stage": "Series A",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c0e629957c652804e6_6398d0a6fb2888aec58214cf_Lumigo.avif",
+    "founders": [
+      {
+        "name": "Erez Berkner",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Aviad Mor",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Developer tools",
+      "DevOps"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Matterworks",
+    "company_url": "https://www.matterworksbio.com/",
+    "description": "AI metabolomics platform",
+    "stage": "Seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c00dd4ac1699a21012_6398d0a6fb2888c1fb8214d0_Matterworks-Logo.avif",
+    "founders": [
+      {
+        "name": "Jack Geremia",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Mimoun Cadosch Delmar",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Medely",
+    "company_url": "https://medely.com/",
+    "description": "Digital nursing network",
+    "stage": "Seed",
+    "status": null,
+    "year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c0e20c8c9bd9a3ba14_6398d0a6fb288834ed821449_Medely.avif",
+    "founders": [
+      {
+        "name": "Waleed Nasr",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Khaled Nasr",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Healthcare"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Mendra",
+    "company_url": "https://mendra.com/",
+    "description": "AI to accelerate clinical development of medicine",
+    "stage": "Series A",
+    "status": null,
+    "year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6973bf3b41a7987bdb80d72e_Mendra.png",
+    "founders": [],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Mimic",
+    "company_url": "https://mimic.com/",
+    "description": "Ransomware defense",
+    "stage": "Seed",
+    "status": null,
+    "year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6632be44967fa8bf6b2fe912_logo-mimic-gold-black-1000%E2%80%8A%C3%97%E2%80%8A273.avif",
+    "founders": [
+      {
+        "name": "Derek Smith",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Bob Blakley",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "MobileIron",
+    "company_url": "http://www.mobileiron.com/en",
+    "description": "Enterprise mobility management",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/63dc66e217658a33eaa0d17c_MobileIron-List.svg",
+    "founders": [
+      {
+        "name": "Ajay Mishra",
+        "role": "CCO and co-founder"
+      },
+      {
+        "name": "Suresh Batchu",
+        "role": "CTO and co-founder"
+      },
+      {
+        "name": "Simon Biddiscombe",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Moogsoft",
+    "company_url": "https://www.moogsoft.com/dell-technologies-acquires-moogsoft/",
+    "description": "AI-powered observability cloud",
+    "stage": "Series B",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c05a9692255933aeb1_6398d0a6fb2888e39f821360_Moogsoft.avif",
+    "founders": [
+      {
+        "name": "Phil Tee",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Mike Silvey",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "DevOps",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Motive",
+    "company_url": null,
+    "description": "Automated customer support software",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Scott Harmon",
+        "role": "CEO and co-founder"
+      },
+      {
+        "name": "Scott Abel",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Mike Maples",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Kip McClanahan",
+        "role": "President"
+      },
+      {
+        "name": "Kenny Van Zant",
+        "role": "Executive Vice President"
+      }
+    ],
+    "domains": [
+      "Autonomous apps"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Mytos",
+    "company_url": "https://www.mytos.bio/",
+    "description": "Automated cell manufacturing",
+    "stage": "Seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/66c50831f9a48c663144a038_mytos.png",
+    "founders": [
+      {
+        "name": "Ali Afshar",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Ignacio Willats",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Netography",
+    "company_url": "https://netography.com/",
+    "description": "Network security and visibility",
+    "stage": "Seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c25d2a30db07fdcd5f_6398d0a6fb28881a4a8214d1_Netography.avif",
+    "founders": [
+      {
+        "name": "Marty Roesch",
+        "role": "CEO"
+      },
+      {
+        "name": "Barrett Lyon",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Dan Murphy",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security",
+      "Infrastructure"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "NetScaler",
+    "company_url": null,
+    "description": null,
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c1901a8152461bb650_6398d0a6fb288808a28214a8_output-onlinepngtools%2520(17).avif",
+    "founders": [
+      {
+        "name": "BV Jagadeesh",
+        "role": "CEO"
+      },
+      {
+        "name": "Prabakar Sundarrajan",
+        "role": "CTO"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "New Edge Networks",
+    "company_url": null,
+    "description": "Broadband network service provider",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Dan Moffat",
+        "role": "Co-founder"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Nimble Storage",
+    "company_url": "https://www.hpe.com/us/en/storage/nimble.html",
+    "description": "Enterprise flash storage",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c1cfae1bcfc0658de9_6398d0a6fb2888705a82148a_output-onlinepngtools.avif",
+    "founders": [
+      {
+        "name": "Varun Mehta",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Umesh Maheshwari",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Suresh Vasudevan",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Northpoint Communications",
+    "company_url": null,
+    "description": "Broadband network service provider",
+    "stage": "Series A",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c4308843563553be76_6398d0a6fb2888af9d821499_output-onlinepngtools%2520(11).avif",
+    "founders": [
+      {
+        "name": "Michael Malaga",
+        "role": "CEO and founder"
+      },
+      {
+        "name": "Tim Monahan",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Bill Euske",
+        "role": "CTO"
+      },
+      {
+        "name": "Bob Flood",
+        "role": "VP Operations"
+      },
+      {
+        "name": "Nathan Gregory",
+        "role": "Chief Network Architect"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Notch",
+    "company_url": "https://usenotch.ai/?utm_source=wing&utm_medium=portfolio&utm_campaign=wing_directory",
+    "description": "AI-powered advertising platform",
+    "stage": "Seed",
+    "status": null,
+    "year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/69f24f3473178f3f7766d00a_Logo%20-%20color.svg",
+    "founders": [
+      {
+        "name": "Vinay Jain",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Aman Jain",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Noteable",
+    "company_url": "https://noteable.io/",
+    "description": "Collaborative data notebook",
+    "stage": "Seed",
+    "status": "Acquired",
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb288822938214d9_Noteable-Logo.svg",
+    "founders": [
+      {
+        "name": "Pierre Brunelle",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Elijah Meeks",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Data",
+      "Developer tools"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Nurdle",
+    "company_url": "https://nurdle.ai/",
+    "description": "AI content moderation",
+    "stage": "Series A",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6667811ffd1f96cc69b38064_nurdle.avif",
+    "founders": [
+      {
+        "name": "Justin Davis",
+        "role": "CEO and co-founder"
+      },
+      {
+        "name": "Josh Newman",
+        "role": "CTO and co-founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps",
+      "AI"
+    ],
+    "prior_work": "N/A",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Obsidian",
+    "company_url": "https://www.obsidiansecurity.com/",
+    "description": "Intelligent identity protection",
+    "stage": "Series A",
+    "status": null,
+    "year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c3aa7e9bd7c9827204_6398d0a6fb28880af8821447_Obsidian.avif",
+    "founders": [
+      {
+        "name": "Hasan Imam",
+        "role": "CEO"
+      },
+      {
+        "name": "Glenn Chisholm",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Matt Wolff",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Ben Johnson",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Omneon",
+    "company_url": null,
+    "description": "Broadcast video infrastructure",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c85d940a4204fc4a9b_6398d0a6fb2888346582149b_output-onlinepngtools%2520(13).avif",
+    "founders": [
+      {
+        "name": "Larry Kaplan",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Don Craig",
+        "role": "CTO and co-founder"
+      },
+      {
+        "name": "Suresh Vasudevan",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Opower",
+    "company_url": "http://opower.com",
+    "description": "Energy efficiency through behavioral science",
+    "stage": "Series B",
+    "status": "IPO",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c3cc158e6987b687e5_6398d0a6fb2888e74c821494_output-onlinepngtools%2520(9).avif",
+    "founders": [
+      {
+        "name": "Dan Yates",
+        "role": "CEO"
+      },
+      {
+        "name": "Alex Laskey",
+        "role": "Founder"
+      }
+    ],
+    "domains": [
+      "Autonomous apps"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Orby AI",
+    "company_url": "https://www.orby.ai/",
+    "description": "AI Agent & Enterprise Automation",
+    "stage": "Seed",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/67a6643a658a85ca42831ff5_orby%20logo.png",
+    "founders": [
+      {
+        "name": "Bella Liu",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Will Lu",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Ordr",
+    "company_url": "https://ordr.net/",
+    "description": "Connected device security",
+    "stage": "Seed",
+    "status": null,
+    "year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83bccc158e6987b685bc_6398d0a6fb2888768f8213a6_Ordr.avif",
+    "founders": [
+      {
+        "name": "Pandian Gnanaprakasam",
+        "role": "Co-Founder & CEO"
+      }
+    ],
+    "domains": [
+      "Security",
+      "AI"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Outverse",
+    "company_url": "https://www.outverse.com/",
+    "description": "AI customer support agent",
+    "stage": "Seed",
+    "status": null,
+    "year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/64adb401a41cc5e29b9b8ccc_62e3fcc33667aecb3e989a83.avif",
+    "founders": [
+      {
+        "name": "Kyran Schmidt",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Ollie Steadman",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Jeylani Jeylani",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "OverT Bio",
+    "company_url": "https://www.overt.bio/",
+    "description": "Effective and safe cellular therapies",
+    "stage": "Seed",
+    "status": null,
+    "year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/67885cb7fc046a237d0adbeb_1714849193549.jpeg",
+    "founders": [
+      {
+        "name": "Mat Legut",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Neville Sanjana",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "BioXData"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Palerra",
+    "company_url": "http://palerra.com",
+    "description": "Cloud security",
+    "stage": "Seed",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/6398d0a6fb2888fcf582146e_Palerra-List.svg",
+    "founders": [
+      {
+        "name": "Rohit Gupta",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Ganesh Kirti",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Security"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Pepperdata",
+    "company_url": "http://pepperdata.com/",
+    "description": "Analytics infrastructure optimization",
+    "stage": "Series B",
+    "status": null,
+    "year": null,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c421412e5e793cbd86_6398d0a6fb288851a4821398_Pepperdata.avif",
+    "founders": [
+      {
+        "name": "Ashfaq Munshi",
+        "role": "CEO"
+      },
+      {
+        "name": "Chad Carson",
+        "role": "Co-Founder"
+      },
+      {
+        "name": "Sean Suchter",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Peribit",
+    "company_url": null,
+    "description": "WAN acceleration",
+    "stage": "Series A",
+    "status": "Acquired",
+    "year": null,
+    "logo_url": null,
+    "founders": [
+      {
+        "name": "Amit Singh",
+        "role": "CTO and co-founder"
+      },
+      {
+        "name": "Balraj Singh",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Jef Graham",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "Infrastructure"
+    ],
+    "prior_work": "Prior Work",
+    "everywhere_tags": [],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Pinecone",
+    "company_url": "https://www.pinecone.io/",
+    "description": "Vector data platform for AI",
+    "stage": "Seed",
+    "status": null,
+    "year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c6a1b12fa2fd0490ac_6398d0a6fb2888a418821481_pinecone.avif",
+    "founders": [
+      {
+        "name": "Edo Liberty",
+        "role": "Founder"
+      },
+      {
+        "name": "Ash Ashutosh",
+        "role": "CEO"
+      }
+    ],
+    "domains": [
+      "AI",
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Pixee",
+    "company_url": "https://www.pixee.ai/",
+    "description": "AI product security engineer",
+    "stage": "Seed",
+    "status": null,
+    "year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/66c5131b4a78ae8452edd472_pixee.png",
+    "founders": [
+      {
+        "name": "Surag Patel",
+        "role": "CEO & Co-Founder"
+      },
+      {
+        "name": "Arshan Dabirsiaghi",
+        "role": "Co-Founder"
+      }
+    ],
+    "domains": [
+      "AI",
+      "Developer tools"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  },
+  {
+    "company_name": "Platfora",
+    "company_url": null,
+    "description": "Big data analytics",
+    "stage": "Seed",
+    "status": "Acquired",
+    "year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/6398d0a6fb2888fead821258/649b83c4aa7e9bd7c9827429_6398d0a6fb28884028821431_Platfora.avif",
+    "founders": [
+      {
+        "name": "Ben Werther",
+        "role": "CEO & Founder"
+      }
+    ],
+    "domains": [
+      "Data"
+    ],
+    "prior_work": "Wing Companies",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://wing.vc/companies",
+    "scraped_at": "2026-07-30T07:07:21+00:00"
+  }
+]

@@ -1,0 +1,1665 @@
+[
+  {
+    "company_name": "SpaceX",
+    "description": "The first company to achieve orbit with a liquid-fueled rocket, SpaceX develops launch systems at dramatically-lower costs than any entity — government or private — in history.",
+    "company_url": "http://www.spacex.com/",
+    "company_profile_url": "https://foundersfund.com/company/spacex/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/03/test_logos_SpaceX-Logo.png",
+    "founders": [
+      {
+        "name": "Elon Musk",
+        "url": "https://twitter.com/elonmusk"
+      }
+    ],
+    "sectors": [
+      "Aerospace & Transportation"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "RegTech/Gov/Legal",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Palantir",
+    "description": "Palantir’s ground-breaking software allows analysts to understand vast quantities of information.",
+    "company_url": "http://www.palantir.com/",
+    "company_profile_url": "https://foundersfund.com/company/palantir/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/03/test_logos_Palantir-Logo1.png",
+    "founders": [
+      {
+        "name": "Alexander Karp",
+        "url": "https://en.wikipedia.org/wiki/Alex_Karp"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Anduril",
+    "description": "Anduril brings together top technical talent to solve the most complex national security challenges.",
+    "company_url": "https://www.anduril.com/",
+    "company_profile_url": "https://foundersfund.com/company/anduril/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/06/Anduril-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Brian Schimpf",
+        "url": "https://www.linkedin.com/in/bschimpf/"
+      },
+      {
+        "name": "Palmer Luckey",
+        "url": "https://78.media.tumblr.com/tumblr_m6mn5yE37v1qb9jz7o1_500.gif"
+      },
+      {
+        "name": "Matt Grimm",
+        "url": "https://www.linkedin.com/in/mttgrmm/"
+      },
+      {
+        "name": "Joe Chen",
+        "url": "https://www.linkedin.com/in/chenhaus/"
+      },
+      {
+        "name": "Trae Stephens",
+        "url": "https://www.linkedin.com/in/trae-stephens-485a811/"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Stripe",
+    "description": "Stripe makes it easy to perform online financial transactions, processing billions of dollars a year for thousands of businesses.",
+    "company_url": "https://stripe.com/",
+    "company_profile_url": "https://foundersfund.com/company/stripe/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2016/01/FF-Website-2014-Portfolio-Company-Logo-Template_Stripe.png",
+    "founders": [
+      {
+        "name": "Patrick Collison",
+        "url": "https://twitter.com/patrickc"
+      },
+      {
+        "name": "John Collison",
+        "url": "https://twitter.com/collision"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Facebook",
+    "description": "Facebook is the largest social network in the world.",
+    "company_url": "https://www.facebook.com",
+    "company_profile_url": "https://foundersfund.com/company/facebook/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/06/FF-Website-2014-Portfolio-Company-Logo-Template_Facebook.png",
+    "founders": [
+      {
+        "name": "Mark Zuckerberg",
+        "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Airbnb",
+    "description": "Airbnb is a community marketplace of individuals listing, exploring, and booking property around the world.",
+    "company_url": "https://www.airbnb.com/",
+    "company_profile_url": "https://foundersfund.com/company/airbnb/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/05/airbnb-logo.png",
+    "founders": [
+      {
+        "name": "Brian Chesky",
+        "url": "https://twitter.com/bchesky"
+      },
+      {
+        "name": "Nathan Blecharcyk",
+        "url": "https://twitter.com/nathanblec"
+      },
+      {
+        "name": "Joe Gebbia",
+        "url": "https://twitter.com/jgebbia"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "PropTech"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Ramp",
+    "description": "Ramp is the only corporate card that automates accounting, lowers your bills, and earns 1.5% cashback.",
+    "company_url": "https://ramp.com/",
+    "company_profile_url": "https://foundersfund.com/company/ramp/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/08/Ramp-Website-Logo-1.png",
+    "founders": [
+      {
+        "name": "Karim Atiyeh",
+        "url": "https://twitter.com/karimatiyeh"
+      },
+      {
+        "name": "Eric Glyman",
+        "url": "https://twitter.com/eglyman"
+      },
+      {
+        "name": "Gene Lee",
+        "url": "https://www.linkedin.com/in/genejaelee/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Neuralink",
+    "description": "Neuralink is developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.",
+    "company_url": "https://neuralink.com/",
+    "company_profile_url": "https://foundersfund.com/company/neuralink/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/06/Neuralink-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Elon Musk",
+        "url": "https://twitter.com/elonmusk"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "OpenAI",
+    "description": "OpenAI is a research and deployment company whose mission is to create safe and powerful AI that benefits all of humanity.",
+    "company_url": "https://openai.com/",
+    "company_profile_url": "https://foundersfund.com/company/openai/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/11/OpenAI-Website-Logo.png",
+    "founders": [],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Cognition",
+    "description": "Cognition is an applied AI lab focused on reasoning, and code is just the beginning.",
+    "company_url": "https://www.cognition-labs.com/",
+    "company_profile_url": "https://foundersfund.com/company/cognition/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2024/03/Coginition-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Scott Wu",
+        "url": "https://twitter.com/ScottWu46"
+      },
+      {
+        "name": "Steven Hao",
+        "url": "https://twitter.com/stevenkplus1"
+      },
+      {
+        "name": "Walden Yan",
+        "url": "https://twitter.com/walden_yan"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Nubank",
+    "description": "Nubank, the leading fintech company in Latin America, is redesigning the credit card experience in Brazil to reduce complexity and empower people.",
+    "company_url": "https://www.nubank.com.br/",
+    "company_profile_url": "https://foundersfund.com/company/nubank/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2016/05/NU-Bank-Logo.png",
+    "founders": [
+      {
+        "name": "David Velez",
+        "url": "https://www.crunchbase.com/person/david-velez"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Trade Republic",
+    "description": "Trade Republic is a European platform for commission-free mobile investing.",
+    "company_url": "https://www.traderepublic.com",
+    "company_profile_url": "https://foundersfund.com/company/trade-republic/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/07/Trade-Republic-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Christian Hecker",
+        "url": "https://www.linkedin.com/in/christianhe/"
+      },
+      {
+        "name": "Thomas Pischke",
+        "url": "https://www.linkedin.com/in/tpischke/"
+      },
+      {
+        "name": "Marco Cancellieri",
+        "url": "https://www.linkedin.com/in/marco-cancellieri-5a48b2a2/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Spotify",
+    "description": "Spotify provides users with a free, legal music library of more than 20 million tracks.",
+    "company_url": "https://www.spotify.com/",
+    "company_profile_url": "https://foundersfund.com/company/spotify/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/05/Spotify-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Daniel Ek",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Ek"
+      },
+      {
+        "name": "Martin Lorentzon",
+        "url": "https://en.wikipedia.org/wiki/Martin_Lorentzon"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Rippling",
+    "description": "Rippling is the world’s first system of record for workforce data – allowing you to manage employees’ payroll, benefits, devices, apps, and more, all in one platform.",
+    "company_url": "https://www.rippling.com/blog/",
+    "company_profile_url": "https://foundersfund.com/company/rippling/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/08/Rippling-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Parker Conrad",
+        "url": "https://www.linkedin.com/in/parkerconrad/"
+      },
+      {
+        "name": "Prasanna Sankar",
+        "url": "https://www.linkedin.com/in/myprasanna/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Affirm",
+    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.",
+    "company_url": "https://www.affirm.com/",
+    "company_profile_url": "https://foundersfund.com/company/affirm/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2017/03/Affirm-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Max Levchin",
+        "url": "https://en.wikipedia.org/wiki/Max_Levchin"
+      },
+      {
+        "name": "Nathan Gettings",
+        "url": "https://www.crunchbase.com/person/nathan-gettings#/entity"
+      },
+      {
+        "name": "Jeff Kaditz",
+        "url": "https://www.linkedin.com/in/jeffkaditz/"
+      },
+      {
+        "name": "Alex Rampell",
+        "url": "https://www.linkedin.com/in/arampell/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Crusoe",
+    "description": "Crusoe is empowering the AI revolution as the industry’s first vertically integrated AI infrastructure provider.",
+    "company_url": "https://crusoe.ai/",
+    "company_profile_url": "https://foundersfund.com/company/crusoe/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/06/Crusoe-Logo-1.png",
+    "founders": [
+      {
+        "name": "Chase Lochmiller",
+        "url": "https://crusoe.ai/leadership"
+      },
+      {
+        "name": "Cully Cavness",
+        "url": "https://crusoe.ai/leadership"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Polymarket",
+    "description": "Polymarket is the world’s largest prediction market. On Polymarket, traders predict the outcome of future events and earn when they are right.",
+    "company_url": "https://polymarket.com/",
+    "company_profile_url": "https://foundersfund.com/company/polymarket/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2024/05/Polymarket-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Shayne Coplan",
+        "url": "https://twitter.com/shayne_coplan"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Lighter",
+    "description": "Lighter is building verifiable financial infrastructure for digital assets and beyond.",
+    "company_url": "https://lighter.xyz/",
+    "company_profile_url": "https://foundersfund.com/company/lighter/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/Lighter.png",
+    "founders": [
+      {
+        "name": "Vladimir Novakovski",
+        "url": "https://x.com/vnovakovski"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Figma",
+    "description": "Figma is changing traditional design operations by simplifying the designer workflow, bringing key contributors into the process, and enabling companies to design products more efficiently.",
+    "company_url": "https://www.figma.com/",
+    "company_profile_url": "https://foundersfund.com/company/figma/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/07/Figma-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Dylan Field",
+        "url": "https://twitter.com/zoink"
+      },
+      {
+        "name": "Evan Wallace",
+        "url": null
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Varda",
+    "description": "Varda is making the worlds first space factories, bringing high-value materials that can only be fabricated in microgravity, back down to earth.",
+    "company_url": "https://varda.com/",
+    "company_profile_url": "https://foundersfund.com/company/varda/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/12/Varda-Space-Industries-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Will Bruey",
+        "url": "https://twitter.com/willbruey"
+      },
+      {
+        "name": "Delian Asparouhov",
+        "url": "https://twitter.com/zebulgar"
+      },
+      {
+        "name": "Daniel Marshall",
+        "url": "https://www.linkedin.com/in/daniel-marshall-0583a211a/"
+      }
+    ],
+    "sectors": [
+      "Aerospace & Transportation"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "General Matter",
+    "description": "General Matter is fueling American power. America’s future is nuclear. We make its fuel.",
+    "company_url": "https://generalmatter.com/",
+    "company_profile_url": "https://foundersfund.com/company/general-matter/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/General-Matter.png",
+    "founders": [
+      {
+        "name": "Scott Nolan",
+        "url": "https://x.com/scottnolan?s=21"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Impulse",
+    "description": "Impulse Space is accelerating the future in space through efficient transportation anywhere.",
+    "company_url": "https://www.impulsespace.com/",
+    "company_profile_url": "https://foundersfund.com/company/impulse/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/07/Impulse-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Tom Mueller",
+        "url": "https://www.linkedin.com/in/thomas-mueller-2094513b/"
+      }
+    ],
+    "sectors": [],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Hadrian",
+    "description": "Hadrian is reindustrializing America by building highly automated factories that supercharge both American workers and the defense industrial base.",
+    "company_url": "https://hadrian.co/",
+    "company_profile_url": "https://foundersfund.com/company/hadrian/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/HADRIAN.png",
+    "founders": [
+      {
+        "name": "Chris Power",
+        "url": "https://x.com/2112Power?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Enter",
+    "description": "Enter’s AI agents are transforming how Latin America’s leading enterprises manage and win lawsuits at scale.",
+    "company_url": "https://www.getenter.ai/en",
+    "company_profile_url": "https://foundersfund.com/company/enter/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/Enter-Technology-.png",
+    "founders": [
+      {
+        "name": "Mateus Costa-Ribeiro",
+        "url": "https://www.linkedin.com/in/mateus-costa-ribeiro-456475195/"
+      },
+      {
+        "name": "Michael Mac-Vicar",
+        "url": "https://www.linkedin.com/in/mmacvicar/"
+      },
+      {
+        "name": "Henrique Vaz",
+        "url": "https://www.linkedin.com/in/henriquevgvaz/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "ARQ",
+    "description": "ARQ opens the world’s strongest assets and markets to travelers, investors, and professionals.",
+    "company_url": "https://www.arqfinance.com/",
+    "company_profile_url": "https://foundersfund.com/company/arq/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2026/03/ARQ-Logo.png",
+    "founders": [
+      {
+        "name": "Álvaro Correa",
+        "url": "https://www.linkedin.com/in/alvaro-correa/"
+      },
+      {
+        "name": "Zach Garman",
+        "url": "https://www.linkedin.com/in/zachgarman/"
+      },
+      {
+        "name": "Fernando Terrés",
+        "url": "https://www.linkedin.com/in/fterres/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "PsiQuantum",
+    "description": "PsiQuantum is using silicon photonics to build the world’s first useful quantum computer, applying existing semiconductor and photonics manufacturing processes.",
+    "company_url": "https://psiquantum.com/",
+    "company_profile_url": "https://foundersfund.com/company/psiquantum/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/05/PsiQuantumWebsite-Logo-1.png",
+    "founders": [
+      {
+        "name": "Jeremy O’Brien",
+        "url": null
+      },
+      {
+        "name": "Pete Shadbolt",
+        "url": null
+      },
+      {
+        "name": "Mark Thompson",
+        "url": null
+      },
+      {
+        "name": "Terry Rudolph",
+        "url": null
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Until",
+    "description": "Until is building the medical infrastructure to pause biological time: starting with organ-scale reversible cryopreservation, and methodically scaling to whole-body preservation.",
+    "company_url": "https://www.untillabs.com/",
+    "company_profile_url": "https://foundersfund.com/company/until/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/Until-Logo.png",
+    "founders": [
+      {
+        "name": "Laura Deming",
+        "url": "https://x.com/LauraDeming"
+      },
+      {
+        "name": "Hunter Davis",
+        "url": "https://x.com/huntercoledavis"
+      }
+    ],
+    "sectors": [
+      "Biotechnology & Health"
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "DeepMind",
+    "description": "DeepMind is the world leader in artificial intelligence research and its application for positive impact.",
+    "company_url": "https://deepmind.com/",
+    "company_profile_url": "https://foundersfund.com/company/deepmind/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/06/Deepmind-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Demis Hassabis",
+        "url": "https://www.crunchbase.com/person/demis-hassabis"
+      },
+      {
+        "name": "Mustafa Suleyman",
+        "url": "https://www.crunchbase.com/person/mustafa-suleyman"
+      },
+      {
+        "name": "Shane Legg",
+        "url": "https://www.crunchbase.com/person/shane-legg"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Scale",
+    "description": "Scale is building infrastructure for the democratization and proliferation of AI technology.",
+    "company_url": "http://scale.com",
+    "company_profile_url": "https://foundersfund.com/company/scale/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2019/12/Scale-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Alexandr Wang",
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Flock Safety",
+    "description": "Flock Safety is a public safety operating system that helps communities and law enforcement in thousands of cities work together to eliminate crime, protect privacy, and mitigate bias.",
+    "company_url": "https://www.flocksafety.com/",
+    "company_profile_url": "https://foundersfund.com/company/flock-safety/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/12/FlockSafety-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Garrett Langley",
+        "url": "https://twitter.com/glangley"
+      },
+      {
+        "name": "Matt Feury",
+        "url": "https://www.linkedin.com/in/mattfeury/"
+      },
+      {
+        "name": "Paige Todd",
+        "url": "https://www.linkedin.com/in/paige-todd/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Boring Company",
+    "description": "The Boring Company creates safe, fast-to-dig, and low-cost transportation, utility, and freight tunnels. The mission: solve traffic, enable rapid point-to-point transportation, and transform cities.",
+    "company_url": "https://www.boringcompany.com/",
+    "company_profile_url": "https://foundersfund.com/company/boring-company/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/07/Boring-Company-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Elon Musk",
+        "url": "https://twitter.com/elonmusk"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Oculus",
+    "description": "Oculus develops virtual reality platforms and products that let people experience anything, with anyone.",
+    "company_url": "https://www.oculus.com/",
+    "company_profile_url": "https://foundersfund.com/company/oculus/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/06/Oculus-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Palmer Luckey",
+        "url": "https://www.crunchbase.com/person/palmer-luckey"
+      },
+      {
+        "name": "Brendan Iribe",
+        "url": "https://www.crunchbase.com/person/brendan-iribe"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Persona",
+    "description": "Persona offers trusted identity infrastructure that allows businesses to craft personalized and automated identity experiences so they can better understand and protect users.",
+    "company_url": "https://withpersona.com/",
+    "company_profile_url": "https://foundersfund.com/company/persona/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/12/Persona-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Rick Song",
+        "url": "https://www.linkedin.com/in/rick-song-25198b24/"
+      },
+      {
+        "name": "Charles Yeh",
+        "url": "https://www.linkedin.com/in/charlesyeh/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "BuildOps",
+    "description": "BuildOps serves the unsung heroes of the trades by delivering an end-to-end scalable platform for commercial contractors that empowers owners to build enduring businesses.",
+    "company_url": "https://buildops.com/",
+    "company_profile_url": "https://foundersfund.com/company/buildops/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/08/BuildOps-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Alok Chanani",
+        "url": "https://www.linkedin.com/in/alokchanani/"
+      },
+      {
+        "name": "Steve Chew",
+        "url": "https://www.linkedin.com/in/schew56/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Twilio",
+    "description": "Twilio enables phones, VoIP and messaging to be embedded into web, desktop and mobile software.",
+    "company_url": "https://www.twilio.com/",
+    "company_profile_url": "https://foundersfund.com/company/twilio/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/06/Twillo-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Evan Cooke",
+        "url": "https://www.crunchbase.com/person/evan-cooke"
+      },
+      {
+        "name": "Jeff Lawson",
+        "url": "https://www.crunchbase.com/person/jeff-lawson"
+      },
+      {
+        "name": "John Wolthuis",
+        "url": "https://www.crunchbase.com/person/john-wolthuis"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Credit Karma",
+    "description": "Credit Karma is a personal finance company focused on helping everyone make financial progress.",
+    "company_url": "https://www.creditkarma.com/",
+    "company_profile_url": "https://foundersfund.com/company/credit-karma/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/07/CreditKarma-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Kenneth Lin",
+        "url": "https://www.crunchbase.com/person/kenneth-lin"
+      },
+      {
+        "name": "Nichole Mustard",
+        "url": "https://www.crunchbase.com/person/nichole-mustard"
+      },
+      {
+        "name": "Ryan Graciano",
+        "url": "https://www.crunchbase.com/person/ryan-graciano"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Netic",
+    "description": "Netic’s AI-driven platform helps service enterprises boost revenue, engage customers, and scale growth with intelligent automation.",
+    "company_url": "https://www.netic.ai/",
+    "company_profile_url": "https://foundersfund.com/company/netic/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2026/02/Netic-AI.png",
+    "founders": [
+      {
+        "name": "Melisa Tokmak",
+        "url": "https://www.linkedin.com/in/mtokmak/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Monaco",
+    "description": "Monaco is an AI sales platform automating customer acquisition and revenue growth for startups.",
+    "company_url": "https://www.monaco.com/",
+    "company_profile_url": "https://foundersfund.com/company/monaco/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2026/02/Monaco-AI-Logo.png",
+    "founders": [
+      {
+        "name": "Sam Blond",
+        "url": "https://www.linkedin.com/in/sam-blond-791026b/"
+      },
+      {
+        "name": "Brian Blond",
+        "url": "https://www.linkedin.com/in/brianblond/"
+      },
+      {
+        "name": "Abishek Viswanathan",
+        "url": "https://www.linkedin.com/in/abishekv/"
+      },
+      {
+        "name": "Malay Desai",
+        "url": "https://www.linkedin.com/in/malay-desai-507b75/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Oscar",
+    "description": "Oscar is fixing and humanizing healthcare through the use of technology, design, and data.",
+    "company_url": "https://www.hioscar.com/ny",
+    "company_profile_url": "https://foundersfund.com/company/oscar/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/06/FF-Website-2014-Portfolio-Company-Logo-Template_oscar.png",
+    "founders": [
+      {
+        "name": "Mario Schlosser",
+        "url": "https://www.linkedin.com/in/mario-schlosser/"
+      },
+      {
+        "name": "Joshua Kushner",
+        "url": "https://twitter.com/JoshuaKushner"
+      }
+    ],
+    "sectors": [
+      "Biotechnology & Health"
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Solugen",
+    "description": "Develops and manufactures bio-based chemicals for use in the agriculture, energy, water, personal care, and cleaning sectors.",
+    "company_url": "https://www.solugentech.com/",
+    "company_profile_url": "https://foundersfund.com/company/solugen/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/10/Solugen-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Gaurab Chakrabarti",
+        "url": "https://www.linkedin.com/in/gaurabchakrabarti/"
+      },
+      {
+        "name": "Sean Hunt",
+        "url": "https://www.linkedin.com/in/huntsean/"
+      }
+    ],
+    "sectors": [
+      "Biotechnology & Health"
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Wave",
+    "description": "Wave is building financial infrastructure for Sub-Saharan Africa. They offer a better, faster, radically cheaper mobile money platform for consumers and businesses.",
+    "company_url": "https://www.wave.com/en/",
+    "company_profile_url": "https://foundersfund.com/company/wave/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/12/Wave-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Drew Durbin",
+        "url": "https://twitter.com/drewdurbin"
+      },
+      {
+        "name": "Lincoln Quirk",
+        "url": "https://www.lincolnquirk.com/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Kavak",
+    "description": "Kavak is the leading marketplace for pre-owned cars in emerging markets.",
+    "company_url": "https://www.kavak.com/",
+    "company_profile_url": "https://foundersfund.com/company/kavak/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/05/Kavak-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Carlos García Ottati",
+        "url": "https://mx.linkedin.com/in/carlosjuliogarciaottati"
+      },
+      {
+        "name": "Loreanne García",
+        "url": "https://mx.linkedin.com/in/loreanne-garcia-7b932421"
+      },
+      {
+        "name": "Roger Laughlin",
+        "url": "https://mx.linkedin.com/in/roger-laughlin-carvallo-87867117"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Flexport",
+    "description": "Flexport is an international freight forwarder built around a modern technology stack. The company provides air freight, ocean freight and other vital supply chain services to high-growth brands around the world.",
+    "company_url": "https://www.flexport.com/",
+    "company_profile_url": "https://foundersfund.com/company/flexport/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2015/11/Flexport-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Ryan Petersen",
+        "url": "https://www.linkedin.com/in/rpetersen/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Faire",
+    "description": "Curated wholesale marketplace that connects more than 100,000 independent retailers with thousands of the world’s best emerging and established brands.",
+    "company_url": "https://www.faire.com/",
+    "company_profile_url": "https://foundersfund.com/company/faire-2/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2020/10/Faire-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Max Rhodes",
+        "url": "https://www.linkedin.com/in/max-rhodes/"
+      },
+      {
+        "name": "Daniele Perito",
+        "url": "https://www.linkedin.com/in/danieleperito/"
+      },
+      {
+        "name": "Jeffrey Kolovson",
+        "url": "https://www.linkedin.com/in/jeffreykolovson/"
+      },
+      {
+        "name": "Marcelo Cortes",
+        "url": "https://www.linkedin.com/in/marcelo-cortes-b34317/"
+      },
+      {
+        "name": "Lauren Cooks Levitan",
+        "url": "https://www.linkedin.com/in/laurencookslevitan/"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Workrise",
+    "description": "Workrise is the leading workforce management solution for the skilled trades.",
+    "company_url": "https://www.workrise.com/",
+    "company_profile_url": "https://foundersfund.com/company/workrise/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/11/Workrise-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Xuan Yong",
+        "url": "https://www.linkedin.com/in/xuanyong/"
+      },
+      {
+        "name": "Michael Witte",
+        "url": "https://www.linkedin.com/in/mikewitte1/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Aven",
+    "description": "Our mission is to provide the lowest cost, most convenient, and most transparent access to capital.",
+    "company_url": "https://www.aven.com/",
+    "company_profile_url": "https://foundersfund.com/company/aven/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/07/Aven-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Sadi Khan",
+        "url": "https://www.linkedin.com/in/sadi-khan-0368854/"
+      },
+      {
+        "name": "Murtada Shah",
+        "url": "https://www.linkedin.com/in/murtada/"
+      },
+      {
+        "name": "Collin Wikman",
+        "url": "https://www.linkedin.com/in/collin-wikman-0215b66/"
+      },
+      {
+        "name": "Usman Ghani",
+        "url": "https://www.linkedin.com/in/usmanghani/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "PropTech"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Found",
+    "description": "Found provides an all-in-one banking solution for small businesses and the self-employed with integrated bookkeeping, taxes, and invoicing.",
+    "company_url": "http://found.com/",
+    "company_profile_url": "https://foundersfund.com/company/found/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2023/07/Found-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Lauren Myrick",
+        "url": "https://www.linkedin.com/in/laurenmyrick/"
+      },
+      {
+        "name": "Connor Dunn",
+        "url": "https://www.linkedin.com/in/connorhd/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Cedar",
+    "description": "Cedar is a smarter payment platform for providers and patients.",
+    "company_url": "https://www.cedar.com/",
+    "company_profile_url": "https://foundersfund.com/company/cedar/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2017/09/cedar-for-web.png",
+    "founders": [
+      {
+        "name": "Florian Otto",
+        "url": "https://www.linkedin.com/in/florianotto/"
+      },
+      {
+        "name": "Arel Lidow",
+        "url": "https://www.linkedin.com/in/alidow/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software",
+      "Biotechnology & Health"
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Asana",
+    "description": "Asana is a web and mobile application designed to enable teamwork without email.",
+    "company_url": null,
+    "company_profile_url": "https://foundersfund.com/company/asana/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/03/asana-for-web.png",
+    "founders": [
+      {
+        "name": "Dustin Moskovitz",
+        "url": "http://www.crunchbase.com/person/dustin-moskovitz"
+      },
+      {
+        "name": "Justin Rosenstein",
+        "url": "http://www.crunchbase.com/person/justin-rosenstein"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Lyft",
+    "description": "Lyft’s friendly, affordable peer-to-peer ridesharing model is transforming modern transportation.",
+    "company_url": "http://www.lyft.com",
+    "company_profile_url": "https://foundersfund.com/company/lyft/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/06/FF-Website-2014-Portfolio-Company-Logo-Template_Lyft.png",
+    "founders": [
+      {
+        "name": "John Zimmer",
+        "url": "https://www.linkedin.com/in/johnzimmer11/"
+      },
+      {
+        "name": "Logan Green",
+        "url": "https://www.linkedin.com/in/logangreen/"
+      }
+    ],
+    "sectors": [
+      "Aerospace & Transportation"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Wish",
+    "description": "Wish is a platform for discovering, collecting, and sharing products with friends.",
+    "company_url": "https://www.wish.com/",
+    "company_profile_url": "https://foundersfund.com/company/wish/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/09/wish-logo.png",
+    "founders": [
+      {
+        "name": "Peter Szulczewski",
+        "url": "https://www.linkedin.com/in/peter-szulczewski-b711221/"
+      },
+      {
+        "name": "Danny Zhang",
+        "url": "https://www.linkedin.com/in/uwdanny/"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Postmates",
+    "description": "Postmates is transforming the way goods move around cities by enabling anyone to have anything delivered on-demand.",
+    "company_url": "https://postmates.com/",
+    "company_profile_url": "https://foundersfund.com/company/postmates/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2018/01/postamtes-for-web.png",
+    "founders": [
+      {
+        "name": "Bastian Lehmann",
+        "url": "https://www.crunchbase.com/person/bastian-lehmann"
+      },
+      {
+        "name": "Sean Plaice",
+        "url": "https://www.crunchbase.com/person/sean-plaice"
+      },
+      {
+        "name": "Sam Street",
+        "url": "https://www.crunchbase.com/person/sam-street"
+      }
+    ],
+    "sectors": [],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Tagomi",
+    "description": "Tagomi is an electronic brokerage for digital assets, combining institutional-grade services with proven robust infrastructure that clients have come to expect in other institutional asset classes.",
+    "company_url": "https://tagomi.com/",
+    "company_profile_url": "https://foundersfund.com/company/tagomi/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2019/03/Tagomi-Website-Logo-1.png",
+    "founders": [
+      {
+        "name": "Jennifer Campbell",
+        "url": "https://www.linkedin.com/in/jennifer-campbell-b9521aa6/"
+      },
+      {
+        "name": "Greg Tusar",
+        "url": "https://www.linkedin.com/in/greg-tusar-a7b419/"
+      },
+      {
+        "name": "Marc Bhargava",
+        "url": "https://www.linkedin.com/in/marc-bhargava-55030311/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Sword Health",
+    "description": "Sword Health provides clinical-grade digital physical therapy that outperforms in-person care.",
+    "company_url": "https://swordhealth.com/",
+    "company_profile_url": "https://foundersfund.com/company/sword-health/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/12/Sword-Health-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Virgílio Bento",
+        "url": "https://www.linkedin.com/search/results/all/?keywords=virg%C3%ADlio%20(%E2%80%9Cv%E2%80%9D)%20bento&origin=RICH_QUERY_SUGGESTION&position=0&searchId=b88cbc70-e8c4-4581-aa6b-a040d2c23bad&sid=pIz"
+      },
+      {
+        "name": "Márcio Colunas",
+        "url": "https://www.linkedin.com/in/marciocolunas/"
+      }
+    ],
+    "sectors": [
+      "Biotechnology & Health"
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "The Athletic",
+    "description": "The Athletic is a direct-to-consumer subscription service serving sports fans in North America.",
+    "company_url": "https://theathletic.com/",
+    "company_profile_url": "https://foundersfund.com/company/the-athletic/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2019/03/The-Athletic-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Alex Mather",
+        "url": "https://www.linkedin.com/in/alexemather/"
+      },
+      {
+        "name": "Adam Hansmann",
+        "url": "https://www.linkedin.com/in/adamhansmann/"
+      }
+    ],
+    "sectors": [
+      "Consumer Internet & Media"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Traba",
+    "description": "Traba is building a world where the supply chain operates at peak efficiency. They connect industrial businesses with reliable workers to fill open shifts and empower both businesses and workers to reach their full productivity and potential.",
+    "company_url": "https://www.traba.work/",
+    "company_profile_url": "https://foundersfund.com/company/traba/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2022/06/Traba-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Mike Shebat",
+        "url": "https://twitter.com/mike_sheb"
+      },
+      {
+        "name": "Akshay Buddiga",
+        "url": "https://twitter.com/akshaybuddiga"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Paxos",
+    "description": "Paxos is regulated blockchain infrastructure provider building enterprise solutions for an open, digital economy.",
+    "company_url": "https://paxos.com/",
+    "company_profile_url": "https://foundersfund.com/company/paxos/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2021/12/Paxos-Website-Logo.png",
+    "founders": [
+      {
+        "name": "Charles Cascarilla",
+        "url": "https://www.linkedin.com/in/charlescascarilla/"
+      },
+      {
+        "name": "Rich Teo",
+        "url": "https://www.linkedin.com/in/richteo/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Nanotronics",
+    "description": "Nanotronics is a leading developer of optical inspection tools for the semiconductor industry, using both hardware and software to provide industrial-scale, high-throughput, super-resolution imaging systems.",
+    "company_url": null,
+    "company_profile_url": "https://foundersfund.com/company/nanotronics/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2017/09/FF-Website-2014-Portfolio-Company-Logo-Template_Nanotronics_Nanotronics.png",
+    "founders": [
+      {
+        "name": "John Putman",
+        "url": "http://www.crunchbase.com/person/john-putman"
+      },
+      {
+        "name": "Matthew Putman",
+        "url": "http://www.crunchbase.com/person/matthew-putman"
+      }
+    ],
+    "sectors": [
+      "Advanced Machines & Intelligence"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "ZocDoc",
+    "description": "ZocDoc is the tech company at the beginning of a better healthcare experience. With a mission to give power to the patient, ZocDoc’s online marketplace delivers the accessible, seamless, and simple experience patients expect and deserve.",
+    "company_url": "http://www.zocdoc.com",
+    "company_profile_url": "https://foundersfund.com/company/zocdoc/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2014/06/ZocDoc_2016_Web_Logo.png",
+    "founders": [
+      {
+        "name": "Cyrus Massoumi",
+        "url": "http://www.crunchbase.com/person/cyrus-massoumi"
+      },
+      {
+        "name": "Oliver Kharraz",
+        "url": "http://www.crunchbase.com/person/oliver-kharraz"
+      },
+      {
+        "name": "Nick Ganju",
+        "url": "http://www.crunchbase.com/person/nick-ganju"
+      }
+    ],
+    "sectors": [
+      "Biotechnology & Health"
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Mnzil",
+    "description": "Mnzil is redefining workforce living through technology, creating smarter, more comfortable, and more productive environments for workers and the companies that rely on them.",
+    "company_url": "https://mnzil.com/en",
+    "company_profile_url": "https://foundersfund.com/company/mnzil/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/MNZIL.png",
+    "founders": [
+      {
+        "name": "Majeed Albabtain",
+        "url": "https://www.linkedin.com/in/abdulmajeedab/"
+      },
+      {
+        "name": "Abdulrahman Alshaya",
+        "url": "https://www.linkedin.com/in/abdulrahmansaadalshaya/"
+      }
+    ],
+    "sectors": [
+      "Real Estate & Technology"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Future of Work"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "EnduroSat",
+    "description": "EnduroSat is transforming the complex satellite industry into a streamlined data service.",
+    "company_url": "https://www.endurosat.com/",
+    "company_profile_url": "https://foundersfund.com/company/endurosat/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2025/11/EnduroSat.png",
+    "founders": [
+      {
+        "name": "Raycho Raychev",
+        "url": "https://www.linkedin.com/in/raychoraychev/"
+      }
+    ],
+    "sectors": [
+      "Aerospace & Transportation"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "Nominal",
+    "description": "Nominal modernizes the data supply chain for testing and operations across aerospace, defense, robotics, energy, and advanced manufacturing — helping hardware organizations operate at the speed of software development.",
+    "company_url": "https://nominal.io/",
+    "company_profile_url": "https://foundersfund.com/company/nominal/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2026/04/Nominal-Logo.png",
+    "founders": [
+      {
+        "name": "Cameron McCord",
+        "url": "https://www.linkedin.com/in/cameron-mccord/"
+      },
+      {
+        "name": "Bryce Strauss",
+        "url": "https://www.linkedin.com/in/brycestrauss/"
+      },
+      {
+        "name": "Jason Hoch",
+        "url": "https://www.linkedin.com/in/jason-hoch/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  },
+  {
+    "company_name": "River",
+    "description": "River Technologies builds custom software for financial institutions, helping bridge them into an AI-native future.",
+    "company_url": "https://rivertechnologies.com/",
+    "company_profile_url": "https://foundersfund.com/company/river/",
+    "logo_url": "https://foundersfund.com/wp-content/uploads/2026/07/River-AI.png",
+    "founders": [
+      {
+        "name": "Sai Mattapalli",
+        "url": "https://www.linkedin.com/in/sai-mattapalli-519465210/"
+      }
+    ],
+    "sectors": [
+      "Analytics & Software"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundersfund.com/portfolio/",
+    "scraped_at": "2026-07-27T21:27:16.592456+00:00"
+  }
+]

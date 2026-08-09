@@ -1,0 +1,196 @@
+{
+  "model": "claude-haiku-4-5",
+  "ran_at": "2026-08-03T19:24:49+00:00",
+  "companies_tagged": 25,
+  "cost_usd": 0.0138,
+  "fills": {
+    "8vc_companies.json": {
+      "Sequence Holdings": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Sequence Holdings Sequence Holdings is a technology holding company that acquires established businesses and transforms them with artificial intelligence. Technology holding company that acquires established businesses a"
+      }
+    },
+    "a16z_companies.json": {
+      "Safe Superintelligence": {
+        "tags": [
+          "Deeptech / Robotics / AR/VR"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Safe Superintelligence Inc. The world's first straight-shot SSI lab, with one goal and one product: a safe superintelligence. The world's first straight-shot SSI lab, with one goal and one product: a safe superintelligen"
+      }
+    },
+    "accel_companies.json": {
+      "Pramaana Labs": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Pramaana Labs - AI That Proves Its Work Pramaana Labs is a frontier AI lab building the verification layer for high-stakes AI. We turn complex domain knowledge into machine-checkable systems that return proofs, counterex"
+      }
+    },
+    "generalcatalyst_companies.json": {
+      "Ethos AI": {
+        "tags": [
+          "Data & Analytics"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Ethos - Human intelligence, on-demand The best customers, hires, and deals come from understanding humans—not blasting lists. Research people and companies to build relationships that get things done. Loading... Ethos - "
+      },
+      "Soff": {
+        "tags": [
+          "FinTech / Insurance"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Soff Manufacturers and Distributors use Soff to send quotes faster and win more business. Manufacturers and Distributors use Soff to send quotes faster and win more business. Soff The Science Of Following Up 🔩 Customers "
+      }
+    },
+    "gradientventures_companies.json": {
+      "Jitty": {
+        "tags": [
+          "PropTech"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Find the exact home you're looking for | Jitty Cut through irrelevant listings with powerful filters and AI search. Cut through irrelevant listings with powerful filters and AI search. Find the exact home you're looking "
+      },
+      "Prepared": {
+        "tags": [
+          "RegTech/Gov/Legal"
+        ],
+        "via": "llm+homepage",
+        "snippet": "AI-powered solutions for emergency response The end-to-end assistive AI platform for emergency response. Seamless AI assistance integrated into every stage of the emergency response process. AI-powered solutions for emer"
+      },
+      "Tildei": {
+        "tags": [
+          "Consumer"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Runhappy | Run bookings. Run revenue. Runhappy. Runhappy is your fully managed booking team. Your team runs the venue. We build your event pages, handle every inquiry instantly, manage every booking, and keep every guest"
+      }
+    },
+    "index_companies.json": {
+      "Upollo": {
+        "tags": [
+          "Cybersecurity"
+        ],
+        "via": "llm-name-only"
+      }
+    },
+    "insight_companies.json": {
+      "Beechwood Data Systems": {
+        "tags": [
+          "Data & Analytics"
+        ],
+        "via": "llm-name-only"
+      },
+      "Moat": {
+        "tags": [
+          "Data & Analytics"
+        ],
+        "via": "llm-name-only"
+      }
+    },
+    "ivp_companies.json": {
+      "Datalogix": {
+        "tags": [
+          "Data & Analytics"
+        ],
+        "via": "llm-name-only"
+      }
+    },
+    "mosaicventures_companies.json": {
+      "Zoe Global": {
+        "tags": [
+          "Health"
+        ],
+        "via": "llm+homepage",
+        "snippet": "ZOE Feel better and lose weight while eating more. ZOE is a gut health science company that turns world-leading science into everyday gut-health products. Feel better and lose weight while eating more. ZOE is a gut healt"
+      },
+      "Criteo": {
+        "tags": [
+          "Data & Analytics"
+        ],
+        "via": "llm-name-only"
+      },
+      "ResearchGate": {
+        "tags": [
+          "Data & Analytics"
+        ],
+        "via": "llm-name-only"
+      }
+    },
+    "pointninecapital_companies.json": {
+      "Algolia": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm+homepage",
+        "snippet": "The AI search and retrieval platform - Agentic | Generative | Search 18,000+ organizations trust Algolia to build intuitive, adaptive, high-performing experiences with a unified AI search & retrieval platform spanning ag"
+      }
+    },
+    "stormventures_companies.json": {
+      "System Initiative": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm-name-only"
+      },
+      "Provus": {
+        "tags": [
+          "FinTech / Insurance"
+        ],
+        "via": "llm+homepage",
+        "snippet": "The Agentic AI Services Quoting Platform | Provus Turn ideas into 100% accurate quotes while AI agents monitor deals, optimize pricing, and rescue at-risk opportunities—automatically. Turn ideas into 100% accurate quotes"
+      },
+      "Sendoso": {
+        "tags": [
+          "Consumer"
+        ],
+        "via": "llm+homepage",
+        "snippet": "Sendoso | Gifting & Direct Mail Platform Automate personalized gifting campaigns to drive revenue. Sendoso's AI-Enhanced Gifting and Direct Mail Automation Platform is data-backed by 100k+ users and 10's of millions of g"
+      },
+      "Com2Us": {
+        "tags": [
+          "Gaming / Media / Entertainment"
+        ],
+        "via": "llm+homepage",
+        "snippet": "컴투스기업 : 컴투스 > 메인 게임에서 문화를, 문화에서 미래를 만들어나가는 기업, 컴투스를 소개합니다. 컴투스기업 : 컴투스 > 메인 skip navigation 메뉴 바로가기 본문 바로가기 하단 정보(링크) 바로가기 {{ $t('header.page-name') }} {{ $t('header.컴투스') }} {{ $t('header.컴투스') }} {{ $t('header.소개') }} "
+      },
+      "Algolia": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm+homepage",
+        "snippet": "The AI search and retrieval platform - Agentic | Generative | Search 18,000+ organizations trust Algolia to build intuitive, adaptive, high-performing experiences with a unified AI search & retrieval platform spanning ag"
+      }
+    },
+    "wingvc_companies.json": {
+      "Airgo": {
+        "tags": [
+          "Transportation / Mobility"
+        ],
+        "via": "llm-name-only"
+      },
+      "Instart": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm-name-only"
+      },
+      "NetScaler": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm-name-only"
+      },
+      "New Edge Networks": {
+        "tags": [
+          "Dev Tools / Cloud"
+        ],
+        "via": "llm-name-only"
+      }
+    }
+  }
+}

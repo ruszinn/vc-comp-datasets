@@ -1,0 +1,1757 @@
+[
+  {
+    "company_name": "DoorDash",
+    "description": "Transforming the way we eat",
+    "company_url": "https://www.doordash.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bceee74060d07680d1_675b2198105c69746a200bcd_KVPortfolio-DoorDash-White.svg",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Eight",
+    "description": "Fueling human potential through optimal sleep",
+    "company_url": "https://eightsleep.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86d180f552d9dd7eb0f2_675b21821464fc723b0d81af_KV_Highlight-Eight.svg",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Emergent",
+    "description": "Build websites & apps with AI",
+    "company_url": "https://app.emergent.sh/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c42448f52cf0cedfe4185_Emergent.png",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Honey Homes",
+    "description": "One dedicated handyman for your home",
+    "company_url": "https://www.honeyhomes.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86ce84a256a2eee87ea5_675b216a5b5f9674672164b7_Honey-Homes-2.svg",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Inkitt",
+    "description": "Hyper-personalized stories powered by AI",
+    "company_url": "https://www.inkitt.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c0a8a9827fe2894c1b03_675b8fc1e2b4a71dc23b1682_Inkitt.avif",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Instacart",
+    "description": "World's largest online grocery service",
+    "company_url": "https://www.instacart.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bc3251c0fd985ca0ac_675b21835b5f967467217df9_KV_Highlight-Instacart.svg",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Lovable",
+    "description": "AI app builder for everyone",
+    "company_url": "https://lovable.dev",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c4197c95798982ca26e51_Lovable.png",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "OpenDoor",
+    "description": "Sell a home in minutes",
+    "company_url": "https://www.opendoor.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86ed36eb4fd3ea91b4b7_675b21855de8fd3db2bd559d_KV_Highlight-Opendoor.svg",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Consumer",
+      "PropTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Outsmart College",
+    "description": "Rebuilding higher ed for the AI era",
+    "company_url": "https://outsmartcollege.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68bbd84584a4f1453c462e86_Outsmart%20College%202.png",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Tolan",
+    "description": "AI companion",
+    "company_url": "https://www.tolans.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c4299ad377d28bfc9a182_Tolan.png",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Vero Biosciences",
+    "description": "Proteomics for precision organ health",
+    "company_url": "https://www.verobioscience.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68bbe10ccc91fe7beb656998_Vero%20B.png",
+    "sectors": [
+      "Consumer & Retail"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Abby Care",
+    "description": "Making family care possible",
+    "company_url": "https://www.abbycare.org/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68bbe374a8b32acd6f32abc6_Abby.png",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Abridge",
+    "description": "AI for Clinical Conversations",
+    "company_url": "https://www.abridge.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68bbe8dc5aa1915061efd71c_Abridge.png",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "AliveCor",
+    "description": "Transforming cardiologic care using deep learning",
+    "company_url": "https://www.alivecor.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bfc3281ee1aaa35b00_675b21817b50cea5ce44d430_KV_Highlight-Alivecor.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Curai",
+    "description": "AI-assisted primary care",
+    "company_url": "http://curai.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86ecea91c6a4197d0406_675b2182a9b7024f4db80a95_KV_Highlight-CuraiHealth.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Ellipsis",
+    "description": "Emotionally intelligent AI care management",
+    "company_url": "http://www.ellipsishealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eee03ff21d77eea4be9f6f_Ellipsis%20-%20w.png",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Even Healthcare",
+    "description": "Simple, affordable health coverage in India",
+    "company_url": "https://even.in/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c436edae4423c35ddf398_Even.png",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Gather Health",
+    "description": "Neighborhood primary care for people on Medicare",
+    "company_url": "https://www.gatherhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eee0ea8fb33e77512a0d1c_Gather%20Health%20-%20w.png",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Hello Heart",
+    "description": "AI for preventive heart health",
+    "company_url": "http://www.helloheart.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e3231c96340480efe6_675b91411997d8a761916f48_KVPortfolio-HelloHeart-White.webp",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Limbic",
+    "description": "AI therapist",
+    "company_url": "https://limbic.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c098c38dd7ed81465670_675b219bc2be96640378300d_Limbic-2.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Oscar",
+    "description": "Health insurance built on a full-stack tech platform",
+    "company_url": "https://www.hioscar.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c196d77fc5d14f5a4c_675b21844373a6c495cf2f14_KV_Highlight-Oscar.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Rad AI",
+    "description": "AI radiology workflow automation tool",
+    "company_url": "https://www.radai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09e0ca73294615d4be2_675b9143a95758a88e452ddb_Rad-AI.avif",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Radical Health",
+    "description": "AI tool enabling oncologists",
+    "company_url": "https://radicalhealth.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68ef2d78d992c2faa0e3747e_Radical%20Health%20-%202.png",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Rightway Healthcare",
+    "description": "Simplifying the healthcare experience for clients and members",
+    "company_url": "http://rightwayhealthcare.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e771fe562126dad6f4_675b2185ca4916145b2dbed0_KV_Highlight-Rightway.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Sword Health",
+    "description": "Freeing the world from pain",
+    "company_url": "https://swordhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c8ddd0fca7b91fc288_675b8eddd3c534b95b5a60e4_Sword-White.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Zocdoc",
+    "description": "Instantly book a doctor right for you",
+    "company_url": "https://www.zocdoc.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e4d4ad1dd2b55fdccf_675b219b4cbd4db1e7b9c62c_KVPortfolio-Zocdoc-White.svg",
+    "sectors": [
+      "Digital Health"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Astrus",
+    "description": "Automated analog layout",
+    "company_url": "https://www.astrus.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09c7e0435bb10afb636_675b8fbc03c28b4f87f267cd_Astrus.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Basis",
+    "description": "AI accountant",
+    "company_url": "https://www.getbasis.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68c8b395cbd9d5e94cd935b0_Basis%201.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Clickhouse",
+    "description": "Real-time data warehouse and open-source database",
+    "company_url": "https://clickhouse.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68c89df7834d882b753bef51_Clickhouse%201.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Cognition",
+    "description": "Makers of Devin, the first AI software engineer.",
+    "company_url": "https://www.cognition.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09e89c9af3a382debfa_675b8fbdee84fb1bcf9fcb15_Cogntion.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Cylance",
+    "description": "Antivirus software to prevent rather than detect",
+    "company_url": "https://www.blackberry.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bdd4ad1dd2b55fb79e_675b218273c0920e2dd9ce92_KV_Highlight-Cyclance.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Distyl",
+    "description": "AI applications for the Fortune 500",
+    "company_url": "https://distyl.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eedc7fa88bc063ac0e52d4_Distyl2.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "DualEntry",
+    "description": "AI-native ERP",
+    "company_url": "https://www.dualentry.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68efcc07009ac0bc32bad8cf_DualEntry.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Fireflies.ai",
+    "description": "AI assistant to transcribe and summarize meetings",
+    "company_url": "https://fireflies.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86d823ba5cb96ecad393_675b2199676cf63113b0a4c4_KVPortfolio-Fireflies.ai-White.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "GitLab",
+    "description": "DevSecOps",
+    "company_url": "https://about.gitlab.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c5f10da56c5b2492a5_675b2191b7b15e795b2c94ca_KVPortfolio_Enterprise-Gitlab-White-2.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "• Highlight AI",
+    "description": "Proactive AI assistant built for high-velocity teams",
+    "company_url": "https://highlightai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c46741490a8d628c4652b_Highlight.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Kiddom",
+    "description": "Digital curriculum platform for K-12",
+    "company_url": "http://www.kiddom.co/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c3ec11490a8d628c15c2e_Kiddom.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Neon",
+    "description": "Serverless Postgres",
+    "company_url": "https://neon.tech/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86ccc43d70104f8c449d_675b218479bb85e3daa9e01c_KV_Highlight-Neon.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Nutanix",
+    "description": "One platform to run all your apps and data anywhere",
+    "company_url": "http://www.nutanix.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86be4e91b89cdd073793_675b219aa9b7024f4db83bf5_KVPortfolio-Nutanix-White.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Okta",
+    "description": "World's identity company",
+    "company_url": "https://www.okta.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bec3281ee1aaa35a09_675b219afc69fce8eb28a7b6_KVPortfolio-Okta-White.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "OpenAI",
+    "description": "AI benefiting humanity",
+    "company_url": "https://openai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c7502b600bd56a4535_675b21938e8c4dfc6b944090_KVPortfolio_Frontier-OpenAI-White-1.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Oratomic",
+    "description": "Fault-tolerant quantum computers",
+    "company_url": "https://www.oratomic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c4890e7585ba74ab4ca4b_Oratomic.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Parallel Web Systems",
+    "description": "Adapting the web for AIs",
+    "company_url": "https://www.parallel.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c7572e35cef00f387bac_67b7c6207a4f2aac538716a4_Parallel-Web-2.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "RingCentral",
+    "description": "Simplified business communications",
+    "company_url": "https://www.ringcentral.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86beaf92636b0ff829c2_675b219a8a07ac058bbdaafb_KVPortfolio-RingCentral-White.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Rubrik",
+    "description": "Data security and operational resilience for enterprises",
+    "company_url": "https://www.rubrik.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c480f552d9dd7ea351_675b2186b7b15e795b2c83c5_KV_Highlight-Rubrik.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Sakana",
+    "description": "Building a native AI foundational model for Japan",
+    "company_url": "https://sakana.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c099f57c6280d6d71295_675b21a5676cf63113b0c0ca_Sakana-2.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Sarvam AI",
+    "description": "Building the full-stack for Generative AI in India",
+    "company_url": "https://www.sarvam.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c099c6b1cdfd5b14f6ac_675b21a64b10ec478d0cf938_Sarvam-ai-1-1.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Spellbook",
+    "description": "Legal AI contract review & drafting",
+    "company_url": "https://www.spellbook.legal/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68ef30d37d946b9cb9ff5531_Spellbook%20-%20w.avif",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Vectra AI",
+    "description": "Staying on top of cyber threats",
+    "company_url": "https://www.vectranetworks.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86d74e91b89cdd074a70_675b2187b3cd48e3d8aa8dd9_KV_Highlight-Vectra.svg",
+    "sectors": [
+      "Enterprise"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Affirm",
+    "description": "Pay over time without hidden fees",
+    "company_url": "https://www.affirm.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b400209cd29a4f7812d3ab_675b2183d8785b09eda705e4_KV_Highlight-Affirm.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Aven",
+    "description": "Credit card using your home equity for lower rates",
+    "company_url": "https://aven.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86db4e91b89cdd074d83_675b21818e8c4dfc6b9432d7_KV_Highlight-Aven.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Block",
+    "description": "Enabling businesses to participate in the economy",
+    "company_url": "https://block.xyz/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bf08aa94e1e95432ac_675b2182676cf63113b08b87_KV_Highlight-Block.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Credit Genie",
+    "description": "Financial wellness platform",
+    "company_url": "https://creditgenie.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c4063bd5ce09a96aa782d_Credit%20Genie.png",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Imprint",
+    "description": "Co-branded financial products",
+    "company_url": "https://imprint.co/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eed9ff1952a88850a94172_Imprint%20CC.png",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Ramp",
+    "description": "Finance simplified",
+    "company_url": "https://ramp.com/welcome",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09e88307276cc545eed_675b9143fcc6dc34e1cd06bb_ramp2-.avif",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Stripe",
+    "description": "Financial infrastructure for the Internet",
+    "company_url": "https://stripe.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b3fd2a871f5c23ae1a1f06_675b21861d31b0ad6bc77fa3_KV_Highlight-Stripe.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Upstart",
+    "description": "Improving access to affordable credit with AI",
+    "company_url": "https://www.upstart.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bfc3b8e088aada0f1f_675b21860dce6f2388644253_KV_Highlight-Upstart.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Worldcoin",
+    "description": "Building identity and financial network as a public utility for all",
+    "company_url": "https://worldcoin.org/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b8ba0d18ca235cc36bef4f_675b8eddb72e99116d7ecdc2_Worldcoin-Logo-light-512x.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "FieldAI",
+    "description": "Transforming industries through on-edge robotic autonomy",
+    "company_url": "https://fieldai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09c963dc0387cd5fe9f_675b8fbf1af862f5af0fc6f4_FieldAI.avif",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "General Intuition",
+    "description": "AI lab building world models",
+    "company_url": "https://www.generalintuition.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/69f033e7070c600e86fa2bf8_GI%20.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Hermeus",
+    "description": "New York to London in 90 minutes via Mach 5 aircraft",
+    "company_url": "https://www.hermeus.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c7f10da56c5b249474_675b2183a9b7024f4db80b59_KV_Highlight-Hermeus.svg",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Mach Industries",
+    "description": "Next-generation defense systems",
+    "company_url": "https://www.machindustries.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/691633b47de8c8beebfce356_Mach%20Industries.avif",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Physical intelligence",
+    "description": "Bringing general-purpose AI into the physical world",
+    "company_url": "https://www.physicalintelligence.company/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eed88f6b88a4fce2e03402_Physical%20Int.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Reflex Robotics",
+    "description": "General-purpose wheeled humanoids",
+    "company_url": "https://reflexrobotics.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c42ecd4f8b16b3584062c_Reflex%20-%20Tacit.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Rocket Lab",
+    "description": "Frequent, reliable access to space",
+    "company_url": "https://www.rocketlabusa.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b8bfe3d06a429949558693_675b2185f99d6d4394a8cbd4_KV_Highlight-RocketLab.svg",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Sagence AI",
+    "description": "Revolutionizing analog computing for AI",
+    "company_url": "https://www.sagence-ai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68c8b462a32ec6366cbc510f_Sagence.avif",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Skybox Imaging",
+    "description": "High-resolution imaging satellites",
+    "company_url": "https://abc.xyz/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c1d47ec2b4c8971f69_675b219a65988b6ccebf70ec_KVPortfolio-Skybox-White.svg",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Varda",
+    "description": "Manufacturing in space",
+    "company_url": "https://varda.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86cf5224f3fefa14556a_675b2187173cc8469daf8e15_KV_Highlight-Varda.svg",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Vayu Robotics",
+    "description": "Building delivery bots",
+    "company_url": "https://www.vayurobotics.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e2c02b68bf7fae339c_675b2187b1f34b2144f19685_KV_Highlight-Vayu.svg",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Vinci",
+    "description": "AI hardware design",
+    "company_url": "https://www.getvinci.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c3f8ebd6d0c128e50545d_Vinci.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Waabi",
+    "description": "Self-driving trucks",
+    "company_url": "https://waabi.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86caf118a50b25eb9c91_KV_Highlight-Waabi.svg",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "WindBorne",
+    "description": "AI-powered weather balloons",
+    "company_url": "https://windbornesystems.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/69ce089f59bdeb79e61c71fd_Windborne.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Zetwerk",
+    "description": "Universal manufacturing network",
+    "company_url": "http://www.zetwerk.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68c8b5a5f5f00da14141d01d_Zetwerk%201.avif",
+    "sectors": [
+      "Frontier"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Bunkerhill Health",
+    "description": "Turning health systems' best ideas into reality",
+    "company_url": "https://www.bunkerhillhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a69a3aac6a7716b553b3bb0_Bunkerhill.png",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Flow Neuroscience",
+    "description": "Medication-free depression treatment",
+    "company_url": "http://www.flowneuroscience.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e706dd58c0075f4058_675b2199b7b15e795b2cb257_KVPortfolio-Flow-White.svg",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Guardant Health",
+    "description": "Transforming cancer care through blood tests",
+    "company_url": "https://guardanthealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bf5224f3fefa1449ee_675b2183ca0ccf1144e6b5e9_KV_Highlight-guardant.svg",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Inflammatix",
+    "description": "Rapid diagnostic tests that read the immune system",
+    "company_url": "http://inflammatix.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b8c97b58b895967f3af8df_675b913fd3c534b95b5d5a66_KVPortfolio-Inflammatix-White.avif",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Karius",
+    "description": "Advanced infectious disease diagnostics",
+    "company_url": "http://www.kariusdx.com",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eed6afacc32658d354fdfd_Karius%20-%20w.png",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Opentrons",
+    "description": "Robots for biologists",
+    "company_url": "https://opentrons.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c3da5fa87c599f2fda_675b218443c90b21ac3f077a_KV_Highlight-Opentrons.svg",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Overture Life",
+    "description": "An embryology lab in a box making IVF more accesible",
+    "company_url": "https://www.overture.life/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b8c9f217ed22a99be916bf_675b9141476cc48feb73aaf4_Overture-Life.avif",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Science",
+    "description": "Biohybrid brain computer interface",
+    "company_url": "https://science.xyz/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68c8b6f8918d0a71b87db8dd_Science%201.avif",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Synchron",
+    "description": "Brain Computer Interface to treat paralysis and more",
+    "company_url": "https://synchron.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86ca52cada8181c7a5ac_675b21861255acc94abe5f3b_KV_Highlight-Synchron.svg",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Dev Tools / Cloud",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Ultima Genomics",
+    "description": "$80 DNA sequencing platform",
+    "company_url": "https://www.ultimagenomics.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86cdbe10e6a345d81708_675b913fc9e61d5bb8947014_KVPortfolio-UltimaGenetics-White.avif",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Vitara Biomedical",
+    "description": "Neonatal platform for preterm infants",
+    "company_url": "https://www.vitara.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86f490c13d1f33cd11c9_675b2187b828e5043eeada70_KV_Highlight-Vitara.svg",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Vivodyne",
+    "description": "Lab-grown human organs for drug discovery",
+    "company_url": "https://www.vivodyne.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09b0ca73294615d49d8_675b916934811eaa9f2dfb66_Vivodyne.avif",
+    "sectors": [
+      "Med Tech & Diagnostics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Blue River Technology",
+    "description": "Changing agriculture with intelligent machinery",
+    "company_url": "https://bluerivertechnology.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bbe058b1d12b7ea6a5_675b218e51f16c520ddd1a33_KV1_Highlight-BlueRiver.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Caelux",
+    "description": "Using perovskites for lower-cost solar",
+    "company_url": "http://www.caelux.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86de78859f3e9a12b3f7_675b218279bb85e3daa9deaa_KV_Highlight-Caelux.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Commonwealth Fusion Systems (CFS)",
+    "description": "Limitless clean fusion energy",
+    "company_url": "https://cfs.energy/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c763844c7da9e77f3a_675b218ee11791f45b8e9c31_KV1_Highlight-Commonwealth.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Enzymit",
+    "description": "Cell-free biomanufacturing platform",
+    "company_url": "https://www.enzymit.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68eed4cc6d021c5880cabc6a_Enzymit-w.png",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Fortera",
+    "description": "Low CO₂ cement cheaper than regular",
+    "company_url": "https://forterausa.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86cd55c329b68d1f567b_675b218effb48327c4a2d95d_KV1_Highlight-Fortera.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Glydways",
+    "description": "High-capacity urban mass transit",
+    "company_url": "https://www.glydways.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c9e058b1d12b7eb148_675b21834497fca607de0375_KV_Highlight-Glydways.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Hertha Metals",
+    "description": "Low-emission steel cheaper than coal-based steel",
+    "company_url": "https://herthametals.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68ef300631647a1c30d3ccc2_Hertha%20-%20w.avif",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "LanzaTech",
+    "description": "Transforming pollution into sustainable fuels",
+    "company_url": "https://lanzatech.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86bbdab103d0a6653f3c_675b2199bd1c94792e3e14bf_KVPortfolio-LanzaTech-White.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Leaft",
+    "description": "Capturing Rubisco protein from green leaves",
+    "company_url": "https://www.leaftfoods.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86cb06dd58c0075f2749_675b218f4cbf8fb6f3e14770_KV1_Highlight-Leaft.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Mainspring Energy",
+    "description": "Local power generation for a zero-carbon future",
+    "company_url": "https://www.mainspringenergy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c1248c653bb401be29_675b218e01ad2fbd403dcf3b_KV1_Highlight-Mainspring.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Mariana Minerals",
+    "description": "Software-first, vertically integrated minerals company",
+    "company_url": "https://marianaminerals.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68ef2dde6dbbe5ded79fd1cf_Mariana%20-%20w.avif",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Mazama",
+    "description": "Extracting heat from superhot rocks",
+    "company_url": "https://mazamaenergy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/69163574a3eba56721727194_Mazama.avif",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "QuantumScape",
+    "description": "Solid state lithium batteries",
+    "company_url": "https://www.quantumscape.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c136eb4fd3ea91960e_675b218e9e2884409319d600_KV1_Highlight-Quantumscape.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": true,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Realta Fusion",
+    "description": "Compact, scalable, modular fusion",
+    "company_url": "https://realtafusion.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09b9b3996f067adf1da_675b9143c9e61d5bb894a4cb_Realta-1.avif",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Redoxblox",
+    "description": "Energy storage solution",
+    "company_url": "https://redoxblox.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c098f0ce28d0f7991aef_675b21a3fad7b1a78f35dd81_Redoxblox.svg",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Return to Vendor",
+    "description": "Circular apparel",
+    "company_url": "https://www.rtv.earth/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09e7fc58116e7fa2cd7_675b914434811eaa9f2dc17d_RTV.avif",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "CPG"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Terra AI",
+    "description": "Improving critical resource development with advanced intelligent systems",
+    "company_url": "https://terraai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09d2b04e2ee41fbe11f_675b91656bb3a40e7a119786_TerraAI.avif",
+    "sectors": [
+      "Sustainability"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Cellino",
+    "description": "Autonomizing stem cell therapy manufacturing",
+    "company_url": "https://www.cellinobio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86c980f552d9dd7ea819_675b2182fad7b1a78f35a8d8_KV_Highlight-Cellino.svg",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Cellular Intelligence",
+    "description": "Foundational models for the human cell",
+    "company_url": "https://www.somite.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/698e3f51843c0683ffa8c89b_Cellular.avif",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "eGenesis",
+    "description": "Human-compatible organs for transplantation",
+    "company_url": "http://www.egenesisbio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/68ea0771079b8a7405789a59_Website%20Logos%20-%20whitetransparent%20(3).png",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "EveryONE Medicines",
+    "description": "Individualized precision therapeutics",
+    "company_url": "https://www.everyonemedicines.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86f755c329b68d1f7fe1_KVPortfolio-EveryoneMedicines-White.svg",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Kamau Therapeutics",
+    "description": "Gene editing to cure sickle cell disease",
+    "company_url": "https://kamautx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/69f035e8e90cb20d1fee83d1_kamau%20.png",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Liberate Bio",
+    "description": "Precision nucleic acid delivery technology",
+    "company_url": "https://www.liberatebio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86f4dab103d0a6658169_675b2184765379a6eb6009b0_KV_Highlight-LiberateBio.svg",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Loyal",
+    "description": "Extending lifespan of dogs",
+    "company_url": "https://loyalfordogs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e7f0e2518b1fbe6ce6_675b21843d500aad552f3b8f_KV_Highlight-Loyal.svg",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Moonwalk Biosciences",
+    "description": "Pioneering precision epigenetic medicines",
+    "company_url": "https://moonwalk.bio/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b8cc4f5ce88f94e5eb94a0_675b91410f81025a522d485a_Moonwalk-2.avif",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Pearl Bio",
+    "description": "Building next-gen biomaterials for smart biologics",
+    "company_url": "https://pearlbio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b8c92917ed22a99be802fe_675b9141484921b96fe36088_Pearl.avif",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Rubedo",
+    "description": "Targeting cells that cause aging",
+    "company_url": "https://www.rubedolife.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/677d86e7ddd0fca7b91fdaa2_675b2185b9e2709a2dcd2964_KV_Highlight-Rubdeo.svg",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Stylus Medicine",
+    "description": "Developing in vivo CAR-T therapeutics",
+    "company_url": "https://www.stylusmedicine.com/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/67b7c09df0ce28d0f7991daa_675b9165fcc6dc34e1cd2c0f_Stylus-Med.avif",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  },
+  {
+    "company_name": "Ukko",
+    "description": "Re-inventing immunotherapy for allergy",
+    "company_url": "https://www.ukko.us/",
+    "logo_url": "https://cdn.prod.website-files.com/675c812bdbda0c0936ed3866/6a6c3dc72cf7e3ec591e6880_Ukko%202.png",
+    "sectors": [
+      "Therapeutics"
+    ],
+    "is_exit": false,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.khoslaventures.com/portfolio",
+    "scraped_at": "2026-08-03T08:31:24.171968+00:00"
+  }
+]

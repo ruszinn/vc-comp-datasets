@@ -1,0 +1,80 @@
+[
+  {
+    "company_name": "OpenAI",
+    "founder_name": "Sam Altman",
+    "description": "AI research and development",
+    "company_url": "https://openai.com",
+    "logo_url": "https://www.bedrockcap.com/logos/investment-openai.svg",
+    "founder_image_url": "https://www.bedrockcap.com/images/entrepreneur-openai.webp",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.bedrockcap.com/investments",
+    "scraped_at": "2026-07-01T23:22:35.697175+00:00"
+  },
+  {
+    "company_name": "Rippling",
+    "founder_name": "Parker Conrad",
+    "description": "All-in-one solution for HR and IT management",
+    "company_url": "https://rippling.com",
+    "logo_url": "https://www.bedrockcap.com/logos/investment-rippling.svg",
+    "founder_image_url": "https://www.bedrockcap.com/images/entrepreneur-rippling.webp",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.bedrockcap.com/investments",
+    "scraped_at": "2026-07-01T23:22:35.697175+00:00"
+  },
+  {
+    "company_name": "Flock Safety",
+    "founder_name": "Garrett Langley",
+    "description": "Public safety operating system",
+    "company_url": "https://flocksafety.com",
+    "logo_url": "https://www.bedrockcap.com/logos/investment-flock.svg",
+    "founder_image_url": "https://www.bedrockcap.com/images/entrepreneur-flock.webp",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.bedrockcap.com/investments",
+    "scraped_at": "2026-07-01T23:22:35.697175+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "founder_name": "Guillermo Rauch",
+    "description": "Front-end web development platform",
+    "company_url": "https://vercel.com",
+    "logo_url": "https://www.bedrockcap.com/logos/investment-vercel.svg",
+    "founder_image_url": "https://www.bedrockcap.com/images/entrepreneur-vercel.webp",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.bedrockcap.com/investments",
+    "scraped_at": "2026-07-01T23:22:35.697175+00:00"
+  },
+  {
+    "company_name": "Mach",
+    "founder_name": "Ethan Thornton",
+    "description": "Defense technology",
+    "company_url": "https://machindustries.com",
+    "logo_url": "https://www.bedrockcap.com/logos/investment-mach.svg",
+    "founder_image_url": "https://www.bedrockcap.com/images/entrepreneur-mach.webp",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.bedrockcap.com/investments",
+    "scraped_at": "2026-07-01T23:22:35.697175+00:00"
+  },
+  {
+    "company_name": "Bitcoin",
+    "founder_name": "Satoshi Nakamoto",
+    "description": "Decentralized digital currency",
+    "company_url": "https://bitcoin.org",
+    "logo_url": "https://www.bedrockcap.com/logos/investment-bitcoin.svg",
+    "founder_image_url": "https://www.bedrockcap.com/images/entrepreneur-satoshi.webp",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.bedrockcap.com/investments",
+    "scraped_at": "2026-07-01T23:22:35.697175+00:00"
+  }
+]

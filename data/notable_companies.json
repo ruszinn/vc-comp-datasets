@@ -1,0 +1,2757 @@
+[
+  {
+    "company_name": "6Sense (fka Slintel)",
+    "description": "6sense unifies your data, channels, and teams with purpose-built AI and intelligent agents—so every GTM motion is smarter, faster, and more connected.",
+    "company_url": "https://6sense.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17e68732e1d142d19c8_6708f6652c68a7b8499f8d54_6698fc737851351537545c4e_asset%2525206.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Act Security",
+    "description": "Act removes excessive access across your cloud, eliminating the attack paths every breach relies on.",
+    "company_url": "https://act.security/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6a6bae5ec61541c9867a4cb4_Act%20logo.png",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "ADDI",
+    "description": "ADDI aims to power digital commerce in Latin America, starting with Buy Now, Pay Later.",
+    "company_url": "http://co.addi.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17e86255b03235ae7ad_6708f6748da2fb0bb4b75b8e_669947f503e0bfa7cb768603_addi-logo%2525201.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Affirm (NASDAQ:AFRM)",
+    "description": "Affirm offers a flexible, transparent way for consumers to pay over time. The company went public in January 2021.",
+    "company_url": "http://www.affirm.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17ef245ac2aa6516a2a_6708f6667573e56205ade9a9_6698fc87d1c9e346c0ac2ef3_asset%2525209.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:AFRM",
+    "exit_year": 2021,
+    "tags": [
+      "NASDAQ:AFRM"
+    ],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Airbnb (NASDAQ:ABNB)",
+    "description": "Airbnb authentically connects guests with communities. The company went public in December 2020.",
+    "company_url": "https://airbnb.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17e7bb7c8630bc73fbb_6708f6656ae4eb4eb6df5bbd_6698fcafb425a6fc18465b95_asset%25252010.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:ABNB",
+    "exit_year": 2020,
+    "tags": [
+      "NASDAQ:ABNB"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "AlienVault",
+    "description": "AlienVault, which AT&T (NYSE: T) Cybersecurity acquired in 2018, provides a fast and cost-effective way for organizations with limited security staff and budget to address compliance and threat management needs.",
+    "company_url": "https://cybersecurity.att.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17e54e28923d13587f3_6708f667c82d60ff5c117e33_6699478e0e356b43e40b87bb_alien.png",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "AT&T",
+    "ticker_symbol": null,
+    "exit_year": 2018,
+    "tags": [
+      "ACQ. BY AT&T"
+    ],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Anthropic",
+    "description": "Anthropic is building AI to serve humanity’s long-term well-being with research and products that put safety at the frontier.",
+    "company_url": "https://www.anthropic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b4cb593e160a0360172_6881ccae81f5fe176805473f_Logo.svg.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Appirio",
+    "description": "Appirio, which Wipro (NYSE: WIT) acquired in October 2016, offers mobile, social, crowdsourcing, and cloud technology services to help enterprises accelerate the adoption of on-demand solutions.",
+    "company_url": "https://www.wipro.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76ce898e378c2323960ba_68e69f8d3183b9b60c0218bb_appirio_logo.png",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Wipro",
+    "ticker_symbol": null,
+    "exit_year": 2016,
+    "tags": [
+      "ACQ. BY WIPRO"
+    ],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Arteria AI",
+    "description": "Arteria’s AI-powered documentation infrastructure software is used by premier financial institutions globally to drive speed and efficiency into core business processes and enable smarter and faster decision-making.",
+    "company_url": "https://www.arteria.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17ff245ac2aa6516a7a_6708f674c82d60ff5c11a586_6683e21fb507c61dd4682cec_art.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Aven",
+    "description": "Aven's credit card lets homeowners use their home equity for really low rates.",
+    "company_url": "https://www.aven.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17f488d93817369ed40_6708f665b9d96f9e4e9026df_6698fceabd62d8be95b0799b_asset%25252014.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Belong",
+    "description": "Belong's marketplace for homeowners and renters is reinventing the residential renting experience.",
+    "company_url": "https://belonghome.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17f14c39bfea07310b2_6708f67622b84a04574006d3_6698fcf3872c57a6254de6fc_asset%25252015.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "BigCommerce (NASDAQ:CMRC)",
+    "description": "BigCommerce, which went public (NASDAQ: BIGC) in August 2020, is a leading e-commerce platform for fast-growing brands.",
+    "company_url": "http://www.bigcommerce.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c17ff9e30050fd7a7e1d_6708f676841b5a40a5969639_6698fcf81403ddf6e8186add_asset%25252016.svg",
+    "location": "United States",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:CMRC",
+    "exit_year": 2020,
+    "tags": [
+      "NASDAQ:CMRC"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "BitSight",
+    "description": "Bitsight is a cyber risk management company that delivers value across enterprise security performance, digital supply chains, cyber insurance, and data analysis.",
+    "company_url": "http://www.bitsight.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1807774278f2631c31d_6708f67bc82d60ff5c11a8a8_6698fcffa487a16cf5a19f49_asset%25252017.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Brightwheel",
+    "description": "Brightwheel's platform for early education combines SaaS, payments, and a consumer-like daily experience for administrators, teachers, and families.",
+    "company_url": "http://mybrightwheel.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cee46442f79299be2aa_68e69ff6ffafb156aa8e0a3c_brightwheel-logo%2520copy.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Browserbase",
+    "description": "Browserbase is the complete platform to build and deploy agents that browse and interact with the web like humans.",
+    "company_url": "https://www.browserbase.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/69d545c358fcbbb166560797_Group%201400002132.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Buddy Media",
+    "description": "Buddy Media, which Salesforce (NYSE: CRM) acquired in 2012, is a social media marketing platform that helps companies build connections and maintain relationships with customers.",
+    "company_url": "https://buddymedia.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18014c39bfea0731156_6708f670558082534419edd5_6698fd1915bec77e389e638d_asset%25252020.png",
+    "location": "New York",
+    "status": "Acquired",
+    "acquirer": "Salesforce",
+    "ticker_symbol": null,
+    "exit_year": 2012,
+    "tags": [
+      "ACQ. BY SALESFORCE"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "ByteDance",
+    "description": "ByteDance is a global incubator of platforms at the cutting edge of commerce, content, entertainment and enterprise services—over 2.5B people interact with ByteDance products including TikTok.",
+    "company_url": "https://www.bytedance.com/en/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cec7ca7dc5918091e33_68df0562867df7449cf3b454_bytedance-logo-png_seeklogo-446330.png",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Cacheflow",
+    "description": "Cacheflow's connected seller/customer workflows empower sales teams to drive more revenue across the customer lifecycle—from quote to closing, upsell, and renewal.",
+    "company_url": "http://www.getcacheflow.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1819cd82faa936b3245_6708f6665f9cd2773216956c_6698fd215826121327c23a94_asset%25252021.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "HUBSPOT",
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [
+      "ACQ. BY HUBSPOT"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Chief",
+    "description": "Chief is a private membership network focused on connecting and supporting women executive leaders.",
+    "company_url": "http://www.joinchief.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c181833afa494710579a_6708f670bd9e86984a959510_669946dae40c2325e46ac35c_asset%25252022%2525201.png",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Clara",
+    "description": "Clara is the leading spend management platform for companies in Latin America. Its end-to-end solution includes locally-issued corporate cards, bill pay, financing solutions, and a highly-rated software platform used by thousands of companies across the region.",
+    "company_url": "http://www.clara.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c181833afa49471057df_6708f674fc5938b4c3f3868c_66993e3030c735b5273d52f3_asset%25252024.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Clover Security",
+    "description": "Clover Security empowers product security teams with design-led AI agents that embed security into design and planning.",
+    "company_url": "https://clover.security/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6925d97c459f36a17ccb0e53_Clover-Logo-Primary%402x.png",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Coder",
+    "description": "Coder's self-hosted, open-source cloud development environment (CDE) shifts software development from local machines to on-prem and public cloud infrastructure.",
+    "company_url": "http://coder.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c181932bf40e138e1cdf_6708f677bdc7f308272d6725_66993e36ac168f6d76d7fcad_asset%25252025.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Coinbase (NASDAQ:COIN)",
+    "description": "Coinbase is the easiest place to buy, sell, and manage your cryptocurrency portfolio. The company went public in April 2021.",
+    "company_url": "https://www.coinbase.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18168732e1d142d1bc5_6708f66606ddc558cf387008_66993e3a642273374d34c581_asset%25252026.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:COIN",
+    "exit_year": 2021,
+    "tags": [
+      "NASDAQ:COIN"
+    ],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Convex",
+    "description": "Convex is a software development company that offers data, insights, and applications to help commercial contractors and service businesses win.",
+    "company_url": "http://www.convex.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c181bcb5aebdb1289535_6708f6666fe8e582e13b8b11_66993e3f857fd67ef999c8d5_asset%25252027.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "SERVICETITAN",
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [
+      "ACQ. BY SERVICETITAN"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Crosschq",
+    "description": "Crosschq's AI-driven hiring intelligence platform helps companies better screen, onboard and source the best talent.",
+    "company_url": "https://www.crosschq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18268732e1d142d1bf4_6708f66790e4d519d3083ee7_66993e44fb978d4b45c2afd4_asset%25252028.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Curebase",
+    "description": "Curebase is reinventing clinical trials and research with its cutting-edge clinical software and remote study management techniques.",
+    "company_url": "https://www.curebase.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1820f003e9a3ea8363a_6708f6679f2a445da4853610_66993e48f88d8128844db300_asset%25252029.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Curse",
+    "description": "Curse, which was acquired by Twitch in 2016 and then by Fandom in 2018, is a global multimedia and technology company that creates content and products for gamers.",
+    "company_url": "https://www.fandom.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e4b54c187cc86b879ec32f_curse.svg",
+    "location": "United States",
+    "status": "Acquired",
+    "acquirer": "Twitch",
+    "ticker_symbol": null,
+    "exit_year": 2016,
+    "tags": [
+      "ACQ. BY TWITCH"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Descope",
+    "description": "Descope is IAM software that helps developers build secure, frictionless authentication and user journeys for any application.",
+    "company_url": "https://www.descope.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c182588658aef10deca2_6708f66703a4563a0538365c_66993e51948ca370b15feeba_asset%25252031.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "DraftKings (NASDAQ:DKNG)",
+    "description": "DraftKings, which went public (NASDAQ: DKNG) in April 2020, provides online daily and weekly fantasy sports contests for cash prizes.",
+    "company_url": "https://www.draftkings.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c182932bf40e138e1d90_6708f677fc90d5764ae54a9d_66993e5a7fc976ec14949a32_asset%25252033.svg",
+    "location": "United States",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:DKNG",
+    "exit_year": 2020,
+    "tags": [
+      "NASDAQ:DKNG"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Drata",
+    "description": "Drata is a trust management platform that uses AI-driven automation to help thousands of businesses modernize governance, risk, and compliance.",
+    "company_url": "http://www.drata.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6839a31f2b0a09425b0d771d_67b7d80523acd7beb80542f5_Drata_Wordmark_Dark%2520(2).png",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Dub",
+    "description": "The first regulated copy-trading platform.",
+    "company_url": "https://www.dubapp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b526922f688ce4c88c9_689e252569d1f4c3d5cb0d92_67f3d2eddd7de1b16bde7a1a_solarislogo.png",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Echo",
+    "description": "echo's AI-powered platform secures cloud-native infrastructure through enterprise-grade CVE-free container base images.",
+    "company_url": "https://www.echo.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b530b20f8e9ce75beec_688b924a5aa93e5af58eb3a6_wordmark-dark-png.png",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Electric.ai",
+    "description": "Electric empowers small and medium-sized businesses to take full control of their IT and security—managing everything in-house with transparency and confidence.",
+    "company_url": "https://www.electric.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1830d659204003c7598_6708f671807b31c351d6e388_66993e68509f22145dbb736e_asset%25252035.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Ergeon",
+    "description": "Ergeon uses technology to change the way people improve their homes.",
+    "company_url": "https://www.ergeon.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b52bdd8af447d688647_68bf61f4ead772234c70d0ef_Logo_ergeon.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Fairmarkit",
+    "description": "Fairmarkit's automated sourcing platform gives procurement teams what they need to be more efficient with every purchase.",
+    "company_url": "https://www.fairmarkit.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1839cd82faa936b330a_6708f677496f228f41a448fd_66993e6d6d63535eb30603e5_asset%25252036.png",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Fal",
+    "description": "fal is a generative media platform for developers that provides the fastest inference for generative models.",
+    "company_url": "https://fal.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76ce83ba29e8c4a38719a_68e69dc0d905b6c48fb3a338_fal_logo.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Function of Beauty",
+    "description": "Function of Beauty offers personalized hair care products tailored to its customers' specific hair profile and goals.",
+    "company_url": "https://functionofbeauty.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1837294daf1ee9ef5f0_6708f6728da2fb0bb4b75a9c_66993e7ded007620ad293398_asset%25252040.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Gem",
+    "description": "Gem's Cloud Detection and Response platform helps security operations teams stop cloud threats before they become incidents. Gem was acquired by Wiz in April 2024.",
+    "company_url": "https://www.gem.security/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1830f003e9a3ea836f2_6708f66f92ea9e47153c2291_66993e817fc976ec1494b099_asset%25252041.svg",
+    "location": "Israel",
+    "status": "Acquired",
+    "acquirer": "Wiz",
+    "ticker_symbol": null,
+    "exit_year": 2024,
+    "tags": [
+      "ACQ. BY WIZ"
+    ],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Gladly",
+    "description": "Gladly delivers radically efficient and radically personal experiences—seamless, brand-aligned conversations that build loyalty and lower costs without compromise.",
+    "company_url": "https://www.gladly.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76ce6b5a5ba3fb831f6bb_68e0480b6d4f64217cae06ce_gladly-logo-black.webp",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "GORGIE",
+    "description": "GORGIE is a next-generation wellness energy brand built to power all-day energy with clean ingredients and bold flavor.",
+    "company_url": "https://getgorgie.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cf032f4535d4cafb359_68e69d59c420dfb831ce2baf_gorgie_logo.png",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "GrubMarket",
+    "description": "GrubMarket's online marketplace delivers produce and food from local farms and artisan food producers.",
+    "company_url": "https://www.grubmarket.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1830d659204003c7630_6708f6676fe8e582e13b8bdd_66993e8b33d8a793b69e7ae1_asset%25252043.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Handshake",
+    "description": "Handshake's early-career network helps college students and recent graduates—no matter where they're from or what school they attend—find their next opportunity.",
+    "company_url": "https://www.joinhandshake.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b4c9560fc6f2243386a_68d3984a80071b17621d54ff_handshake_logo.svg.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "HashiCorp",
+    "description": "HashiCorp empowers organizations to automate and secure multi-cloud & hybrid environments. The company went public in December 2021 then was acquired by IBM in February 2025.",
+    "company_url": "http://www.hashicorp.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c184a0f3e60f75524e9d_6708f66852d35183ae459801_66993e94cd1549b52b77c89a_asset%25252045.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "IBM",
+    "ticker_symbol": "NASDAQ:HCP",
+    "exit_year": 2025,
+    "tags": [
+      "ACQ. BY IBM",
+      "NASDAQ:HCP"
+    ],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Heard",
+    "description": "Heard serves as an online back-office platform designed for mental health professionals in private practice.",
+    "company_url": "https://www.joinheard.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18443533461112a41cf_6708f6775b868b3324519717_66993e9a948ca370b1601a36_asset%25252046.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Health"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Homebase",
+    "description": "Homebase is the all-in-one HR and team management app that helps more than 100,000 small businesses manage their hourly teams.",
+    "company_url": "http://www.joinhomebase.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1848fedb7d173f20465_6708f668407379b8a8b62de5_6683e32a5c18ecb55e6d8124_homebase-logo-purple.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Hotel Tonight",
+    "description": "HotelTonight, which Airbnb (NASDAQ: ABNB) acquired in April 2019, is a mobile hotel booking application that allows users to find and reserve same-day hotel rooms from their smartphones.",
+    "company_url": "https://www.hoteltonight.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c184073951c75668d505_6708f66842ae0e6abd24c9b2_66993ea7cf1431caa39de7bf_asset%25252048.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Airbnb",
+    "ticker_symbol": null,
+    "exit_year": 2019,
+    "tags": [
+      "ACQ. BY AIRBNB"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Houzz",
+    "description": "Houzz connects homeowners and home professionals with the best tools, resources and vendors for home renovation and design.",
+    "company_url": "https://www.houzz.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c184777a77da899ee563_6708f6683f1bd9445b97c1ce_66993eb077fa4ee5cd7f21a4_asset%25252049.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "IBotta (NYSE:IBTA)",
+    "description": "Ibotta, which went public (NASDAQ: IBTA) in April 2024, is an app that allows consumers to earn cash back on in-store and mobile purchases.",
+    "company_url": "https://home.ibotta.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76ced4514750896319ac7_68e0488b39de263702f0ca8e_ibotta.webp",
+    "location": "United States",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE:IBTA",
+    "exit_year": 2024,
+    "tags": [
+      "NYSE:IBTA"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "IDWall",
+    "description": "idwall's identity management platform helps small and medium-sized businesses automate their customer verification processes.",
+    "company_url": "https://idwall.co/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18443533461112a41f9_6708f674b7461aee7d46df7b_66994705787346ec0afcf592_logo-white.473c448a%2525201.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Inngest",
+    "description": "Inngest is a tool that lets businesses automate and manage behind the scenes tasks reliably and at scale so they can focus on delivering great user experiences.",
+    "company_url": "https://www.inngest.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c184a0f3e60f75524f03_6708f669d88cfb6e9a322abb_66993ebc6dc2d1ff15324bc6_asset%25252052.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Instacoach",
+    "description": "Instacoach's platform offers private lessons, virtual coaching, and college mentoring sessions with NCAA, professional, and Olympic athletes to help aspiring athletes get better every day.",
+    "company_url": "https://instacoach.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c185b12e46916c323f97_6708f669407379b8a8b62e85_66993ec46f035eed3c1f95d0_asset%25252053.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Jam",
+    "description": "Jam is a collaboration tool for engineers, designers, and product managers to build bug-free products.",
+    "company_url": "https://jam.dev/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c185fc0f1a701a06b3e3_6708f66964961fd37e8471e2_6699462753393229036f0cb4_jam.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "JOKR",
+    "description": "JOKR is a last-mile delivery platform that uses micro-fulfillment centers for local products and essential groceries.",
+    "company_url": "https://www.jokr.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c185188a12cb8953f2ae_6708f672816936b5c067d70d_66993ece672b96e70737b2cb_asset%25252055.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "K Health",
+    "description": "K Health's data-driven digital primary care system uses AI to deliver personalized primary care services.",
+    "company_url": "https://khealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c186ad2ce77ba74dfc88_6708f6729f2a445da4854c34_669946345681805e737013a4_asset%25252056%2525201.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Karat.io",
+    "description": "Karat Financial's business credit cards are tailored to the needs of digital creators and influencers.",
+    "company_url": "https://www.trykarat.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e048d7d0977b9f93b5785b_64e5dc7247faa4654295e2ae_Karat_Black.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "KhataBook",
+    "description": "Khatabook is a fintech startup that provides a digital ledger app for small businesses.",
+    "company_url": "https://khatabook.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c186833afa4947105902_6708f675004aa15323e637a7_66993ede317c22673db423fa_asset%25252058.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Kikoff",
+    "description": "Kikoff provides everything you need to build credit, lower debt, and unlock progress right in one app.",
+    "company_url": "https://kikoff.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b547e51c7b8b5e0cf9b_68bf6281a56cb655de0429ff_wordmark-logo-black-copy.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Kong",
+    "description": "Kong enables any company to become an API-first company as a leading developer of cloud API technologies.",
+    "company_url": "https://konghq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c186fc0f1a701a06b49e_6708f6696fe8e582e13b8ccb_66993f0ee69cec151caea322_asset%25252059.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Lime",
+    "description": "Lime's short-term rentals of electric bikes and scooters help people get around in an affordable, convenient way while eliminating their carbon footprint.",
+    "company_url": "https://www.li.me/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e0495b23a0d6a9e29d7dcd_Lime_idHTGHeF-o_0.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:LIME",
+    "exit_year": null,
+    "tags": [
+      "NASDAQ:LIME"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility",
+      "PropTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Lively",
+    "description": "Lively is a direct-to-consumer intimate apparel brand which Wacoal International acquired in 2019.",
+    "company_url": "https://www.wearlively.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b547617349da383b6ae_6881ce6f69d15d41a06c7671_download%25201.png",
+    "location": "New York",
+    "status": "Acquired",
+    "acquirer": "Wacoal International",
+    "ticker_symbol": null,
+    "exit_year": 2019,
+    "tags": [
+      "ACQ. BY WACOAL"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "LocalStack",
+    "description": "LocalStack is a complete, localized AWS environment where developers can build, test, profile and debug infrastructure and code ahead of deployment to the cloud.",
+    "company_url": "https://www.localstack.cloud/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b55c8521caf9381b0d6_68ceed763bbd011dcc68ca9a_6839a324547547df2b4409fa_681119a61b8fa1e4398e1c93_LocalStack%252520Black%252520Logo.png",
+    "location": "Europe",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Loggi",
+    "description": "Loggi is a Brazil-based urban logistics technology company, enabling local food delivery, e-commerce delivery, and courier services for businesses.",
+    "company_url": "https://www.loggi.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cf0ce26b6002d707150_68e049a2800b8ffae5f85ec8_ipo_companie_logoArtboard%25201.avif",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Lucidum",
+    "description": "Lucidum is an asset discovery company that eliminates blind spots across cloud, security, and IT operations.",
+    "company_url": "https://lucidum.io/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c187ad2ce77ba74dfcc0_6708f66ad6363303c18001a8_66993f2f466e4de14c0639c5_asset%25252064.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [
+      "Cyderes"
+    ],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Mason",
+    "description": "Mason handles the hardest parts of building and scaling a hardware business, so innovators can focus instead on creating great products. By combining its enterprise devices with developer-first software, Mason offers the tools and control needed to bring hardware solutions to market.",
+    "company_url": "https://bymason.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c187155ebdcc420a5850_6708f680180503debb7a83e3_66993f35bccac57e3fa7020a_asset%25252065.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Modak",
+    "description": "Modak is a U.S.-based fintech platform leveraging the power of fintech, gamification, and community to empower teens to reach their full potential.",
+    "company_url": "https://www.modakmakers.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c188fc8b5f4949013a79_6708f66ae1f263cbf8075545_66993f442a49a388c4229a7a_asset%25252067.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Monte Carlo",
+    "description": "Monte Carlo reduces risk, improves data & AI health, and promotes trust at scale with the only fully end-to-end data and AI observability platform.",
+    "company_url": "https://www.montecarlodata.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c187b376b569f8df71d7_6708f66b0938aec44f87fb0d_66993f4950458ecd4aac6a8d_asset%25252068.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Musical.ly",
+    "description": "Musical.ly is a social media platform where users created and shared short lip-sync videos, which was acquired by ByteDance in 2017.",
+    "company_url": "https://www.tiktok.com/en/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76ced6857cb38afe7d9f8_68df02f11aaaed29a3859bf9_Musical.ly_2.webp",
+    "location": "Global",
+    "status": "Acquired",
+    "acquirer": "ByteDance",
+    "ticker_symbol": null,
+    "exit_year": 2017,
+    "tags": [
+      "ACQ. BY BYTEDANCE"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Neon",
+    "description": "Neon is the world’s first truly serverless, multi-cloud, open-source database and was acquired by Databricks in May 2025.",
+    "company_url": "https://neon.tech/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c187c0dc2d4f1f7f19c3_6708f66a012b6ff12fd16268_66993f4d39cd91b58587e289_asset%25252069.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Databricks",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "tags": [
+      "ACQ. BY DATABRICKS"
+    ],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "NetBox Labs",
+    "description": "NetBox Labs helps companies build and manage complex networks by delivering open, composable products and supporting the network automation community.",
+    "company_url": "https://netboxlabs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c187af32c8a7c441022a_6708f66b5b868b3324518d22_66993f66262b7c33b86a6e97_asset%25252070.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Nimble Storage",
+    "description": "Nimble Storage, which went public in 2013 and then was acquired by Hewlett Packard Enterprise (NYSE: HPE) in 2017, is a leader in predictive cloud infrastructure, giving businesses fast, reliable access to data.",
+    "company_url": "https://www.hpe.com/us/en/services/nimble-storage.html",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1889cd82faa936b3ada_6708f66bfc90d5764ae53bfe_669945f1b6eb3e1df3f11bf1_asset%25252071%2525201.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Hewlett Packard Enterprise",
+    "ticker_symbol": "NYSE:NMBL",
+    "exit_year": 2017,
+    "tags": [
+      "ACQ. BY HPE",
+      "NYSE:NMBL"
+    ],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Northstar",
+    "description": "Northstar brings financial wellness to the 100% by helping employees better utilize their total compensation and make financial decisions.",
+    "company_url": "https://www.northstarmoney.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1888fedb7d173f205d6_6708f679012b6ff12fd19196_66993f735c55ba290c04a1e6_asset%25252072.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Novo",
+    "description": "Novo is the powerfully simple checking account and financial technology platform built for small businesses.",
+    "company_url": "https://www.novo.co/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18822ccd9c2f90645ff_6708f679bd9e86984a959990_66993f7c5681805e736b22df_asset%25252073.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Nozomi",
+    "description": "Nozomi Networks manages cyber risk and improves resilience for industrial operations by delivering the best solution for real-time visibility.",
+    "company_url": "https://www.nozominetworks.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c188e4e4a499ee3a4d63_6708f66bb7068db795a1ee6c_66993f814a4db485fef1eb9b_asset%25252074.svg",
+    "location": "Europe",
+    "status": "Acquired",
+    "acquirer": "MITSUBISHI ELECTRIC",
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [
+      "ACQ. BY MITSUBISHI ELECTRIC"
+    ],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "NS1",
+    "description": "NS1, which IBM (NYSE: IBM) acquired in 2023, builds intelligent DNS and traffic management solutions to deliver precision control over internet traffic.",
+    "company_url": "https://ns1.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c188073951c75668d609_6708f67290e4d519d30850f2_66993f8614cd523f974c250e_asset%25252075.png",
+    "location": "New York",
+    "status": "Acquired",
+    "acquirer": "IBM",
+    "ticker_symbol": null,
+    "exit_year": 2023,
+    "tags": [
+      "ACQ. BY IBM"
+    ],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Odeko",
+    "description": "Odeko's operating system optimizes supply chain management and inventory operations for coffee shops and small businesses.",
+    "company_url": "https://odeko.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c188fc0f1a701a06b65c_6708f6752b95ae90916748b7_66993f9104d9022ac904a7bb_asset%25252076.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "OfferUp",
+    "description": "OfferUp provides an online and mobile C2C marketplace app for people to buy and sell electronics, furniture, and cars locally.",
+    "company_url": "https://offerup.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c1890f003e9a3ea8393b_6708f679add22f70636aabfe_66993f965681805e736b3d46_asset%25252077.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Opendoor (NASDAQ:OPEN)",
+    "description": "Opendoor, which went public (NASDAQ: OPEN) in December 2020, is an online real estate marketplace that radically simplifies the way people buy and sell homes.",
+    "company_url": "https://www.opendoor.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c189b12e46916c324144_6708f66c0f1192997d221a2a_66993f9c948ca370b160c01e_asset%25252078.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:OPEN",
+    "exit_year": 2020,
+    "tags": [
+      "NASDAQ:OPEN"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "PropTech"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Orca",
+    "description": "Orca Security provides organizations with seamless full-stack visibility into their complete cloud infrastructure footprint, all without complex and costly per-asset integration.",
+    "company_url": "https://orca.security/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68ded1f82f301a73219673c7_Orca-Security-Black.svg",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Otter.ai",
+    "description": "Otter.ai leverages AI to transcribe audio into instantly accessible and actionable information.",
+    "company_url": "https://otter.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c189ad2ce77ba74dfd93_6708f66cd88cfb6e9a322c2f_66993fa8ed007620ad29f643_asset%25252080.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Pandora III",
+    "description": "Pandora, which went public (NYSE: P) in June 2011 and then was acquired by SiriusXM in 2021, creates personalized radio stations and recommendations for online radio listeners.",
+    "company_url": "https://www.pandora.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18986255b03235aec37_6708f66fc17d4ec682153dda_66993fac33d8a793b69f3d92_asset%25252081.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "SiriusXM",
+    "ticker_symbol": "NYSE:P",
+    "exit_year": 2021,
+    "tags": [
+      "ACQ. BY SIRIUSXM",
+      "NYSE:P"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Parafin",
+    "description": "Parafin is a financial infrastructure company that provides platforms with embedded financial products for their small businesses by abstracting the complexity of capital markets, underwriting, servicing, compliance, and customer support.",
+    "company_url": "https://www.parafin.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cf3d1df428b9ea093eb_68e69d2584e3d0185e4c0845_parafin_logo.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Patronus AI",
+    "description": "Patronus AI is the first automated evaluation and security platform that helps companies use large language models (LLMs) safely.",
+    "company_url": "https://www.patronus.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18a588658aef10deedc_6708f6737573e56205ae1bf3_66993fb69859c08c6095dbe7_asset%25252083.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Pecan",
+    "description": "Pecan's AI platform offers predictive analytics services for business intelligence, operations, and revenue teams—all without requiring data science capabilities.",
+    "company_url": "https://www.pecan.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18af1e541413ad4a9b2_6708f66fbff43a05189a18d8_66993fbb653308b110734ab2_asset%25252084.svg",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Peloton (NASDAQ:PTON)",
+    "description": "Peloton, which completed its IPO (NASDAQ: PTON) in September 2019, is reinventing fitness with its interactive platform that delivers live and on-demand boutique studio classes.",
+    "company_url": "https://www.onepeloton.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18a54e28923d1358efe_6708f673c82d60ff5c11a4b6_66993fc450458ecd4aacb5c5_asset%25252085.svg",
+    "location": "New York",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ:PTON",
+    "exit_year": 2019,
+    "tags": [
+      "NASDAQ:PTON"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "People.ai",
+    "description": "People.ai's revenue intelligence platform helps sales, marketing, and customer success teams speed up complex enterprise sales cycles by engaging the right people in the right accounts.",
+    "company_url": "https://www.people.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18a5cf979a51b5ead83_6708f66c03a4563a05384694_66993fc9500b2258dc95bfd1_asset%25252086.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Phia",
+    "description": "Phia is the AI alignment layer for commerce.",
+    "company_url": "https://phia.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/69b052f9b5a7d7d8c277ac64_black_phia_transparent.png",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Pinwheel",
+    "description": "Pinwheel's payroll data connectivity platform allows users to securely update direct deposits and streamline income and employment verification.",
+    "company_url": "https://www.pinwheelapi.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18aa0f3e60f7552527d_6708f673add22f70636aa68f_66993fcd5f04272cb49b9e1d_asset%25252087.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Plenful",
+    "description": "Plenful is the leading AI workflow automation platform built for healthcare.",
+    "company_url": "https://www.plenful.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b5705e70bc8626b0fed_689e625faa5da25ee27456e8_8837dc31876f98786acf1c421f02b830c962d0c4.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Plus",
+    "description": "Plus is an AI-based virtual driver software company powering factory-built autonomous trucks.",
+    "company_url": "https://plus.ai",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b571717d6a5f6eebd00_68bf613934519c881fda540d_idlAwBGgbq_1757372706590.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "PlushCare",
+    "description": "PlushCare, which was acquired by Accolade (NASDAQ: ACCD) in June 2021, features personalized health and benefits solutions that help to improve experience, outcomes, and healthcare cost for employers.",
+    "company_url": "https://plushcare.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b571ce6b6b34ad064c7_68a770d9e25de17c566bd88e_63c75062dcf6a445e602ecfe_PlushCare-logo-web-1.png",
+    "location": "United States",
+    "status": "Acquired",
+    "acquirer": "Accolade",
+    "ticker_symbol": null,
+    "exit_year": 2021,
+    "tags": [
+      "ACQ. BY ACCOLADE"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Poshmark (NASDAQ:POSH)",
+    "description": "Poshmark is a social marketplace for fashion where anyone can buy, sell, and share their style with others. Poshmark went public in January 2021 then was acquired by Naver Corp., South Korea's largest internet company, in January 2023.",
+    "company_url": "http://www.poshmark.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18ab376b569f8df7378_6708f66c180503debb7a4dbb_6683e34ff832c34cec52188a_Poshmark_logo.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Naver Corp",
+    "ticker_symbol": "NASDAQ:POSH",
+    "exit_year": 2021,
+    "tags": [
+      "ACQ. BY NAVER CORP",
+      "NASDAQ:POSH"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Quince",
+    "description": "Quince is an affordable luxury brand that sells high-quality fashion and home goods at radically low manufacturer-to-consumer (M2C) retail model prices—direct from the factory floor.",
+    "company_url": "https://www.quince.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18a68732e1d142d1ec1_6708f66ccd8fee807c54fe14_66993fd850458ecd4aaccbc2_asset%25252089.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Realm",
+    "description": "Realm is a one-stop shop for homeowners with data-backed insights and actionable advice ranging from when to tackle a bathroom renovation to when to refinance.",
+    "company_url": "https://realmhome.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18b3ffcf99860a65a8b_6708f67307c69e92ab85d51f_6683e284bd0e2384a31c8af8_Realm_MAIN.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Rednote",
+    "description": "RedNote is a social networking and e-commerce platform for users to find recommendations on the best products and services from a the community.",
+    "company_url": null,
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cf2ccd920f5b0424c28_68dee03fc8eee9da1738bb24_RedNote%2520(1).png",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Rupeek",
+    "description": "Rupeek is a financial services company that features an online lending platform specializing in credit risk, gold loans, and personal loans.",
+    "company_url": "https://rupeek.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18abcb5aebdb1289966_6708f675b9d96f9e4e903ab5_66993fe20108859f518be4f8_asset%25252091.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Shelf Engine",
+    "description": "Shelf Engine (acquired by Crisp in May 2025) uses machine learning to help grocery stores dial in their orders to increase sales while reducing waste.",
+    "company_url": "https://www.shelfengine.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18cfdea83edad45c7c5_6708f67abf6d79d76edbeff3_66993feded007620ad2a1d8b_asset%25252093.png",
+    "location": "United States",
+    "status": "Acquired",
+    "acquirer": "Crisp",
+    "ticker_symbol": null,
+    "exit_year": 2025,
+    "tags": [
+      "ACQ. BY CRISP"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain",
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Slack",
+    "description": "Slack brings conversations and apps together into its AI-powered productivity platform. The company went public in June 2019 then was acquired by Salesforce in 2021.",
+    "company_url": "https://slack.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18bcdd7174a216f995c_6708f66d64961fd37e8473c7_66993ff36d63535eb3072742_asset%25252094.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Salesforce",
+    "ticker_symbol": "NYSE:WORK",
+    "exit_year": 2021,
+    "tags": [
+      "ACQ. BY SALESFORCE",
+      "NYSE: WORK"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Slice",
+    "description": "Slice keeps local thriving by providing big-business tools to independent and small-chain pizzerias, ultimately changing the way America orders pizza.",
+    "company_url": "https://slicelife.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cf1870d3da20909f1a4_68d6c9097a6c4667719ad958_slice%2520white.png",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Slope",
+    "description": "Slope helps financial institutions expand access to credit and reduce risk, without overhauling systems, rewriting credit policies, or retraining teams.",
+    "company_url": "https://www.slopepay.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b57b51f12fe615db7da_68bf6d811946fb33fea05751_Slope-Logo-584x118%2520copy.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Snappy",
+    "description": "Snappy takes the guesswork out of giving delightful gifts with its all-in-one gifting platform for employees, clients, and other customers.",
+    "company_url": "https://www.snappy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18c073951c75668d98d_6708f67364961fd37e847776_6699401c948ca370b1612594_snappy.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Square (now Block)",
+    "description": "Square allows business owners to sell anywhere, work more efficiently, manage inventory, and more. The fintech company went public in November 2015 and changed its name to Block in December 2021.",
+    "company_url": "https://squareup.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18c4224d988f1eda81d_6708f66d0f1192997d221bb2_6699403c1c150833b742d85c_asset%25252097.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NYSE:SQ",
+    "exit_year": 2015,
+    "tags": [
+      "NYSE:SQ"
+    ],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "StarTree (fka CortexData)",
+    "description": "Offers concurrent, scalable, and real-time analytics, enabling users to make better decisions with the right information at the right time.",
+    "company_url": "https://startree.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18c68732e1d142d1f67_6708f66db9505a5ee0b9f4b4_669940372829f83c8ae44e18_asset%25252098.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "StockX",
+    "description": "From limited-edition sneakers and apparel to electronics, collectibles, and accessories, the StockX e-commerce marketplace offers access to the world’s most coveted items.",
+    "company_url": "http://www.stockx.com",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18c4d1abab1b3bbf974_6708f67c32228d01dc1cf560_6699405b0826df3dcaa4d946_stockx.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Stori",
+    "description": "Stori empowers consumers with access to digital financial services in Latin America.",
+    "company_url": "https://www.storicard.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18c54e28923d1359009_6708f675364ecb41e64ae5b8_669940675582c0076c882039_asset%252520100.webp",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Stream",
+    "description": "Streamlit, which Snowflake (NYSE: SNOW) acquired in March 2022, enables data scientists and machine learning engineers to create beautiful, performant apps in only a few hours with its open-source app framework.",
+    "company_url": "https://streamlit.io/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18de6e7559ec05e2cf4_6708f67bcb54ca36ea4223d4_6683e2d326d67002d7d557ff_streamlit-logo-primary-colormark-darktext-cropped.svg",
+    "location": "United States",
+    "status": "Acquired",
+    "acquirer": "Snowflake",
+    "ticker_symbol": null,
+    "exit_year": 2022,
+    "tags": [
+      "ACQ. BY SNOWFLAKE"
+    ],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "SuccessFactors",
+    "description": "SAP SuccessFactors, a cloud-based HR system, completed its IPO in November 2007 and was acquired by SAP (NYSE: SAP) in December 2011.",
+    "company_url": "https://www.sap.com/products/hcm.html",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18d3ffcf99860a65b64_6708f66d364ecb41e64ae1b1_66994078fb5a32fa02351543_asset%252520103.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "SAP",
+    "ticker_symbol": null,
+    "exit_year": 2011,
+    "tags": [
+      "ACQ. BY SAP"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Superlogical",
+    "description": "Superlogical, founded by Mitchell Hashimoto, is building the terminal multiplexer for all work.",
+    "company_url": "https://www.superlogical.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6a6a28a33047fce0beafd8ef_logo-vector.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Synack",
+    "description": "Synack's crowdsourced security platform uses augmented intelligence to discover and secure vulnerable applications via continuous security testing.",
+    "company_url": "https://www.synack.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b5805e70bc8626b105a_683e978da2f0610f39cebbb9_Group%25201000003765.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Tala",
+    "description": "Tala's mobile, short-term loans unlock credit access for borrowers in emerging markets with limited credit histories and identity verification data.",
+    "company_url": "https://tala.co/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18d0d659204003c7d4f_6708f67d816936b5c067df8c_6683e511cfeb7ff5a549c08a_Tala_MAIN.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Tile",
+    "description": "Tile, which Life360 (ASX:360) acquired in 2021, is the smart companion for the things you can't stand to lose.",
+    "company_url": "https://www.life360.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b591987fd5042f6c3b4_68cde509a3f657209da84058_tile-logo-purple-01.webp",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Life360",
+    "ticker_symbol": null,
+    "exit_year": 2021,
+    "tags": [
+      "ACQ. BY LIFE360"
+    ],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Token",
+    "description": "Token is the new approach designed for the identity boom era, securing your cloud environment starts with protecting the identities – human, and non-human – that access your machines.",
+    "company_url": "https://www.token.security/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76ceb323521c203b8e395_68e4b578e6c643add782b9f4_token.png",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Tonic",
+    "description": "Tonic generates secure and scalable synthetic data, when you need it, where you need it.",
+    "company_url": "http://www.tonic.ai",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cea5bdbd92aaa5c08b3_68dc5722bbaae043aeeeb27b_64af179fac12728545809971_Horizontal_Icon_Wordmark_On_Light_RBG.webp",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Torq (fka StackPulse)",
+    "description": "Torq's AI-driven, no-code automation platform offers an easy workflow designer, limitless integrations, and pre-built templates for security and operations teams to deliver stronger security in minutes.",
+    "company_url": "https://torq.io/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18e4224d988f1eda94f_6708f66f52d35183ae45b4d3_669940bae8095167fc31dcd0_asset%252520108.svg",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Tray",
+    "description": "Tray is an AI-powered software company that enables both technical and nontechnical users to create integrations between applications and write automated workflows involving multiple applications.",
+    "company_url": "https://tray.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cecca733a01ab66f765_68e5484844c80c0a44ff1d3f_aa68c8ca5040661b529e2a37ee9facca897db5b61f5affd4750758b655f3c4e8.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Turtlemint",
+    "description": "Turtlemint's insurtech platform identifies and purchases appropriate insurance policies for consumers.",
+    "company_url": "https://www.turtlemint.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18eb12e46916c3244a9_6708f676012b6ff12fd1901f_669940c6948ca370b161a80c_asset%252520110.svg",
+    "location": "Global",
+    "status": "Public",
+    "acquirer": null,
+    "ticker_symbol": "NSE:TURTLEMINT",
+    "exit_year": null,
+    "tags": [
+      "NSE:TURTLEMINT"
+    ],
+    "sectors": [
+      "fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Udaan",
+    "description": "Udaan is a B2B trade platform that brings manufacturers, traders, retailers, and wholesalers in India into a single platform.",
+    "company_url": "https://udaan.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cf3703052a9a87650b9_68e6a4eeb49a5f73456cf13d_templateImages1656060260447_cropped.png",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Unravel Data",
+    "description": "Unravel’s automated, AI-powered data observability platform provides visibility to allocate costs with granular precision, accurately predict spend, run 50% more workloads at same budget, launch new apps 3X faster, and reliably hit greater than 99% of SLAs.",
+    "company_url": "https://www.unraveldata.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18e54e28923d13590f2_6708f66ef362def36002b676_669940cfd5a49414a82b94fe_asset%252520112.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Vdoo, Acq. by JFrog (NASDAQ:FROG)",
+    "description": "Vdoo, which JFrog (NASDAQ: FROG) acquired in 2021, primarily engages in the complex and increasingly critical product security space.",
+    "company_url": "https://jfrog.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cebacce366b484c2d5c_68e69e2eafe88ef711dc3140_vdoo_logo.png",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "JFrog",
+    "ticker_symbol": "NASDAQ:FROG",
+    "exit_year": 2021,
+    "tags": [
+      "ACQ. BY JFROG"
+    ],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Vedantu",
+    "description": "Vedantu's interactive online platform for students in India includes tutoring, exam prep, and extracurricular classes like reading and coding.",
+    "company_url": "https://www.vedantu.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18ef61dc83539a58ea0_6708f67692ea9e47153c259c_669940d8500b2258dc965c10_asset%252520114.svg",
+    "location": "Global",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Veho",
+    "description": "Veho makes shipping work better for everyone",
+    "company_url": "https://www.shipveho.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/672091480ae1a37f95329dec_64aba94fc638067da124e619_veho-logo%201.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "description": "Vercel's AI Cloud provides the tools and infrastructure to build, scale, and secure intelligent applications. The Vercel team also created v0, Next.js, and AI SDK.",
+    "company_url": "https://vercel.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18fde79fd063068477c_6708f671c17d4ec682153f5a_66994106c3215f8e177807aa_asset%252520116.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "cloud infrastructure"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Vic.ai",
+    "description": "Vic.ai's AI-powered financial platform offers everything from invoice processing to predictive data insights, freeing up human bandwidth like never before.",
+    "company_url": "https://vic.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18ff245ac2aa6517141_6708f673496f228f41a44703_6699410c335be36d38ca8d82_asset%252520117.svg",
+    "location": "New York",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Wing Security",
+    "description": "Wing Security's automated security platform provides visibility, control, and compliance capabilities to protect against SaaS-related threats.",
+    "company_url": "https://wing.security/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68d63b5af1a8fbceca2da024_683e97159fb9df7be896d23e_WIng%2520Security%2520logo%2520vertical%2520transparent.png",
+    "location": "Israel",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Wink (fka 9 Count)",
+    "description": "Wink is a mobile app that helps people make new friends from all over the world.",
+    "company_url": "https://www.getwinkapp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c18ffc0f1a701a06ba63_6708f67cd6363303c1800e78_669941195f04272cb49c8598_asset%252520119.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Wispr",
+    "description": "Wispr Flow is the voice-to-text AI that turns speech into clear, polished writing in every app.",
+    "company_url": "https://wisprflow.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6920d4a3ba644b3d3abbd146_Wispr.png",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "WorkBoard",
+    "description": "WorkBoard's enterprise strategy execution software offers org-wide OKR alignment and accountability to companies across the globe.",
+    "company_url": "https://www.workboard.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c190073951c75668db5c_6708f66ef362def36002b701_66994154fdd00f6e248588b6_asset%252520122.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Workstream",
+    "description": "Workstream's text recruiting and onboarding platform for the hourly workforce streamlines HR tasks so franchise and business owners can move fast, reduce labor costs, and simplify operations—all in one place.",
+    "company_url": "https://www.workstream.us/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c190e6e7559ec05e2e65_6708f66fcb54ca36ea42181f_66994159509f22145dbd99ec_asset%252520123.svg",
+    "location": "San Francisco Bay Area",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "YamiBuy",
+    "description": "Yami is a one-stop e-commerce platform for Asian Americans in North America, selling Asian snacks and food, beauty and health products, home appliances, books, and more.",
+    "company_url": "https://www.yamibuy.com/en",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/6714c190188a12cb8953f89b_6708f67dbd9e86984a959d89_6699415d335be36d38cab7a8_asset%252520124.svg",
+    "location": "United States",
+    "status": "Active",
+    "acquirer": null,
+    "ticker_symbol": null,
+    "exit_year": null,
+    "tags": [],
+    "sectors": [
+      "consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  },
+  {
+    "company_name": "Zendesk",
+    "description": "Zendesk creates a customizable customer service platform for organizations. The company went public in May 2014 then was acquired by an investor group Hellman & Friedman and Permir in November 2022.",
+    "company_url": "https://www.zendesk.com/",
+    "logo_url": "https://cdn.prod.website-files.com/66817171a08a935845b83645/68e76cef526906eef4115c00_68e6a4a5c006f816fe31b677_66bf99a17debb8540594e955_Zendesk%2520Logo.png",
+    "location": "San Francisco Bay Area",
+    "status": "Acquired",
+    "acquirer": "Hellman & Friedman and Permir",
+    "ticker_symbol": "NYSE:ZEN",
+    "exit_year": 2022,
+    "tags": [
+      "ACQ. BY HELLMAN & FRIEDMAN",
+      "NYSE:ZEN"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.notablecap.com/companies",
+    "scraped_at": "2026-08-03T08:33:31.609410+00:00"
+  }
+]

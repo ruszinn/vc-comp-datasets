@@ -1,0 +1,1161 @@
+[
+  {
+    "company_name": "Alice",
+    "company_url": "https://thisisalice.com/",
+    "description": "Automated benefits built to work for all employees",
+    "sectors": [
+      "Better Money",
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Amperon",
+    "company_url": "https://amperon.co/",
+    "description": "Next generation energy intelligence",
+    "sectors": [
+      "Climate",
+      "Machine Learning"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Amplify",
+    "company_url": "https://www.amplifydata.io/",
+    "description": "Making every company a data company",
+    "sectors": [
+      "Infrastructure"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Archie",
+    "company_url": "https://witharchie.com/",
+    "description": "Freelancer payroll made simple",
+    "sectors": [
+      "Better Money"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "ARTA",
+    "company_url": "https://shiparta.com",
+    "description": "A platform & API delivering global white-glove logistics",
+    "sectors": [
+      "Logistics"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Arweave",
+    "company_url": "https://www.arweave.org/",
+    "description": "Collectively owned hard drive offering permanent data storage",
+    "sectors": [
+      "Blockchain"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Axo",
+    "company_url": "https://www.axo.dev/",
+    "description": "The tool company for tool companies",
+    "sectors": [
+      "Developer Tools"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "BastionZero",
+    "company_url": "https://www.bastionzero.com/",
+    "description": "Infrastructure access as a service",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure",
+      "Security"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Bison Trails",
+    "company_url": "https://blog.coinbase.com/coinbase-to-acquire-leading-blockchain-infrastructure-platform-bison-trails-f879654421d6",
+    "description": "The best platform for secure, multi-blockchain infrastructure",
+    "sectors": [
+      "Blockchain",
+      "Infrastructure"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Braid",
+    "company_url": "https://braid.co",
+    "description": "Group spending and messaging",
+    "sectors": [
+      "Better Money"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Bulletin",
+    "company_url": "http://bulletin.co",
+    "description": "Optimizing wholesale for stores, democratizing retail for brands",
+    "sectors": [
+      "Creativity",
+      "Logistics"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Bumpers",
+    "company_url": "http://bumpers.fm/",
+    "description": "Short-form mobile audio",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Butter",
+    "company_url": "https://www.butterapp.io/",
+    "description": "Digitizing wholesale food transactions with an E2E supply chain solution",
+    "sectors": [
+      "Logistics"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Carmera",
+    "company_url": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+    "description": "Building high-definition maps for autonomous vehicles",
+    "sectors": [
+      "Infrastructure",
+      "Logistics",
+      "Machine Learning"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Cashmere",
+    "company_url": "https://www.cashmere.finance/",
+    "description": "A shared wallet & asset management platform built on Solana",
+    "sectors": [
+      "Better Money",
+      "Blockchain"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Celeri",
+    "company_url": "https://www.getceleri.com/",
+    "description": "Enabling businesses and their customers to move money instantly",
+    "sectors": [
+      "Better Money"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "ChargeLab",
+    "company_url": "https://www.chargelab.co",
+    "description": "Electric vehicle charging made simple",
+    "sectors": [
+      "Climate"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Chill Pill",
+    "company_url": "https://www.chillpill.app/",
+    "description": "Peer support platform for Gen z womxn",
+    "sectors": [
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Circle",
+    "company_url": "https://circle.so",
+    "description": "The modern community platform for creators",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Clay CRM",
+    "company_url": "https://clay.earth",
+    "description": "Helping you remember people in your professional life",
+    "sectors": [
+      "Productivity"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Clay Labs",
+    "company_url": "https://www.clay.run",
+    "description": "Expands creativity by making programming more accessible",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Clora",
+    "company_url": "http://www.clora.com",
+    "description": "Matching life science companies with on-demand talent",
+    "sectors": [
+      "Health"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "BioTech",
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Density One",
+    "company_url": "https://density.one/",
+    "description": "DJ your set, edit your mistakes after",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "active",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Duckly",
+    "company_url": "https://duckly.com/",
+    "description": "Video collaboration tool for developers",
+    "sectors": [
+      "Developer Tools",
+      "Productivity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Evaluate Market",
+    "company_url": "https://evaluate.market/",
+    "description": "Analyze NBA Top Shot & NFT value.",
+    "sectors": [
+      "Blockchain",
+      "Creativity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Data & Analytics"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Field Complete",
+    "company_url": "https://fieldcomplete.com",
+    "description": "Field service management software",
+    "sectors": [
+      "Logistics"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Filecoin",
+    "company_url": "https://filecoin.io",
+    "description": "A blockchain-powered decentralized storage network",
+    "sectors": [
+      "Blockchain",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Float",
+    "company_url": "www.floatfi.com/",
+    "description": "Payments for mental health services made easy",
+    "sectors": [
+      "Better Money",
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Formsort",
+    "company_url": "https://formsort.com/",
+    "description": "Build high conversion flows without the dev time",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Grapevine",
+    "company_url": "https://www.grapevine.org/",
+    "description": "Discover nonprofits and vote on where to give together.",
+    "sectors": [
+      "Better Money"
+    ],
+    "status": "active",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Halcyon",
+    "company_url": "https://www.halcyonhealth.co",
+    "description": "Evidence-based approach to substance-use recovery",
+    "sectors": [
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Hickory",
+    "company_url": "https://www.hickorytraining.com/",
+    "description": "Training software for customer support reps",
+    "sectors": [
+      "Learning"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Housecat",
+    "company_url": "https://housecat.com/",
+    "description": "Democratizing crypto investment strategies for individuals",
+    "sectors": [
+      "Better Money",
+      "Blockchain"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Iggy",
+    "company_url": "https://www.askiggy.com/",
+    "description": "Location data and insights in 4 lines of code",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Indify",
+    "company_url": "https://indify.io/",
+    "description": "Connecting emerging artists with early-stage funding partners",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "active",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Irene",
+    "company_url": null,
+    "description": "Home equity access for seniors",
+    "sectors": [
+      "Better Money"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Kinvolved",
+    "company_url": "https://kinvolved.com",
+    "description": "Communication and attendance services for K-12 schools",
+    "sectors": [
+      "Learning"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Lager Data",
+    "company_url": "https://www.lagerdata.com",
+    "description": "Next-level tools for embedded engineers",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure",
+      "Productivity"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Lighthall",
+    "company_url": "https://www.lighthall.co/",
+    "description": "Learn now, not later with interactive live classes",
+    "sectors": [
+      "Learning"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Livepeer",
+    "company_url": "https://livepeer.org",
+    "description": "Decentralized live video streaming platform built on Ethereum",
+    "sectors": [
+      "Blockchain",
+      "Infrastructure",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Meld",
+    "company_url": "https://www.meldstudio.co/",
+    "description": "Desktop software live-streaming & video production",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Merkle",
+    "company_url": "https://usemerkle.com/",
+    "description": "The fastest transaction network and builder on Ethereum",
+    "sectors": [
+      "Blockchain"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "NEAR",
+    "company_url": "https://near.org",
+    "description": "Decentralized storage and compute platform",
+    "sectors": [
+      "Blockchain",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Nemedio",
+    "company_url": "http://nemedio.com/",
+    "description": "Accelerating medical device development",
+    "sectors": [
+      "Developer Tools",
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Norby",
+    "company_url": "https://www.norby.live/",
+    "description": "The only tool you need to activate your audience.",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "nTopology",
+    "company_url": "https://www.ntopology.com",
+    "description": "Engineering software for advanced manufacturing",
+    "sectors": [
+      "Creativity",
+      "Machine Learning",
+      "Productivity"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "NuCypher",
+    "company_url": "https://www.nucypher.com",
+    "description": "Crypto infrastructure for privacy-preserving applications",
+    "sectors": [
+      "Blockchain",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Open Collective",
+    "company_url": "https://opencollective.com/",
+    "description": "Helping open communities manage their finances",
+    "sectors": [
+      "Better Money",
+      "Creativity",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Parsec",
+    "company_url": "https://techcrunch.com/2021/08/10/unity-to-acquire-parsec-in-its-biggest-acquisition-to-date/",
+    "description": "Game, work, and play together from anywhere",
+    "sectors": [
+      "Creativity",
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Photon",
+    "company_url": "https://www.photon.health/",
+    "description": "Modern prescription network making it easy to integrate prescribing functionality into clinical tools",
+    "sectors": [
+      "Health",
+      "Infrastructure"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Podia",
+    "company_url": "https://www.podia.com",
+    "description": "Platform to run your entire creative business",
+    "sectors": [
+      "Creativity",
+      "Learning"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "QA Wolf",
+    "company_url": "https://www.qawolf.com",
+    "description": "Easy browser tests to help teams ship confidently",
+    "sectors": [
+      "Developer Tools",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Radar Relay",
+    "company_url": "https://radarrelay.com",
+    "description": "Your destination for decentralized trading",
+    "sectors": [
+      "Better Money",
+      "Blockchain"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Radicle",
+    "company_url": "https://radicle.xyz/",
+    "description": "Secure peer-to-peer code collaboration",
+    "sectors": [
+      "Blockchain",
+      "Developer Tools",
+      "Infrastructure",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Redesign",
+    "company_url": "https://redesignscience.com",
+    "description": "Computational chemistry for small molecule drug discovery",
+    "sectors": [
+      "Health",
+      "Machine Learning",
+      "Science"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Runwise",
+    "company_url": "https://www.runwise.com/",
+    "description": "An end-to-end boiler and heating system management platform",
+    "sectors": [
+      "Climate",
+      "Machine Learning"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Sawyer",
+    "company_url": "https://www.hisawyer.com",
+    "description": "Online classes and activities for kids, happening near you",
+    "sectors": [
+      "Creativity",
+      "Learning"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Seasons",
+    "company_url": "https://www.seasons.nyc",
+    "description": "Members-only subscription for streetwear",
+    "sectors": [
+      "Creativity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Shippy",
+    "company_url": "https://getshippy.com/",
+    "description": "FinOps command center for modern shipping operations",
+    "sectors": [
+      "Logistics"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "SimpleHealth",
+    "company_url": "https://www.simplehealth.com/",
+    "description": "Birth control, simplified",
+    "sectors": [
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Solana",
+    "company_url": "https://solana.com/",
+    "description": "Decentralized blockchain built to enable scalable, user-friendly apps",
+    "sectors": [
+      "Blockchain"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Spruce",
+    "company_url": "https://spruce.co",
+    "description": "Powering online real-estate transactions",
+    "sectors": [
+      "Better Money"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Spyglass",
+    "company_url": "https://spyglass.software/",
+    "description": "The fastest and easiest way to automate access controls",
+    "sectors": [
+      "Developer Tools"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "StellarHealth",
+    "company_url": "https://stellar.health",
+    "description": "Empowering providers to deliver high-quality care",
+    "sectors": [
+      "Health"
+    ],
+    "status": "active",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "StreetCred",
+    "company_url": "https://techcrunch.com/2021/01/11/snap-acquires-streetcred/",
+    "description": "Accurate, real-time place data",
+    "sectors": [
+      "Infrastructure"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Stylux",
+    "company_url": "https://stylux.io/",
+    "description": "A new way to offer product personalization",
+    "sectors": [
+      "Creativity",
+      "Infrastructure"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Tally",
+    "company_url": "https://www.withtally.com/",
+    "description": "The new way to visualize governance on Ethereum",
+    "sectors": [
+      "Blockchain",
+      "Developer Tools"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Talos",
+    "company_url": "https://talos.com",
+    "description": "Institutional prime services platform for crypto",
+    "sectors": [
+      "Blockchain"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Texino",
+    "company_url": "https://www.texino.com",
+    "description": "Custom campervans designed to reinvent the outdoors",
+    "sectors": [
+      "Climate",
+      "Creativity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Timber / Vector",
+    "company_url": "https://www.datadoghq.com/blog/datadog-acquires-timber-technologies-vector/",
+    "description": "Collect, transform, & route observability data",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure",
+      "Open Source",
+      "Productivity"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Toolio",
+    "company_url": "https://toolio.com",
+    "description": "Demand forecasting and merchandise planning for next-gen retailers",
+    "sectors": [
+      "Logistics",
+      "Productivity"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Uru",
+    "company_url": "https://venturebeat.com/2018/04/27/adobe-acquires-uru-an-ai-startup-that-embeds-ads-in-videos/",
+    "description": "Harnessing computer vision and AI to understand video",
+    "sectors": [],
+    "status": "inactive",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Wallaroo",
+    "company_url": "https://www.wallaroolabs.com",
+    "description": "A turnkey powerful stream processing engine",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure",
+      "Open Source"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Wand",
+    "company_url": "https://www.wand.earth/",
+    "description": "AI-powered creative tools",
+    "sectors": [
+      "Creativity",
+      "Machine Learning"
+    ],
+    "status": "active",
+    "everywhere_tags": [],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Wayfinder Biosciences",
+    "company_url": "https://www.wayfinderbio.com/",
+    "description": "Computational RNA design platform to make molecular sensing easier",
+    "sectors": [
+      "Machine Learning",
+      "Science"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Zeppelin",
+    "company_url": "https://zeppelin.solutions",
+    "description": "The standard for secure blockchain applications",
+    "sectors": [
+      "Blockchain",
+      "Infrastructure",
+      "Open Source",
+      "Security"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Zipdrug",
+    "company_url": "https://medcitynews.com/2020/07/anthems-pbm-buys-pharmacy-startup-zipdrug/",
+    "description": "Simplifying the pharmacy experience",
+    "sectors": [
+      "Health"
+    ],
+    "status": "inactive",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  },
+  {
+    "company_name": "Ξnum",
+    "company_url": "https://www.enum.wtf/",
+    "description": "Your NFT for secure private messaging",
+    "sectors": [
+      "Blockchain"
+    ],
+    "status": "active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://notation.vc/companies",
+    "scraped_at": "2026-08-08T07:06:18+00:00"
+  }
+]

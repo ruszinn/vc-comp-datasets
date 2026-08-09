@@ -1,0 +1,24 @@
+# Railway config for the nightly pipeline. Lives at the repo root so Railway
+# reads it with Root Directory = repo root (the pipeline runs scripts/ and reads
+# data/, so it needs the whole repo, not just automation/).
+#
+# The cron SCHEDULE is set in the Railway dashboard (Settings -> Cron Schedule),
+# not here — that's Railway's reliable method. Use:  0 7 * * *   (daily 07:00 UTC)
+#
+# A cron service must run its command and EXIT — the pipeline does. restartPolicy
+# "never" stops a failed run from looping; it just retries on the next schedule.
+
+# TWO cadences (see PIPELINE.md):
+#   - this service runs DISCOVERY (add new firms) on a routine schedule — cheap,
+#     does nothing on days with no new candidates.
+#   - the weekly full refresh is a SECOND service from the same repo reading
+#     railway.refresh.toml (set its Settings -> Config-as-code file path to
+#     that file — config-as-code overrides dashboard Start Command, so a
+#     dashboard-only override would NOT work). Cron "0 8 * * 1" in its dashboard.
+
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python3 automation/pipeline.py --mode discover"
+restartPolicyType = "never"

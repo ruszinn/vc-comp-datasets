@@ -1,0 +1,962 @@
+[
+  {
+    "company_name": "Twitter",
+    "description": "Twitter is what’s happening in the world and what people are talking about right now.",
+    "company_url": "https://twitter.com/home",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1134ebbbc89_twitter.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Public",
+    "exchange": "NYSE",
+    "ticker_symbol": "TWTR",
+    "acquirer": null,
+    "exit_year": 2013,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Anthropic",
+    "description": "AI research and products that put safety at the frontier. Including their first state of the art assistant, Claude.",
+    "company_url": "https://www.anthropic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/64f0a145e249f3850d38d2f2_Anthropic_logo.svg",
+    "sectors": [
+      "Consumer",
+      "Enterprise",
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Discord",
+    "description": "Discord is the easiest way to communicate over voice, video, and text with your friends and communities.",
+    "company_url": "https://discord.com/new",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/68b75d4aeaaf9f10c9d30f06_Discord-Logo-Black.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Coinbase",
+    "description": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency like Bitcoin, Ethereum, and more",
+    "company_url": "https://www.coinbase.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1aa8dbbbc94_coinbase.png",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "status": "Public",
+    "exchange": "NASDAQ",
+    "ticker_symbol": "COIN",
+    "acquirer": null,
+    "exit_year": 2021,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Tumblr",
+    "description": "Tumblr is a beautiful and simple way to creatively express yourself online and connect with others.",
+    "company_url": "https://www.tumblr.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1c135bbbc9c_tumblr.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Acquired",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": "Yahoo",
+    "exit_year": 2013,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Niantic",
+    "description": "Niantic is the world’s leading augmented reality company with an initial focus on augmented reality games.",
+    "company_url": "https://nianticlabs.com/en/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/68c1a2f4cf22c9afff3bb70d_niantic%202025.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Snap",
+    "description": "Snap is one of the world's largest social networks and lets people easily talk with friends, view Live Stories from around the world, and explore news in Discover.",
+    "company_url": "https://www.snapchat.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1c388bbbcaf_snap.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Public",
+    "exchange": "NYSE",
+    "ticker_symbol": "SNAP",
+    "acquirer": null,
+    "exit_year": 2017,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Affirm",
+    "description": "Affirm is reinventing credit, giving consumers the flexibility to buy now and pay later without hidden fees and compounding interest.",
+    "company_url": "https://www.affirm.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1706cbbbc8f_affirm.png",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "status": "Public",
+    "exchange": "NASDAQ",
+    "ticker_symbol": "AFRM",
+    "acquirer": null,
+    "exit_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "WildType",
+    "description": "Wild Type creates the cleanest, most sustainable fish and meat on the planet.",
+    "company_url": "https://www.wildtypefoods.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/689baeabb292ba0380c167aa_Wordmark_1_black.png",
+    "sectors": [
+      "Consumer",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Mirror",
+    "description": "Mirror is the nearly invisible interactive home gym.",
+    "company_url": "https://www.mirror.co/how-it-works",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b13713bbbc95_mirror.png",
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "Acquired",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": "lululemon",
+    "exit_year": 2020,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Slack",
+    "description": "Slack is the enterprise software platform that brings people, information, and tools together to get work done.",
+    "company_url": "https://slack.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b165a6bbbc8c_slack.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Public",
+    "exchange": "NYSE",
+    "ticker_symbol": "WORK",
+    "acquirer": null,
+    "exit_year": 2019,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Scale AI",
+    "description": "ScaleAI is the data platform for AI that provides access to human-powered data for hundreds of use cases.",
+    "company_url": "https://scale.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1e7d0bbbca3_scale.png",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Ramp",
+    "description": "Ramp is the world’s first finance automation platform, providing businesses with a single solution to handle all non-payroll corporate expenses, including cards and payments with built-in expense and accounting automation software.",
+    "company_url": "http://www.ramp.com",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/6126770a20bcc7ad9a77deb0_ramp.png",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Antithesis",
+    "description": "Antithesis is a fundamentally new way to validate that software and agents work correctly before they are released.",
+    "company_url": "https://antithesis.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/69f1068b2b903ef1244a9c24_02-01%20antithesis%20logo_%20BW%20light%404x.png",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Deel",
+    "description": "Deel is the first payroll platform for remote teams that connects localized compliance and payments in one system of record and automates everything.",
+    "company_url": "https://www.letsdeel.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b15bcabbbd4c_deel.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Baseten",
+    "description": "Machine learning infrastructure.",
+    "company_url": "https://www.baseten.co",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/67cae3a0f2311008e213a9e7_baseten-logo.png",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Plaid",
+    "description": "Plaid helps all companies build fintech solutions by making it easy, safe, and reliable for people to connect their financial data to apps and services.",
+    "company_url": "https://plaid.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1700cbbbc8b_plaid.png",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Chainguard",
+    "description": "Chainguard enables developers to ship secure software by default.",
+    "company_url": "https://www.chainguard.dev",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/69161812b549040d4d2e15e0_Ink_Combination_Mark%20(2).png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Zeromatter",
+    "description": "Zeromatter Technologies, Inc. is a software startup building a high-performance simulation platform that enables companies to build, test, and train autonomous systems and complex engineered products in virtual environments.",
+    "company_url": "https://zeromatter.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d15913906fd8c240be7d9_Zeromatter.png",
+    "sectors": [
+      "Enterprise",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Abridge",
+    "description": "Abridge is generative AI for clinical conversations.",
+    "company_url": "https://www.abridge.com",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/677ed19f8f75da049fce7d28_abridge-logo-wordmark-black.png",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Flock Safety",
+    "description": "Flock Safety is an all-in-one technology solution that aims to eliminate crime and shape safer communities, together.",
+    "company_url": "https://www.flocksafety.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/67801d95363be7951def86ad_flock.png",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Crusoe",
+    "description": "Crusoe provides vertically integrated, sustainable AI infrastructure and cloud services designed to power modern artificial intelligence workloads.",
+    "company_url": "https://www.crusoe.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d17e9eed64de7a569bbcc_Crusoe.png",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Benchling",
+    "description": "Benchling is the modern software platform powering the biotechnology revolution.",
+    "company_url": "https://www.benchling.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b165ecbbbcca_benchling.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Base Power",
+    "description": "Base Power is an energy technology company based in Austin, Texas, focused on modernizing the electrical grid through distributed battery storage and home energy services.",
+    "company_url": "https://www.basepowercompany.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d17c8eed64de7a569b085_Base%20Power.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Handshake",
+    "description": "Handshake is a career network and recruiting platform for college students and alumni.",
+    "company_url": "https://www.joinhandshake.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b14fedbbbcc4_handshake.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Adept",
+    "description": "We’re building a machine-learning model that can interact with everything on your computer.",
+    "company_url": "https://www.adept.ai",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/6410b491bd307f1f3bd02ec7_adept-logo.png",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Formation Bio",
+    "description": "TrialSpark is a technology company that helps bring treatments to patients faster by reimagining how clinical trials are run.",
+    "company_url": "https://www.trialspark.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d1b58276234434da7f2ab_Formation%20Bio.png",
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Airspace Intelligence",
+    "description": "Airspace Intelligence is a software-first aerospace company to help the world’s most complex air operations succeed.",
+    "company_url": "https://www.airspace-intelligence.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/649cdefbdcf2086e9197e981_ASI%20Logo%20-%20Regular.png",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Cruise",
+    "description": "Cruise is building the world’s most advanced self-driving vehicles to safely connect people with the places, things, and experiences they care about.",
+    "company_url": "https://www.getcruise.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1167fbbbc92_cruise.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Acquired",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": "General Motors",
+    "exit_year": 2016,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Sesame",
+    "description": "Sesame.ai builds highly natural, emotionally aware voice AI designed for real, flowing conversations.",
+    "company_url": "https://www.sesame.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d1d3d03065cd4ca6ec17e_Sesame.png",
+    "sectors": [
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "CTRL-labs",
+    "description": "CTRL-labs is a company on a mission to expand human bandwidth with non-invasive neural interfaces. (Acquired by Facebook in 2019)",
+    "company_url": "https://www.ctrl-labs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b1e0adbbbc93_ctrllabs.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Acquired",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": "Facebook",
+    "exit_year": 2019,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "MatX",
+    "description": "MatX is a computer chip manufacturer building high-performance, cost-efficient platforms optimized for large-scale AI workloads and designed to accelerate the development and accessibility of Artificial General Intelligence.",
+    "company_url": "https://matx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/684aecb732ab8cc24cad5206_favicon_black.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Lightmatter",
+    "description": "Lightmatter combines electronics, photonics, and new algorithms to create a next-generation computing platform purpose-built for artificial intelligence.",
+    "company_url": "https://lightmatter.co/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b11628bbbcb7_lightmatter.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Parallel",
+    "description": "Parallel builds web data APIs for AI agents, turning web search and intelligent knowledge tasks into programmable, enterprise-ready infrastructure.",
+    "company_url": "https://parallel.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d1586b61c00e1c9b70ede_1.1.1%20Parallel%20Logo%20270%20(1).png",
+    "sectors": [
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Standard Intelligence",
+    "description": "Standard Intelligence is building intelligent models that learn to use a computer through pre-training on raw video.",
+    "company_url": "https://si.inc/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/69f3ba0cd17334ddb03cdd9a_Standard%20Intelligence%20Logo.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "The Bot Company",
+    "description": "The Bot Company is a robotics engineer company building robots that do chores and save you time.",
+    "company_url": "https://www.bot.co/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/674f500fcf6acad2d7da2c27_Bot%20Co%20Logo.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Edison Scientific",
+    "description": "Edison Scientific is an AI platform that automates scientific R&D from hypothesis to validated results, turning months of research into hours with autonomous agents that synthesize literature, analyze data, and generate publication-ready discoveries.",
+    "company_url": "https://edisonscientific.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d14ccd1d01d07af9c418b_Untitled%20design%20(2).png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Lumafield",
+    "description": "AI Powered industrial X-ray CT scanners for R&D and Manufacturing",
+    "company_url": "https://www.lumafield.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/65e648a29f62bfcfc2ba50e1_Lumafield_logolockup_black.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Enfabrica",
+    "description": "Enfabrica is a cutting-edge silicon and software company building disruptive networking solutions for parallel, heterogeneous, and accelerated computing infrastructure.",
+    "company_url": "https://enfabrica.net/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/67801cf4aa4b988c971160c9_Enfabrica-logo_B%26W.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Generalist",
+    "description": "Generalist builds embodied foundation models that give robots human-like intelligence for real-world tasks.",
+    "company_url": "https://generalistai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d1376d2e1c7689c830907_LOGO.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Profluent",
+    "description": "Profluent is advancing the frontier of AI research in biology and making biology programmable.",
+    "company_url": "https://www.profluent.bio",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/6614152b2eab2d9fce7a135e_PRIMARY_BLACK.png",
+    "sectors": [
+      "AI",
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Latent",
+    "description": "Latent is the leading AI platform for medication access.",
+    "company_url": "https://latenthealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/69f153fa94e69858c008960a_latent.png",
+    "sectors": [
+      "AI"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Oculus",
+    "description": "Oculus develops virtual reality platforms and products that let people experience anything, with anyone.",
+    "company_url": "https://www.oculus.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/5f6113b98d41b13beebbbc8a_oculus.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "status": "Acquired",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": "Facebook",
+    "exit_year": 2014,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Stoke Space",
+    "description": "Resuable rockets for the Space Economy.",
+    "company_url": "https://www.stokespace.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/65e65fc0a22ee4199b2c2f38_Stoke_Space_SVG_logo.svg.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Inversion",
+    "description": "Low-cost return from space.",
+    "company_url": "https://www.inversionspace.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/692f5773eba4b8b3742a1ec5_INVERSION%20WORDMARK%20BLACK%20T-BG.png",
+    "sectors": [
+      "Frontier"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Kalshi",
+    "description": "Kalshi, Inc. is a U.S.-based, federally regulated prediction market exchange where individuals and institutions can trade event contracts — financial instruments tied to the outcomes of real-world events",
+    "company_url": "https://www.kalshi.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d0d7be5b697da54e019c1_kalshi-logo.png",
+    "sectors": [
+      "Fintech"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Mercury",
+    "description": "Mercury is a banking platform built for startups and scaling companies, offering zero-fee business checking and savings, instant credit cards, automated expense management, and treasury services to help ambitious entrepreneurs manage their finances.",
+    "company_url": "https://mercury.com/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/697d1990eafad8e332a780b7_Mercury.png",
+    "sectors": [
+      "Fintech"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  },
+  {
+    "company_name": "Optimism",
+    "description": "Optimism is a leading L2 project aiming to scale Ethereum.",
+    "company_url": "https://www.optimism.io/",
+    "logo_url": "https://cdn.prod.website-files.com/5f6113b98d41b13a4ebbba49/6259de931299915aa944f508_611fd32ef63b79b5f8568d58_OPTIMISM-logo.svg",
+    "sectors": [
+      "Fintech"
+    ],
+    "status": "Active",
+    "exchange": null,
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.sparkcapital.com/companies",
+    "scraped_at": "2026-07-01T23:27:11.961882+00:00"
+  }
+]

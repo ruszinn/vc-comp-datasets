@@ -1,0 +1,698 @@
+[
+  {
+    "company_name": "Adversa Ai",
+    "company_url": "https://adversa.ai",
+    "description": "Ship AI without shipping risk. Adversa AI provides a runtime control layer that stops dangerous coding agent actions before they become the incident.",
+    "location": "Tel Aviv",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Airship",
+    "company_url": "https://www.airship.com/",
+    "description": "Airship is the only mobile-first customer experience platform that delivers measurable results through AI-powered, unified cross-channel experiences.",
+    "location": "Portland, OR",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Appdirect",
+    "company_url": "https://www.appdirect.com/",
+    "description": "AppDirect powers millions of cloud subscriptions worldwide with marketplace, billing, reseller, and distribution solutions.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Authentic8",
+    "company_url": "https://www.authentic8.com/",
+    "description": "Conduct secure, anonymous online investigations without revealing analyst identity or intent. Blend in, isolate browsing, and improve productivity. Get a demo!",
+    "location": "Redwood City, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Boundless",
+    "company_url": "https://www.boundless.com/",
+    "description": null,
+    "location": "Seattle, WA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Buncha",
+    "company_url": "https://www.gobuncha.com/",
+    "description": "Buncha is a grocery delivery app that connects neighborhoods directly with their favorite local merchants for weekly deliveries. No memberships, multiple stores, same delivery.",
+    "location": "Minneapolis, MN",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Butlr",
+    "company_url": "https://www.butlr.com/",
+    "description": "Optimize your space with Butlr's AI Occupancy Data. Elevate tenants' experience, reduce operation costs, and harness data accuracy on our innovative platform.",
+    "location": "Burlingame, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Code Climate",
+    "company_url": "https://codeclimate.com/",
+    "description": "Code Climate gives leaders the evidence and the playbooks to transform how their enterprise builds software, and make it AI-native.",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Ferrum Health",
+    "company_url": "https://ferrumhealth.com/",
+    "description": "AI Governance Suite for healthcare: deploy clinical AI in 10 weeks, measure real performance with ground truth, and scale securely across your organization.",
+    "location": "Sunnyvale, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Fideo",
+    "company_url": "https://www.fideo.ai/",
+    "description": "Discover the importance of identity verification and fraud prevention. Learn how to protect your business and customers from fraudsters.",
+    "location": "Denver, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Flexpoint",
+    "company_url": "https://www.getflexpoint.com",
+    "description": "Purpose built MSP payment solution. Automating your payments and increasing your cash flow with a fully integrated and automated payment solution",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Floatme",
+    "company_url": "https://www.floatme.com/",
+    "description": "Need cash before payday? FloatMe's got your back! Get fast, secure cash advances to make ends meet and avoid those annoying bank overdraft fees. FloatMe also gives you spending alerts and financial tools to keep your budget on track. Membership is only $4.99 a month!",
+    "location": "San Antonio, TX",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Formlabs",
+    "company_url": "https://formlabs.com/",
+    "description": "Formlabs is the largest supplier of professional stereolithography (SLA) and selective laser sintering (SLS) 3D printers in the world.",
+    "location": "Somerville, MA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Glowforge",
+    "company_url": "https://glowforge.com/",
+    "description": "Meet Glowforge, the 3D laser printer that makes magical things at the push of a button.",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Havenly",
+    "company_url": "https://www.havenly.com/",
+    "description": "Online interior design for real people. Begin your room project for as low as $79.00.",
+    "location": "Denver, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Help Scout",
+    "company_url": "https://www.helpscout.com/",
+    "description": "Help Scout delivers all the features you need to deliver exceptional support at a fraction of the cost of other customer service platforms.",
+    "location": "Boston, MA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Hihello",
+    "company_url": "https://www.hihello.com/",
+    "description": "Every interaction your people make is a brand moment most companies leave to chance. HiHello gives marketing one source of truth to command the brand at scale.",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Hitchpin",
+    "company_url": "https://www.hitchpin.com/",
+    "description": null,
+    "location": "Manhattan, KS",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Inscribe",
+    "company_url": "https://inscribe.ai/",
+    "description": "Inscribe helps banks, fintechs, lenders, and credit unions detect document fraud across underwriting, onboarding, KYC/KYB, and bank account verification workflows. Catch fake, altered, and AI-generated documents faster while reducing manual review and fraud losses.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Jones",
+    "company_url": "https://quitwithjones.com/",
+    "description": null,
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Jumpcloud",
+    "company_url": "https://jumpcloud.com/",
+    "description": "JumpCloud makes it simple to manage Windows, Apple, Linux, and Android devices and to deliver secure access with SSO, MFA, Zero Trust, RADIUS, and more.",
+    "location": "Louisville, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Knock",
+    "company_url": "https://www.knock.com/",
+    "description": "Buy before you sell, for people who are buying and selling homes, we partner with their lenders and agents to provide cash flow and more certainty, convenience, and competitiveness. Partner with Knock Today!",
+    "location": "Atlanta, GA",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Landing",
+    "company_url": "https://www.hellolanding.com/",
+    "description": "Find your next stay in 250+ U.S. cities. Book fully-furnished apartments with full kitchens, premium amenities, & 24/7 support, perfect for stays of any length.",
+    "location": "Birmingham, AL",
+    "status": "Active",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Looking Glass Factory",
+    "company_url": "https://lookingglassfactory.com/",
+    "description": "Thin-format holograms for people, products, and characters.",
+    "location": "Brooklyn, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Macrofab",
+    "company_url": "https://macrofab.com/",
+    "description": "MacroFab: The intelligent electronics manufacturing platform for PCB assembly. Upload. Price. Order.",
+    "location": "Houston, TX",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Mapbox",
+    "company_url": "https://www.mapbox.com/",
+    "description": "APIs and SDKs for AI-powered maps, location search, turn-by-turn navigation, and geospatial data in mobile or web apps. Get started for free.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Meru Health",
+    "company_url": "https://www.meruhealth.com/",
+    "description": "Meru Health is a 12-week digital mental health program proven to deliver fast, long-lasting recovery for anxiety, depression, stress, and more.",
+    "location": "San Mateo, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Miriel",
+    "company_url": "https://miriel.ai/",
+    "description": "Miriel's context engine gives your AI apps and agents the context they need in real time. Build AI-native apps and seamlessly integrate personalized AI into your product within minutes.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Modular Robotics",
+    "company_url": "https://modrobotics.com/",
+    "description": "A vibrant circle of multicolored LEDs that can display various moods, counts, configurations, or themes, constantly shifting to match the rhythm of your",
+    "location": "Boulder, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Molekule",
+    "company_url": "https://molekule.com/",
+    "description": "Molekule air purifiers with HEPA and PECO filters destroy viruses, pet dander, mold, wildfire smoke, and pollutants. FDA-cleared and allergist-recommended.",
+    "location": "Palm Beach Gardens, FL",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Nift",
+    "company_url": "https://www.gonift.com/",
+    "description": "Discover your next favorite business with Nift. Tell us what you like and let Nift match you with new products, services and places to try. Be a great customer, make a purchase, and if you’re happy, go back. Millions of great customers are getting $30 to try new businesses every month.",
+    "location": "Boston, MA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Orion By Gravity",
+    "company_url": "https://www.bygravity.com/",
+    "description": "Orion is an autonomous AI analyst that connects to Looker, BigQuery, Snowflake, and dbt to investigate why metrics change and deliver narrative insights 24/7. Book a demo.",
+    "location": "Boulder, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Pantheon",
+    "company_url": "https://pantheon.io/",
+    "description": "Pantheon.io is the website platform built for WordPress and Drupal. We deliver your business needs to build, host, and manage with digital speed and agility.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Parallel Domain",
+    "company_url": "https://paralleldomain.com/",
+    "description": "Parallel Domain generates photorealistic synthetic data and simulation to train and validate perception systems for autonomous vehicles, robotics, and AI.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Pilot",
+    "company_url": "https://www.pilotfiber.com/",
+    "description": "Pilot is NYC's modern fiber infrastructure company. 300+ miles of fiber, enterprise-grade connectivity, and installs in days - not months.",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Quiq",
+    "company_url": "https://quiq.com/",
+    "description": "Quiq is the agentic AI agent platform that delivers exceptional customer experiences across every channel, with complete control and transparency.",
+    "location": "Bozeman, MT",
+    "status": "Active",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Qwick",
+    "company_url": "https://www.qwick.com/",
+    "description": "AI-powered hospitality staffing platform. Fill shifts in 30 min, hire full-time staff, automate compliance & payroll. 350K+ verified pros, 42 states.",
+    "location": "Charleston, SC",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Realwear",
+    "company_url": "https://www.realwear.com/",
+    "description": "Discover the future of hands-free technology with RealWear smart glasses. Rugged, voice-operated solutions for industrial use with AI capabilities.",
+    "location": "Vancouver, WA",
+    "status": "Active",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Regard",
+    "company_url": "https://regard.com/",
+    "description": "Regard reviews 100% of the EHR to recommend diagnoses and generate documentation at the point of care — earning revenue through better care, not queries.",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Rodeo",
+    "company_url": "https://rodeorodeorodeo.com",
+    "description": null,
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Seatgeek",
+    "company_url": "https://seatgeek.com/",
+    "description": null,
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Singlefile",
+    "company_url": "https://www.singlefile.io/",
+    "description": "SingleFile embeds AI across the full compliance lifecycle â automating entity management, registered agent, annual reporting, and filings across all 52 U.S. jurisdictions, so your team makes confident decisions from one platform.",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Snappr",
+    "company_url": "https://snappr.com",
+    "description": "On-demand photos, videos and AI-powered visuals for enterprises, businesses and individuals. Nationwide photographer coverage. Affordable, fast, on brand.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Sofar Ocean",
+    "company_url": "https://www.sofarocean.com/",
+    "description": "Sofar Ocean is the leading ocean intelligence platform, closing the data gap for better predictability and outcomes.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Sovrn",
+    "company_url": "https://www.sovrn.com/",
+    "description": "Thousands of the world’s top publishers trust the Sovrn Platform, a complete set of data and monetization tools, to thrive on the open web.",
+    "location": "Boulder, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Spekit",
+    "company_url": "https://spekit.com/",
+    "description": "The AI-powered revenue enablement platform that delivers coaching, content, and deal intelligence inside rep workflows. Trusted by leading B2B revenue teams",
+    "location": "Denver, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Sphero",
+    "company_url": "https://sphero.com/",
+    "description": null,
+    "location": "Boulder, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Stackhawk",
+    "company_url": "https://www.stackhawk.com/",
+    "description": "Secure AI-generated code before it ships. StackHawk enables coding agents to find, fix, and verify exploitable vulnerabilities automatically.",
+    "location": "Denver, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Stocktwits",
+    "company_url": "https://stocktwits.com/",
+    "description": "Stocktwits provides real-time stock, crypto & international market data to keep you up-to-date. Find top news headlines, discover your next trade idea, share & gain insights from traders and investors from around the world, build a watchlist, buy US stocks, & create and manage your portfolio.",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Data & Analytics"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Supercircle",
+    "company_url": "https://www.supercircle.world/",
+    "description": "We are a full-service technology and reverse logistics platform powering circularity for the world’s best retail brands.",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Suzy",
+    "company_url": "https://suzy.com/",
+    "description": "Turn fragmented data into clear decisions. Suzy's AI decision engine delivers consumer insights, market intelligence, and actionable recommendations in hours.",
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Tracera",
+    "company_url": "https://tracera.com/",
+    "description": null,
+    "location": "New York, NY",
+    "status": "Active",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Twindo",
+    "company_url": "https://www.twindo.com/",
+    "description": "Use Twindo's LiDAR-powered scans to create 99% accurate as-built CAD models. Compatible with Revit, AutoCAD, & more. Save time measuring and modeling.",
+    "location": "Denver, CO",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Vendasta",
+    "company_url": "https://www.vendasta.com/",
+    "description": "Empower local businesses with an all-in-one AI workforce. Scale your agency or franchise with automated fulfillment, marketing, and sales tools in one place.",
+    "location": "Saskatoon, SK",
+    "status": "Active",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Wholesail",
+    "company_url": "https://www.paywholesail.com/",
+    "description": "Wholesail is the all-in-one accounts receivable platform for vendors—manage credit risk, automate collections, and accept ACH to get paid faster.",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  },
+  {
+    "company_name": "Whoop",
+    "company_url": "https://www.whoop.com/",
+    "description": "Optimize sleep, strain, and recovery with WHOOP, the most advanced fitness and health wearable.  With personalized insights, improve performance, build healthier habits, and extend healthspan with continuous health monitoring.",
+    "location": "Boston, MA",
+    "status": "Active",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://foundrygroup.com/portfolio",
+    "scraped_at": "2026-07-27T20:38:12+00:00"
+  }
+]

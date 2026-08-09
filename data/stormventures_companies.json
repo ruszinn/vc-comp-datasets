@@ -1,0 +1,1541 @@
+[
+  {
+    "company_name": "Tote",
+    "company_url": "https://tote.ai/about-us/",
+    "description": "Veterans behind Punchh ($600M) and MerchantOS building AI-native POS that helps fuel and convenience retailers modernize operations.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://tote.ai/about-us/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "CarbonSix",
+    "company_url": "https://www.carbon6robotics.com/",
+    "description": "CarbonSix delivers cutting-edge robotics automation for manufacturing, combining Six-Sigma robot dexterity and intelligence to transform industrial operations worldwide.",
+    "status": "Active",
+    "sector": "Robotics as a Service",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.carbon6robotics.com/",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Pinkfish",
+    "company_url": "https://www.pinkfish.ai/",
+    "description": "Pinkfish is a business orchestration platform that runs multi-step workflows across your stack, combining AI agents with real system integrations, permissions, and auditability for critical operations.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.pinkfish.ai/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Datagrid",
+    "company_url": "https://www.datagrid.com/",
+    "description": "Datagrid connects your systems, interprets project files, and completes real workflows. AI agents that do the work for construction and engineering teams.",
+    "status": "Exit",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.datagrid.com/",
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Openprise",
+    "company_url": "https://www.openprisetech.com/",
+    "description": "Openprise is the only AI and data orchestration platform built for enterprise go-to-market teams. Automate your processes, unify your data silos, and consolidate point solutions.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.openprisetech.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Populus",
+    "company_url": "https://www.populus.ai/",
+    "description": "Populus empowers cities to digitally manage their curbs and streets to deliver a safer, more equitable, sustainable transportation future.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.populus.ai/",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Flywl",
+    "company_url": "https://www.flywl.com/",
+    "description": "Buy and sell software across AWS, Azure, and Google Cloud on the only cloud marketplace platform that turns commitments into savings.",
+    "status": "Active",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.flywl.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "System Initiative",
+    "company_url": "https://www.systeminit.com/",
+    "description": "System Initiative",
+    "status": "Active",
+    "sector": "IT",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.systeminit.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Heeler",
+    "company_url": "https://www.heeler.com/",
+    "description": "Agents write the code. AI attackers weaponize the flaws. Heeler prevents, fixes, and audits every layer of the AI SDLC — deterministically, at machine speed.",
+    "status": "Active",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.heeler.com/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Spyne",
+    "company_url": "https://www.spyne.ai/",
+    "description": "Spyne helps dealerships engage buyers 24/7, boost lead conversions with Vini, and showcase studio-quality visuals through panoramic car views and immersive video tours.",
+    "status": "Active",
+    "sector": "Other",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://www.spyne.ai/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Hyperproof",
+    "company_url": "https://hyperproof.io/",
+    "description": "Hyperproof's GRC platform turns GRC into a growth engine. Eliminate duplicate work and see 66% reduction in duplicative controls.",
+    "status": "Active",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://hyperproof.io/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Provus",
+    "company_url": "https://www.provusinc.com/",
+    "description": "AI Driven Services Quoting",
+    "status": "Active",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.provusinc.com/",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Carta Healthcare",
+    "company_url": "https://www.carta.healthcare/",
+    "description": "Unlock your clinical data with a healthcare AI platform that cuts costs, saves time, and boosts quality. See how Hybrid Intelligence works today.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.carta.healthcare/",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "OpsLab",
+    "company_url": "https://www.opslab.com/",
+    "description": "Discover our solution. OpsLab uses innovative asset management software to improve operational readiness for warfighters. We enable flying squadrons to automatically build forward-looking flight schedules, optimize critical resources, and simplify logistics. Our smart assistants solve operational planning, tracking, and recovery problems at scale.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.opslab.com/",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Atlas Magnetics",
+    "company_url": "https://www.atlasmagnetics.com/",
+    "description": "Atlas Magnetics offers standard components with full datasheets and evaluation boards available in-stock at our distribution partners.",
+    "status": "Active",
+    "sector": "Other",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.atlasmagnetics.com/",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Retorio",
+    "company_url": "https://www.retorio.com/",
+    "description": "The AI Coaching Platform for Sales, Leadership & Service. Scale effective training & coaching with realistic AI role play simulations.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.retorio.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Harmonic",
+    "company_url": "https://www.harmonic.security/",
+    "description": "Govern AI wherever your workforce runs it. Detect shadow AI, prevent data leaks, and coach employees inline — across web, desktop, and agentic workflows.",
+    "status": "Active",
+    "sector": "Security",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.harmonic.security/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Workato",
+    "company_url": "https://www.workato.com/",
+    "description": "Govern every AI agent and execute the work across 14,000+ apps. Built on the #1 iPaaS, trusted by thousands.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.workato.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Zingtree",
+    "company_url": "https://zingtree.com/",
+    "description": "Empower business-critical processes with an enterprise-grade AI Agent Builder for customer service.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://zingtree.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Trustar",
+    "company_url": "https://www.splunk.com/en_us/about-splunk/acquisitions/trustar.html?301=/en_us/investor-relations/acquisitions/trustar.html",
+    "description": "With TruSTAR’s capabilities added to the Splunk Data-to-Everything Platform, customers will be able to autonomously and seamlessly enrich their detection and response workflows with normalized intelligence from third party threat intelligence sources as well as from their internal, historical intelligence sources.",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.splunk.com/en_us/about-splunk/acquisitions/trustar.html?301=/en_us/investor-relations/acquisitions/trustar.html",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Tilda",
+    "company_url": "https://www.tilda.bio/",
+    "description": "Tilda Research deploys AI Teammates that perform the operational work of clinical trials with unprecedented precision and speed that a human-only team cannot match.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.tilda.bio/",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Tekion",
+    "company_url": "https://tekion.com/",
+    "description": "Tekion's AI-native platform unifies every part of the automotive retail business—DMS, CRM, Digital Retail, Service, and more.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://tekion.com/",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Talview",
+    "company_url": "https://www.talview.com/",
+    "description": "Experience advanced AI solutions for secure proctoring and interviewing, ensuring integrity and eliminating fraud in assessments and hiring processes. Transform your candidate evaluation today.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://www.talview.com/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Swiftstack",
+    "company_url": "https://www.nvidia.com/en-us/data-center/swiftstack/",
+    "description": "NVIDIA has acquired Swiftstack. The SwiftStack data platform manages data at scale across private data centers and public clouds.",
+    "status": "Exit",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.nvidia.com/en-us/data-center/swiftstack/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Talkdesk",
+    "company_url": "https://www.talkdesk.com/",
+    "description": "Talkdesk is the leader in Customer Experience Automation (CXA), using AI and real-time data to automate customer journeys, reduce costs, and improve outcomes.",
+    "status": "Active",
+    "sector": "IT",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.talkdesk.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Syte",
+    "company_url": "https://www.syte.ai/",
+    "description": "Syte's product discovery platform—powered by visual AI—includes visual and text search, personalization, automated product tagging, and more.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.syte.ai/",
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "SucceedSmart",
+    "company_url": "https://succeedsmart.com/",
+    "description": "AI-led Executive Search",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://succeedsmart.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Specter",
+    "company_url": "https://www.specter.co.kr/",
+    "description": "인재검증의 완성, 스펙터",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.specter.co.kr/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Splashtop",
+    "company_url": "https://www.splashtop.com/",
+    "description": "Fast and secure solutions for remote work, remote support, remote learning & more at the best value. Splashtop remote access is #1 in user satisfaction.",
+    "status": "Active",
+    "sector": "IT",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.splashtop.com/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "SourceClear",
+    "company_url": "https://app.sourceclear.io/login",
+    "description": "Open Source Security",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://app.sourceclear.io/login",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Solaris",
+    "company_url": "https://www.solarisgroup.com/en/",
+    "description": "Solaris is Europe's largest embedded finance platform → Seamlessly integrate digital banking and payment services directly into your product offering via API.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.solarisgroup.com/en/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Sendoso",
+    "company_url": "https://sendoso.com/",
+    "description": "Automate personalized gifting campaigns to drive revenue. Sendoso's AI-Enhanced Gifting and Direct Mail Automation Platform is data-backed by 100k+ users and 10's of millions of gifts sent.",
+    "status": "Active",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://sendoso.com/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Silego",
+    "company_url": "https://www.renesas.com/us/en",
+    "description": "Semiconductor Generators",
+    "status": "Exit",
+    "sector": "Other",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.renesas.com/us/en",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Signalwire",
+    "company_url": "https://signalwire.com/",
+    "description": "Build AI voice agents, contact centers, and unified communications on one programmable platform. One control plane, no vendor stitching.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://signalwire.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Seraphic Security",
+    "company_url": "https://seraphicsecurity.com/company/",
+    "description": "Seraphic secures the enterprise browser from inside. Any browser! any version! This enables your employees to keep their browsers unchanged!",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://seraphicsecurity.com/company/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "SandForce",
+    "company_url": "https://www.seagate.com/",
+    "description": "Seagate is a leader in mass-capacity data storage. Weâve delivered more than four billion terabytes of capacity over the past four decades. We make storage that scales, bringing trust and integrity to innovations that depend on data. In an era of unprecedented creation, Seagate stores infinite potential.",
+    "status": "Exit",
+    "sector": "Other",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.seagate.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Salesloft",
+    "company_url": "https://www.salesloft.com/",
+    "description": "Salesloft's Predictive Revenue System connects revenue data with AI to create, convert, close, and retain more business. Click here to learn more.",
+    "status": "Exit",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.salesloft.com/",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Risesmart",
+    "company_url": "https://www.randstadrisesmart.com/",
+    "description": "People are the heart of your business, and Randstad Enterprise helps you put them first across the talent life cycle. Learn about our talent advisory, talent acquisition, talent development and talent transition services.",
+    "status": "Exit",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.randstadrisesmart.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "RedLock",
+    "company_url": "https://www.paloaltonetworks.com/",
+    "description": "Implement Zero Trust, Secure your Network, Cloud workloads, Hybrid Workforce, Leverage Threat Intelligence & Security Consulting. Cybersecurity Services & Education for CISO’s, Head of Infrastructure, Network Security Engineers, Cloud Architects & SOC Managers",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.paloaltonetworks.com/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Qualio",
+    "company_url": "https://www.qualio.com/",
+    "description": "AI agents that monitor regulations, execute quality workflows, and replace manual compliance labor. Trusted by 500+ life sciences companies.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.qualio.com/",
+    "everywhere_tags": [
+      "BioTech",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Randstad",
+    "company_url": "https://www.randstad.com/",
+    "description": "Randstad is the global leader in the HR services industry. By combining our passion for people with the power of todayâs intelligent machines, we support people and organizations in realizing their true potential. Learn more about our company.",
+    "status": "Exit",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.randstad.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Rallyteam",
+    "company_url": "https://www.workday.com/",
+    "description": "Experience a new way to work with Sana and agentic AI from Workday.",
+    "status": "Exit",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.workday.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Rainforest",
+    "company_url": "https://www.rainforestqa.com/",
+    "description": "Automate e2e tests without the time-consuming drudgery of test maintenance. Now with self-healing AI. Learn more about our QA platform today.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.rainforestqa.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Praisidio",
+    "company_url": "https://www.praisidio.com/",
+    "description": "Automate HR workflows and unlock tens of thousands of reports, dashboards, and org charts on ADP, UKG, iCIMS and more. Rated 4.9/5 on G2.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.praisidio.com/",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Pipedrive",
+    "company_url": "https://www.pipedrive.com/",
+    "description": "Pipedrive is the easy-to-use, #1 user-rated CRM tool. Get more qualified leads and grow your business with our sales CRM. Sign up for a 14-day free trial.",
+    "status": "Exit",
+    "sector": "Sales",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.pipedrive.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "NextRequest",
+    "company_url": "https://www.civicplus.com/foia-request-management/",
+    "description": "Streamline public records request management, responses, and communication with public records software for public agencies.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.civicplus.com/foia-request-management/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Passage AI",
+    "company_url": "https://www.servicenow.com/company/media/press-room/servicenow-to-acquire-passage-ai.html",
+    "description": "Conversational Platform",
+    "status": "Exit",
+    "sector": "Engineering",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.servicenow.com/company/media/press-room/servicenow-to-acquire-passage-ai.html",
+    "everywhere_tags": [],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Optimere",
+    "company_url": "https://www.civicplus.com/news/nn/civicplus-acquires-optimere/",
+    "description": "CivicPlus will add to its portfolio Optimere’s social media archiving, accessibility and quality assurance, and open records request technologies",
+    "status": "Exit",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.civicplus.com/news/nn/civicplus-acquires-optimere/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Opaque",
+    "company_url": "https://opaque.co/",
+    "description": "OPAQUE brings privacy-first AI to life. Run confidential agentic RAG, enforce AI guardrails, and protect data with confidential computing. Get started in minutes.",
+    "status": "Active",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://opaque.co/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Onclusive",
+    "company_url": "https://onclusive.com/",
+    "description": "Onclusive partners with PR and comms teams to monitor & analyse media coverage across news channels and social media to increase performance & demonstrate value.",
+    "status": "Active",
+    "sector": "Marketing",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://onclusive.com/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Nexla",
+    "company_url": "https://www.nexla.com/",
+    "description": "Nexla gives AI apps and agents the connectivity, context, and governance to operate across 1000+ enterprise systems in real time.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.nexla.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "MyAlly",
+    "company_url": "https://www.myally.ai/",
+    "description": "AI Recruiting",
+    "status": "Exit",
+    "sector": "HR/Workforce",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://www.myally.ai/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Motivo",
+    "company_url": "https://motivo.ai/",
+    "description": "Do you share a passion fortechnology innovation,entrepreneurshipandteamwork?Motivo, Inc. is growing in many different areas and your talent could become part of oursuccess story.  Check out ourcareerspage or contact us directly",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://motivo.ai/",
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Modo Labs",
+    "company_url": "https://modolabs.com/",
+    "description": "Modo unifies digital life across campus and workplace—on mobile or desktop—with the leading campus experience app and workplace experience app. Powered by Al, Modo reduces complexity and clears the way for more meaningful work, study, and connection.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://modolabs.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Mobileiron",
+    "company_url": "https://www.ivanti.com/company/history/mobileiron?miredirect",
+    "description": "MobileIron was a mobile-centric, zero trust platform built on a unified endpoint management (UEM) foundation.",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.ivanti.com/company/history/mobileiron?miredirect",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Metacloud",
+    "company_url": "https://www.cisco.com/",
+    "description": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.",
+    "status": "Exit",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.cisco.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Logikcull",
+    "company_url": "https://www.logikcull.com/",
+    "description": "Logikcull is a cloud-based eDiscovery solution trusted by hundreds of legal teams to automate discovery and legal holds for disputes, subpoenas, investigations, and more.",
+    "status": "Exit",
+    "sector": "Gov/Legal Tech",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.logikcull.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Marketo",
+    "company_url": "https://business.adobe.com/products/marketo/adobe-marketo.html",
+    "description": "Automate campaigns, generate leads, and personalize B2B journeys with marketing automation tools that help drive pipeline and revenue on Adobe Marketo Engage.",
+    "status": "Exit",
+    "sector": "Marketing",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://business.adobe.com/products/marketo/adobe-marketo.html",
+    "everywhere_tags": [],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "LogicHub",
+    "company_url": "https://www.devo.com/platform/intelligent-siem/",
+    "description": "Transform and elevate your security operations by harnessing the combined power of SOAR, UEBA, and AI with Devo Intelligent SIEM.",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://www.devo.com/platform/intelligent-siem/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Limbix",
+    "company_url": "https://www.limbix.com/",
+    "description": "Proven digital treatments and programs that deliver effective, accessible care for the most common mental health conditions. Get started today.",
+    "status": "Exit",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.limbix.com/",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Krisp",
+    "company_url": "https://krisp.ai/",
+    "description": "Clear calls, smarter meetings—powered by #1 noise cancellation. Krisp brings Voice AI with an AI Note Taker, Accent AI, and Call Center AI.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://krisp.ai/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Lexigram",
+    "company_url": "https://www.lexigram.io/",
+    "description": "Lexigram makes healthcare knowledge and data extraction APIs for software engineers and data scientists.",
+    "status": "Exit",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.lexigram.io/",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "InEvent",
+    "company_url": "https://inevent.com/",
+    "description": "All-in-One Event Management Solution for Virtual, Hybrid & In-Person Events. Fully customize all your events with InEvent.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://inevent.com/",
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Invoke.ai",
+    "company_url": "https://invoke.ai/",
+    "description": "A leading creative engine built to empower professionals and enthusiasts alike.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://invoke.ai/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Interactio",
+    "company_url": "https://www.interactio.io/",
+    "description": "Interactio is a leading multilingual meeting platform. Remote simultaneous interpretation, Cloud Room conferencing, and seamless integrations for global communication.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.interactio.io/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Haegin",
+    "company_url": "https://www.haegin.kr/",
+    "description": "해긴, 삼성전자와 협업해 ‘새로운 갤럭시 Z 시리즈’ 와 함께하는 ‘2026 프로야구GO!’ 스페셜 테마를 선보인다",
+    "status": "Active",
+    "sector": "Other",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.haegin.kr/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "HST",
+    "company_url": "https://www.hstpowers.com/",
+    "description": "View Develop Marketplace accelerates another solar + BESS project with easier, faster site selection.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.hstpowers.com/",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Honeycomb",
+    "company_url": "https://www.honeycomb.io/",
+    "description": "Honeycomb is the observability platform built for AI-era software. Fast queries, unified telemetry, and LLM observability. Used by Slack, Intercom, and Dropbox.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.honeycomb.io/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Guidespark",
+    "company_url": "https://www.guidespark.com/",
+    "description": "HR Training",
+    "status": "Exit",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.guidespark.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "German Bionic",
+    "company_url": "https://germanbionic.com/en/",
+    "description": "Smart AI exoskeletons that reduce back strain, improve ergonomics, and enhance safety & productivity in logistics and healthcare â developed by German Bionic.",
+    "status": "Active",
+    "sector": "Robotics as a Service",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://germanbionic.com/en/",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Gather",
+    "company_url": "https://tripleseat.com/",
+    "description": "Tripleseat event management software streamlines bookings for restaurants, hotels, and event venues, offering powerful hospitality software to tackle industry challenges.",
+    "status": "Exit",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://tripleseat.com/",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "EchoSign",
+    "company_url": "https://acrobat.adobe.com/link/home/",
+    "description": "E-Sign Solution",
+    "status": "Exit",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://acrobat.adobe.com/link/home/",
+    "everywhere_tags": [],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Digital Shadows",
+    "company_url": "https://www.reliaquest.com/platform/digital-risk-protection/",
+    "description": "GreyMatter DRP identifies threats in real time across the open, deep, and dark web, then arms your team to respond in minutes with our Agentic AI SecOps Platform, GreyMatter.",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.reliaquest.com/platform/digital-risk-protection/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Demandbase",
+    "company_url": "https://www.demandbase.com/",
+    "description": "Elevate your B2B go-to-market strategy with Demandbase's ABM platform, delivering smarter insights, agent-led automation, and AI-powered pipeline.",
+    "status": "Active",
+    "sector": "Marketing",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.demandbase.com/",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Dasera",
+    "company_url": "https://www.dasera.com/",
+    "description": "Data Governance",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.dasera.com/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Copper",
+    "company_url": "https://www.copper.com/",
+    "description": "Win clients for life with Copper CRM software solutions. Give us a try and see how we can help your business build stronger customer relationships.",
+    "status": "Active",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.copper.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Com2Us",
+    "company_url": "https://www.com2us.com/",
+    "description": "안녕하세요. 컴투스입니다.항상 컴투스를 사랑해 주시는 이용자 여러분께 감사드리며,컴투스 개인정보 처리 방침이개정되어 안내드립니다.개정되는 내용에 대해서 아래와 같이 안내드리며,원활한 서비스 이용을 위하여 잠시 시간을 내시어 확인을 부탁드리겠습니다.",
+    "status": "Exit",
+    "sector": "Other",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.com2us.com/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Compa",
+    "company_url": "https://www.trycompa.com/",
+    "description": "Built to think like a comp expert—trained on your strategy and powered by Compa’s market data to guide every pay decision.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.trycompa.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Cobalt",
+    "company_url": "https://www.cobaltrobotics.com/",
+    "description": "Modernize physical security with Security Automation. Cobalt AI enables real-time detection and automated workflows across your current security environment.",
+    "status": "Active",
+    "sector": "Robotics as a Service",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.cobaltrobotics.com/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work",
+      "PropTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Circula",
+    "company_url": "https://www.circula.com/en",
+    "description": "FinTech",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.circula.com/en",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Classum",
+    "company_url": "https://www.classum.com/en/home/",
+    "description": "ì°¸ì¬ë ëì êµì¡ì ë¬¼ë¡  ì§ìê³¼ ë¸íì° ê³µì ê¹ì§ ìíµ ì¤ì¬ì ì±ì¥ íë«í¼ í´ë¼ì¸ìì ì¨Â·ì¤íë¼ì¸ êµì¡ì ë§¤ëë½ê² ëëë¤ë©° íë°íê² ìíµíì¸ì.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.classum.com/en/home/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Clearskye",
+    "company_url": "https://clearskye.com/",
+    "description": "Clear Skye is an identity governance and administration solution built natively on the ServiceNow platform.",
+    "status": "Active",
+    "sector": "IT",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://clearskye.com/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Cellfire",
+    "company_url": "https://www.catalina.com/",
+    "description": "Catalina's open ecosystem of solutions helps retailers, CPG brands, and agencies turn shoppers into buyers and buyers into fans.",
+    "status": "Exit",
+    "sector": "Marketing",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.catalina.com/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Blueshift",
+    "company_url": "https://blueshift.com/",
+    "description": "The AI-powered alternative to Braze and Iterable. Blueshift gives mid-market B2C teams unified customer data, cross-channel automation, and predictive AI - in one platform.",
+    "status": "Active",
+    "sector": "Marketing",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://blueshift.com/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Camino",
+    "company_url": "https://www.camino.ai/",
+    "description": "Building permitting and licensing software designed to be user-friendly. Made for government agencies in North America.",
+    "status": "Exit",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.camino.ai/",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Bridgit",
+    "company_url": "https://gobridgit.com/",
+    "description": "Bridgit is a leading provider of construction resource management software, helping construction teams optimize workforce planning and project delivery.",
+    "status": "Active",
+    "sector": "Vertical SaaS",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://gobridgit.com/",
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain",
+      "PropTech"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Avanoo",
+    "company_url": "https://www.linkedin.com/company/avanoo/",
+    "description": "Avanoo | 2,073 followers on LinkedIn. Storytelling + AI to enable your employees to transform your organization&#39;s culture and boost engagement &amp; performance. | Avanoo&#39;s vision is embedded in our name: Ava in Finnish means “open” and Noo in Old English means “now.” We exist to help people, teams, and organizations open to our greatest potential... right now.\n\nOur AI-driven technology enables your employees to share their stories in ways that transform your organization’s culture and boost engagement and performance.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.linkedin.com/company/avanoo/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Blind",
+    "company_url": "https://www.teamblind.com/",
+    "description": "Blind - Join a vibrant community where professionals discuss careers and workplace dynamics. Get career advice, join debates, and connect with peers.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.teamblind.com/",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Avoma",
+    "company_url": "https://www.avoma.com/",
+    "description": "Accelerate your growth with Avoma’s all-in-one AI platform: Automate note-taking, scheduling, call coaching, CRM updates, and more. Pay only for what you need.",
+    "status": "Active",
+    "sector": "Sales",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.avoma.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Berkana",
+    "company_url": "https://www.qualcomm.com/",
+    "description": "Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity.",
+    "status": "Exit",
+    "sector": "Other",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.qualcomm.com/",
+    "everywhere_tags": [],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Aviso",
+    "company_url": "https://www.aviso.com/",
+    "description": "Aviso AI is the #1 end-to-end AI revenue platform â agentic AI, forecasting, conversational intelligence, and unified RevOps in one platform.",
+    "status": "Active",
+    "sector": "Sales",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://www.aviso.com/",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Atomicwork",
+    "company_url": "https://www.atomicwork.com/",
+    "description": "Atomicwork is the AI Workforce platform for IT — agentic ITSM & ESM that lets enterprises deploy, govern, and scale AI Coworkers alongside their people.",
+    "status": "Active",
+    "sector": "HR/Workforce",
+    "region": "India",
+    "founders": [],
+    "profile_url": "https://www.atomicwork.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "4me",
+    "company_url": "https://www.4me.com/",
+    "description": "AI-powered service and operations management, built for the modern enterprise. Xurrent unifies ITSM, ESM, and ITOM in one seamless platform—automating workflows, breaking down silos, and driving real business impact.",
+    "status": "Active",
+    "sector": "IT",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.4me.com/",
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility",
+      "PropTech"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "AtScale",
+    "company_url": "https://www.atscale.com/",
+    "description": "Discover how AtScale's semantic layer solution can you help make smarter data-driven decisions at scale and build a self-service data-driven culture.",
+    "status": "Active",
+    "sector": "Data Infrastructure",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.atscale.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Aptrinsic",
+    "company_url": "https://www.gainsight.com/",
+    "description": "Gainsight's Customer Success and Prod",
+    "status": "Exit",
+    "sector": "HR/Workforce",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.gainsight.com/",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Algolia",
+    "company_url": "https://www.algolia.com/",
+    "description": "18,000+ organizations trust Algolia to build intuitive, adaptive, high-performing experiences with a unified AI search & retrieval platform spanning agentic, generative, and search.",
+    "status": "Active",
+    "sector": "Engineering",
+    "region": "Europe",
+    "founders": [],
+    "profile_url": "https://www.algolia.com/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Airgap",
+    "company_url": "https://airgap.io/",
+    "description": "With Zscaler, achieve zero trust OT/IoT segmentation to eliminate lateral movement, secure factories, and reduce attack surfaces—no agents, outages, or VLAN readdressing.",
+    "status": "Exit",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://airgap.io/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Airespace",
+    "company_url": "https://www.cisco.com/site/us/en/index.html",
+    "description": "Cisco is a worldwide technology leader powering an inclusive future for all. Learn more about our products, services, solutions, and innovations.",
+    "status": "Exit",
+    "sector": "IT",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://www.cisco.com/site/us/en/index.html",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "Airbridge180",
+    "company_url": "https://www.ab180.co/en/solutions/airbridge",
+    "description": "Marketing Tech Solutions",
+    "status": "Active",
+    "sector": "Marketing",
+    "region": "South Korea",
+    "founders": [],
+    "profile_url": "https://www.ab180.co/en/solutions/airbridge",
+    "everywhere_tags": [],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  },
+  {
+    "company_name": "AirMDR",
+    "company_url": "https://airmdr.com/",
+    "description": "AirMDR provides a new approach to managed detection & response with an AI powered virtual security analyst. AI-powered 24/7 SOC Monitoring. 100% Coverage, high quality triage, 95% case investigation under 5 minutes.",
+    "status": "Active",
+    "sector": "Security",
+    "region": "North America",
+    "founders": [],
+    "profile_url": "https://airmdr.com/",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://stormventures.com/our-portfolio",
+    "scraped_at": "2026-08-01T07:06:43+00:00"
+  }
+]

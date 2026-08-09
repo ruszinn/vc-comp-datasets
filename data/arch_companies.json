@@ -1,0 +1,2073 @@
+[
+  {
+    "company_name": "908 Devices",
+    "description": "Point-of-need chemical and biomolecular analysis devices",
+    "company_url": "http://www.908devices.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/908.gif",
+    "location": "Boston, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: MASS",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Accompany Health",
+    "description": "Correcting disparities in home health care for marginalized communities.",
+    "company_url": "http://www.accompanyhealth.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/accompany-health.png",
+    "location": "Bethesda, MD",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Aera Therapeutics",
+    "description": "Protein nanoparticle delivery platform to deliver genetic payloads into multiple organs for better response and fewer reactions.",
+    "company_url": "http://www.aeratx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/aera-tx.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Agios Pharmaceuticals",
+    "description": "Gene-targeted cancer therapeutics",
+    "company_url": "http://www.agios.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/agios-1.png",
+    "location": "Cambridge, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: AGIO",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "AIRNA",
+    "description": "RNA editing technology harnessing endogenous enzymes to prevent off-target edits.",
+    "company_url": null,
+    "logo_url": null,
+    "location": null,
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Akamis Bio",
+    "description": "Systemic immune oncology therapies",
+    "company_url": "http://www.akamisbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/akamis-bio.png",
+    "location": "Abingdon, UK",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Aledade",
+    "description": "Accountable care organizations",
+    "company_url": "http://www.aledade.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/aledade.gif",
+    "location": "Bethesda, MD",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Alnylam Pharmaceuticals",
+    "description": "RNAi therapeutics",
+    "company_url": "http://www.alnylam.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/12/2-alnylam.png",
+    "location": "Cambridge, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: ALNY",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Altos Labs",
+    "description": "Cellular resilience and rejuvenation",
+    "company_url": "http://www.altoslabs.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/altos.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Arbor Biotechnologies",
+    "description": "Protein Discovery Platform for Therapeutics",
+    "company_url": "http://www.arbor.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/02/arbor-biotech.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Areteia Therapeutics",
+    "description": "The first oral drug to treat eosinophilic asthma.",
+    "company_url": "http://www.areteiatx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/areteia-tx.png",
+    "location": "CHAPEL HILL, NC",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Arsenal Biosciences",
+    "description": "Programmable cell cancer therapies",
+    "company_url": "http://www.arsenalbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/11/arsenalbio.png",
+    "location": "South San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Aspen Neuroscience",
+    "description": "Regenerative medicine focused on Parkinson’s Disease",
+    "company_url": "http://www.aspenneuroscience.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/aspen-neuro.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Autobahn Therapeutics",
+    "description": "Thyromimetics drug discovery",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/autobahntx.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Basking Biosciences",
+    "description": "Reversible thrombolytic therapy for acute ischemic stroke",
+    "company_url": "http://www.baskingbiosciences.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/03/baskingbio.png",
+    "location": "Columbus, OH",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "BE Biopharma",
+    "description": "New class of engineered B cell medicines.",
+    "company_url": "http://www.be.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/be-bio.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Beam Therapeutics",
+    "description": "CRISPR base-editing platform",
+    "company_url": "http://www.beamtx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/beam.gif",
+    "location": "Cambridge, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: BEAM",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Bit Bio",
+    "description": "Precise reprogramming of stem cells into any desired cell type",
+    "company_url": "https://bit.bio/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/12/bit-bio.png",
+    "location": "Cambridge, UK",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Bitterroot Bio",
+    "description": "Cardiovascular disease therapies",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/bitterroot-bio.png",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Boundless Bio",
+    "description": "Therapeutics based on ecDNA discoveries",
+    "company_url": "https://boundlessbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/boundless-biored-1.png",
+    "location": "San Diego, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: BOLD",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Brii Biosciences",
+    "description": "Transforming China's public health",
+    "company_url": "http://www.briibio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/brii.gif",
+    "location": "Shanghai, China & San Francisco, CA",
+    "status": "Public",
+    "ticker_symbol": "HKEX: 2137",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Carrick Therapeutics",
+    "description": "Cancer therapeutics",
+    "company_url": "http://www.carricktherapeutics.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/16-carrick.png",
+    "location": "Boston, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "City Therapeutics",
+    "description": "Next generation siRNA medicines",
+    "company_url": "http://www.citytx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/11/citytherapeutics.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "CStone Pharmaceuticals",
+    "description": "China-based cancer therapeutics",
+    "company_url": "http://www.cstonepharma.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/cstone.gif",
+    "location": "Suzhou, China",
+    "status": "Public",
+    "ticker_symbol": "HKEX: 2616",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Curie Bio",
+    "description": "Helping biotech company founders launch successful therapeutics firms",
+    "company_url": "http://www.curie.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/curie-bio.png",
+    "location": "Boston, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Cytrellis Biosystems",
+    "description": "Aesthetic medicine",
+    "company_url": "http://www.cytrellis.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/cytrellis-bio.png",
+    "location": "Woburn, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Denali Therapeutics",
+    "description": "Neurodegenerative therapeutics",
+    "company_url": "http://www.denalitherapeutics.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/denali_v2.png",
+    "location": "San Francisco, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: DNLI",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Dewpoint Therapeutics",
+    "description": "Translating biomolecular condensate into therapeutics",
+    "company_url": "https://dewpointx.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/12/dewpoint-tx.png",
+    "location": "Boston, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Dispatch Biotherapeutics",
+    "description": "Immunotherapies to reimagine cancer therapy",
+    "company_url": "http://www.dispatchbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/dispatch-bio.png",
+    "location": "Philadelphia, PA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "eGenesis",
+    "description": "Gene-editing for organ transplantation",
+    "company_url": "http://www.egenesis.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/egenesis-logo.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Elephas Biosciences",
+    "description": "Cancer diagnostics to accurately predict clinical outcomes and accelerate drug development",
+    "company_url": "http://www.elephas.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/elephas-bio.png",
+    "location": "Madison, WI",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Encoded Therapeutics",
+    "description": "Precision gene therapies",
+    "company_url": "http://www.encoded.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/06/encodedlogo_cmyk_full.jpg",
+    "location": "South San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Encodia",
+    "description": "Protein Analysis Platform",
+    "company_url": "http://www.encodia.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/02/encodia.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Enumerix",
+    "description": "Precision DNA counting platform",
+    "company_url": "http://www.enumerix.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/enumerix.png",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "EQRx",
+    "description": "Re-engineering drug development and pricing models",
+    "company_url": "http://www.eqrx.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/02/eqrx_fulllogo-3x.png",
+    "location": "Cambridge, MA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: EQRX",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Erasca",
+    "description": "Erasing cancer with AI drug discovery platform",
+    "company_url": "http://www.erasca.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/erasca.png",
+    "location": "San Diego, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: ERAS",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Faraday Pharmaceuticals",
+    "description": "Ischemic trauma therapies",
+    "company_url": "http://www.faradaypharma.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/faraday.gif",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Gate Bioscience",
+    "description": "Small molecule drugs against disease-causing proteins",
+    "company_url": "http://www.gatebio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/gate_bio.png",
+    "location": "Brisbane, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Generate Biomedicines",
+    "description": "Multi-disciplinary platform for developing protein therapeutics",
+    "company_url": "http://www.generatebiomedicines.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/generatebio.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Gossamer Bio",
+    "description": "Therapeutics in immunology, inflammation, and oncology",
+    "company_url": "http://www.gossamerbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/gossamer.gif",
+    "location": "San Diego, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: GOSS",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Grail",
+    "description": "Detect cancer early, when it can be cured.",
+    "company_url": "http://www.grailbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/grail-2.png",
+    "location": "Menlo Park, CA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "hC Bioscience",
+    "description": "tRNA-based therapeutics for cancer and rare disease",
+    "company_url": "http://www.hcbioscience.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/hc_bio.png",
+    "location": "Boston, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "HiberCell",
+    "description": "Therapeutics to prevent cancer relapse and metastasis",
+    "company_url": "http://www.hibercell.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/hibercell.png",
+    "location": "New York, NY",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Homeward Health",
+    "description": "Delivering healthcare to rural communities using a hybrid model of virtual and in-person services",
+    "company_url": "http://www.homewardhealth.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/homeward-health.png",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Hua Medicine",
+    "description": "Asia-based pharmaceutical development",
+    "company_url": "http://www.huamedicine.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/24-hua-medicine.png",
+    "location": "Shanghai, China",
+    "status": "Public",
+    "ticker_symbol": "HKEX: 2552",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Human Immunology Biosciences",
+    "description": "Precision immunology therapies",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/human-immunology-bio.png",
+    "location": "San Francisco, CA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Illumina",
+    "description": "Diagnostics screening platform",
+    "company_url": "http://www.illumina.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/illumina-logo-2.png",
+    "location": "Santa Clara, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: ILMN",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Inograft Biotherapeutics",
+    "description": "Organ and stem cell transplant immune suppression therapies",
+    "company_url": null,
+    "logo_url": null,
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Insitro",
+    "description": "Machine learning for drug discovery",
+    "company_url": "http://www.insitro.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/insitro.png",
+    "location": "South San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Jaguar Gene Therapy",
+    "description": "Gene therapies for severe genetic diseases",
+    "company_url": "http://www.jaguargenetherapy.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/jaguar.png",
+    "location": "Lake Forest, IL",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Juno Therapeutics",
+    "description": "Cancer immunotherapies",
+    "company_url": "http://www.junotherapeutics.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/juno.png",
+    "location": "Seattle, WA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: JUNO",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "JUST Biotherapeutics",
+    "description": "Therapeutics development & manufacturing",
+    "company_url": "http://www.justbiotherapeutics.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/just.gif",
+    "location": "Seattle, WA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "JW Therapeutics",
+    "description": "China-based cancer therapeutics",
+    "company_url": "http://www.jwtherapeutics.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/jw.gif",
+    "location": "Shanghai, China",
+    "status": "Public",
+    "ticker_symbol": "HKEX: 2126",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Kardigan",
+    "description": "Curative therapies for cardiovascular disease",
+    "company_url": "http://www.kardigan.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2025/04/kardigan.jpg",
+    "location": "South San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Karuna Therapeutics",
+    "description": "Therapeutics for cognitive impairment",
+    "company_url": "http://www.karunatx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/screen-shot-2019-08-20-at-10.09.06-am.png",
+    "location": "Boston, MA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: KRTX",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "KSQ Therapeutics",
+    "description": "Matching Genomic Function to Diseases",
+    "company_url": "http://www.ksqtx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/02/ksq.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Kura Oncology",
+    "description": "Cancer therapeutics",
+    "company_url": "http://www.kuraoncology.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/kura.gif",
+    "location": "San Diego, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: KURA",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Kythera Biopharmaceuticals",
+    "description": "Aesthetic medicine",
+    "company_url": "http://www.allergan.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/kythera-sm.png",
+    "location": "Parsippany, NJ & CA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: KYTH",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "LifeMine Therapeutics",
+    "description": "Biosynthetic therapeutics",
+    "company_url": "http://www.lifeminetx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/02/life-mine.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Lifordi Immunotherapeutics",
+    "description": "Leveraging anti-drug conjugates to develop treatments for autoimmune and inflammatory disorders",
+    "company_url": "http://www.lifordi.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/01/lifordi-logo-1016.png",
+    "location": "Boston, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Lightcast Discovery",
+    "description": "Microfluidic platform for complex and single cell analysis",
+    "company_url": "http://www.lightcastd.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/lightcast.png",
+    "location": "Cambridge, UK",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Lilac Therapeutics",
+    "description": "Small molecule therapies to treat kidney stones",
+    "company_url": null,
+    "logo_url": null,
+    "location": "Richmond, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Lyell Immunopharma",
+    "description": "Curative cell-based immunotherapeutics for cancer",
+    "company_url": "http://www.lyellbiotech.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/lyell-immunopharma.png",
+    "location": "San Francisco, CA & Seattle, WA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: LYEL",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Magnet Biomedicine",
+    "description": "Discovery platform for molecular glues that exhibit therapeutic activity",
+    "company_url": "http://www.magnetbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/magnet-bio.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Matter Neuroscience",
+    "description": "App pairing personal experience and neuroscience to build better lives",
+    "company_url": "http://www.matter.xyz",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/matter-neuro.png",
+    "location": null,
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Maze Therapeutics",
+    "description": "Targeting genetic modifiers that can protect against disease",
+    "company_url": "http://www.mazetx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/maze.png",
+    "location": "San Francisco, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: MAZE",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Metsera",
+    "description": "Metabolic disease therapeutics",
+    "company_url": "http://www.metsera.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/metsera.png",
+    "location": "Boston, MA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: MTSR",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Mirador Therapeutics",
+    "description": "Precision medicines for immunology and inflammation",
+    "company_url": "http://www.miradortx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/mirador.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Moleculent AB",
+    "description": "Cell-cell communication profiling platform",
+    "company_url": "http://www.moleculent.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/11/moleculent.png",
+    "location": "Stockholm, Sweden",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Moonwalk Biosciences",
+    "description": "Precision epigenetic editing",
+    "company_url": "http://www.moonwalk.bio/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/03/moonwalkbio.png",
+    "location": "SOUTH SAN FRANCISCO, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Mozart Therapeutics",
+    "description": "Autoimmune disease therapeutics",
+    "company_url": "http://www.mozart-tx.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/12/mozarttx.png",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Myeloid Therapeutics",
+    "description": "Novel mRNA-immunotherapies to treat cancer",
+    "company_url": "http://www.myeloidtx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/myeloid-tx.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "National Resilience",
+    "description": "Re-engineering drug manufacturing in the U.S. and abroad",
+    "company_url": "https://resilience.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/12/resilience-scaled.jpeg",
+    "location": "La Jolla, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "nChroma Bio",
+    "description": "In vivo delivery methods for genetic medicines",
+    "company_url": "http://www.nchromabio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2025/04/nchroma_bio.jpg",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Neumora Therapeutics",
+    "description": "Precision medicines for brain diseases and disorders.",
+    "company_url": "http://www.neumoratx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/04/neumora.gif",
+    "location": "Watertown, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: NMRA",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Nutcracker Therapeutics",
+    "description": "RNA immunotherapies manufacturing platform",
+    "company_url": "http://www.nutcrackerx.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/12/nutcracker-scaled.jpg",
+    "location": "Emeryville, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Omniome",
+    "description": "SBB DNA sequencing platform",
+    "company_url": "http://www.omniome.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2018/11/omniome.gif",
+    "location": "San Diego, CA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "OneBioMed",
+    "description": "Instruments for nucleic acid purification/isolation",
+    "company_url": "http://www.onebiomed.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/12/onebiomed-e1607566658539.png",
+    "location": "Singapore, SG",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "ONI",
+    "description": "Desktop super-resolution microscopy",
+    "company_url": "http://www.ONI.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/oni.png",
+    "location": "Oxford, UK",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Orbital Therapeutics",
+    "description": "Platform at the intersection of RNA technology, delivery methods, data science and automation",
+    "company_url": "https://orbitaltx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/08/orbital-tx-logo.png",
+    "location": "Cambridge, MA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Parabilis Medicines",
+    "description": "New class of drugs aimed at achieving universal druggability for even the most difficult targets",
+    "company_url": "http://www.parabilismed.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/11/parabilismedicines.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Paradigm Health",
+    "description": "Reimagining the clinical trial ecosystem to provide equitable access for all patients",
+    "company_url": "http://www.paradigm.inc",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2025/04/paradigm_health.jpg",
+    "location": "New York, NY",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Paratus Sciences",
+    "description": "Platform to study bat biology and genomics",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/paratus.png",
+    "location": "New York, NY",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Pheast Therapeutics",
+    "description": "Immuno-oncology therapies for difficult-to-treat and resistant cancers",
+    "company_url": "http://www.pheast.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/pheast.png",
+    "location": "Palo Alto, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Pretzel Therapeutics",
+    "description": "Therapeutics for mitochondrial diseases",
+    "company_url": "http://www.pretzeltx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/pretzel-tx.png",
+    "location": "Waltham, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Prime Medicine",
+    "description": "Advanced CRISPR gene editing technology",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/primemed.png",
+    "location": "Cambridge, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: PRME",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Protillion Biosciences",
+    "description": "Rapid platform for antibody discovery and optimization",
+    "company_url": "http://www.protillion.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/protillion-bio.png",
+    "location": "Burlingame, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Qihan Biotech",
+    "description": "Next generation cells and organs that can evade immune attacks",
+    "company_url": "http://www.qihanbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/qihan-bio.png",
+    "location": "Hangzhou, China",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Quanterix",
+    "description": "Digital diagnostics for molecular detection",
+    "company_url": "http://www.quanterix.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/26-quanterix.png",
+    "location": "Lexington, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: QTRX",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Quantum Circuits",
+    "description": "Developing the first practical quantum computers",
+    "company_url": "https://www.quantumcircuits.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/qci.png",
+    "location": "New Haven, CT",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Rapport Therapeutics",
+    "description": "Precision medicines for neurological disorders.",
+    "company_url": "http://www.rapportrx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/rapport-tx.png",
+    "location": "Boston, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: RAPP",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Reactive Biosciences",
+    "description": "Medicines harnessing the unique properties of boron",
+    "company_url": "http://www.boragenbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/reactive-bio.png",
+    "location": "Durham, NC",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Receptos",
+    "description": "Targeted drug discovery platform",
+    "company_url": "http://www.receptos.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/receptos.png",
+    "location": "Summit, NJ & CA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: RCPT",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Recuro Health",
+    "description": "Digital health platform",
+    "company_url": "http://www.recurohealth.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/recuro.png",
+    "location": "Dallas, TX",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Remix Therapeutics",
+    "description": "Therapeutics to reprogram RNA processing",
+    "company_url": "http://www.remixtx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/remixtx_primary_rgb.jpg",
+    "location": "Watertown, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "RhyGaze AG",
+    "description": "Cone optogenetics for vision restoration",
+    "company_url": "http://www.rhygaze.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2025/04/rhygaze.jpg",
+    "location": "Basel, Switzerland",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "RIPPL Care",
+    "description": "Mental healthcare for seniors with dementia and neurocognitive conditions",
+    "company_url": "http://www.ripplcare.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/rippl.png",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "ROME Therapeutics",
+    "description": "Harnessing the power of the repeatome to develop a new class of therapies for cancer and autoimmune diseases",
+    "company_url": "https://rometx.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/08/rometx-logo.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Sana Biotechnology",
+    "description": "Creating and delivering engineered cells as medicine",
+    "company_url": "http://www.sana.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/sana.png",
+    "location": "Seattle, WA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: SANA",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Scale Biosciences",
+    "description": "Single-cell sequencing and analysis for research and clinical applications",
+    "company_url": "http://www.scale.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/scale-bio.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Scholar Rock",
+    "description": "Niche activator therapeutics",
+    "company_url": "http://www.scholarrock.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/12-scholar-rock.png",
+    "location": "Cambridge, MA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: SRRK",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "SciNeuro Pharmaceuticals",
+    "description": "Neurotherapeutics to improve China-based patient care",
+    "company_url": "http://www.scineuro.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/scineuro-pharma.png",
+    "location": "Shanghai, China",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Seaport Therapeutics",
+    "description": "Neuropsychiatric medicines",
+    "company_url": "http://www.seaporttx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/seaport.png",
+    "location": "Seaport Boston, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Semma Therapeutics",
+    "description": "Diabetes therapeutics",
+    "company_url": "http://www.semma-tx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/semma.gif",
+    "location": "Cambridge, MA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Singleron Biotechnologies",
+    "description": "Massive single-cell processing equipment, software ancd libraries",
+    "company_url": "http://www.singleronbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/singleron-bio.png",
+    "location": "Nanjing, China",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Singular Genomics Systems",
+    "description": "Genomic analysis instrumentation",
+    "company_url": "http://www.singulargenomics.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/singular-genomics.png",
+    "location": "San Diego, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: OMIC",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Sironax",
+    "description": "Therapeutics for inflammatory and nero degenerative diseases",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/sironax.png",
+    "location": "Beijing, China",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Skylark Bio",
+    "description": "Breakthrough gene therapies to treat hearing loss and sensory impairments",
+    "company_url": "http://www.skylarkbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/skylark-bio.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Slingshot Biosciences",
+    "description": "On-demand synthetic cell platform",
+    "company_url": "http://www.slingshot.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/slingshot.png",
+    "location": "Emeryville, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Sonoma Biotherapeutics",
+    "description": "T cell therapies for autoimmune and degenerative diseases",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/sonomabio.png",
+    "location": "San Francisco, CA / Seattle, WA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "SonoThera",
+    "description": "Ultrasound-directed non-viral gene delivery approach",
+    "company_url": "http://www.sonotherabio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/sonothera.png",
+    "location": "South San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "SunBird Bio",
+    "description": "Blood-based diagnostics for the detection of neurodegenerative diseases",
+    "company_url": "http://www.sunbirdbio.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/sunbird-bio.png",
+    "location": "Singapore",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Synchron",
+    "description": "Brain-computer interface system to restore motor and communication capabilities for paralyzed patients",
+    "company_url": "http://www.synchron.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/synchron.png",
+    "location": "Brooklyn, NY",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Tenvie",
+    "description": "Therapeutics for inflammation, metabolic dysfunction and lysosomal function",
+    "company_url": "http://www.tenvie.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2025/04/tenvie.jpg",
+    "location": "South San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Transcenta Holding",
+    "description": "Fully integrated antibody-based biotherapeutics company",
+    "company_url": "http://www.transcenta.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2019/03/transcenta.jpg",
+    "location": "Suzhou, China & Boston, MA",
+    "status": "Public",
+    "ticker_symbol": "HKEX: 6628",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Treeline Biosciences",
+    "description": "Difficult-to-drug molecular targets in oncology",
+    "company_url": "https://treeline.bio/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/treelinebio.png",
+    "location": "Stamford, CT",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Trotana Therapeutics",
+    "description": "Medicines targeting RNA binding proteins",
+    "company_url": "https://www.trotana.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/trotanatx.png",
+    "location": "San Diego, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Twist Bioscience",
+    "description": "Synthetic DNA manufacturing",
+    "company_url": "http://www.twistbioscience.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/twist.png",
+    "location": "San Francisco, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: TWST",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Unity Biotechnology",
+    "description": "Therapeutics for age-related diseases & conditions",
+    "company_url": "http://www.unitybiotechnology.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/13-unity.png",
+    "location": "San Francisco, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: UBX",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Verve Therapeutics",
+    "description": "Gene editing therapies to permanently reduce cardiovascular disease",
+    "company_url": "http://www.vervetx.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2020/02/logo_verve-therapeutics.png",
+    "location": "Cambridge, MA",
+    "status": "Acquired",
+    "ticker_symbol": "NASDAQ: VERV",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Vesalius Therapeutics",
+    "description": "AI/ML drug discovery platform for common illnesses",
+    "company_url": "http://www.vesaliustx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/11/vesaliustherapeutics.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Vilya",
+    "description": "Synthetic protein science platform for artificial molecule design",
+    "company_url": "http://www.vilyatx.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2023/09/vilya-tx.png",
+    "location": "Seattle, WA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Vir Biotechnology",
+    "description": "Perpetual vaccine platform",
+    "company_url": "http://www.vir.bio",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/vir-smv2.png",
+    "location": "San Francisco, CA",
+    "status": "Public",
+    "ticker_symbol": "NASDAQ: VIR",
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Vividion Therapeutics",
+    "description": "Protein-based therapeutics",
+    "company_url": "http://www.vividion.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2017/08/15-vividion.png",
+    "location": "San Francisco, CA",
+    "status": "Acquired",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Vizgen",
+    "description": "Gene profiling instrumentation and data analysis",
+    "company_url": "http://www.vizgen.com/",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/vizgen.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Volastra Therapeutics",
+    "description": "Cancer genomics and precision medicines",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/volastra.png",
+    "location": "New York, NY",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Walden Biosciences",
+    "description": "Precision renal therapeutics",
+    "company_url": null,
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2022/03/waldenbio.png",
+    "location": "Cambridge, MA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  },
+  {
+    "company_name": "Xaira Therapeutics",
+    "description": "AI for drug discovery",
+    "company_url": "http://www.xaira.com",
+    "logo_url": "https://www.archventure.com/wp-content/uploads/2024/09/xaira.png",
+    "location": "San Francisco, CA",
+    "status": "Active",
+    "ticker_symbol": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.archventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:31:59.275350+00:00"
+  }
+]

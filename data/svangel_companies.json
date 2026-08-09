@@ -1,0 +1,2530 @@
+[
+  {
+    "company_name": "Abridge",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.abridge.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5MpOGnqu9ZtmhohikuDxJV/35740d1250096583ce92ad2d27ec7a92/Adobe_Express_-_file.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Adept",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.adept.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/pNpLOuEyZyiddLEFHx1oT/89e3698e970b7760062347f8d03cfe0d/adept-logo__1_.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Affirm",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech",
+      "Consumer"
+    ],
+    "company_url": "https://www.affirm.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1oA28uk33m5WXFFBieJsQj/2fc5bffd5c477fb6f93767589de33851/logo_wall_-_affirm.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Airbnb",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces",
+      "Consumer"
+    ],
+    "company_url": "https://www.airbnb.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4dAKMMDumB4xC5U0YOwXxe/8523f9f6243c3223ae30611f21f4710c/logo_wall_-_airbnb.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Airbyte",
+    "investment_stage": [
+      "Growth",
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://airbyte.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3LJD23I56NXf30FDBOzlbJ/2fa7a32adcd7d3ca8a0765e6cd5d9975/logo_wall_-_airbyte.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Amplitude",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://amplitude.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/71ampyQBWDPJCt8a2EIvU6/d8da3a54c3ce05fd5ad967b694b21af2/logo_wall_-_amplitude.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Anchorage Digital",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto"
+    ],
+    "company_url": "https://www.anchorage.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1GYeAATtckjUQeciD3GOn6/b04d74638ec21389d46b6745b909fe06/logo_wall_-_anchorage_digital.png",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Anduril",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.anduril.com",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1rfJpyCPInZaBUISwoyhSC/5229170a7598a8b5192f8d7987606954/anduril.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Anthropic",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.anthropic.com",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2Y3B8aHoNh7joY2xt735YR/62b2ad1aabf3370f7e0624e9f892b257/cdnlogo.com_anthropic.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Apollo.io",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.apollo.io/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3kBzSaclEBqQkeVfEvCnJo/2ab0ef83e0b6c0e57633fbe09db1aa35/logo_wall_-_apollo_io.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Applied Compute",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://appliedcompute.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3EZ4YSZxw3w9I73yeOkjL4/c39863e49eafa78686da668b0fba50aa/appliedcomputelogo.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Applied Intuition",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.appliedintuition.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4q5DjBS3W2JHrxWnvFqfzt/a3ae7fc02629ced7c737ec9ac0469ce9/logo_wall_-_applied_intuition.png",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Armada",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.armada.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/76sgWPvu9e4L8h5v8UOx5k/260a0ee193b7d56f1fab7a3bb3fdac1b/logo_black_168253462d.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Asana",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://asana.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/rQYYJmviewpafcaPgZYqS/7bb700054922f4b0f62f318f8803ab4a/logo_wall_-_asana.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Astranis",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.astranis.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/43jiXgu7G32zFkmHQA6ATV/b09d2b273a94f70244ea9dd7ea7decbd/Astranis-Logo-Horizontal-Earth_Blue.svg",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Augment Code",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.augmentcode.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/MZtWqWpHHadGNxC2pA7mR/95dee34ee2a9c57b263af9340b86061e/augment-code.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Aztec",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Crypto"
+    ],
+    "company_url": "https://aztec.network/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6yQCALW8vFgO7GRM2cORRp/6eec669f21e5799db756c72e46ba4bd4/aztec_logo.png",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Benchling",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.benchling.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1yBudDfIKediczaOrGzBD7/09662879daa6e2896174fd26a9c79a95/logo_wall_-_benchling.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "BetterUp",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.betterup.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2hz5ek4EwdAVqx2jMeySTi/f7dff3e40da21256e6b3253fa141a379/logo_wall_-_betterup.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Black Forest Labs",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://bfl.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3Pon6UzIpecynUQ5UgBdA7/c831523821a631c6fb7daab9f03fa860/black-forest-labs.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Boom",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://boomsupersonic.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7sTvb95utt2F3Dr6kcTvoO/46daf82b732e041ecd4f94d87ba3b718/logo_wall_-_boom.png",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Brex",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://www.brex.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6PihvSb59IAF8WERRuSLlv/857f8e9d2b32e29bca3bebae1ee9c77e/logo_wall_-_brex.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Browser Use",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://browser-use.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2bXI18bjjn9JeVrezcCf5t/a22aec72981f03064539bf5732d633b4/fddb1de9-5742-4037-8ea9-bf8f1cfd2f58.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Captions",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Consumer",
+      "Enterprise"
+    ],
+    "company_url": "https://www.captions.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3IBi4eJjIDah2u7y3HaTmL/37c33628d50503de4baefd0552b2f724/1bef5952-5e20-488c-b2dd-1fdd1c53fdab.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Carta",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://carta.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5EnkZODjssZx6lVjZbZdqB/3cfb11fafd43c0f63e114fd7bceaece0/logo_wall_-_carta.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Cedar",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.cedar.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3DBHJdgunZom4xYNskQ97g/eab7232504ed13a5e9af755693b1aefb/logo_wall_-_cedar.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Cellanome",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://cellanome.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/24dThAqys0Z99MNhvf6L8e/4d895581508e81171f28271f69f5f6cc/Cellanome_Clear.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Cerebras",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.cerebras.net/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/O2qllJr5mSW4qFL7Nwns4/d2b8b11f5b9832e1d37b96e4b1f72c06/Cerebras-Logo-Black.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Chai Discovery",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio",
+      "AI"
+    ],
+    "company_url": "https://www.chaidiscovery.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1YUT8hX7lY0RdOo1Y09ZXa/113105159555ac8ef177aafde306f0ba/chai_logo.avif",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Chainalysis",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto"
+    ],
+    "company_url": "https://www.chainalysis.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6wml00cC8yOmMcPo4DKo3w/75f5a4b821b3de678f88d2d398434304/chainnalysis_logo.png",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Character.ai",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Consumer"
+    ],
+    "company_url": "https://character.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3BcedHRh6zJkO6VGqEa53w/941ccc6ffbfd0b32dc77899d34502b23/Character_ai_new_logo.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Checkr",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://checkr.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/NDyDnIyocKkuiqJKGs7Pf/931f1a82f90e49ea0e555e1bcdee6b1c/logo_wall_-_checkr.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Coactive",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.coactive.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3R2OZzYXvS5mz6tvPewRts/2eef1de23dafca32f66c15f0bc71ba21/coactive-logo.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Cockroach Labs",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.cockroachlabs.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/no3C5ejTaJY7mxDAtPZJU/0bba8ca53be79fb631f22ed991fd0efc/logo_wall_-_cockroach_labs.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Coinbase",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto",
+      "Consumer"
+    ],
+    "company_url": "https://www.coinbase.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/erLdJ5BXJviD1tUrzAThB/9abc10e3158e383205e7b54f214b38d1/logo_wall_-_coinbase.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Color",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.color.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3tWS9B9eibJcXsaPTJhRpU/b30506e69c4b7eb906c60e535dae890d/logo_wall_-_color.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Course Hero",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces",
+      "Consumer"
+    ],
+    "company_url": "https://www.coursehero.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/OaMBbV0NKjtoy3f3SvfM4/bc4b98ee4f5423d8ae93dd0b37df32c3/logo_wall_-_course_hero.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Covariant",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://covariant.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6UkPFskZWql30ZRdLeAHbn/2f959b94f701e432ad3097411cd0d498/covariant_logo.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Credit Karma",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech",
+      "Consumer"
+    ],
+    "company_url": "https://www.creditkarma.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6DRF21hgdmlUzlRAdKWqCy/1d9f8fe7780aadff988a598687195736/logo_wall_-_credit_karma.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Cruise",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://getcruise.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7Lqedsg474aAmR956uzCls/5dd692438d5ee283666dbcf4507d42ed/logo_wall_-_cruise.png",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Dapper Labs",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto",
+      "Consumer"
+    ],
+    "company_url": "https://www.dapperlabs.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6G3BjErH7PJxFo3wibVI8E/9ccb1b538d8fe1b4392d5ee446cfed6c/dapper_labs.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Databricks",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "company_url": "https://www.databricks.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/abOEX2NVpWtFFfT7ebRTx/2140c4abd71be50a26b348ad44a004d2/logo_wall_-_databricks.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Decagon",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://decagon.ai",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6GaWkPBzssO1jJ4DDLNbHw/8b5b317a5bdcdade1e4dc6a6728cd530/decagon.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Deel",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://www.deel.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7m3dp11YKR50udTLOtxmqH/699ca00593787d20660b3c1fbdd0f6c3/logo_wall_-_deel.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "dev/agents",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://sdsa.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5ryEE6bfJYTKvgE7k3mbAg/85e8fcb6eb1d55f0ed8c1709e60eb8ac/devagentsl.webp",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "DoorDash",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces",
+      "Consumer"
+    ],
+    "company_url": "https://www.doordash.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5rPvEL1KnUgt2hCHgmBEOo/31d8687bc942d44a55d29756a0779362/logo_wall_-_doordash.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Drata",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://drata.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4A7dhg6ONZCti7LgdGIAzB/dfbd1b1ab634d14c550bb3cf4bf2215a/logo_wall_-_drata.png",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Dropbox",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.dropbox.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/nyDSA5tT741XDUaE402vf/a11ca5c0083720c4febb8ee0f4ba8f78/logo_wall_-_dropbox.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Elastic",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.elastic.co/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6u7UrF6jKXnsghFSjWtAAv/0664854ba760efe2a4b33a905cb41ed1/logo_wall_-_elastic.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "ElevenLabs",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "Consumer"
+    ],
+    "company_url": "https://elevenlabs.io",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5TcCCEDnUZ0u5tdnJzn80Z/8dd0595d8cb235a55ce5d2a58b9240f3/ElevenLabs_logo_2.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Ethos",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://www.ethoslife.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4FTTFm8qFxjyg0cHMM1NCG/88ae8c23fefe2379b21d4bb882e87aae/logo_wall_-_ethos.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Eventbrite",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.eventbrite.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6loACXTn4KKNb1AlBYwfZP/bab9398541368f6795f66413dffe1948/logo_wall_-_eventbrite.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Faire",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Marketplaces"
+    ],
+    "company_url": "https://www.faire.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4VP7FpmZj1sSftErJJyq3X/71ae98de8db6df9b2f4c68ac1b28e736/logo_wall_-_faire.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Figma",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2c9jRbnb2kdYJs8cm4n5Ud/ad209216ac87cd939799f3c9973eb070/Figma.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Flatiron Health",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://flatiron.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2HbE2lA3LWqntfHYWUMi2M/c5174fda349631caabbdca31aafa104e/logo_wall_-_flatiron_health.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Flexport",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.flexport.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1J3Gm89g9P4WzgfKkqsWb3/0c4f43dff498f939f1da522778c1c531/logo_wall_-_flexport.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Flock Safety",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.flocksafety.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2WGo8Ptnh0Vbhevt6BNh7x/bc39adcc6e9355442844c2c7aed8e932/logo_wall_-_flock_safety.png",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Formation Bio",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.formation.bio/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1RHvmUJw8Nxru8h0neV0sQ/0b017d5fecd36191f817456d9fa232bc/output-onlinepngtools.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Function Health",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.functionhealth.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1nl9iosSSlSxs0wiHV5wX4/fb2eeac0c7394f2b1dac0380338a61e9/Function_Health_Logo_WEB.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "GitHub",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "company_url": "https://github.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7hgK4rcVe8KtY9G305otjm/432dcfa650c87880585baaafc7cf630b/logo_wall_-_github.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "GOAT",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces",
+      "Consumer"
+    ],
+    "company_url": "https://www.goat.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5AnbrGRM1BcJXrrtQqq8DX/c065c83f1a4030deb96abcf77f815434/logo_wall_-_goat.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Google",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.google.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1qedtjteIRtLYTXRZOVNB0/51d608e89013e5307feb1d3117f9b6d9/logo_wall_-_google.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Grail",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://grail.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1o2RL9XOUJaX0mSQlRHcZC/19d1ebb5898cd6cf5175d74da67194ce/logo_wall_-_grail.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Guideline",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "company_url": "https://www.guideline.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/HN0FUaaKPXQ23M2UKTBLS/8768d90e5a78d1da31da755e23614f12/logo_wall_-_guideline.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Gusto",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://gusto.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/OGFBBnyb3IKGSFcqOKX3H/c5ed038fff2bace1a5ba9cfdb014d8aa/logo_wall_-_gusto.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Harvey",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.harvey.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/wUA1Gf21oyYCoqc70hVfi/b8465a839553c9a7eb6c28ef26d3f936/Harvey_Logo_Ink.png",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "HeyGen",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.heygen.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2EjGxvGvGwGoK9e4u15aSg/8a26d2a42ab4ac7ab5d75ceb177411a2/heygen.svg",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Hims",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer",
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.forhims.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/32s6a9Rl1upSZRFka4Bvzv/263af2c8713a48d04adefe1de632997b/logo_wall_-_hims.png",
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Hippocratic AI",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.hippocraticai.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4yhOseY63sb1Sjgjrrb8xt/5c06d8da9de9712d29b92595185b3e11/hippocratic_ai.webp",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Hugging Face",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://huggingface.co/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6wfZbD0eLoeKFYqqHVZv4y/c528440a46d83d6b748182bdf8e9b2f5/logo_wall_-_hugging_face.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Human Interest",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "company_url": "https://humaninterest.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7KQWm95gdd3DT8JCWdu48V/b4882d59a561d5994327114b3da4e878/logo_wall_-_human_interest.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "humans&",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://humansand.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2RABtw5fPvEJvueVCKnLKH/dd6729a04d4e3edd870be676f408e13f/humansand.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Instacart",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces",
+      "Consumer"
+    ],
+    "company_url": "https://www.instacart.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4Lvd7tVQGm2tPkzYLeZU6S/fbcdc7c9307a67ab08ad1a32ea71249b/logo_wall_-_instacark.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "IO",
+    "investment_stage": [
+      "Growth",
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://openai.com/sam-and-jony/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4rlKQqg5RxIhcahgyBmx15/d2c84f7cd68b27c99f09f5c218d262b4/t58C9DSUbSAcK9eyrCmj0_3D",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Ironclad",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "company_url": "https://ironcladapp.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3ryP4Wncy0kIRCtmbtmbZN/88a7e6b669d943ca5af76b7443ed9194/ironclad_logo.png",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Iru",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.iru.com",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1Q2IFAiDyGjzKC70EDSsL6/61658dbea94d391f28cad6d4fc6e5b0d/output.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Kalshi",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "company_url": "https://kalshi.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3QjAhobEiJC4GewtUOwurD/781c28fa1dcb463f822952c9981b2a53/kalshi-logo__2_.png",
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Kumo",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "company_url": "https://kumo.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4ixCWj8KmqTu2eXodry8yO/e7551b1f0bc15ccb1cdc4d6cab8626b6/kumo_ai_logo.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Lattice",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://lattice.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6LtHScerKXkZ99QyGE3t5G/81ba36668fe2808d95540190abf560b4/logo_wall_-_lattice.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Lightning AI",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://lightning.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5eB8rSbtxH60ulhOQx1UbV/bd5af2b2c8edfb83b6c72a806b45a0b8/Brandmark_FullColor_Black_WhiteBolt__1_.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Magical",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.getmagical.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2JAEsvuA5ox3HpmuW5btbI/ef8c2491111b783b876ade12c574f8c4/magical_logo.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mammoth Biosciences",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://mammoth.bio/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6PYzyswVIcOvOPYqQymjYC/07f5d852f95d8dbf56395a456e9fb088/logo_wall_-_mammoth_biosciences.png",
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mandolin",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.mandolin.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1LIvcUvv8EksL5sNoxCEIA/a6d4268b8a1f162ac5c69d423b12f31e/mandolin_logo_white.png",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "MatX",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://matx.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3ZV0hlL9I5R7YRzpBDXsWc/b1810c119b4b55b06be2237666c0e56a/logo-site-hover.svg",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mercor",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://mercor.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7omDmbyqJcvNQeA0zsC2Vz/7e75240134a3208be58c0967ee61f391/mercor-logo.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mercury",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://mercury.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7FWbhgmowaQyzi7lyc9vCE/e063bca12857df41b55208bd3367cade/logo_wall_-_mercury.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Meta",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.meta.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/125rx0PCRvM3xxqJMehTxS/e19c3b0262f45caef6ffcb3fc30244d1/logo_wall_-_meta.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Method",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://methodfi.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/m6ZedVVVT4y5fVW1PG246/a8b642be8afcc1baf5cd6d2d42ce5249/IMG_5045.PNG",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mind Robotics",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.mindrobotics.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1bLcRFepUNwiM5VqOq1mUp/0000ef2377010f0309e161bdad365526/mid_robotics.avif",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mistral AI",
+    "investment_stage": [
+      "Growth",
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://mistral.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7fIjylvtLSaXOIDawy1Sjy/8f7547db42ad574276c16da6ca4bf29a/Mistral_2.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Modular",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.modular.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/WGQZjzccOBZptRd5IpV4g/2aafd496ea3cead78844ddb09140f635/c95a2e7d26c1c844eb59f8867714914e_224_160.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Mux",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.mux.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/dh3km4FkUxLrV1KihN1en/30489c213798b79e3999f1c49beb4491/logo_wall_-_mux.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "NEAR Protocol",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto"
+    ],
+    "company_url": "https://near.org/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4qLoStKc5KQSblRqsAgBjh/9583d5083a3d7b813a4485f6e7a83434/near_logo.png",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Netic",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.netic.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5qDNON94DwPuCjlbxUeoTn/754215af1e0c27375b75368c997c20d1/neticlogo",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Newfront Insurance",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://www.newfront.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/55A15RhQ3o2DPeKO5qUf3I/f3ae0be374f45bf5cac315eab4606f84/newfront_logo.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Notion",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "company_url": "https://www.notion.so/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4FJQeJVKTmKvMhlaQwZFsN/c2cc66476622c94e0ed37a4049cb5e45/logo_wall_-_notion.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Okta",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.okta.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7ksgzBEYvSYkZaI9GIsPV/e13aa569ae76218f2a6b1dd67a31b80c/logo_wall_-_okta.png",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "OpenAI",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "Consumer"
+    ],
+    "company_url": "https://www.openai.com",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4wmOZQUhVf1cc922Syf4AS/8a9f679e9a69d51effa13fd3832e23df/openai-lockup.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "OpenSea",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto",
+      "Consumer",
+      "Marketplaces"
+    ],
+    "company_url": "https://opensea.io/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6hA1MJWrnIpVPoT5y5dfDo/837ef1396282e8ab6907fccec2e2bfcc/logo_wall_-_opensea.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Oscar",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.hioscar.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2qJfHhWSsCBRDpgL043d6P/57fa57862680b14cf48048c4ed671a0d/logo_wall_-_oscar.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "PagerDuty",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.pagerduty.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/DRNv9bCFt67BLozW0PfHs/1b26eb610fcdd683c0a41055827f613c/logo_wall_-_pagerduty.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Parallel",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://parallel.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3A5Qzi0LCV59C6ciQviC25/1c94acfe12c0e1cd4b015504d1952847/parallel.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Patreon",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.patreon.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5qKimNb9FlrZiK2rod9L6Z/8edc09ff4ab670585b9e84adca6ce32b/logo_wall_-_patreon.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Pearl Health",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://pearlhealth.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1ENvMZhzstEp6FtYv2BDnS/2473fefe81439c43e10200e7924f3d63/pearl_health_logo.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Periodic Labs",
+    "investment_stage": [
+      "Growth",
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://periodic.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/AFOacdsNOfsLuzCCJPb0G/a7a741d8e633fd3a996a4098b08beea6/NEWPER.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Pilot",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://pilot.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3CPysnkju6aZ7awsiTAHpq/0866127d06b99a3940775cdf717d2ab4/logo_wall_-_pilot.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Pinterest",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.pinterest.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/crEgfL343lwWOeUXWEXTv/b353b3366409d81e344f7c0640a0227e/logo_wall_-_pinterest.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Polymarket",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Consumer",
+      "Crypto",
+      "Fintech"
+    ],
+    "company_url": "https://polymarket.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1BgYZsClWKNFouddLT0NVa/886683472fc8005a925732135fb71363/logo-black.png",
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Reddit",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.reddit.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2R9IddeL9m43Mizv3dk33z/b914bacd2d300066ef5a25c796293344/logo_wall_-_reddit.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Reflection",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6BhIpjoZhuhrP1DcnG533/de986afbe4427ba94ce0716d02b9e3bc/REFLECTIONENW.png",
+    "everywhere_tags": [],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Replit",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://replit.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4K9FluGfXeexq28Bv0Dt8S/459fbc8873a1d9e8adce93ecda4b9896/logo_wall_-_replit.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Retool",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://retool.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7Dzg8jtBow5fLcpbLS5RyH/b913b7a1f9dec6da1e56f30212425f93/logo_wall_-_retool.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Revolut",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://revolut.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2IDhJECYXbqQWN838kl5Bx/368fae172798fe8cb5235eea15969770/7.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Ribbon Health",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Healthcare + Bio"
+    ],
+    "company_url": "https://www.ribbonhealth.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2Tts91ocFAKMiIEQMeunsL/e992774a4b481d50c8da350f68de4aee/logo_wall_-_ribbon.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Rippling",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.rippling.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7ypAeAOzyz5xZmqfIkp8qH/c9fc9f6a9a648c5512950dbeaaed69ff/logo_wall_-_rippling.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Roofstock",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://www.roofstock.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/1aUiYzXfI14GXXj2oL8gEf/8bf33b6d7b130a6a0610fe6cfcc45135/roofstock_logo.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Segment",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://segment.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4EQcPkt1A0XtrvJqNZlVIv/66503bc9f01ffb5efb2635566dc5b518/logo_wall_-_segment.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Sesame",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.sesame.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4uxQQUwv6MMuFkz21dLnOI/55fa1d326826ce46eae44b67e19558f2/sesame-logo.png",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "ShipBob",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.shipbob.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7uGPx7bBgCG17mdPOwKkBH/704d50b20de84ffcc36e8a2c51836dbb/logo_wall_-_shipbob.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Sierra",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://sierra.ai",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/36EJcdd01edZZGYoYo7jDt/8616889e77144401fe18b1d3a66f3031/sierra-logo-green-horizontal.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Skild AI",
+    "investment_stage": [
+      "Growth",
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.skild.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5NQGgh3eDJFoMrojmQSudP/573b53bcd710bdb5a3690f25deede8cf/Skild.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Slack",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://slack.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2IhlIWWQRZMxOPakW8ubS2/d904e2c848fa157a28af30ad830ca5e4/logo_wall_-_slack.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Snapchat",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.snapchat.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/5nZH1RSOAP2zirFxSncA1y/eaa1ac5d62432f9eadda8e838882dce5/logo_wall_-_snapchat.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Snapdocs",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://www.snapdocs.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3WPUwDBa5qXHd6ZjWi6cA6/69a21cbdd54bb1c202e3276018257d6a/logo_wall_-_snapdocs.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Snorkel",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://snorkel.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3Zr7Vnfh3tznnLYRcsd7ZT/3e8e63c0a22ccf52e23c37298b57aa2a/logo_wall_-_snorkel.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Square",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech",
+      "Crypto"
+    ],
+    "company_url": "https://squareup.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2TxvcWcg84tacEv8iyRyB4/d8f675e774a854e34c1a1335887fbbb4/logo_wall_-_square.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "SSI",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": null,
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/79KwGj53EMIjmDQC16gpjJ/9c914b44d8fdc1824042249e63b76de5/SSINEW.png",
+    "everywhere_tags": [],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Standard AI",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://standard.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6PdNy8HojinwluxpjeDtI/63aed8280e420e879412e39b91188a9c/standard_ai_logo.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "StockX",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces",
+      "Consumer"
+    ],
+    "company_url": "https://stockx.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/FEzI5Lw2AyHLXInXyCOfp/fe3008e6b4c6e15e6b35226e70025bff/logo_wall_-_stockx.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Stripe",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://stripe.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/BwpWvDSzgANvRTrshGdWL/1ffd6b5f896abb3819c63cc1ec2edea7/logo_wall_-_stripe.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Tabular",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://tabular.io/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2nHyHG4rBFbAaeNDP9AYst/bb65bf54f464cb9df8e97d8264f65400/Tabular_Brand_Logo.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Tecton",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.tecton.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2awt8vm4JNKrfXogRiaUFe/242283f56f6a9b5d9bc9bda147df213b/logo_wall_-_tecton.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "The Bot Company",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://www.bot.co/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4n6gXQg2AwMwmmHEgoBc20/cf63e4b474d00619bf8acb87335a5694/bot-co.png",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "The Trade Desk",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.thetradedesk.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/7FusUvzx1X7B9CxlctTZPI/3688965fd08bbe1e5c8289ff045e12df/logo_wall_-_the_trade_desk.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Together AI",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "company_url": "https://www.together.ai/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2Kl76jkOofoLUKgRWORBH4/323bd962354fa82f41d4941184c656d4/together.ai_logo.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Traversal",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://traversal.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/42JEvssZEexJKc9xnfvHq5/72d33afc1d02f715fd7b8c8af47e26cc/traversal_logo",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Twilio",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.twilio.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4UVOOcB6uSKVWymhHiOsI1/ae2b49c0ea75338d45005add4174e7b9/logo_wall_-_twilio.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Twitch",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.twitch.tv/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/3wdWxt29ktuSgXanGuJLpD/8d03d70b60eb0134c7ca59d0df52ecfb/logo_wall_-_twitch.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Twitter",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://twitter.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2M2SQFloU1HQFgM5Sj7UKO/c7a9c387dd7d3ddb286a210e6131c50f/logo_wall_-_twitter.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Uniswap",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Crypto"
+    ],
+    "company_url": "https://uniswap.org/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2cUkMLtKV5Z63hWOhQLVfd/0b26aac27e91cb93ed832814417942c2/logo_wall_-_uniswap.png",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Vercel",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://vercel.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2AXxvjRITLD0dQuMujaZhB/61c5a847b78b4d0aeeb0637a3bfef19f/vercel_logo.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Veriff",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://www.veriff.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2Dz5IbOOHw09tiwoUfiIkq/d72351820bc1793833eb3d51103e6cfe/veriff_logo.png",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Vetcove",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Marketplaces"
+    ],
+    "company_url": "https://www.vetcove.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6APC3Nygbf5o0uFoOF7Ge9/23261bf33eb9ff3e17c256f19f157176/vetcove_logo.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Warby Parker",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "company_url": "https://www.warbyparker.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2R0PsoHEXqdZl2dkVCzBZk/5831549359e8056460836e0b876f6216/logo_wall_-_warby_parker.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Watershed",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://watershed.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/254tB4X4LvqJ64qEG48TXQ/9364b06ac120ed9de3691898eb96e05a/watershed_logo.png",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Waymo",
+    "investment_stage": [
+      "Growth"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://waymo.com",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/64Nl2KYeLYF6zQ3U1p6fIu/84b9bf45787722e8b36ab1f08f075713/waymo_logo_icon_169225.webp",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Wise",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "company_url": "https://wise.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/79F2kVvmqJ87Jtng4VeHTn/aa60143563d7760791e6b422f9a6e43f/logo_wall_-_wise.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "World Labs",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "company_url": "https://worldlabs.ai",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2gS7dhvJys39uAgA1oMlQi/f0ec879be7f7d38ee2c8e453ade8a99f/world-labs.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Yuga Labs",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Crypto",
+      "Consumer"
+    ],
+    "company_url": "https://www.yuga.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/4NSBUBZf6tYPA79K8EuFPt/bc853348c51fa44c1f5243dd0c798550/yugalabs_logo.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Zapier",
+    "investment_stage": [
+      "Seed"
+    ],
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "company_url": "https://zapier.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/2EV42rQnl1wLx6JXrhzBRv/7c91e5d71ef6b6c5a82ebff1fcfe6d73/logo_wall_-_zappier.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  },
+  {
+    "company_name": "Zip",
+    "investment_stage": [
+      "Seed",
+      "Growth"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "company_url": "https://ziphq.com/",
+    "logo_url": "https://images.ctfassets.net/9546dfueqxy5/6FGa0MOrZL7RvsjCqzlasK/15fef649c82a11067b81191f242a07d0/logo_wall_-_zip.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://svangel.com/portfolio",
+    "scraped_at": "2026-07-27T21:53:36.091836+00:00"
+  }
+]

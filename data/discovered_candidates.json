@@ -1,0 +1,394 @@
+[
+  {
+    "firm_name": "B Capital Group",
+    "homepage": "bcapgroup.com",
+    "portfolio_url": "https://bcapgroup.com/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-03T07:01:34+00:00"
+  },
+  {
+    "firm_name": "Crosslink Capital",
+    "homepage": "crosslinkcapital.com",
+    "portfolio_url": "https://www.crosslinkcapital.com/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-08T07:03:00+00:00"
+  },
+  {
+    "firm_name": "Eniac Ventures",
+    "homepage": "eniac.vc",
+    "portfolio_url": "https://eniac.vc/companies",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-07T21:27:21+00:00"
+  },
+  {
+    "firm_name": "Floodgate",
+    "homepage": "floodgate.com",
+    "portfolio_url": "https://floodgate.com/companies",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-04T07:05:05+00:00"
+  },
+  {
+    "firm_name": "Gradient Ventures",
+    "homepage": "gradient.com",
+    "portfolio_url": "https://gradient.com/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-07-31T07:00:51+00:00"
+  },
+  {
+    "firm_name": "Greycroft",
+    "homepage": "greycroft.com",
+    "portfolio_url": "https://greycroft.com/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-07T21:27:25+00:00"
+  },
+  {
+    "firm_name": "Kindred Ventures",
+    "homepage": "kindredventures.com",
+    "portfolio_url": "https://kindredventures.com/portfolio/?_sft_sector=crypto-web3 ",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-08T07:02:54+00:00"
+  },
+  {
+    "firm_name": "M12",
+    "homepage": "m12.vc",
+    "portfolio_url": "https://m12.vc/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-07T21:27:28+00:00"
+  },
+  {
+    "firm_name": "Matrix Partners",
+    "homepage": "matrixpartners.com",
+    "portfolio_url": "https://matrixpartners.com#portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-07-28T03:49:44+00:00"
+  },
+  {
+    "firm_name": "Mosaic Ventures",
+    "homepage": "mosaicventures.com",
+    "portfolio_url": "https://mosaicventures.com/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-02T07:03:41+00:00"
+  },
+  {
+    "firm_name": "Notation",
+    "homepage": "notation.vc",
+    "portfolio_url": "https://notation.vc/companies",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-08T07:03:04+00:00"
+  },
+  {
+    "firm_name": "Notation Capital",
+    "homepage": "notationcapital.com",
+    "portfolio_url": "https://notationcapital.com/companies/#alice",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-07-28T13:23:45+00:00"
+  },
+  {
+    "firm_name": "Point Nine Capital",
+    "homepage": "pointnine.com",
+    "portfolio_url": "https://pointnine.com/companies",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-07-28T07:04:04+00:00"
+  },
+  {
+    "firm_name": "Primary Venture Partners",
+    "homepage": "primary.vc",
+    "portfolio_url": "https://primary.vc/portfolio/specialization",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-07-30T07:05:29+00:00"
+  },
+  {
+    "firm_name": "Storm Ventures",
+    "homepage": "stormventures.com",
+    "portfolio_url": "https://stormventures.com/our-portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-08-01T07:04:48+00:00"
+  },
+  {
+    "firm_name": "True Ventures",
+    "homepage": "trueventures.com",
+    "portfolio_url": "https://trueventures.com/portfolio",
+    "status": "queued",
+    "reason": "verified",
+    "found_at": "2026-07-29T07:01:19+00:00"
+  },
+  {
+    "firm_name": "500 Global",
+    "homepage": "500.co",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-28T03:49:34+00:00"
+  },
+  {
+    "firm_name": "Accomplice",
+    "homepage": "accomplice.co",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-07T21:27:18+00:00"
+  },
+  {
+    "firm_name": "Andreessen Horowitz",
+    "homepage": "a16z.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "duplicate of the a16z dataset — queued 2026-07-28 by the nickname-slug bug, fixed via identity._ALT_NAMES",
+    "found_at": "2026-07-28T01:43:51+00:00"
+  },
+  {
+    "firm_name": "Antler",
+    "homepage": "antler.co",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-03T07:01:28+00:00"
+  },
+  {
+    "firm_name": "Atomico",
+    "homepage": "atomico.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:05:03+00:00"
+  },
+  {
+    "firm_name": "Balderton Capital",
+    "homepage": "balderton.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:05:01+00:00"
+  },
+  {
+    "firm_name": "Basis Set Ventures",
+    "homepage": "basisset.ventures",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-08T07:02:58+00:00"
+  },
+  {
+    "firm_name": "Canaan Partners",
+    "homepage": "canaan.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:04:40+00:00"
+  },
+  {
+    "firm_name": "Cavalry Ventures",
+    "homepage": "cavalry.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-08T07:03:03+00:00"
+  },
+  {
+    "firm_name": "Cherry Ventures",
+    "homepage": "cherry.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-03T07:01:24+00:00"
+  },
+  {
+    "firm_name": "Crane Venture Partners",
+    "homepage": "crane.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-08T07:02:35+00:00"
+  },
+  {
+    "firm_name": "Earlybird Venture Capital",
+    "homepage": "earlybird.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-03T07:01:21+00:00"
+  },
+  {
+    "firm_name": "Freestyle Capital",
+    "homepage": "freestyle.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-07T21:27:22+00:00"
+  },
+  {
+    "firm_name": "GGV Capital",
+    "homepage": "ggvc.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:04:37+00:00"
+  },
+  {
+    "firm_name": "Global Founders Capital",
+    "homepage": "globalfounderscapital.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-08T07:02:32+00:00"
+  },
+  {
+    "firm_name": "Headline",
+    "homepage": "headline.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:05:27+00:00"
+  },
+  {
+    "firm_name": "IA Ventures",
+    "homepage": "iaventures.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-07T21:27:26+00:00"
+  },
+  {
+    "firm_name": "Initialized Capital",
+    "homepage": "initialized.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-31T07:00:50+00:00"
+  },
+  {
+    "firm_name": "Intel Capital",
+    "homepage": "intelcapital.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:04:49+00:00"
+  },
+  {
+    "firm_name": "LocalGlobe",
+    "homepage": "localglobe.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published (re-classified 2026-07-27 when the gate became hard; was queued under the soft gate)",
+    "found_at": "2026-07-28T03:29:19+00:00"
+  },
+  {
+    "firm_name": "NFX",
+    "homepage": "nfx.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-28T03:49:43+00:00"
+  },
+  {
+    "firm_name": "Northzone",
+    "homepage": "northzone.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:05:02+00:00"
+  },
+  {
+    "firm_name": "Omers Ventures",
+    "homepage": "omersventures.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-01T07:04:46+00:00"
+  },
+  {
+    "firm_name": "OpenView",
+    "homepage": "openviewpartners.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:05:26+00:00"
+  },
+  {
+    "firm_name": "Redpoint Ventures",
+    "homepage": "redpoint.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:04:32+00:00"
+  },
+  {
+    "firm_name": "Sapphire Ventures",
+    "homepage": "sapphireventures.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-29T07:01:10+00:00"
+  },
+  {
+    "firm_name": "Speedinvest",
+    "homepage": "speedinvest.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-03T07:01:23+00:00"
+  },
+  {
+    "firm_name": "Techstars",
+    "homepage": "techstars.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-28T03:49:41+00:00"
+  },
+  {
+    "firm_name": "Version One Ventures",
+    "homepage": "versionone.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-08T07:02:31+00:00"
+  },
+  {
+    "firm_name": "Vertex Ventures",
+    "homepage": "vertexventures.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-30T07:05:04+00:00"
+  },
+  {
+    "firm_name": "Work-Bench",
+    "homepage": "work-bench.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-07T21:27:20+00:00"
+  },
+  {
+    "firm_name": "XYZ Venture Capital",
+    "homepage": "xyz.vc",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-08-08T07:02:36+00:00"
+  },
+  {
+    "firm_name": "Y Combinator",
+    "homepage": "ycombinator.com",
+    "portfolio_url": null,
+    "status": "rejected",
+    "reason": "no portfolio page resolved — client-rendered or none published",
+    "found_at": "2026-07-28T03:49:36+00:00"
+  }
+]

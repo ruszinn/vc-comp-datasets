@@ -1,0 +1,1911 @@
+[
+  {
+    "company_name": "3Jane",
+    "description": "Credit-backed yieldcoin protocol",
+    "company_url": "https://www.3jane.xyz/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Across",
+    "description": "Intent-based crosschain bridge",
+    "company_url": "https://across.to/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Agora",
+    "description": "Stablecoin issuer and payments infrastructure",
+    "company_url": "https://www.agora.finance/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "AI Arena",
+    "description": "AI-powered NFT gaming",
+    "company_url": "https://aiarena.io/",
+    "logo_url": null,
+    "categories": [
+      "AI",
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Amber",
+    "description": "Digital asset platform",
+    "company_url": "https://www.ambergroup.io/",
+    "logo_url": null,
+    "categories": [
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Andromeda",
+    "description": "AI compute marketplace",
+    "company_url": "/investments/andromeda",
+    "logo_url": null,
+    "categories": [
+      "AI",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Argent",
+    "description": "Self-custody wallet",
+    "company_url": "https://www.argent.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "DeFi",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Axiom",
+    "description": "ZK proving infrastructure",
+    "company_url": "https://www.axiom.xyz/",
+    "logo_url": null,
+    "categories": [
+      "AI",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Aztec",
+    "description": "Privacy-first Ethereum L2",
+    "company_url": "https://aztec.network/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Babylon",
+    "description": "Native Bitcoin staking protocol",
+    "company_url": "https://babylonlabs.io/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "BetDex",
+    "description": "Peer-to-peer sports betting exchange",
+    "company_url": "https://www.betdex.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Bitso",
+    "description": "Latin American crypto financial platform",
+    "company_url": "https://bitso.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Payments",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Blast",
+    "description": "Ethereum L2 with native yield",
+    "company_url": "https://blast.io/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Blowfish",
+    "description": "Wallet transaction security APIs",
+    "company_url": "https://blowfish.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Blur",
+    "description": "NFT marketplace for pro traders",
+    "company_url": "https://blur.io/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Chainalysis",
+    "description": "Blockchain intelligence platform",
+    "company_url": "https://www.chainalysis.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Citadel Securities",
+    "description": "Global market maker",
+    "company_url": "/investments/citadel-securities",
+    "logo_url": null,
+    "categories": [
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Code4rena",
+    "description": "Competitive smart contract audits",
+    "company_url": "https://code4rena.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Coinbase",
+    "description": "Crypto exchange and onchain platform",
+    "company_url": "/investments/coinbase",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Infrastructure",
+      "Payments",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "CoinSwitch",
+    "description": "Crypto exchange in India",
+    "company_url": "https://coinswitch.co/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Compound",
+    "description": "DeFi lending protocol",
+    "company_url": "https://compound.finance/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Conduit",
+    "description": "Rollup deployment platform",
+    "company_url": "https://conduit.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Cosmos (ATOM)",
+    "description": "Interoperable blockchain ecosystem",
+    "company_url": "https://cosmos.network/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": "ATOM",
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Crown",
+    "description": "Brazilian real stablecoin issuer",
+    "company_url": "https://brl.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "D3",
+    "description": "Onchain domain infrastructure",
+    "company_url": "https://d3.inc/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Dework",
+    "description": "Work and bounty platform",
+    "company_url": "https://dework.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Divine",
+    "description": "Blockchain-based unsecured lending",
+    "company_url": "https://divine.inc/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "dYdX",
+    "description": "Decentralized perpetuals exchange",
+    "company_url": "https://dydx.exchange/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "El Dorado",
+    "description": "Cross-border payments for Latin America",
+    "company_url": "https://eldorado.io/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Ellipsis Labs",
+    "description": "Onchain exchange infrastructure",
+    "company_url": "https://ellipsislabs.xyz/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Etherealize",
+    "description": "Ethereum institutional finance platform",
+    "company_url": "https://www.etherealize.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Euler",
+    "description": "Modular DeFi lending protocol",
+    "company_url": "https://www.euler.finance/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Exponential",
+    "description": "DeFi investment platform",
+    "company_url": "https://exponential.fi/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Farcaster",
+    "description": "Decentralized social protocol",
+    "company_url": "https://www.farcaster.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Fireblocks",
+    "description": "Digital asset custody infrastructure",
+    "company_url": "https://www.fireblocks.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Flashbots",
+    "description": "MEV infrastructure and research",
+    "company_url": "https://www.flashbots.net/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Fractal",
+    "description": "Gaming NFT marketplace",
+    "company_url": "https://www.fractal.is/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "friend.tech",
+    "description": "SocialFi app on Base",
+    "company_url": "https://www.friend.tech/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Gauntlet",
+    "description": "DeFi risk management platform",
+    "company_url": "https://www.gauntlet.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Genesis Digital Assets",
+    "description": "Bitcoin mining company",
+    "company_url": "https://genesisdigitalassets.com/",
+    "logo_url": null,
+    "categories": [
+      "Hardware & Defense",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Gitcoin",
+    "description": "Open-source funding platform",
+    "company_url": "https://www.gitcoin.co/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "GTE",
+    "description": "Decentralized global exchange",
+    "company_url": "https://www.gte.xyz/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Hang",
+    "description": "Brand loyalty platform",
+    "company_url": "https://www.hang.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Harmonic",
+    "description": "Mathematical reasoning AI lab",
+    "company_url": "https://harmonic.fun",
+    "logo_url": null,
+    "categories": [
+      "AI"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Harmonic",
+    "description": "Solana block-building infrastructure",
+    "company_url": "https://harmonic.gg/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Hyperliquid (HYPE)",
+    "description": "Financial trading platform",
+    "company_url": "/investments/hype",
+    "logo_url": "https://images.ctfassets.net/vb2n37v5ldjn/38Rtpxlg3LbzWvqXaiyGEZ/c219676b0c457f22724297197bc0af71/hyperliquid-bg.jpg?fit=thumb&fm=jpg&q=85&w=400&h=300",
+    "categories": [],
+    "token_ticker": "HYPE",
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Irreducible",
+    "description": "ZK proof acceleration hardware",
+    "company_url": "https://www.irreducible.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Ithaca",
+    "description": "Open-source crypto development",
+    "company_url": "https://www.ithaca.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Jambo",
+    "description": "Mobile network for emerging markets",
+    "company_url": "https://www.jambo.technology/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Kalshi",
+    "description": "Prediction market platform",
+    "company_url": "/investments/kalshi",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Keep Network",
+    "description": "Bitcoin privacy infrastructure",
+    "company_url": "https://keep.network/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Kuru Labs",
+    "description": "Onchain orderbook for Monad",
+    "company_url": "https://linktr.ee/kuru.io",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Lido",
+    "description": "Decentralized Ethereum staking protocol",
+    "company_url": "https://lido.fi/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Lightspark",
+    "description": "Bitcoin payment infrastructure",
+    "company_url": "https://www.lightspark.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Limit Break",
+    "description": "Mobile crypto gaming company",
+    "company_url": "https://limitbreak.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Liquid",
+    "description": "Mobile-first perps trading",
+    "company_url": "https://tryliquid.xyz/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Lootrush",
+    "description": "Gaming NFT marketplace",
+    "company_url": "https://www.lootrush.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Mad Realities",
+    "description": "Decentralized entertainment network",
+    "company_url": "https://madrealities.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Magic Eden",
+    "description": "NFT marketplace",
+    "company_url": "https://magiceden.io/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Maker (MKR)",
+    "description": "Stablecoin protocol",
+    "company_url": "https://makerdao.com/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": "MKR",
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Matrixport",
+    "description": "Crypto financial services platform",
+    "company_url": "https://www.matrixport.com/",
+    "logo_url": null,
+    "categories": [
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Mesh Connect",
+    "description": "Seamless crypto payments",
+    "company_url": "https://www.meshconnect.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "MetaDAO",
+    "description": "Markets for decision-making",
+    "company_url": "https://metadao.fi/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Monad",
+    "description": "Parallel EVM blockchain",
+    "company_url": "https://www.monad.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Moonpay",
+    "description": "Crypto payments infrastructure",
+    "company_url": "https://www.moonpay.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Morpho",
+    "description": "Onchain lending and borrowing",
+    "company_url": "https://morpho.org/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "N3XT",
+    "description": "Crypto-enabled narrow bank",
+    "company_url": "https://n3xt.io/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Noble",
+    "description": "Stablecoin issuance protocol",
+    "company_url": "https://www.noble.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Noise",
+    "description": "Prediction market for trends",
+    "company_url": "https://noise.xyz/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Nous Research",
+    "description": "Decentralized AI training",
+    "company_url": "/investments/nous-research",
+    "logo_url": null,
+    "categories": [
+      "AI",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "O(1) Labs",
+    "description": "Crypto computing system",
+    "company_url": "https://o1labs.org/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "OpenSea",
+    "description": "NFT marketplace",
+    "company_url": "https://opensea.io/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Optimism",
+    "description": "Layer 2 blockchain",
+    "company_url": "https://www.optimism.io/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Opyn",
+    "description": "DeFi options protocol",
+    "company_url": "https://www.opyn.co/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Osmosis",
+    "description": "Cross-chain AMM protocol",
+    "company_url": "https://osmosis.zone/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Parallel",
+    "description": "Sci-fi NFT card game",
+    "company_url": "https://parallel.life/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Phantom",
+    "description": "Web3 wallet",
+    "company_url": "https://phantom.app/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Plural",
+    "description": "Tokenized energy asset management",
+    "company_url": "https://www.pluralfinance.com/",
+    "logo_url": null,
+    "categories": [
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Privy",
+    "description": "Embedded wallet infrastructure",
+    "company_url": "https://www.privy.io/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Rain",
+    "description": "Crypto exchange in EMEA",
+    "company_url": "https://www.rain.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Reflexer Labs",
+    "description": "Stablecoin protocol",
+    "company_url": "https://reflexer.finance/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Revolut",
+    "description": "Global digital banking platform",
+    "company_url": "https://www.revolut.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Payments",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Ribbon Finance",
+    "description": "Decentralized structured products",
+    "company_url": "https://www.ribbon.finance/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Rift",
+    "description": "Peer-to-peer bitcoin bridge",
+    "company_url": "https://app.rift.trade/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Royal",
+    "description": "Music investment platform",
+    "company_url": "https://royal.io/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "SendCutSend",
+    "description": "Rapid manufacturer",
+    "company_url": "/investments/sendcutsend",
+    "logo_url": null,
+    "categories": [
+      "Hardware & Defense",
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Sky Mavis",
+    "description": "Play-to-earn gaming",
+    "company_url": "https://skymavis.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Sorella Labs",
+    "description": "Sustainable onchain markets mitigating MEV",
+    "company_url": "https://sorellalabs.xyz/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Spacemesh",
+    "description": "Blockmesh operating system",
+    "company_url": "https://spacemesh.io/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Standard Economics",
+    "description": "Cross-border payments app",
+    "company_url": "https://www.standardeconomics.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Starkware",
+    "description": "ZK-based Layer 2 blockchain",
+    "company_url": "https://starkware.co/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Stripe",
+    "description": "Internet payments infrastructure",
+    "company_url": "/investments/stripe",
+    "logo_url": null,
+    "categories": [
+      "Payments",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Succinct",
+    "description": "Zero-knowledge infrastructure",
+    "company_url": "https://succinct.xyz/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Symbiotic",
+    "description": "Shared security protocol & marketplace",
+    "company_url": "https://symbiotic.fi/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Synthetix (SNX)",
+    "description": "Synthetic derivatives protocol",
+    "company_url": "https://synthetix.io/",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": "SNX",
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "TaxBit",
+    "description": "Tax & accounting software",
+    "company_url": "https://taxbit.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Tempo",
+    "description": "Blockchain for payments",
+    "company_url": "/investments/tempo",
+    "logo_url": null,
+    "categories": [
+      "Payments",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "True Anomaly",
+    "description": "Orbital space defense",
+    "company_url": "/investments/true-anomaly",
+    "logo_url": null,
+    "categories": [
+      "Hardware & Defense",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Uniswap",
+    "description": "Decentralized crypto exchange protocol",
+    "company_url": "/investments/uniswap",
+    "logo_url": null,
+    "categories": [
+      "DeFi",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Utopia Labs",
+    "description": "Crypto payments & treasury management",
+    "company_url": "https://utopialabs.com/",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure",
+      "Payments"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Vana",
+    "description": "Network for user-owned data",
+    "company_url": "https://www.vana.org/",
+    "logo_url": null,
+    "categories": [
+      "AI",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Ventuals (formerly Shadow)",
+    "description": "Perps for private company valuations",
+    "company_url": "http://ventuals.com/",
+    "logo_url": null,
+    "categories": [
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": "Shadow",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Wildcard",
+    "description": "Web3 game",
+    "company_url": "https://www.wildcardgame.com/",
+    "logo_url": null,
+    "categories": [
+      "Consumer"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Yield",
+    "description": "Decentralized fixed-rate borrowing & lending protocol",
+    "company_url": "https://yieldprotocol.com/",
+    "logo_url": null,
+    "categories": [
+      "DeFi"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Zcash Open Development Lab",
+    "description": "Zcash developers",
+    "company_url": "https://x.com/zodl_app",
+    "logo_url": null,
+    "categories": [
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Zipline",
+    "description": "Autonomous drone delivery infrastructure",
+    "company_url": "/investments/zipline",
+    "logo_url": null,
+    "categories": [
+      "Hardware & Defense",
+      "Consumer",
+      "Infrastructure"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  },
+  {
+    "company_name": "Zora",
+    "description": "NFT-based social platform",
+    "company_url": "https://zora.co/",
+    "logo_url": null,
+    "categories": [
+      "Consumer",
+      "Trading & Markets"
+    ],
+    "token_ticker": null,
+    "former_name": null,
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.paradigm.xyz/investments",
+    "scraped_at": "2026-08-03T08:34:10.861557+00:00"
+  }
+]

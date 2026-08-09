@@ -1,0 +1,5170 @@
+[
+  {
+    "company_name": "&AI",
+    "description": "Imagine if AI transformed how attorneys worked.",
+    "company_url": "https://www.tryandai.com/",
+    "company_profile_url": "https://firstround.com/companies/and-ai",
+    "logo_url": null,
+    "founders": [
+      "Caleb Harris",
+      "Herbie Turner"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area",
+      "New York"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "&Open",
+    "description": "Imagine if companies could build loyalty with thoughtful gifting done at scale.",
+    "company_url": "https://andopen.co/",
+    "company_profile_url": "https://firstround.com/companies/open",
+    "logo_url": null,
+    "founders": [
+      "Jonathan Legge",
+      "Mark Legge",
+      "Ciara Flood"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "64x",
+    "description": "Imagine if previously unattainable cell lines could help more gene therapies get to market faster.",
+    "company_url": "https://www.64-x.com",
+    "company_profile_url": "https://firstround.com/companies/64x",
+    "logo_url": null,
+    "founders": [
+      "Alexis Rovner"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "9GAG",
+    "description": "Imagine if a global cross-platform media community could make the world happier.",
+    "company_url": "http://9gag.com/",
+    "company_profile_url": "https://firstround.com/companies/9gag",
+    "logo_url": null,
+    "founders": [
+      "Ray Chan"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer",
+      "AI"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Abra",
+    "description": "Imagine if prime and wealth management services applied to digital assets.",
+    "company_url": "https://www.goabra.com",
+    "company_profile_url": "https://firstround.com/companies/abra",
+    "logo_url": null,
+    "founders": [
+      "Bill Barhydt"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Actively",
+    "description": "Imagine if companies could scale the deep reasoning of their best sales reps.",
+    "company_url": "https://www.actively.ai/",
+    "company_profile_url": "https://firstround.com/companies/actively",
+    "logo_url": null,
+    "founders": [
+      "Anshul Gupta",
+      "Mihir Garimella"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Adaptly",
+    "description": "Imagine if brands could easily scale campaigns across ad platforms.",
+    "company_url": null,
+    "company_profile_url": "https://firstround.com/companies/adaptly",
+    "logo_url": null,
+    "founders": [
+      "Nikhil Sethi"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Airbase",
+    "description": "Imagine if companies could be smarter about how they spent money.",
+    "company_url": "https://www.airbase.com/",
+    "company_profile_url": "https://firstround.com/companies/airbase",
+    "logo_url": null,
+    "founders": [
+      "Thejo Kote"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Aisera",
+    "description": "Imagine if your IT and customer service needs were instantly solved, anytime.",
+    "company_url": "https://aisera.com",
+    "company_profile_url": "https://firstround.com/companies/aisera",
+    "logo_url": null,
+    "founders": [
+      "Muddu Sudhakar"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Alma",
+    "description": "Imagine if anyone could access high-quality, affordable mental health care.",
+    "company_url": "https://helloalma.com/",
+    "company_profile_url": "https://firstround.com/companies/alma",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/72712bd7fb3cb9726b0c1469f3f07f4c29db1a65-150x150.svg",
+    "founders": [
+      "Harry Ritter"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Alt",
+    "description": "Imagine if people could manage trading cards and other alternative assets the way they manage traditional assets like stocks and bonds.",
+    "company_url": "https://www.alt.xyz/",
+    "company_profile_url": "https://firstround.com/companies/alt",
+    "logo_url": null,
+    "founders": [
+      "Leore Avidar"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Andrenam",
+    "description": "Imagine if we could secure the ocean with an AI-powered, distributed maritime sensing network.",
+    "company_url": "https://www.andrenam.com/",
+    "company_profile_url": "https://firstround.com/companies//andrenam",
+    "logo_url": null,
+    "founders": [
+      "Matej Cernosek",
+      "Alex Chu"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware",
+      "AI"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Anomalo",
+    "description": "Imagine if you could trust your data was always accurate, reliable and error-free.",
+    "company_url": "https://www.anomalo.com/",
+    "company_profile_url": "https://firstround.com/companies/anomalo",
+    "logo_url": null,
+    "founders": [
+      "Elliot Shmukler",
+      "Jeremy Stanley"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ansible Health",
+    "description": "Imagine if patients with COPD got the care they needed from the comfort of home.",
+    "company_url": "http://www.ansiblehealth.com",
+    "company_profile_url": "https://firstround.com/companies/ansible-health",
+    "logo_url": null,
+    "founders": [
+      "Ming Jack Po MD, PhD"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "AppNexus",
+    "description": "Imagine if real-time media buying could all happen in one place.",
+    "company_url": "http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech/",
+    "company_profile_url": "https://firstround.com/companies/appnexus",
+    "logo_url": null,
+    "founders": [
+      "Brian O'Kelley"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Arbor",
+    "description": "Imagine if we could lower the cost of home energy for people and the planet.",
+    "company_url": "https://www.joinarbor.com/",
+    "company_profile_url": "https://firstround.com/companies/arbor",
+    "logo_url": null,
+    "founders": [
+      "Andrew Meyer"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Arketa",
+    "description": "Imagine if we could increase access to wellness by helping studios grow beyond classes.",
+    "company_url": "https://arketa.co",
+    "company_profile_url": "https://firstround.com/companies/arketa",
+    "logo_url": null,
+    "founders": [
+      "Rachel Lea Fishman"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Artemis",
+    "description": "Imagine if security teams could battle AI with AI.",
+    "company_url": "https://artemissecurity.com/",
+    "company_profile_url": "https://firstround.com/companies/artemis",
+    "logo_url": null,
+    "founders": [
+      "Shachar Hirshberg",
+      "Dan Shiebler"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ascend",
+    "description": "Imagine if insurance accounting operations caught up with the rest of fintech.",
+    "company_url": "https://www.useascend.com/",
+    "company_profile_url": "https://firstround.com/companies/ascend",
+    "logo_url": null,
+    "founders": [
+      "Andrew Wynn",
+      "Praveen Chekuri"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Assort Health",
+    "description": "Imagine if you could answer every patient's call, without putting anyone on hold.",
+    "company_url": "https://www.assorthealth.com/",
+    "company_profile_url": "https://firstround.com/companies/assort-health",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/9c9a9f5dae9be28289c468969ab36002227106bf-300x300.png",
+    "founders": [
+      "Jeffery Liu",
+      "Jon Wang"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Assured",
+    "description": "Imagine if healthcare organizations could easily onboard providers and seamlessly scale across states and payors.",
+    "company_url": "https://www.withassured.com/",
+    "company_profile_url": "https://firstround.com/companies/assured",
+    "logo_url": null,
+    "founders": [
+      "Varun Krishnamurthy",
+      "Rahul Shivkumar"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Augury",
+    "description": "Imagine if manufacturers could always rely on the machines that matter.",
+    "company_url": "http://augury.com",
+    "company_profile_url": "https://firstround.com/companies/augury",
+    "logo_url": null,
+    "founders": [
+      "Saar Yoskovitz"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Axial",
+    "description": "Imagine if we simplified the deal-making process for great small and medium-sized businesses and buyers.",
+    "company_url": "http://www.axial.net/",
+    "company_profile_url": "https://firstround.com/companies/axial",
+    "logo_url": null,
+    "founders": [
+      "Peter Lehrman"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Beakon",
+    "description": "Imagine if everyone, everywhere could be made aware of and kept safe from all physical threats.",
+    "company_url": "https://www.beakon.com/",
+    "company_profile_url": "https://firstround.com/companies/beakon",
+    "logo_url": null,
+    "founders": [
+      "Eric Liu",
+      "Scott Benoit",
+      "David Choi"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Beautiful AI",
+    "description": "Imagine if anyone could turn their ideas into visual presentations that win.",
+    "company_url": "http://www.beautiful.ai",
+    "company_profile_url": "https://firstround.com/companies/beautiful-ai",
+    "logo_url": null,
+    "founders": [
+      "Mitch Grasso"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Binti",
+    "description": "Imagine if every child had the care and support of a loving family.",
+    "company_url": "http://binti.com",
+    "company_profile_url": "https://firstround.com/companies/binti",
+    "logo_url": null,
+    "founders": [
+      "Felicia Curcuru"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "Transportation / Mobility",
+      "PropTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Blaxel",
+    "description": "Imagine if the cloud was built for AI-native startups and agents.",
+    "company_url": "https://blaxel.ai/",
+    "company_profile_url": "https://firstround.com/companies/blaxel",
+    "logo_url": null,
+    "founders": [
+      "Paul SinaÃ¯",
+      "Charles Drappier",
+      "Christophe Ploujoux",
+      "Nicolas Lecomte",
+      "Thomas Crochet",
+      "Mathis Joffre"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Board",
+    "description": "Imagine if you could combine the best of board games and video games into a new experience.",
+    "company_url": "https://board.fun/",
+    "company_profile_url": "https://firstround.com/companies/board",
+    "logo_url": null,
+    "founders": [
+      "Brynn Putnam"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware",
+      "Consumer"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Boulder",
+    "description": "Imagine if people struggling with addiction could succeed on their own terms, wherever they are.",
+    "company_url": "https://boulder.care/",
+    "company_profile_url": "https://firstround.com/companies/boulder",
+    "logo_url": null,
+    "founders": [
+      "Stephanie Papes"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Brellium",
+    "description": "Imagine if we could improve the standard of care in the US healthcare system by automatically reviewing every chart.",
+    "company_url": "https://brellium.com/",
+    "company_profile_url": "https://firstround.com/companies/brellium",
+    "logo_url": null,
+    "founders": [
+      "Zach Rosen"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "AI"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Bright",
+    "description": "Imagine if we could expand solar power to homes and businesses across Mexico.",
+    "company_url": "https://www.thinkbright.mx/",
+    "company_profile_url": "https://firstround.com/companies/bright",
+    "logo_url": null,
+    "founders": [
+      "Jonah Greenberger"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Cache",
+    "description": "Imagine if advanced financial products used by the ultraweathy were available to everyone with large stock positions.",
+    "company_url": "https://usecache.com/",
+    "company_profile_url": "https://firstround.com/companies/cache",
+    "logo_url": null,
+    "founders": [
+      "Srikanth Narayan"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Candid",
+    "description": "Imagine if modern tools managed the complexity of medical billing.",
+    "company_url": "https://www.joincandidhealth.com/",
+    "company_profile_url": "https://firstround.com/companies/candid",
+    "logo_url": null,
+    "founders": [
+      "Nick Perry"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Castle",
+    "description": "Imagine if businesses could protect their user communities with ease.",
+    "company_url": "https://castle.io/",
+    "company_profile_url": "https://firstround.com/companies/castle",
+    "logo_url": null,
+    "founders": [
+      "Johan Brissmyr",
+      "Sebastian Wallin"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Clay",
+    "description": "Imagine if go-to-market tools were as malleable as clay.",
+    "company_url": "https://clay.run/",
+    "company_profile_url": "https://firstround.com/companies/clay",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/094c95ae114f694600fd094da98a572b0e5a7889-200x200.png",
+    "founders": [
+      "Kareem Amin",
+      "Nicolae Rusan",
+      "Varun Anand"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Clearbit",
+    "description": "Imagine if businesses had total intelligence on every contact and company.",
+    "company_url": "https://clearbit.com/",
+    "company_profile_url": "https://firstround.com/companies/clearbit",
+    "logo_url": null,
+    "founders": [
+      "Alex MacCaw"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Clover Health",
+    "description": "Imagine if affordable, easy-to-understand healthcare plans improved quality of life for seniors.",
+    "company_url": "https://www.cloverhealth.com/",
+    "company_profile_url": "https://firstround.com/companies/clover-health",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/3224ddfb6c5cab9891fd8631ff385c877852c099-150x150.svg",
+    "founders": [
+      "Vivek Garipalli",
+      "Kris Gale"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Public",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Cocoon",
+    "description": "Imagine if every working person could take the time away they need to care for what matters most.",
+    "company_url": "https://www.meetcocoon.com/",
+    "company_profile_url": "https://firstround.com/companies/cocoon",
+    "logo_url": null,
+    "founders": [
+      "Mahima Chawla"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Collate",
+    "description": "Imagine if life sciences companies could reduce the time it takes to complete regulatory paperwork.",
+    "company_url": "https://collate.com/",
+    "company_profile_url": "https://firstround.com/companies/collate",
+    "logo_url": null,
+    "founders": [
+      "Surbhi Sarna",
+      "Nate Smith",
+      "Jigish Patel"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Composer",
+    "description": "Imagine if the quant investment strategies used by top hedge funds could be executed automatically by anyone.",
+    "company_url": "https://www.composer.trade/",
+    "company_profile_url": "https://firstround.com/companies/composer",
+    "logo_url": null,
+    "founders": [
+      "Ben Rollert",
+      "Ananda Aisola",
+      "Ronny Li"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Conduit Commerce",
+    "description": "Imagine if any retailer could start selling your products in minutes.",
+    "company_url": "https://www.conduitcommerce.com/",
+    "company_profile_url": "https://firstround.com/companies/conduit-commerce",
+    "logo_url": null,
+    "founders": [
+      "Rohan Shah",
+      "Rahul Sinha"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Crossbeam",
+    "description": "Imagine if every business could use the power of their partner ecosystem to grow.",
+    "company_url": "https://www.crossbeam.com/",
+    "company_profile_url": "https://firstround.com/companies/crossbeam",
+    "logo_url": null,
+    "founders": [
+      "Bob Moore"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Philadelphia"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Crossmint",
+    "description": "Imagine if anyone could mint and distribute digital assets at scale.",
+    "company_url": "https://www.crossmint.com/",
+    "company_profile_url": "https://firstround.com/companies/crossmint",
+    "logo_url": null,
+    "founders": [
+      "Rodri Fernandez",
+      "Alfonso Gomez"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Crunched",
+    "description": "Imagine if building, auditing and editing financial models was as easy as writing a sentence.",
+    "company_url": "https://www.usecrunched.com/",
+    "company_profile_url": "https://firstround.com/companies/crunched",
+    "logo_url": null,
+    "founders": [
+      "Philip Borge",
+      "Michael Sakowski",
+      "Lars MusÃ¦us",
+      "Markus Skagemo"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "David AI",
+    "description": "Imagine if audio were as central to human-to-AI interaction as it is to human-to-human interaction.",
+    "company_url": "https://withdavid.ai/",
+    "company_profile_url": "https://firstround.com/companies/david-ai",
+    "logo_url": null,
+    "founders": [
+      "Tomer Cohen",
+      "Ben Wiley"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Daydream",
+    "description": "Imagine if companies could programmatically create exceptional content that helped them grow.",
+    "company_url": "https://www.withdaydream.com/",
+    "company_profile_url": "https://firstround.com/companies/daydream",
+    "logo_url": null,
+    "founders": [
+      "Thenuka Karunaratne",
+      "Shravan Rajinikanth"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Didero",
+    "description": "Imagine if trading with companies across the world was as easy as trading across the street.",
+    "company_url": "https://www.didero.ai/",
+    "company_profile_url": "https://firstround.com/companies/didero",
+    "logo_url": null,
+    "founders": [
+      "Tom Petit",
+      "Lorenz Pallhuber",
+      "Tim Spencer"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Discourse",
+    "description": "Imagine if open source community software raised the standard for civilized discourse on the Internet.",
+    "company_url": "https://www.discourse.org",
+    "company_profile_url": "https://firstround.com/companies/discourse",
+    "logo_url": null,
+    "founders": [
+      "Jeff Atwood"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Diversio",
+    "description": "Imagine if every workplace was more inclusive.",
+    "company_url": "https://diversio.com/",
+    "company_profile_url": "https://firstround.com/companies/diversio",
+    "logo_url": null,
+    "founders": [
+      "Laura McGee"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Toronto"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "DoubleVerify",
+    "description": "Imagine if advertisers could trust that every dollar they spent on digital ads was well used.",
+    "company_url": "https://doubleverify.com/",
+    "company_profile_url": "https://firstround.com/companies/doubleverify",
+    "logo_url": null,
+    "founders": [
+      "Wayne Gattinella"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Public",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Dyna",
+    "description": "Imagine if robots could perform any task you wanted them to.",
+    "company_url": "https://www.dyna.co/",
+    "company_profile_url": "https://firstround.com/companies/dyna",
+    "logo_url": null,
+    "founders": [
+      "Lindon Gao",
+      "York Yang",
+      "Jason Ma"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "eero",
+    "description": "Imagine if people had enterprise-grade wifi at home.",
+    "company_url": "https://eero.com/",
+    "company_profile_url": "https://firstround.com/companies/eero",
+    "logo_url": null,
+    "founders": [
+      "Nick Weaver"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Consumer",
+      "Hardware"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Deeptech / Robotics / AR/VR",
+      "PropTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Eigen Therapeutics",
+    "description": "Imagine if cancer cells were more vulnerable to treatment and healthy cells were more resilient.",
+    "company_url": "https://www.eigentx.com/",
+    "company_profile_url": "https://firstround.com/companies/eigen-therapeutics",
+    "logo_url": null,
+    "founders": [
+      "Transon Nguyen"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Eisen",
+    "description": "Imagine if companies reunited everyday consumers with their money by proactively managing dormant accounts.",
+    "company_url": "https://www.witheisen.com/",
+    "company_profile_url": "https://firstround.com/companies/eisen",
+    "logo_url": null,
+    "founders": [
+      "Allen Osgood"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Endurance Energy",
+    "description": "Imagine if we could tap into the infinite power potential at the center of the earth.",
+    "company_url": "https://www.enduranceenergy.com/",
+    "company_profile_url": "https://firstround.com/companies/endurance-energy",
+    "logo_url": null,
+    "founders": [
+      "Andrew Redd"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware"
+    ],
+    "locations": [
+      "Seattle"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Etleap",
+    "description": "Imagine if powerful data pipelines could be built with minimal engineering effort.",
+    "company_url": "https://etleap.com/",
+    "company_profile_url": "https://firstround.com/companies/etleap",
+    "logo_url": null,
+    "founders": [
+      "Christian Romming"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "EvolutionIQ",
+    "description": "Imagine if improving disability insurance claims processing with AI helped more people return to work.",
+    "company_url": "https://evolutioniq.com/",
+    "company_profile_url": "https://firstround.com/companies/evolutioniq",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/7b689445e212c1256427b727e49a6ee766b573bc-150x150.svg",
+    "founders": [
+      "Tomas Vykruta",
+      "Michael Saltzman",
+      "Jonathan Lewin"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Fal",
+    "description": "Imagine if generative media had an infrastructure partner capable of supporting exponential growth.",
+    "company_url": "https://fal.ai/",
+    "company_profile_url": "https://firstround.com/companies/fal",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/15e04e7d7efbab6ce1e0f5b185a1a043aa546c42-150x150.svg",
+    "founders": [
+      "Burkay Gur",
+      "Gorkem Yurtseven"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Flai",
+    "description": "Imagine if car dealerships operated seamlessly around the clock.",
+    "company_url": "https://www.useflai.com",
+    "company_profile_url": "https://firstround.com/companies/flai",
+    "logo_url": null,
+    "founders": [
+      "Ari Polakof",
+      "Alen Polakof",
+      "Juan Alzugaray"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Flatiron Health",
+    "description": "Imagine if data could power smarter care for every person with cancer.",
+    "company_url": "https://flatiron.com/",
+    "company_profile_url": "https://firstround.com/companies/flatiron-health",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/97806fab6a6dfbe0940cd5c16a16f3f2b55f960c-150x150.svg",
+    "founders": [
+      "Nat Turner",
+      "Zach Weinberg"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "FleetWorks",
+    "description": "Imagine if AI could keep freight moving for truckers and the communities they serve.",
+    "company_url": "https://www.fleetworks.ai/",
+    "company_profile_url": "https://firstround.com/companies/fleetworks",
+    "logo_url": null,
+    "founders": [
+      "Paul Singer",
+      "Quang Tran"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Flex",
+    "description": "Imagine if it was incredibly easy for health and wellness brands to accept HSA and FSA payments online.",
+    "company_url": "https://www.withflex.com/",
+    "company_profile_url": "https://firstround.com/companies/flex",
+    "logo_url": null,
+    "founders": [
+      "Sam OKeefe",
+      "Miguel Toledo"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Flexport",
+    "description": "Imagine if we could simplify global trade by connecting everyone in the supply chain.",
+    "company_url": "https://www.flexport.com",
+    "company_profile_url": "https://firstround.com/companies/flexport",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/457e63eac17fb44c19dc603f4616be6b86ca5366-150x150.svg",
+    "founders": [
+      "Ryan Petersen"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Gauntlet",
+    "description": "Imagine if DeFiâs most complex and novel economic problems were better understood.",
+    "company_url": "https://gauntlet.xyz",
+    "company_profile_url": "https://firstround.com/companies/gauntlet",
+    "logo_url": null,
+    "founders": [
+      "Tarun Chitra"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Glide",
+    "description": "Imagine if anyone could turn their spreadsheet into a beautiful app in minutes.",
+    "company_url": "https://www.glideapps.com/",
+    "company_profile_url": "https://firstround.com/companies/glide",
+    "logo_url": null,
+    "founders": [
+      "David Siegel"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "GOAT",
+    "description": "Imagine if sneakerheads never got duped.",
+    "company_url": "https://www.goat.com/",
+    "company_profile_url": "https://firstround.com/companies/goat",
+    "logo_url": null,
+    "founders": [
+      "Eddy Lu"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Goose",
+    "description": "Imagine if booking pet care was more like booking a hotel.",
+    "company_url": "https://www.goose.pet/",
+    "company_profile_url": "https://firstround.com/companies/goose",
+    "logo_url": null,
+    "founders": [
+      "Drew Brinkoetter"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Gregor Diagnostics",
+    "description": "Imagine if prostate cancer could be detected and differentiated at the earliest stages.",
+    "company_url": "http://www.gregordiagnostics.com",
+    "company_profile_url": "https://firstround.com/companies/gregor-diagnostics",
+    "logo_url": null,
+    "founders": [
+      "Tobias Zutz"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Gritt Robotics",
+    "description": "Imagine if AI robots could automate solar farm construction.",
+    "company_url": "https://gritt.ai/",
+    "company_profile_url": "https://firstround.com/companies/gritt-robotics",
+    "logo_url": null,
+    "founders": [
+      "Puneet Puri",
+      "Vishal Dugar"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Grokker",
+    "description": "Imagine if companies could provide award-winning video content to improve employee health and wellness.",
+    "company_url": "https://grokker.com/",
+    "company_profile_url": "https://firstround.com/companies/grokker",
+    "logo_url": null,
+    "founders": [
+      "Lorna Borenstein"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "GroupMe",
+    "description": "Imagine if group messaging worked on every phone.",
+    "company_url": "https://groupme.com/",
+    "company_profile_url": "https://firstround.com/companies/groupme",
+    "logo_url": null,
+    "founders": [
+      "Jared Hecht"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Guide",
+    "description": "Imagine if more people could find work they love.",
+    "company_url": "https://guide.co/",
+    "company_profile_url": "https://firstround.com/companies/guide",
+    "logo_url": null,
+    "founders": [
+      "Troy Sultan"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "GumGum",
+    "description": "Imagine if advertisers could deliver relevant, contextual ads without using personal data.",
+    "company_url": "http://gumgum.com/",
+    "company_profile_url": "https://firstround.com/companies/gumgum",
+    "logo_url": null,
+    "founders": [
+      "Ophir Tanz"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Gumloop",
+    "description": "Imagine if anyone could automate their work without needing to be an AI expert or an engineer.",
+    "company_url": "https://www.gumloop.com/",
+    "company_profile_url": "https://firstround.com/companies/gumloop",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/e7dbdfd5ee72a25e4779b82f95c74eb234e8685f-409x409.svg",
+    "founders": [
+      "Max Brodeur-Urbas",
+      "Rahul Behal"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Gumroad",
+    "description": "Imagine if anyone could sell their digital work directly to others.",
+    "company_url": "https://gumroad.com/",
+    "company_profile_url": "https://firstround.com/companies/gumroad",
+    "logo_url": null,
+    "founders": [
+      "Sahil Lavingia"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Healia Health",
+    "description": "Imagine if couples could strategically choose between â or even combine â their employers' health plans to maximize coverage.",
+    "company_url": "https://www.healiahealth.com/",
+    "company_profile_url": "https://firstround.com/companies/healia-health",
+    "logo_url": null,
+    "founders": [
+      "Priyang Shah"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Highlight",
+    "description": "Imagine if we could build better physical products by collecting exceptional product data on impossible timelines,",
+    "company_url": "https://www.letshighlight.com/",
+    "company_profile_url": "https://firstround.com/companies/highlight",
+    "logo_url": null,
+    "founders": [
+      "Dana Kim"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "HotelTonight",
+    "description": "Imagine if anyone could book incredible last-minute deals on hotels.",
+    "company_url": "https://www.hoteltonight.com/",
+    "company_profile_url": "https://firstround.com/companies/hoteltonight",
+    "logo_url": null,
+    "founders": [
+      "Sam Shank"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "HouseRx",
+    "description": "Imagine if specialty medication was more accessible and affordable.",
+    "company_url": "https://www.houserx.com/",
+    "company_profile_url": "https://firstround.com/companies/houserx",
+    "logo_url": null,
+    "founders": [
+      "Ogi Kavazovic"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Instrumental",
+    "description": "Imagine if we cut electronics manufacturing waste in half.",
+    "company_url": "http://www.instrumental.com",
+    "company_profile_url": "https://firstround.com/companies/instrumental",
+    "logo_url": null,
+    "founders": [
+      "Anna-Katrina Shedletsky",
+      "Samuel Weiss"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Iru",
+    "description": "Imagine if companies could easily secure their users, apps and devices.",
+    "company_url": "https://www.iru.com",
+    "company_profile_url": "https://firstround.com/companies/iru",
+    "logo_url": null,
+    "founders": [
+      "Adam Pettit"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "JetInsight",
+    "description": "Imagine if aircraft charter operators could run safer and more efficient businesses.",
+    "company_url": "https://www.jetinsight.com/",
+    "company_profile_url": "https://firstround.com/companies/jetinsight",
+    "logo_url": null,
+    "founders": [
+      "Dave Benjamin"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "K2 Space",
+    "description": "Imagine if large spacecraft made previously impossible missions possible.",
+    "company_url": "https://www.k2space.com/",
+    "company_profile_url": "https://firstround.com/companies/k2space",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/31c5bdf5fa5b4deef5a38a90de165157e0cefc2d-150x150.svg",
+    "founders": [
+      "Karan Kunjur",
+      "Neel Kunjur"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Hardware"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Kentik",
+    "description": "Imagine if you could answer any question about your network.",
+    "company_url": "http://www.kentik.com",
+    "company_profile_url": "https://firstround.com/companies/kentik",
+    "logo_url": null,
+    "founders": [
+      "Avi Freedman"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Kiavi",
+    "description": "Imagine if every real estate investor could access the capital needed to scale.",
+    "company_url": "https://www.kiavi.com/",
+    "company_profile_url": "https://firstround.com/companies/kiavi",
+    "logo_url": null,
+    "founders": [
+      "Matt Humphrey"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Kindred",
+    "description": "Imagine if machines had human-like intelligence.",
+    "company_url": "https://ocadointelligentautomation.com/",
+    "company_profile_url": "https://firstround.com/companies/kindred",
+    "logo_url": null,
+    "founders": [
+      "Jim Liefer"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "AI",
+      "Hardware"
+    ],
+    "locations": [
+      "SF Bay Area",
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "KiwiCo",
+    "description": "Imagine if the next generation of innovators were inspired by creative, hands-on projects.",
+    "company_url": "https://www.kiwico.com/",
+    "company_profile_url": "https://firstround.com/companies/kiwico",
+    "logo_url": null,
+    "founders": [
+      "Sandra Oh Lin"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Koala",
+    "description": "Imagine if pets could get vet-verified prescriptions, delivered right on schedule.",
+    "company_url": "https://www.koala.health/",
+    "company_profile_url": "https://firstround.com/companies/koala",
+    "logo_url": null,
+    "founders": [
+      "Gavin Cotter"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "Consumer"
+    ],
+    "locations": [
+      "Boston"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Koodos",
+    "description": "Imagine if the internet put individuals in control of their digital identities.",
+    "company_url": "https://koodos.com/",
+    "company_profile_url": "https://firstround.com/companies/koodos",
+    "logo_url": null,
+    "founders": [
+      "Jad Esber"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Labelbox",
+    "description": "Imagine if AI companies could easily create and manage training data.",
+    "company_url": "https://labelbox.com/",
+    "company_profile_url": "https://firstround.com/companies/labelbox",
+    "logo_url": null,
+    "founders": [
+      "Manu Sharma"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Last Energy",
+    "description": "Imagine if modular nuclear power plants could decouple energy access from climate change.",
+    "company_url": "https://www.lastenergy.com/",
+    "company_profile_url": "https://firstround.com/companies/last-energy",
+    "logo_url": null,
+    "founders": [
+      "Bret Kugelmass"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Laurel",
+    "description": "Imagine if automated timekeeping could return time to lawyers, accountants, and other professionals.",
+    "company_url": "https://www.laurel.ai/",
+    "company_profile_url": "https://firstround.com/companies/laurel",
+    "logo_url": null,
+    "founders": [
+      "Ryan Alshak"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Legion",
+    "description": "Imagine if it were easier to manage your hourly workforce and keep them engaged.",
+    "company_url": "https://legion.co/",
+    "company_profile_url": "https://firstround.com/companies/legion",
+    "logo_url": null,
+    "founders": [
+      "Sanish Mondkar"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Legl",
+    "description": "Imagine if law firms could automate their non-core workflows â from payments to compliance.",
+    "company_url": "https://www.legl.com/",
+    "company_profile_url": "https://firstround.com/companies/legl",
+    "logo_url": null,
+    "founders": [
+      "Julia Salasky"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Lob",
+    "description": "Imagine if there were a digital-first approach to the analog industry of direct mail.",
+    "company_url": "https://lob.com",
+    "company_profile_url": "https://firstround.com/companies/lob",
+    "logo_url": null,
+    "founders": [
+      "Leore Avidar"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Looker",
+    "description": "Imagine if everyone within a company could easily understand the data that drives the business.",
+    "company_url": "https://www.looker.com",
+    "company_profile_url": "https://firstround.com/companies/looker",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/750158d1139a0a4982f11d2fc11aaacfaba9e5a5-150x150.svg",
+    "founders": [
+      "Lloyd Tabb",
+      "Ben Porterfield"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Loyal",
+    "description": "Imagine if we had more time with the dogs we love.",
+    "company_url": "https://loyal.com/",
+    "company_profile_url": "https://firstround.com/companies/loyal",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/62390070d7bfcc5978505e91722dd0acbb766fba-150x150.svg",
+    "founders": [
+      "Celine Halioua"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "M7 Health",
+    "description": "Imagine if health systems could attract and retain nurses by fostering flexible and predictable work environments.",
+    "company_url": "https://www.m7health.com/",
+    "company_profile_url": "https://firstround.com/companies/m7-health",
+    "logo_url": null,
+    "founders": [
+      "Ilana Borkenstein",
+      "Eric Gruskin"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Manifest",
+    "description": "Imagine if the software supply chain could automatically be secured.",
+    "company_url": "https://www.manifestcyber.com/",
+    "company_profile_url": "https://firstround.com/companies/manifest",
+    "logo_url": null,
+    "founders": [
+      "Marc Frankel",
+      "Daniel Bardenstein"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Maven",
+    "description": "Imagine if the university of the future was made up of cohort-based courses from industry experts.",
+    "company_url": "https://maven.com/",
+    "company_profile_url": "https://firstround.com/companies/maven",
+    "logo_url": null,
+    "founders": [
+      "Gagan Biyani"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Merlin",
+    "description": "Imagine if software had all the skills of a human pilot.",
+    "company_url": "https://www.merlinlabs.com/",
+    "company_profile_url": "https://firstround.com/companies/merlin",
+    "logo_url": null,
+    "founders": [
+      "Matthew George"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Hardware"
+    ],
+    "locations": [
+      "Boston"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Mighty Networks",
+    "description": "Imagine if brands and creators could start and grow their own online communities.",
+    "company_url": "https://www.mightynetworks.com/",
+    "company_profile_url": "https://firstround.com/companies/mighty-networks",
+    "logo_url": null,
+    "founders": [
+      "Gina Bianchini"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Mint",
+    "description": "Imagine if anyone could see a complete picture of their personal finances.",
+    "company_url": "http://firstround.com/review/Head-Designer-of-Mint-on-Why-Great-Design-isnt-about-Making-Things-Pretty/",
+    "company_profile_url": "https://firstround.com/companies/mint",
+    "logo_url": null,
+    "founders": [
+      "Aaron Patzer"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Mirror",
+    "description": "Imagine if a mirror could give you a smarter, harder workout from the comfort of your home.",
+    "company_url": "https://www.mirror.co",
+    "company_profile_url": "https://firstround.com/companies/mirror",
+    "logo_url": null,
+    "founders": [
+      "Brynn Putnam"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Hardware",
+      "Consumer"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Moat",
+    "description": "Imagine if there were a standard metric that served as the currency for buying and selling digital ads.",
+    "company_url": null,
+    "company_profile_url": "https://firstround.com/companies/moat",
+    "logo_url": null,
+    "founders": [
+      "Jonah Goodhart"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Montra",
+    "description": "Imagine if anyone could make professional quality videos in minutes.",
+    "company_url": "https://montra.com",
+    "company_profile_url": "https://firstround.com/companies/montra",
+    "logo_url": null,
+    "founders": [
+      "Campbell Baron"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "nGram",
+    "description": "Imagine if life sciences data was connected and conversable.",
+    "company_url": "https://www.ngram.com/",
+    "company_profile_url": "https://firstround.com/companies/ngram",
+    "logo_url": null,
+    "founders": [
+      "Anish Muppalaneni",
+      "Devadutta Ghat"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Nomad Health",
+    "description": "Imagine if we closed the gap between travel clinicians and the hospitals that need them.",
+    "company_url": "https://nomadhealth.com/",
+    "company_profile_url": "https://firstround.com/companies/nomad-health",
+    "logo_url": null,
+    "founders": [
+      "Alexi Nazem"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Noon",
+    "description": "Imagine if beautiful and useful product experiences could be crafted with no gap between design and code.",
+    "company_url": "https://noon.design/",
+    "company_profile_url": "https://firstround.com/companies/noon",
+    "logo_url": null,
+    "founders": [
+      "Aditya Bandi",
+      "Kushagra Sinha"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Notion",
+    "description": "Imagine if documents worked more like software.",
+    "company_url": "https://www.notion.so",
+    "company_profile_url": "https://firstround.com/companies/notion",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/241a2e951045ae0c99d538c083b877eb1ea5f5d6-150x147.png",
+    "founders": [
+      "Ivan Zhao",
+      "Simon Last",
+      "Akshay Kothari"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Nova Credit",
+    "description": "Imagine if millions of people with limited credit history could access the financial system.",
+    "company_url": "https://www.novacredit.com/",
+    "company_profile_url": "https://firstround.com/companies/nova-credit",
+    "logo_url": null,
+    "founders": [
+      "Loek Janssen",
+      "Nicky Goulimis",
+      "Misha Esipov"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Numerai",
+    "description": "Imagine if a network of data scientists built a hedge fund.",
+    "company_url": "https://numer.ai/",
+    "company_profile_url": "https://firstround.com/companies/numerai",
+    "logo_url": null,
+    "founders": [
+      "Richard Craib"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Odeko",
+    "description": "Imagine if every local cafeâs shelves were always stocked.",
+    "company_url": "https://www.odeko.com/",
+    "company_profile_url": "https://firstround.com/companies/odeko",
+    "logo_url": null,
+    "founders": [
+      "Dane Atkinson"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "ODIN",
+    "description": "Imagine if data generated on the job site could make construction safer.",
+    "company_url": "https://www.useodin.com/",
+    "company_profile_url": "https://firstround.com/companies/odin",
+    "logo_url": null,
+    "founders": [
+      "Douglas Carney"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Omnea",
+    "description": "Imagine if every company could automate procurement.",
+    "company_url": "https://www.omnea.co/",
+    "company_profile_url": "https://firstround.com/companies/omnea",
+    "logo_url": null,
+    "founders": [
+      "Ben Freeman",
+      "Ben Allen"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Omni",
+    "description": "Imagine if business intelligence combined the consistency of a shared data model with the speed and freedom of SQL.",
+    "company_url": "https://www.exploreomni.com/",
+    "company_profile_url": "https://firstround.com/companies/omni",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/f8bc55c93dd4d64057a576fbcb72b58ebf1872dd-150x150.svg",
+    "founders": [
+      "Colin Zima"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "OnDeck Capital",
+    "description": "Imagine if every small business got the credit they deserved.",
+    "company_url": "https://www.ondeck.com/",
+    "company_profile_url": "https://firstround.com/companies/ondeck-capital",
+    "logo_url": null,
+    "founders": [
+      "Noah Breslow"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Public",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "One Safe",
+    "description": "Imagine if startups could bank in both fiat and cryptocurrencies.",
+    "company_url": "https://www.onesafe.io/",
+    "company_profile_url": "https://firstround.com/companies/one-safe",
+    "logo_url": null,
+    "founders": [
+      "Chris Shei",
+      "Brian Ko"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Onyx",
+    "description": "Imagine if employees could find company information faster.",
+    "company_url": "https://www.onyx.app/",
+    "company_profile_url": "https://firstround.com/companies/onyx",
+    "logo_url": null,
+    "founders": [
+      "Yuhong Sun",
+      "Chris Weaver"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ossium Health",
+    "description": "Imagine if every patient who needed a bone marrow transplant could get one.",
+    "company_url": "https://www.ossiumhealth.com/",
+    "company_profile_url": "https://firstround.com/companies/ossium-health",
+    "logo_url": null,
+    "founders": [
+      "Kevin Caldwell",
+      "Erik Woods"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ourself",
+    "description": "Imagine if we could maximize skincare delivery for results that run deep.",
+    "company_url": "https://www.ourself.com/",
+    "company_profile_url": "https://firstround.com/companies/ourself",
+    "logo_url": null,
+    "founders": [
+      "Scott Glenn"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Active",
+    "sectors": [
+      "Consumer",
+      "Healthcare"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health",
+      "Logistics / Supply Chain",
+      "CPG"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ownwell",
+    "description": "Imagine if millions of people didn't overspend on property expenses every year.",
+    "company_url": "https://www.ownwell.com/",
+    "company_profile_url": "https://firstround.com/companies/ownwell",
+    "logo_url": null,
+    "founders": [
+      "Colton Pace"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Pantheon",
+    "description": "Imagine if organizations could manage all of their websites from a single dashboard.",
+    "company_url": "https://pantheon.io/",
+    "company_profile_url": "https://firstround.com/companies/pantheon",
+    "logo_url": null,
+    "founders": [
+      "Zack Rosen"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Parallel",
+    "description": "Imagine if the web was built with, by, and for AIs.",
+    "company_url": "https://parallel.ai/",
+    "company_profile_url": "https://firstround.com/companies/parallel",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/875c5957b022a852f2cced41a5c2db5351a30ea1-271x270.svg",
+    "founders": [
+      "Parag Agrawal"
+    ],
+    "partners": [
+      "Todd Jackson",
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "PatientPing",
+    "description": "Imagine if real-time intelligence could improve care coordination and patient outcomes.",
+    "company_url": "https://bamboohealth.com/",
+    "company_profile_url": "https://firstround.com/companies/patientping",
+    "logo_url": null,
+    "founders": [
+      "Jay Desai"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Boston"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Perpay",
+    "description": "Imagine if paychecks could work harder for the people who earn them.",
+    "company_url": "https://perpay.com/",
+    "company_profile_url": "https://firstround.com/companies/perpay",
+    "logo_url": null,
+    "founders": [
+      "Chris DiMarco"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Philadelphia"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Persona",
+    "description": "Imagine if every company could verify that its users are who they say they are.",
+    "company_url": "https://withpersona.com/",
+    "company_profile_url": "https://firstround.com/companies/persona",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/e1186b790153aacd0e7b0bdf1593502afa070fa9-150x150.svg",
+    "founders": [
+      "Rick Song"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Pine Park Health",
+    "description": "Imagine if seniors could access high-quality medical care from the comfort of home.",
+    "company_url": "https://www.pineparkhealth.com/",
+    "company_profile_url": "https://firstround.com/companies/pine-park-health",
+    "logo_url": null,
+    "founders": [
+      "George Khasin"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Pinwheel",
+    "description": "Imagine if unlocking payroll data could help create a fairer financial system.",
+    "company_url": "https://www.pinwheelapi.com/",
+    "company_profile_url": "https://firstround.com/companies/pinwheel",
+    "logo_url": null,
+    "founders": [
+      "Kurtis Lin"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Planet",
+    "description": "Imagine if we could use space to help life on Earth by imaging the entire globe every day.",
+    "company_url": "https://www.planet.com/",
+    "company_profile_url": "https://firstround.com/companies/planet",
+    "logo_url": null,
+    "founders": [
+      "Will Marshall",
+      "Robbie Schingler",
+      "Chris Boshuizen"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Public",
+    "sectors": [
+      "Hardware",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ploy",
+    "description": "Imagine if your website could grow your business while you sleep.",
+    "company_url": "https://ploy.ai/",
+    "company_profile_url": "https://firstround.com/companies/ploy",
+    "logo_url": null,
+    "founders": [
+      "Bryant Chou"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Pomelo Care",
+    "description": "Imagine if proactive, evidence-based healthcare could dramatically improve outcomes for women and children throughout their lives.",
+    "company_url": "https://www.pomelocare.com/",
+    "company_profile_url": "https://firstround.com/companies/pomelo-care",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/4cdd0d214bbdb7e60a9e5087e2d69c515cd7a7ae-200x200.png",
+    "founders": [
+      "Marta Bralic Kerns"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Prepared",
+    "description": "Imagine if new technology could ensure every emergency gets the perfect response.",
+    "company_url": "https://www.prepared911.com/",
+    "company_profile_url": "https://firstround.com/companies/prepared",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/bfbbe210a4fc419346cf71316b96b28cbe28c470-150x150.svg",
+    "founders": [
+      "Michael Chime",
+      "Dylan Gleicher",
+      "Neal Soni"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Proception",
+    "description": "Imagine if robotic hands were dexterous enough to thread a needle with human-like precision and control.",
+    "company_url": "https://www.proception.ai/",
+    "company_profile_url": "https://firstround.com/companies/proception",
+    "logo_url": null,
+    "founders": [
+      "Jay Li",
+      "Jack Xu"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Promise",
+    "description": "Imagine if government and utilities could easily provide payment assistance and relief to eligible households.",
+    "company_url": "https://www.promise-pay.com/",
+    "company_profile_url": "https://firstround.com/companies/promise",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/99ac92b533e9f8e5f8e5a5e94e0d25e56aa54cd7-150x150.svg",
+    "founders": [
+      "Phaedra Ellis-Lamkins"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Quantile Health",
+    "description": "Imagine if every patient had unfettered access to lifesaving gene therapy treatments.",
+    "company_url": "https://quantilehealth.com/",
+    "company_profile_url": "https://firstround.com/companies/quantile-health",
+    "logo_url": null,
+    "founders": [
+      "Yutong Sun"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Rarebird",
+    "description": "Imagine if coffee could provide all of the alertness without any of the jitters.",
+    "company_url": "https://rarebird.coffee/",
+    "company_profile_url": "https://firstround.com/companies/rarebird",
+    "logo_url": null,
+    "founders": [
+      "Jeffrey Dietrich"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "RebelMouse",
+    "description": "Imagine if companies could optimize distribution across social media platforms.",
+    "company_url": "https://www.rebelmouse.com/",
+    "company_profile_url": "https://firstround.com/companies/rebelmouse",
+    "logo_url": null,
+    "founders": [
+      "Andrea Breanna"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Reducto",
+    "description": "Imagine if LLMs could read documents the way humans do.",
+    "company_url": "https://reducto.ai/",
+    "company_profile_url": "https://firstround.com/companies/reducto",
+    "logo_url": null,
+    "founders": [
+      "Adit Abraham",
+      "Raunak Chowdhuri"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Remora",
+    "description": "Imagine if we could capture the carbon released by every train and truck.",
+    "company_url": "https://remoracarbon.com/",
+    "company_profile_url": "https://firstround.com/companies/remora",
+    "logo_url": null,
+    "founders": [
+      "Paul Gross",
+      "Eric Harding"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware",
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "RenoFi",
+    "description": "Imagine if homeowners had the borrowing power they needed to transform a house into a dream home.",
+    "company_url": "https://www.renofi.com/",
+    "company_profile_url": "https://firstround.com/companies/renofi",
+    "logo_url": null,
+    "founders": [
+      "Justin Goldman"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Philadelphia",
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Rillet",
+    "description": "Imagine if high-growth companies could automate accounting and make zero day close a reality.",
+    "company_url": "https://www.rillet.com/",
+    "company_profile_url": "https://firstround.com/companies/rillet",
+    "logo_url": null,
+    "founders": [
+      "Nicolas Kopp"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Ring",
+    "description": "Imagine if you could see and speak with anyone at your front door from your phone.",
+    "company_url": null,
+    "company_profile_url": "https://firstround.com/companies/ring",
+    "logo_url": null,
+    "founders": [
+      "James Siminoff"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Hardware",
+      "Consumer"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Roblox",
+    "description": "Imagine if kids learned to code while playing video games.",
+    "company_url": "https://www.roblox.com/",
+    "company_profile_url": "https://firstround.com/companies/roblox",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/d5fd2744917ad36f4b915d11420206544a933485-600x600.png",
+    "founders": [
+      "David Baszucki"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Public",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Rupa Health",
+    "description": "Imagine if every doctor could practice root cause medicine.",
+    "company_url": "https://www.rupahealth.com/",
+    "company_profile_url": "https://firstround.com/companies/rupa-health",
+    "logo_url": null,
+    "founders": [
+      "Tara Viswanathan"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "SafetyKit",
+    "description": "Imagine if AI agents could do big techâs dirty work.",
+    "company_url": "https://www.safetykit.com/",
+    "company_profile_url": "https://firstround.com/companies/safetykit",
+    "logo_url": null,
+    "founders": [
+      "David Graunke"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Scotch",
+    "description": "Imagine if liquor stores retailers could run their businesses on modern software tailored to their needs.",
+    "company_url": "https://scotchpos.com/",
+    "company_profile_url": "https://firstround.com/companies/scotch",
+    "logo_url": null,
+    "founders": [
+      "Jake Bolling"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "locations": [
+      "Other",
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Seneca",
+    "description": "Imagine if we could stop wildfires before they spread.",
+    "company_url": "https://seneca.com/",
+    "company_profile_url": "https://firstround.com/companies/seneca",
+    "logo_url": null,
+    "founders": [
+      "Stuart Landesberg"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Serval",
+    "description": "Imagine if companies could automate their IT help desks.",
+    "company_url": "https://www.serval.com/",
+    "company_profile_url": "https://firstround.com/companies/serval",
+    "logo_url": null,
+    "founders": [
+      "Jake Stauch",
+      "Alex McLeod"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Sift",
+    "description": "Imagine if AI could prevent and detect online fraud.",
+    "company_url": "http://www.sift.com",
+    "company_profile_url": "https://firstround.com/companies/sift",
+    "logo_url": null,
+    "founders": [
+      "Jason Tan"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "SingleStore",
+    "description": "Imagine if a database could store and process large amounts of data entirely in RAM.",
+    "company_url": "https://www.singlestore.com/",
+    "company_profile_url": "https://firstround.com/companies/singlestore",
+    "logo_url": null,
+    "founders": [
+      "Eric Frenkiel",
+      "Nikita Shamgunov",
+      "Adam Prout"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Siteline",
+    "description": "Imagine if subcontractors got paid faster and had a better financial foundation to build on.",
+    "company_url": "https://siteline.com/",
+    "company_profile_url": "https://firstround.com/companies/siteline",
+    "logo_url": null,
+    "founders": [
+      "Gloria Lin"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "SiteRx",
+    "description": "Imagine if clinical trials were accessible to every doctor and patient.",
+    "company_url": "https://www.siterx.com/",
+    "company_profile_url": "https://firstround.com/companies/siterx",
+    "logo_url": null,
+    "founders": [
+      "Seth Goodman"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "AI"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Smartling",
+    "description": "Imagine if every global brand could speak to every customer in their native language.",
+    "company_url": "https://www.smartling.com/",
+    "company_profile_url": "https://firstround.com/companies/smartling",
+    "logo_url": null,
+    "founders": [
+      "Jack Welde"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Snackpass",
+    "description": "Imagine if college students could order ahead and skip lines when getting takeout with friends.",
+    "company_url": "https://www.snackpass.co",
+    "company_profile_url": "https://firstround.com/companies/snackpass",
+    "logo_url": null,
+    "founders": [
+      "Kevin Tan"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Solidroad",
+    "description": "Imagine if every customer interaction was flawlessly executed.",
+    "company_url": "https://www.solidroad.com",
+    "company_profile_url": "https://firstround.com/companies/solidroad",
+    "logo_url": null,
+    "founders": [
+      "Mark Hughes",
+      "Patrick Finlay"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Spark Thermionics",
+    "description": "Imagine if there was a 10x better way to convert heat into electricity.",
+    "company_url": "https://www.sparkthermionics.com/",
+    "company_profile_url": "https://firstround.com/companies/spark-thermionics",
+    "logo_url": null,
+    "founders": [
+      "Jared Schwede"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Pre-Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Spline",
+    "description": "Imagine if anyone could design and collaborate in 3D.",
+    "company_url": "https://spline.design/",
+    "company_profile_url": "https://firstround.com/companies/spline",
+    "logo_url": null,
+    "founders": [
+      "Alejandro LeÃ³n"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Sprig",
+    "description": "Imagine if every company captured the insights they needed to create products people love.",
+    "company_url": "https://sprig.com/",
+    "company_profile_url": "https://firstround.com/companies/sprig",
+    "logo_url": null,
+    "founders": [
+      "Ryan Glasgow"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Spur",
+    "description": "Imagine if companies could QA any website using natural language.",
+    "company_url": "https://www.spurtest.com/",
+    "company_profile_url": "https://firstround.com/companies/spur",
+    "logo_url": null,
+    "founders": [
+      "Sneha Sivakumar",
+      "Anushka Nijhawan"
+    ],
+    "partners": [
+      "Liz Wessel"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Square",
+    "description": "Imagine if any phone could accept credit cards anywhere.",
+    "company_url": "https://squareup.com/",
+    "company_profile_url": "https://firstround.com/companies/square",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/ccd1dd51867f2a0fb24c908a624b87cdace03f60-150x150.svg",
+    "founders": [
+      "Jack Dorsey",
+      "Jim McKelvey"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Series A",
+    "status": "Public",
+    "sectors": [
+      "Fintech",
+      "Enterprise",
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Stedi",
+    "description": "Imagine if eligibility checks and claims processing could all be done via API.",
+    "company_url": "https://www.stedi.com/",
+    "company_profile_url": "https://firstround.com/companies/stedi",
+    "logo_url": null,
+    "founders": [
+      "Zack Kanter"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Steno",
+    "description": "Imagine if court reporting just worked so lawyers could focus on the case.",
+    "company_url": "https://steno.com/",
+    "company_profile_url": "https://firstround.com/companies/steno",
+    "logo_url": null,
+    "founders": [
+      "Dan Anderson",
+      "Dylan Ruga",
+      "Greg Hong"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Stensul",
+    "description": "Imagine if enterprise marketing teams could create emails and landing pages without all the back-and-forth.",
+    "company_url": "https://stensul.com",
+    "company_profile_url": "https://firstround.com/companies/stensul",
+    "logo_url": null,
+    "founders": [
+      "Noah Dinkin"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Studs",
+    "description": "Imagine if getting your ears pierced was a shopping experience to remember.",
+    "company_url": "https://studs.com/",
+    "company_profile_url": "https://firstround.com/companies/studs",
+    "logo_url": null,
+    "founders": [
+      "Anna Harman"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Subscript",
+    "description": "Imagine if finance teams didn't have to reinvent the wheel in spreadsheet hell.",
+    "company_url": "https://www.subscript.com/",
+    "company_profile_url": "https://firstround.com/companies/subscript",
+    "logo_url": null,
+    "founders": [
+      "Sidharth Kakkar",
+      "Michelle Lee"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Suki",
+    "description": "Imagine if doctors could focus on patients instead of paperwork.",
+    "company_url": "https://www.suki.ai",
+    "company_profile_url": "https://firstround.com/companies/suki",
+    "logo_url": null,
+    "founders": [
+      "Punit Soni"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Superhuman",
+    "description": "Imagine if we could speed through our inboxes twice as fast.",
+    "company_url": "https://superhuman.com/",
+    "company_profile_url": "https://firstround.com/companies/superhuman",
+    "logo_url": null,
+    "founders": [
+      "Rahul Vohra"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Swift Navigation",
+    "description": "Imagine if positioning solutions had centimeter-level accuracy.",
+    "company_url": "https://www.swiftnav.com/",
+    "company_profile_url": "https://firstround.com/companies/swift-navigation",
+    "logo_url": null,
+    "founders": [
+      "Tim Harris"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Tesorio",
+    "description": "Imagine if companies could turn more revenue into cash by automating accounts receivable.",
+    "company_url": "https://www.tesorio.com",
+    "company_profile_url": "https://firstround.com/companies/tesorio",
+    "logo_url": null,
+    "founders": [
+      "Carlos Vega",
+      "Fabio Fleitas"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "TetraScience",
+    "description": "Imagine if life scientists had their own R&D data cloud.",
+    "company_url": "http://www.tetrascience.com/",
+    "company_profile_url": "https://firstround.com/companies/tetrascience",
+    "logo_url": null,
+    "founders": [
+      "Patrick Grady",
+      "Alok Tayi",
+      "Salvatore Savo"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "Enterprise"
+    ],
+    "locations": [
+      "Boston"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "The Black Tux",
+    "description": "Imagine if you could rent designer-quality tuxedos online.",
+    "company_url": "https://theblacktux.com/",
+    "company_profile_url": "https://firstround.com/companies/the-black-tux",
+    "logo_url": null,
+    "founders": [
+      "Andrew Blackmon"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "The Climate Corporation",
+    "description": "Imagine if every farmer could use data to sustainably increase their productivity and profitability.",
+    "company_url": "https://climate.com/",
+    "company_profile_url": "https://firstround.com/companies/the-climate-corporation",
+    "logo_url": null,
+    "founders": [
+      "David Friedberg"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Acquired",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Thena",
+    "description": "Imagine if businesses could acquire, service, and grow their customers in Slack.",
+    "company_url": "https://www.thena.ai/",
+    "company_profile_url": "https://firstround.com/companies/thena",
+    "logo_url": null,
+    "founders": [
+      "Ankit Saxena"
+    ],
+    "partners": [],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Theseus",
+    "description": "Imagine if drones could complete missions without relying on GPS.",
+    "company_url": "https://theseus.us/",
+    "company_profile_url": "https://firstround.com/companies/theseus",
+    "logo_url": null,
+    "founders": [
+      "Carl Schoeller",
+      "Ian Laffey",
+      "Sacha Levy"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Thirty Madison",
+    "description": "Imagine if managing chronic conditions felt as seamless, personalized and consumer-friendly as the best modern internet products.",
+    "company_url": "https://thirtymadison.com/",
+    "company_profile_url": "https://firstround.com/companies/thirty-madison",
+    "logo_url": null,
+    "founders": [
+      "Steven Gutentag",
+      "Demetri Karagas"
+    ],
+    "partners": [
+      "Hayley Barna"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Together AI",
+    "description": "Imagine if anyone could build or fine-tune their own generative AI models.",
+    "company_url": "https://www.together.ai/",
+    "company_profile_url": "https://firstround.com/companies/together-ai",
+    "logo_url": null,
+    "founders": [
+      "Vipul Ved Prakash"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Town",
+    "description": "Imagine if everyone had an AI assistant that actually worked the way they do.",
+    "company_url": "https://town.com/",
+    "company_profile_url": "https://firstround.com/companies/town",
+    "logo_url": null,
+    "founders": [
+      "Jean-Denis Greze",
+      "Tony Vincent"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Uber",
+    "description": "Imagine if you could get a ride from your phone in minutes.",
+    "company_url": "https://www.uber.com/",
+    "company_profile_url": "https://firstround.com/companies/uber",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/47016aee3299d1648de4e0c448cd6374d4d29ed7-150x150.svg",
+    "founders": [
+      "Travis Kalanick",
+      "Garrett Camp"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Public",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Unblocked",
+    "description": "Imagine if any developer could instantly answer any question about their codebase.",
+    "company_url": "https://getunblocked.com/",
+    "company_profile_url": "https://firstround.com/companies/unblocked",
+    "logo_url": null,
+    "founders": [
+      "Dennis Pilarinos"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "DevTools & Infra"
+    ],
+    "locations": [
+      "Vancouver"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Upstart",
+    "description": "Imagine if twice as many borrowers could qualify for loans with fewer defaults.",
+    "company_url": "https://www.upstart.com/",
+    "company_profile_url": "https://firstround.com/companies/upstart",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/8550be4e31fb5d1c5b97fc4e5a23380e2ecb4f17-150x150.svg",
+    "founders": [
+      "Dave Girouard",
+      "Paul Gu",
+      "Anna Counselman"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Public",
+    "sectors": [
+      "Fintech",
+      "AI"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "UrbanSitter",
+    "description": "Imagine if parents could book a trusted babysitter with a simple app.",
+    "company_url": "https://www.urbansitter.com/",
+    "company_profile_url": "https://firstround.com/companies/urbansitter",
+    "logo_url": null,
+    "founders": [
+      "Lynn Perkins"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Verkada",
+    "description": "Imagine if buildings protected the people inside using consumer technology.",
+    "company_url": "https://www.verkada.com/",
+    "company_profile_url": "https://firstround.com/companies/verkada",
+    "logo_url": "https://cdn.sanity.io/images/m6i10uln/production/9164d6f96cbc137f96313cf76fee5c31e69ed76a-512x512.png",
+    "founders": [
+      "Filip Kaliszan",
+      "Benjamin Bercovitz",
+      "James Ren",
+      "Hans Robertson"
+    ],
+    "partners": [
+      "Bill Trenchard"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Hardware",
+      "Enterprise"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Verto Education",
+    "description": "Imagine if a first year abroad was the path of least resistance to a great college education.",
+    "company_url": "https://vertoeducation.org/",
+    "company_profile_url": "https://firstround.com/companies/verto-education",
+    "logo_url": null,
+    "founders": [
+      "Mitch Gordon",
+      "Ben Welbourn"
+    ],
+    "partners": [
+      "Brett Berson"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "locations": [
+      "Other"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Vitable Health",
+    "description": "Imagine if healthcare worked better for 80 million uninsured and under-insured Americans.",
+    "company_url": "https://vitablehealth.com/",
+    "company_profile_url": "https://firstround.com/companies/vitable-health",
+    "logo_url": null,
+    "founders": [
+      "Joseph Kitonga"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Philadelphia"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Vital",
+    "description": "Imagine if busy hospitals could turn clinical documentation into patient-friendly communication.",
+    "company_url": "https://vital.io/",
+    "company_profile_url": "https://firstround.com/companies/vital",
+    "logo_url": null,
+    "founders": [
+      "Aaron Patzer",
+      "Justin Schrager"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "locations": [
+      "Distributed"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Warby Parker",
+    "description": "Imagine if anyone could buy high-quality, stylish prescription glasses at a fraction of the price.",
+    "company_url": "https://www.warbyparker.com/",
+    "company_profile_url": "https://firstround.com/companies/warby-parker",
+    "logo_url": null,
+    "founders": [
+      "Dave Gilboa",
+      "Neil Blumenthal"
+    ],
+    "partners": [
+      "Chris Fralic"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Public",
+    "sectors": [
+      "Consumer"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Wonderschool",
+    "description": "Imagine if every child had access to quality early childcare close to home, no matter where they lived.",
+    "company_url": "https://www.wonderschool.com",
+    "company_profile_url": "https://firstround.com/companies/wonderschool",
+    "logo_url": null,
+    "founders": [
+      "Chris Bennett"
+    ],
+    "partners": [
+      "Josh Kopelman"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Woolf",
+    "description": "Imagine if world-class, globally recognized higher education was accessible to everyone.",
+    "company_url": "https://woolf.university/",
+    "company_profile_url": "https://firstround.com/companies/woolf",
+    "logo_url": null,
+    "founders": [
+      "Joshua Broggi"
+    ],
+    "partners": [
+      "Todd Jackson"
+    ],
+    "initial_investment_stage": null,
+    "status": "Active",
+    "sectors": [
+      "Enterprise",
+      "Consumer"
+    ],
+    "locations": [
+      "SF Bay Area"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "Xclaim",
+    "description": "Imagine if there was a transparent marketplace for buying and selling bankruptcy claims.",
+    "company_url": "https://www.x-claim.com/",
+    "company_profile_url": "https://firstround.com/companies/xclaim",
+    "logo_url": null,
+    "founders": [
+      "Matt Sedigh"
+    ],
+    "partners": [
+      "Bill"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Fintech"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  },
+  {
+    "company_name": "ZEFR",
+    "description": "Imagine if advertisers could ensure brand suitability across walled garden platforms.",
+    "company_url": "http://zefr.com/",
+    "company_profile_url": "https://firstround.com/companies/zefr",
+    "logo_url": null,
+    "founders": [
+      "Zach James",
+      "Rich Raddon"
+    ],
+    "partners": [
+      "Rob Hayes"
+    ],
+    "initial_investment_stage": "Seed",
+    "status": "Active",
+    "sectors": [
+      "Enterprise"
+    ],
+    "locations": [
+      "Los Angeles"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://firstround.com/companies",
+    "scraped_at": "2026-07-27T21:27:14.880797+00:00"
+  }
+]

@@ -1,0 +1,1596 @@
+[
+  {
+    "company_name": "Chime",
+    "company_url": "https://www.chime.com/",
+    "description": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Graphite",
+    "company_url": "https://graphite.dev/",
+    "description": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Habi",
+    "company_url": "https://habi.co/",
+    "description": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Plaid",
+    "company_url": "https://plaid.com/",
+    "description": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Shield AI",
+    "company_url": "https://www.shield.ai/",
+    "description": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Adonis",
+    "company_url": "https://www.tryadonis.com/",
+    "description": "Revenue intelligence for medical practices",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Airweave",
+    "company_url": "https://airweave.ai/",
+    "description": "Empower AI agents with search",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Albert Invent",
+    "company_url": "https://www.albertinvent.com/",
+    "description": "R&D for chemicals and materials science",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Altira Health",
+    "company_url": "https://www.altirahealth.com/",
+    "description": "AI clinical assistant",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Amberflo",
+    "company_url": "https://www.amberflo.io/",
+    "description": "Usage metering and billing",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ambrook",
+    "company_url": "https://ambrook.com/",
+    "description": "Sustainability for natural resource industries",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Andrenam",
+    "company_url": "https://www.andrenam.com/",
+    "description": "AI-powered maritime sensing",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "AngelList",
+    "company_url": "https://www.angellist.com/",
+    "description": "Investing for everyone",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "ArchAstro",
+    "company_url": "https://archastro.ai/",
+    "description": "AI agents for cross-company deployment",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Archimetis",
+    "company_url": "https://www.archimetis.ai/",
+    "description": "AI ops for heavy industry",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Arthur AI",
+    "company_url": "https://www.arthur.ai/",
+    "description": "AI model monitoring",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Assembly",
+    "company_url": "https://www.joinassembly.com/",
+    "description": "Low-code project management",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Atlas",
+    "company_url": "https://atlasmotion.com/",
+    "description": "Critical components for national resilience",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Bacca.ai",
+    "company_url": "https://www.bacca.ai/",
+    "description": "AI site reliability engineering",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Biobot Analytics",
+    "company_url": "http://www.biobot.io/",
+    "description": "Wastewater analytics that save lives",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Blockparty",
+    "company_url": "https://www.blockpartyapp.com/",
+    "description": "Filtering your online experience",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Bluejay",
+    "company_url": "https://getbluejay.ai/",
+    "description": "QA for AI agents",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Boom Supersonic",
+    "company_url": "https://boomsupersonic.com/",
+    "description": "Supersonic air travel",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "BrainCo",
+    "company_url": "https://brain.co/",
+    "description": "Agent-native OS for modern institutions",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Braintrust",
+    "company_url": "https://www.usebraintrust.com/",
+    "description": "Tokenized freelance marketplace",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Branch",
+    "company_url": "https://branch.gg/",
+    "description": "Web3 gaming",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Caba",
+    "company_url": "https://www.cabadesign.co/",
+    "description": "Custom furniture, delivered fast",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cabana",
+    "company_url": "https://cabanapools.com/",
+    "description": "Pool service made easy",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Canopy",
+    "company_url": "https://canopyservicing.com/",
+    "description": "Modern loan servicing API",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Clarity Pediatrics",
+    "company_url": "https://www.claritypediatrics.com/",
+    "description": "ADHD therapy for children",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "CoinTracker",
+    "company_url": "https://www.cointracker.io/",
+    "description": "Crypto portfolio & tax tracking",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Color",
+    "company_url": "https://www.color.com/",
+    "description": "Accessible health care platforms",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cometa",
+    "company_url": "https://www.getcometa.com/",
+    "description": "K-12 payments in Mexico",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Concentric AI",
+    "company_url": "https://www.concentric.ai/",
+    "description": "Data risk monitoring",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "CoreStory",
+    "company_url": "https://corestory.ai/",
+    "description": "Code intelligence",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Corner Health",
+    "company_url": "https://www.cornerhealth.com/",
+    "description": "Operations for nurse practitioners",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cotool",
+    "company_url": "https://www.cotool.ai/",
+    "description": "AI for the blue team",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cove",
+    "company_url": "https://cove.ai/",
+    "description": "Collaborative AI",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Datacurve",
+    "company_url": "https://datacurve.ai/",
+    "description": "data for frontier AI",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "DeepWeave",
+    "company_url": "https://www.deepweave.ai/",
+    "description": "Optimized chips for AI",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "De-Ice",
+    "company_url": null,
+    "description": "Electric de-icing for aerospace",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Eisen",
+    "company_url": "https://www.witheisen.com/",
+    "description": "Escheatment compliance",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ello",
+    "company_url": "https://www.ello.com/",
+    "description": "AI reading coach for kids",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Eloquent AI",
+    "company_url": "https://www.eloquentai.co/",
+    "description": "AI operator for financial services",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Elroy Air",
+    "company_url": "http://elroyair.com/",
+    "description": "Autonomous cargo aircraft",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Estimote",
+    "company_url": "https://estimote.com/",
+    "description": "OS for the physical world",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ethena",
+    "company_url": "https://www.goethena.com/",
+    "description": "Smarter training software",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Extend",
+    "company_url": "https://www.extend.ai/",
+    "description": "Document processing cloud",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Finch",
+    "company_url": "https://tryfinch.com/",
+    "description": "Payroll and HR data API",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Finix",
+    "company_url": "https://www.finixpayments.com/",
+    "description": "Real-time payments infrastructure",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Gusto",
+    "company_url": "https://gusto.com/",
+    "description": "Modern payroll, benefits and HR",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Hallow",
+    "company_url": "https://hallow.com/",
+    "description": "Prayer and meditation",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Headway",
+    "company_url": "https://headway.co/",
+    "description": "Better mental health system",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Hidden Door",
+    "company_url": "https://www.hiddendoor.co/",
+    "description": "AI-powered social roleplaying",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Hivemapper",
+    "company_url": "https://hivemapper.com/",
+    "description": "Smarter mapping",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Honor",
+    "company_url": "https://www.joinhonor.com/",
+    "description": "Home care",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Hummingbird",
+    "company_url": "https://hummingbird.co/",
+    "description": "Financial crime fighting",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Inversion Space",
+    "company_url": "https://www.inversionspace.com/",
+    "description": "Delivery from space",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Jetify",
+    "company_url": "https://www.jetify.com/",
+    "description": "Cloud dev environments",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Kanmon",
+    "company_url": "https://www.kanmonhq.com/",
+    "description": "Embedded financing",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Kettle",
+    "company_url": "https://ourkettle.com/",
+    "description": "Climate risk modeling",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Larridin",
+    "company_url": "https://larridin.com/",
+    "description": "Workforce and AI agent productivity",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Leona",
+    "company_url": "https://www.leona.health/",
+    "description": "AI-powered co-pilot for doctors",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Living Carbon",
+    "company_url": "https://www.livingcarbon.com/",
+    "description": "Carbon-capturing plants",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "MAIA Analytics",
+    "company_url": "https://www.maia-analytics.com/",
+    "description": "AI-powered geospatial analysis",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Manifest",
+    "company_url": "https://www.manifestcyber.com/",
+    "description": "SBOM management",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Mantari",
+    "company_url": "https://www.mantari.com/",
+    "description": "Mission-critical weather intelligence",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "MatX",
+    "company_url": "https://matx.com/",
+    "description": "Faster chips for LLMs",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Mercury",
+    "company_url": "https://mercury.com/",
+    "description": "Banking for startups",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Modelbit",
+    "company_url": "https://www.modelbit.com/",
+    "description": "ML model deployment",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Monograph",
+    "company_url": "https://monograph.com/",
+    "description": "Project management for architects",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Nava",
+    "company_url": "https://www.navabenefits.com/",
+    "description": "Modern benefits brokerage",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Nelo",
+    "company_url": "https://www.nelo.mx/",
+    "description": "Consumer credit for Latin America",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Noon",
+    "company_url": "https://noon.design/",
+    "description": "dual-canvas for design and code",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Noyo",
+    "company_url": "https://www.noyo.com/",
+    "description": "Health insurance infrastructure",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Numbi",
+    "company_url": "https://numbi.ai/",
+    "description": "Accounting for Latin America",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Nuvocargo",
+    "company_url": "https://www.nuvocargo.com/",
+    "description": "Cross-border shipping",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Oboe",
+    "company_url": "https://oboe.fyi/",
+    "description": "AI-powered learning",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Obvio",
+    "company_url": "https://www.obvio.ai/",
+    "description": "AI for traffic safety",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Overview",
+    "company_url": "https://overview.ai/",
+    "description": "Computer vision for factories",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Pika",
+    "company_url": "https://pika.art/",
+    "description": "Idea-to-video",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Primary",
+    "company_url": "https://www.primary.com/",
+    "description": "Kids clothing essentials",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Purchaser",
+    "company_url": "https://purchaser.ai/",
+    "description": "Industrial supply chain sourcing",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Quanta",
+    "company_url": "https://www.usequanta.com/",
+    "description": "Real-time accounting",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ranger",
+    "company_url": "https://www.ranger.net/",
+    "description": "QA testing",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Regal",
+    "company_url": "https://www.regal.io/",
+    "description": "Personal touch for customers",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Reken",
+    "company_url": "https://reken.ai/",
+    "description": "Cybersecurity for AI threats",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "ResQ",
+    "company_url": "https://www.getresq.com/",
+    "description": "Restaurant repair & maintenance",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "SarisAI",
+    "company_url": "https://www.saris.ai/",
+    "description": "AI agents for financial services",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "SchoolAI",
+    "company_url": "https://schoolai.com/",
+    "description": "Student-centered AI",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Scrunch AI",
+    "company_url": "https://scrunchai.com/",
+    "description": "AI customer experience",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Slang",
+    "company_url": "https://www.slang.ai/",
+    "description": "AI phone concierge",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Sweep",
+    "company_url": "https://www.sweep360.ai/",
+    "description": "Digital threat detection",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Thirdwave",
+    "company_url": "https://www.thirdwave.ai/",
+    "description": "Warehouse autonomy",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Thread AI",
+    "company_url": "https://www.threadai.com/",
+    "description": "AI orchestration",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Tia",
+    "company_url": "https://asktia.com/",
+    "description": "Healthcare for women",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Tolan",
+    "company_url": "https://www.tolans.com/",
+    "description": "AI companion",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "TrueAccord",
+    "company_url": "https://www.trueaccord.com/",
+    "description": "Debt collection reimagined",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "TrueBiz",
+    "company_url": "https://truebiz.io/",
+    "description": "Business identity verification",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Unkey",
+    "company_url": "https://www.unkey.com/",
+    "description": "Developer platform for modern APIs",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Useful Sensors",
+    "company_url": "https://usefulsensors.com/",
+    "description": "AI for everyday objects",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Vantara",
+    "company_url": "https://vantara.ai/",
+    "description": "AI customer intelligence",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "VillageSQL",
+    "company_url": "https://villagesql.com/",
+    "description": "MySQL with extensions for AI",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Warp",
+    "company_url": "https://www.joinwarp.com/",
+    "description": "Payroll for startups",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Windfall",
+    "company_url": "http://windfalldata.com/",
+    "description": "Consumer financial data",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Abacus",
+    "company_url": null,
+    "description": "Certify",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Alula",
+    "company_url": null,
+    "description": "Maia Oncology",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Anchor",
+    "company_url": null,
+    "description": "Spotify",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Bison Trails",
+    "company_url": null,
+    "description": "Coinbase",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Bond Street",
+    "company_url": null,
+    "description": "Goldman Sachs",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Brud",
+    "company_url": null,
+    "description": "Dapper Labs",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "BuildingConnected",
+    "company_url": null,
+    "description": "Autodesk",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cardiogram",
+    "company_url": null,
+    "description": "Ilumivu",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Chain",
+    "company_url": null,
+    "description": "Lightyear",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cheddar",
+    "company_url": null,
+    "description": "Altice",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Clementine",
+    "company_url": null,
+    "description": "Dropbox",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Clever",
+    "company_url": null,
+    "description": "Kahoot",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Coda",
+    "company_url": null,
+    "description": "Grammarly",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Conductant",
+    "company_url": null,
+    "description": "Docker",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Cruise",
+    "company_url": null,
+    "description": "GM",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Curbside",
+    "company_url": null,
+    "description": "Rakuten",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "data.world",
+    "company_url": null,
+    "description": "ServiceNow",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Drivably",
+    "company_url": null,
+    "description": "ACV Auctions",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "eero",
+    "company_url": null,
+    "description": "Amazon",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Embed",
+    "company_url": null,
+    "description": "FTX",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Even",
+    "company_url": null,
+    "description": "Hazel",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ferment",
+    "company_url": null,
+    "description": "Chime",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "FuzzBuzz",
+    "company_url": null,
+    "description": "Rippling",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Gatheround",
+    "company_url": null,
+    "description": "Donut",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Intellimize",
+    "company_url": null,
+    "description": "Webflow",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Joymode",
+    "company_url": null,
+    "description": "XRC Labs",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Loris.ai",
+    "company_url": null,
+    "description": "Contentsquare",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Lumi",
+    "company_url": null,
+    "description": "Narvar",
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "MasterfulAI",
+    "company_url": null,
+    "description": "Moloco",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "NEAR Protocol",
+    "company_url": null,
+    "description": "$NEAR",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Nuzzel",
+    "company_url": null,
+    "description": "Scroll",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Orum",
+    "company_url": null,
+    "description": "Stripe",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Outlier",
+    "company_url": null,
+    "description": "Sound Commerce",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Pillow",
+    "company_url": null,
+    "description": "Expedia",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Projector",
+    "company_url": null,
+    "description": "Medium",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Q",
+    "company_url": null,
+    "description": "WeWork",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Radio Public",
+    "company_url": null,
+    "description": "Acast",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ravti",
+    "company_url": null,
+    "description": "Building Engines",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Reserve",
+    "company_url": null,
+    "description": "Resy",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Ride Report",
+    "company_url": null,
+    "description": "Inrix",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Sample Healthcare",
+    "company_url": null,
+    "description": "XiFin",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Satsuma",
+    "company_url": null,
+    "description": "Alchemy",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Seriforge",
+    "company_url": null,
+    "description": "Zume",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Sitka",
+    "company_url": null,
+    "description": "AristaMD",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Stockwell",
+    "company_url": null,
+    "description": "365 Markets",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Subcity",
+    "company_url": null,
+    "description": "Engineered Tax Services",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "The Skimm",
+    "company_url": null,
+    "description": "Ziff Davis",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Traptic",
+    "company_url": null,
+    "description": "Bowery Farming",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Treat",
+    "company_url": null,
+    "description": "Typeface",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "TXN",
+    "company_url": null,
+    "description": "Envestnet",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Upcounsel",
+    "company_url": null,
+    "description": "LinkedIn",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Wagon",
+    "company_url": null,
+    "description": "Box",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Walrus.ai",
+    "company_url": null,
+    "description": "Airtable",
+    "everywhere_tags": [],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Wealthfront",
+    "company_url": null,
+    "description": "NASDAQ: WLTH",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Weave",
+    "company_url": null,
+    "description": "NYSE: WEAV",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Wim",
+    "company_url": null,
+    "description": "Walmart",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  },
+  {
+    "company_name": "Zippy",
+    "company_url": null,
+    "description": "Cruise",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://homebrew.co#Portfolio",
+    "scraped_at": "2026-07-27T20:38:27+00:00"
+  }
+]

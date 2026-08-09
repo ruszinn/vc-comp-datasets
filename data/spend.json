@@ -1,0 +1,22 @@
+[
+  {
+    "month": "2026-07",
+    "spent": 1.249768,
+    "calls": 77,
+    "by_source": {
+      "finder": 0.050364,
+      "tag-backfill": 0.142645,
+      "factory": 1.056759
+    }
+  },
+  {
+    "month": "2026-08",
+    "spent": 1.506811,
+    "calls": 42,
+    "by_source": {
+      "finder": 0.041208,
+      "factory": 1.451847,
+      "tag-backfill": 0.013756
+    }
+  }
+]

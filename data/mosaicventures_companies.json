@@ -1,0 +1,851 @@
+[
+  {
+    "company_name": "About Us",
+    "company_url": "https://mosaicventures.com/our-story",
+    "description": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Manifesto",
+    "company_url": "https://mosaicventures.com/our-manifesto",
+    "description": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Team",
+    "company_url": "https://mosaicventures.com/people",
+    "description": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Portfolio",
+    "company_url": "https://mosaicventures.com/portfolio",
+    "description": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Blog",
+    "company_url": "https://mosaicventures.com/blog",
+    "description": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "B2B SaaS",
+    "company_url": null,
+    "description": "B2B SaaSWe back founders creating the next generation of business software – creating systems of intelligence to meet the needs of a changing workforceThe workplace is changing radically. The next generation of workers is challenging existing norms. To stay ahead, businesses must adapt their tools and practices for work.‍Delightful user experiences found in consumer applications are now expected across the enterprise. This has driven a wave of specialised, best-of-breed tools that are adopted an",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "AI",
+    "company_url": null,
+    "description": "AIWe’ve backed 20+ teams at the forefront of AI. We look for applications that make unprecedented generative and interpretative abilities available to consumers and businesses alikeIn the last century, the world underwent a series of technology platform shifts: from semiconductors to mainframes, networking, to the web, the cloud, mobile, and so forth. Each of these waves has given rise to a new cohort of category-defining companies. These in turn have a profound impact on society, as we learn to",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Location & Mobility",
+    "company_url": null,
+    "description": "Location & MobilityWe back founders connecting the physical world, and deploying AI at the edgeThere are over six billion smartphones in use worldwide – and networked sensors on almost every person, building, or vehicle. The physical world has become a platform for computation.‍Our investments range from mapping and mobility services, to platforms for drones, to the supply chain and industrial AI.",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Human Empowerment",
+    "company_url": null,
+    "description": "Human EmpowermentWe back founders helping people to expand their potential - delivering better health and educational outcomes through softwareTechnology enables the augmentation of human capabilities. Software-led businesses create new possibilities for humans to flourish, especially at its essential foundations: education and health.‍In education, we see tremendous opportunity to broaden access to the best teaching, and equip students of all ages to learn in the manner that works best for them",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Marketplaces & Commerce",
+    "company_url": null,
+    "description": "Marketplaces & CommerceWe back founders transforming commerce – building intelligent platforms that democratise trade and reduce frictionMarketplaces have grown to facilitate increasingly complex online exchanges of value. AI is accelerating this, by lowering the friction to bring offline trade online. ‍We're always looking for industries or environments that were previously analog, where a market can be made more efficient and liquid.As trade shifts online, we are excited to see AI-native appro",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Fintech",
+    "company_url": null,
+    "description": "FintechWe back founders who democratise access to capital, rethink the way we transact, and rewire the underlying infrastructureWe've witnessed an explosion of startups challenging convention in financial services. Europe will produce many winners, given its favourable regulatory environment and its large pool of consumers seeking better experiences.We see opportunities across the fintech landscape. While banks and financial incumbents continue to struggle with legacy IT, we see an entirely new ",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Parloa",
+    "company_url": "https://www.parloa.com/",
+    "description": "",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Auterion",
+    "company_url": "https://auterion.com/",
+    "description": "AuterionDrone software for enterprisesFounded, 2017Partnered, 2018AI, Location & Mobility, Active",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Veriff",
+    "company_url": "http://veriff.com/",
+    "description": "VeriffIdentity verification SaaSFounded, 2015Partnered, 2018AI, Active",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Coram AI",
+    "company_url": "https://www.coram.ai/",
+    "description": "Coram AIAI-powered video securityFounded, 2022Partnered, 2022AI, B2B SaaS, Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Nexar",
+    "company_url": "http://getnexar.com/",
+    "description": "NexarDashcam vehicle network digitizing public spaceFounded, 2014Partnered, 2016AI, Location & Mobility, Active",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Inflection",
+    "company_url": "https://inflection.ai/",
+    "description": "InflectionA personal AI for everyoneFounded, 2022Partnered, 2022Acquired by Microsoft, 2024AI, Human Empowerment, Exited",
+    "everywhere_tags": [],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Manas AI",
+    "company_url": "https://www.manasai.co/",
+    "description": "Manas AIFull-stack AI drug discovery platformFounded, 2025Partnered, 2017AI, Human Empowerment, Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Vortexa",
+    "company_url": "https://www.vortexa.com/",
+    "description": "VortexaData and analytics for energy tradersFounded, 2016Partnered, 2016AI, Active, Active",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Async",
+    "company_url": "https://async.com/",
+    "description": "AsyncAI-first audio and video editing suiteFounded, 2020Partnered, 2023AI, B2B SaaS, Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Blockchain",
+    "company_url": "http://blockchain.com/",
+    "description": "BlockchainDigital currency walletFounded, 2011Partnered, 2014Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Blockstream",
+    "company_url": "https://mosaicventures.com/portfolio",
+    "description": "BlockstreamBitcoin infrastructureFounded, 2014Partnered, 2014Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "CS Genetics",
+    "company_url": "https://www.csgenetics.com/",
+    "description": "CS GeneticsPathbreaking new technology for genomics, based on innovations in NGS techniques.Founded, 2014Partnered, 2019AI, Human Empowerment, Active",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Centrifuge",
+    "company_url": "http://www.centrifuge.io/",
+    "description": "CentrifugeThe operating system for global commerceFounded, 2017Partnered, 2018Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Clue",
+    "company_url": "https://helloclue.com/",
+    "description": "ClueFemtech appFounded, 2013Partnered, 2015Human Empowerment, Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Docker",
+    "company_url": "https://www.docker.com/",
+    "description": "DockerDistributed application platformFounded, 2010Partnered, 2015B2B SaaS, Active",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Entrepreneur First",
+    "company_url": "http://joinef.com/",
+    "description": "Entrepreneur FirstCompany creation platformFounded, 2011Partnered, 2017AI, B2B SaaS, Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Forward Earth",
+    "company_url": "https://www.forward-earth.com/",
+    "description": "Forward EarthAI-native carbon management platformFounded, 2023Partnered, 2024AI, B2B SaaS, Active",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "GetGround",
+    "company_url": "http://getground.co.uk/",
+    "description": "GetGroundForming, structuring, and managing your buy-to-let company.Founded, 2018Partnered, 2019Fintech, Marketplaces & Commerce, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Guidebook",
+    "company_url": "http://guidebook.com/",
+    "description": "GuidebookMobile app building platformFounded, 2011Partnered, 2015B2B SaaS, Active",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Beloy",
+    "company_url": "https://beloy.com/",
+    "description": "BeloyIncome protection for gig economy workersFounded, 2020Partnered, 2020Fintech, Human Empowerment, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Keelvar",
+    "company_url": "https://www.keelvar.com/",
+    "description": "KeelvarSourcing automation and optimisationFounded, 2012Partnered, 2020AI, B2B SaaS, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Klang",
+    "company_url": "https://www.klang-games.com/",
+    "description": "KlangGames development studioFounded, 2014Partnered, 2018Human Empowerment, Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Lightyear",
+    "company_url": "https://golightyear.com/",
+    "description": "LightyearSimple and approachable way to invest your money globally without unnecessary barriers or feesFounded, 2020Partnered, 2017Fintech, Marketplaces & Commerce, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Lyvly",
+    "company_url": "https://www.lyvly.uk/",
+    "description": "LyvlyCo-living marketplaceFounded, 2016Partnered, 2018Exited, 2023Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Mavenoid",
+    "company_url": "https://www.mavenoid.com/",
+    "description": "MavenoidAutomated tech supportFounded, 2017Partnered, 2020AI, Active",
+    "everywhere_tags": [
+      "Health",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Meander",
+    "company_url": "https://meander.so/",
+    "description": "MeanderMeander is the career platform for Tech professionals.Founded, 2021Partnered, 2022Exited, 2024Marketplaces & Commerce, Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Multichain",
+    "company_url": "https://www.multichain.com/",
+    "description": "MultichainPrivate blockchain softwareFounded, 2014Partnered, 2014Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Ninetailed",
+    "company_url": "https://ninetailed.io/",
+    "description": "NinetailedNinetailed is the first personalization and experimentation platform for the modern web.Founded, 2020Partnered, 2017Acquired by Contentful, 2024Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Nous",
+    "company_url": "https://www.nous.co/",
+    "description": "NousPersonalised cost-of-living forecastFounded, 2021Partnered, 2022Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Oval",
+    "company_url": "https://www.ovalfi.com/",
+    "description": "OvalStablecoin treasury solutions for emerging marketsFounded, 2022Partnered, 2022Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Qatalog",
+    "company_url": "https://qatalog.com/",
+    "description": "QatalogOperating system for people and workFounded, 2019Partnered, 2019Acquired by Clickup, 2025AI, B2B SaaS, Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Smiler",
+    "company_url": "https://joinsmiler.com/",
+    "description": "SmilerCapturing memories in high quality for everyone, everywhere.Founded, 2020Partnered, 2021Marketplaces & Commerce, Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Super.ai",
+    "company_url": "http://Super.ai",
+    "description": "Super.aiArtificial intelligence compilerFounded, 2017Partnered, 2018AI, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Tray.ai",
+    "company_url": "https://tray.ai/",
+    "description": "Tray.aiSAAS integration platformFounded, 2012Partnered, 2016AI, B2B SaaS, Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Zerion",
+    "company_url": "https://zerion.io/",
+    "description": "ZerionNon-custodial DeFi Dashboard designed for simplicity, clarity, and user-friendliness.Founded, 2020Partnered, 2021Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Zoe Global",
+    "company_url": "https://joinzoe.com/",
+    "description": "Zoe GlobalMicrobiome-based nutrition appFounded, 2017Partnered, 2017Human Empowerment, Active",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Arex",
+    "company_url": "https://arex.io/",
+    "description": "ArexSME invoice factoring marketplaceFounded, 2016Partnered, 2020Acquired by Bankable, 2023Fintech, Marketplaces & Commerce,Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Bonify",
+    "company_url": "https://bonify.de/",
+    "description": "BonifyPersonal finance managementFounded, 2015Partnered, 2017Acquired by Schufa, 2022Fintech, Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Convoy",
+    "company_url": "https://convoy.com/",
+    "description": "ConvoyTrucking marketplaceFounded, 2015Partnered, 2017Acquired by Flexport, 2023Marketplaces & Commerce, Location & Mobility, Exited",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Early Majority",
+    "company_url": "https://www.earlymajority.com/",
+    "description": "Early MajorityMaker of technical outerwear for all eventualities and all genders. Builder of supportive community leaning out.Founded, 2021Partnered, 2021Exited, 2025Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Enfore",
+    "company_url": "https://www.enfore.com/",
+    "description": "EnforeSmall business platformFounded, 2009Partnered, 2014Exited, 2025Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "CPG",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Habito",
+    "company_url": "http://habito.com/",
+    "description": "HabitoDigital mortgage brokerFounded, 2015Partnered, 2015Acquired by Monzo, 2025Future of Money, Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Hokodo",
+    "company_url": "https://www.hokodo.co/",
+    "description": "HokodoB2B Buy Now Pay LaterFounded, 2018Partnered, 2021Exited, 2025Future of Money, Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "InfoSum",
+    "company_url": "https://www.infosum.com/",
+    "description": "InfoSumCollaborative data technologyFounded, 2016Partnered, 2017Acquired by WPP, 2025AI, B2B SaaS, Exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Navio",
+    "company_url": "https://www.navio.com/",
+    "description": "NavioSupport platform bringing a better quality of life to the cancer journeyFounded, 2019Partnered, 2019Exited, 2024Human Empowerment, Exited",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Teemo",
+    "company_url": "http://www.teemo.co/",
+    "description": "TeemoMobile AdTechFounded, 2014Partnered, 2015Acquired by Near, 2020Marketplaces & Commerce, Location & Mobility, Exited",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Scape",
+    "company_url": "https://www.scape.io/",
+    "description": "ScapeNext generation map leveraging computer visionFounded, 2016Partnered, 2018Acquired by Meta, 2020Location & Mobility, Exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Shipamax",
+    "company_url": "https://shipamax.com/",
+    "description": "ShipamaxData extraction SaaS for logisticsFounded, 2016Partnered, 2017Acquired by WiseTech, 2022AI, Exited",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Utmost",
+    "company_url": "https://utmost.co/",
+    "description": "UtmostEnterprise Extended Workforce Management SystemFounded, 2018Partnered, 2021Acquired by Beeline, 2022B2B SaaS, Exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Companies we backed prior to Mosaic",
+    "company_url": null,
+    "description": "Companies we backed prior to Mosaic",
+    "everywhere_tags": [],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Alibaba",
+    "company_url": "http://www.alibaba.com/",
+    "description": "",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Etsy",
+    "company_url": "http://etsy.com/",
+    "description": "EtsyFounded, 2005Partnered, 2007Exited, 2015 (IPO)Marketplaces & Commerce, Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Squarespace",
+    "company_url": "http://squarespace.com/",
+    "description": "SquarespaceFounded, 2003Partnered, 2010IPO, 2021B2B SaaS, Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Wise",
+    "company_url": "http://wise.com/",
+    "description": "WiseFounded, 2010Partnered, 2013IPO, 2021Fintech, Exited",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Pinterest",
+    "company_url": "http://pinterest.com/",
+    "description": "PinterestFounded, 2009Partnered, 2012Exited, 2019 (IPO)Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Criteo",
+    "company_url": "http://www.criteo.com/",
+    "description": "CriteoFounded, 2005Partnered, 2009Exited, 2013 (IPO)AI, Exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Appcard",
+    "company_url": "http://www.appcard.com/",
+    "description": "AppcardFounded, 2012Partnered, 2013B2B SaaS, Active",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Fotolia",
+    "company_url": "http://fotolia.com/",
+    "description": "FotoliaFounded, 2005Partnered, 2012Exited, 2014 (Acquired by Adobe)Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Hailo",
+    "company_url": "https://free-now.com/uk/",
+    "description": "HailoFounded, 2010Partnered, 2012Exited, 2016Marketplaces & Commerce, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Indiegogo",
+    "company_url": "http://indiegogo.com/",
+    "description": "IndiegogoFounded, 2007Partnered, 2014Marketplaces & Commerce, Human Empowerment, Active",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Knewton",
+    "company_url": "http://www.knewton.com/",
+    "description": "KnewtonFounded, 2008Partnered, 2008Exited, 2019 (Acquired by Wiley)Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "MyHeritage",
+    "company_url": "http://www.myheritage.com/",
+    "description": "MyHeritageFounded, 2003Partnered, 2006Acquired by Francisco Partners, 2021Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "ResearchGate",
+    "company_url": "http://www.researchgate.com/",
+    "description": "ResearchGateFounded, 2008Partnered, 2010Human Empowerment, Active",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Seeking Alpha",
+    "company_url": "http://seekingalpha.com/",
+    "description": "Seeking AlphaFounded, 2004Partnered, 2007Fintech, Active",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Shapeways",
+    "company_url": "http://shapeways.com/",
+    "description": "ShapewaysFounded, 2007Partnered, 2010IPO, 2021Marketplaces & Commerce, Human Empowerment, Exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Spinner",
+    "company_url": "https://en.wikipedia.org/wiki/Spinner_(website)",
+    "description": "SpinnerFounded, 1996Partnered, 1998Exited, 1999 (Acquired by AOL)Exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Join Our Newsletter",
+    "company_url": null,
+    "description": "Join Our Newsletter",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  },
+  {
+    "company_name": "Press",
+    "company_url": "https://mosaicventures.com/press",
+    "description": "MorePressBlogContactLegal",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://mosaicventures.com/portfolio",
+    "scraped_at": "2026-08-02T07:04:25+00:00"
+  }
+]

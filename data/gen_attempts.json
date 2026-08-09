@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "bcapitalgroup",
+    "attempts": 4,
+    "skip": false,
+    "last_attempt": "2026-08-03T07:03:24+00:00",
+    "last_reason": "validation: description coverage < 30% (not rich)",
+    "history": [
+      {
+        "at": "2026-08-03T07:03:24+00:00",
+        "reason": "sandbox: sandbox exit 1: ^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/app/automation/.candidate_bcapitalgroup.py\", line 6, in <module>\n    from typing import list, dict\nImportError: cannot import name 'list' from 'typing' (/root/.nix-profile/lib/python3.12/typing.py). Did you mean: 'List'?",
+        "counted": true
+      },
+      {
+        "at": "2026-08-03T07:03:24+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-08-03T07:03:24+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-08-03T07:03:24+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      }
+    ]
+  },
+  {
+    "slug": "boldstartventures",
+    "attempts": 0,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:42:45+00:00",
+    "last_reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+    "history": [
+      {
+        "at": "2026-07-28T03:42:45+00:00",
+        "reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+        "counted": false
+      }
+    ]
+  },
+  {
+    "slug": "bullpencapital",
+    "attempts": 0,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:42:45+00:00",
+    "last_reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+    "history": [
+      {
+        "at": "2026-07-28T03:42:45+00:00",
+        "reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+        "counted": false
+      }
+    ]
+  },
+  {
+    "slug": "costanoaventures",
+    "attempts": 0,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:42:45+00:00",
+    "last_reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+    "history": [
+      {
+        "at": "2026-07-28T03:42:45+00:00",
+        "reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+        "counted": false
+      }
+    ]
+  },
+  {
+    "slug": "craftventures",
+    "attempts": 0,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:42:45+00:00",
+    "last_reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+    "history": [
+      {
+        "at": "2026-07-28T03:42:45+00:00",
+        "reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+        "counted": false
+      }
+    ]
+  },
+  {
+    "slug": "emergencecapital",
+    "attempts": 2,
+    "skip": false,
+    "last_attempt": "2026-07-28T03:29:34+00:00",
+    "last_reason": "no portfolio url",
+    "history": [
+      {
+        "at": "2026-07-28T01:48:14+00:00",
+        "reason": "no portfolio url",
+        "counted": true
+      },
+      {
+        "at": "2026-07-28T03:29:34+00:00",
+        "reason": "no portfolio url",
+        "counted": true
+      }
+    ],
+    "retired": true
+  },
+  {
+    "slug": "foundationcapital",
+    "attempts": 1,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:29:35+00:00",
+    "last_reason": "no portfolio url",
+    "history": [
+      {
+        "at": "2026-07-28T03:29:35+00:00",
+        "reason": "no portfolio url",
+        "counted": true
+      }
+    ]
+  },
+  {
+    "slug": "greycroft",
+    "attempts": 4,
+    "skip": false,
+    "last_attempt": "2026-08-07T21:32:06+00:00",
+    "last_reason": "validation: too few records (1)",
+    "history": [
+      {
+        "at": "2026-08-07T21:32:06+00:00",
+        "reason": "sandbox: sandbox exit 1: ^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/app/automation/.candidate_greycroft.py\", line 6, in <module>\n    from typing import list, dict\nImportError: cannot import name 'list' from 'typing' (/root/.nix-profile/lib/python3.12/typing.py). Did you mean: 'List'?",
+        "counted": true
+      },
+      {
+        "at": "2026-08-07T21:32:06+00:00",
+        "reason": "validation: 3 fields empty on every record: founders, stage, status — drop them from the schema or read them properly",
+        "counted": true
+      },
+      {
+        "at": "2026-08-07T21:32:06+00:00",
+        "reason": "validation: company_url coverage < 60%",
+        "counted": true
+      },
+      {
+        "at": "2026-08-07T21:32:06+00:00",
+        "reason": "validation: too few records (1)",
+        "counted": true
+      }
+    ]
+  },
+  {
+    "slug": "kindredventures",
+    "attempts": 4,
+    "skip": false,
+    "last_attempt": "2026-08-08T07:05:31+00:00",
+    "last_reason": "validation: too few records (0); company_url coverage < 60%; description coverage < 30% (not rich)",
+    "history": [
+      {
+        "at": "2026-08-08T07:05:31+00:00",
+        "reason": "sandbox: sandbox exit 1: ^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/app/automation/.candidate_kindredventures.py\", line 4, in <module>\n    from typing import list, dict\nImportError: cannot import name 'list' from 'typing' (/root/.nix-profile/lib/python3.12/typing.py). Did you mean: 'List'?",
+        "counted": true
+      },
+      {
+        "at": "2026-08-08T07:05:31+00:00",
+        "reason": "sandbox: sandbox exit 1: <frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/app/automation/.candidate_kindredventures.py\", line 6, in <module>\n    from typing import list as ListType, dict as DictType\nImportError: cannot import name 'list' from 'typing' (/root/.nix-profile/lib/python3.12/typing.py). Did you mean: 'List'?",
+        "counted": true
+      },
+      {
+        "at": "2026-08-08T07:05:31+00:00",
+        "reason": "validation: too few records (0); company_url coverage < 60%; description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-08-08T07:05:31+00:00",
+        "reason": "validation: too few records (0); company_url coverage < 60%; description coverage < 30% (not rich)",
+        "counted": true
+      }
+    ]
+  },
+  {
+    "slug": "m12",
+    "attempts": 4,
+    "skip": false,
+    "last_attempt": "2026-08-07T21:33:43+00:00",
+    "last_reason": "validation: description coverage < 30% (not rich)",
+    "history": [
+      {
+        "at": "2026-08-07T21:33:43+00:00",
+        "reason": "sandbox: sandbox exit 1: ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"<frozen importlib._bootstrap_external>\", line 995, in exec_module\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/app/automation/.candidate_m12.py\", line 6, in <module>\n    from typing import list, dict\nImportError: cannot import name 'list' from 'typing' (/root/.nix-profile/lib/python3.12/typing.py). Did you mean: 'List'?",
+        "counted": true
+      },
+      {
+        "at": "2026-08-07T21:33:43+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-08-07T21:33:43+00:00",
+        "reason": "validation: description coverage < 30% (not rich); 3 fields empty on every record: founders, stage, status — drop them from the schema or read them properly",
+        "counted": true
+      },
+      {
+        "at": "2026-08-07T21:33:43+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      }
+    ]
+  },
+  {
+    "slug": "scaleventurepartners",
+    "attempts": 0,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:42:45+00:00",
+    "last_reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+    "history": [
+      {
+        "at": "2026-07-28T03:42:45+00:00",
+        "reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+        "counted": false
+      }
+    ]
+  },
+  {
+    "slug": "signalfire",
+    "attempts": 4,
+    "skip": false,
+    "last_attempt": "2026-07-30T07:06:38+00:00",
+    "last_reason": "validation: description coverage < 30% (not rich)",
+    "history": [
+      {
+        "at": "2026-07-27T20:39:31+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-07-27T20:39:31+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-07-28T01:44:49+00:00",
+        "reason": "sandbox: sandbox exit 1: 1129, in get_code\n  File \"<frozen importlib._bootstrap_external>\", line 1059, in source_to_code\n  File \"<frozen importlib._bootstrap>\", line 488, in _call_with_frames_removed\n  File \"/app/automation/.candidate_signalfire.py\", line 115\n    class_=lambda c: c and 'text-weight-semibold' not in c)\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nSyntaxError: keyword argument repeated: class_",
+        "counted": true
+      },
+      {
+        "at": "2026-07-30T07:06:38+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      },
+      {
+        "at": "2026-07-30T07:06:38+00:00",
+        "reason": "validation: description coverage < 30% (not rich)",
+        "counted": true
+      }
+    ]
+  },
+  {
+    "slug": "susaventures",
+    "attempts": 0,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:42:45+00:00",
+    "last_reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+    "history": [
+      {
+        "at": "2026-07-28T03:42:45+00:00",
+        "reason": "no portfolio page (client-rendered site) — pre-retired manually 2026-07-27 alongside the hard finder gate; a factory pass could only have confirmed this",
+        "counted": false
+      }
+    ]
+  },
+  {
+    "slug": "uncorkcapital",
+    "attempts": 1,
+    "skip": false,
+    "retired": true,
+    "last_attempt": "2026-07-28T03:29:39+00:00",
+    "last_reason": "no portfolio url",
+    "history": [
+      {
+        "at": "2026-07-28T03:29:39+00:00",
+        "reason": "no portfolio url",
+        "counted": true
+      }
+    ]
+  }
+]

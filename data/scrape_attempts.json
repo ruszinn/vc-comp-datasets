@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "andreessenhorowitz",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:23+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "boldstartventures",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:13+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "bullpencapital",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:19+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "costanoaventures",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:17+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "craftventures",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:07+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "emergencecapital",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:43:55+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "foundationcapital",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:02+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "localglobe",
+    "failures": 1,
+    "last_attempt": "2026-07-28T03:29:26+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "scaleventurepartners",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:21+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "susaventures",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:18+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  },
+  {
+    "slug": "uncorkcapital",
+    "failures": 1,
+    "last_attempt": "2026-07-28T01:44:06+00:00",
+    "last_reason": "no portfolio page resolved",
+    "next_attempt": null
+  }
+]

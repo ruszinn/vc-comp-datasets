@@ -1,0 +1,61 @@
+{
+  "total_companies": 425,
+  "tag_counts": {
+    "Dev Tools / Cloud": 120,
+    "Consumer": 84,
+    "Data & Analytics": 54,
+    "FinTech / Insurance": 48,
+    "Gaming / Media / Entertainment": 45,
+    "Deeptech / Robotics / AR/VR": 45,
+    "Future of Work": 43,
+    "Cybersecurity": 39,
+    "Health": 30,
+    "BioTech": 19,
+    "Logistics / Supply Chain": 18,
+    "CPG": 14,
+    "Web3 / Crypto": 13,
+    "Climate / Sustainability": 11,
+    "RegTech/Gov/Legal": 8,
+    "PropTech": 8,
+    "Transportation / Mobility": 6
+  },
+  "companies_with_multiple_tags": 174,
+  "companies_with_no_tags": 1,
+  "ambiguous_companies": [
+    {
+      "company_name": "Lost Lake",
+      "assigned_tags": [],
+      "reason": "Record has null description and null website; insufficient information to classify."
+    },
+    {
+      "company_name": "Toonimo",
+      "assigned_tags": [
+        "Consumer"
+      ],
+      "reason": "Digital adoption / website-guidance SaaS; no clean category fit — tagged Consumer as nearest."
+    },
+    {
+      "company_name": "Elementum AI",
+      "assigned_tags": [
+        "Future of Work"
+      ],
+      "reason": "Pivoted from supply-chain to AI work-automation; tagged by current 'digital labor' framing."
+    },
+    {
+      "company_name": "Multiplier",
+      "assigned_tags": [
+        "Future of Work"
+      ],
+      "reason": "Holding co that acquires service businesses and applies AI; tagged by the work-automation thesis."
+    },
+    {
+      "company_name": "Mason",
+      "assigned_tags": [
+        "Consumer",
+        "Data & Analytics"
+      ],
+      "reason": "AI shopping copilot for retailers; sits between Consumer commerce enablement and analytics."
+    }
+  ],
+  "validation_passed": true
+}

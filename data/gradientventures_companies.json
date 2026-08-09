@@ -1,0 +1,1770 @@
+[
+  {
+    "company_name": "Airspace Intelligence",
+    "company_url": "https://www.airspace-intelligence.com/",
+    "description": "Airspace Intelligence applies artificial intelligence to help the world’s most complex air operations succeed.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Algorithmia",
+    "company_url": "https://algorithmia.com/",
+    "description": "Algorithmia’s AI Layer manages the machine learning lifecycle and automates the deployment of machine learning models at scale.",
+    "founders": [],
+    "status": "Acquired by DATAROBOT",
+    "partnership_year": 2017,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "AllyO",
+    "company_url": "https://allyo.com",
+    "description": "AllyO is intelligently automating the end-to-end recruiting workflow for both applicants and hiring teams through its AI recruiter called Ally.",
+    "founders": [],
+    "status": "Acquired by HireVue",
+    "partnership_year": 2017,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Anchor",
+    "company_url": "https://anchorbrowser.io/",
+    "description": "Anchor is the developer platform that turns browser automation from a fragile, costly nightmare into a reliable, enterprise-ready solution.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Anvil",
+    "company_url": "https://www.useanvil.com/",
+    "description": "Anvil automates tedious paperwork through customizable online workflows that gather information, prepare documents, request signatures, and integrate directly with your business software.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Arrows",
+    "company_url": "https://arrows.to/",
+    "description": "Arrows builds tools for customer success and onboarding.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Arva",
+    "company_url": "https://www.arva.ai/",
+    "description": "Arva is reimagining financial crime compliance through Agentic AI.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Astro",
+    "company_url": "https://astro.build/",
+    "description": "Astro builds websites using server-side templating language that renders directly to HTML & CSS, eliminating heavy JavaScript automatically.",
+    "founders": [],
+    "status": "Acquired by Cloudflare",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Axle",
+    "company_url": "https://www.axle.insure/",
+    "description": "Axle is an open platform for consumer-permissioned insurance data.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Back",
+    "company_url": "https://backhq.com/",
+    "description": "Back is a modern employee service platform that enables internal service teams to manage and automate employee requests and internal workflows on one intuitive platform.",
+    "founders": [],
+    "status": "Acquired by Personio",
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Backline",
+    "company_url": "https://backline.ai/",
+    "description": "Backline is the autonomous security remediation platform.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "BackOps.ai",
+    "company_url": "https://www.backops.ai/",
+    "description": "BackOps AI acts as the central nervous system for supply chain operations, automating workflows, providing real-time insights, and enabling businesses to scale with ease.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Benepass",
+    "company_url": "https://www.getbenepass.com/",
+    "description": "Benepass is the company card and mobile app that gives your employees all the information they need about their benefits in one place.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Boxo",
+    "company_url": "https://www.boxo.io/",
+    "description": "Boxo is rethinking how apps interact with each other.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Cake",
+    "company_url": "https://www.cake.ai/",
+    "description": "Cake is a managed open-source AI infrastructure platform that makes AI more accessible.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Cambrium",
+    "company_url": "https://www.cambrium.bio/",
+    "description": "Cambrium is engineering biology to create high-performance proteins.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Cascade",
+    "company_url": "https://gocascade.ai/",
+    "description": "Cascade is the most advanced AI assistant for HR teams and their employees",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Case.dev",
+    "company_url": "https://case.dev/",
+    "description": "CaseMark is the privacy-first, AI-assisted workflow and summarization platform for the legal industry.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "CentML",
+    "company_url": null,
+    "description": "CentML accelerates Machine Learning workloads by maximizing training and inference efficiency leading to compute cost reduction.",
+    "founders": [],
+    "status": "Acquired by NVIDIA",
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Cerebrium AI",
+    "company_url": "https://www.cerebrium.ai/",
+    "description": "Cerebrium is a serverless AI infrastructure platform built from the ground up to power the next generation of high-performance AI applications.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Charm",
+    "company_url": "https://charm.sh/",
+    "description": "Charm is the platform for modern command line interface.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Chili Piper",
+    "company_url": "https://www.chilipiper.com/",
+    "description": "Chili Piper is reinventing scheduling, calendar and inbox, the main apps used by revenue teams, to bring new levels of productivity and job satisfaction.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Clarify",
+    "company_url": "https://www.clarify.ai/",
+    "description": "Clarify’s AI automates pipeline creation, meeting admin, and CRM updates—so you can stop clicking and start closing more deals.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Clarity",
+    "company_url": "https://www.adoptclarity.com/",
+    "description": "Clarity is building a next generation AI-powered solution to allow companies to marry customer interactions, feedback, and sales force automation.",
+    "founders": [],
+    "status": "Acquired by Cursor",
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Collective",
+    "company_url": "https://www.collective.com/",
+    "description": "Collective is a back-office platform designed for self-employed people helping them handle company formation, taxes, accounting, compliance and more.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Concierge AI",
+    "company_url": "https://askconcierge.ai/",
+    "description": "Concierge AI is a conversational platform that allows users to interact with SaaS applications through natural language conversations.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Conduit",
+    "company_url": "https://www.conduit.financial/",
+    "description": "Conduit enables fintechs, neobanks, and exchanges to connect their customers with high-earning crypto-backed products using one API for DeFi.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Credible Data",
+    "company_url": "https://www.credibledata.com/",
+    "description": "Credible captures what your data means, then delivers your data and its meaning as context — to your AI agents, your dashboards, your product. Fast, secure, efficient.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2026,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "CTGT",
+    "company_url": "https://www.ctgt.ai/",
+    "description": "CTGT's real-time monitoring automatically prevents AI failures before they impact your business, with comprehensive audit trails that protect your organization.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Ditto",
+    "company_url": "https://ditto.ai/",
+    "description": "The first AI social agent.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Elsa",
+    "company_url": "https://www.elsaspeak.com/",
+    "description": "Elsa is a mobile app that uses AI and speech recognition technology to help language learners improve their English pronunciation.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Enzo Health",
+    "company_url": "https://www.enzo.health/",
+    "description": "The AI native EHR for home health that frees up your people so they can focus on patients.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Fazeshift",
+    "company_url": "https://www.fazeshift.com/",
+    "description": "Fazeshift is building an AI agent for Accounts Receivable.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Fileread",
+    "company_url": "https://fileread.com/",
+    "description": "Fileread develops litigation story-building AI for innovative firms.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Data & Analytics",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Firstwork",
+    "company_url": "https://www.firstwork.com/",
+    "description": "Firstwork is revolutionizing workforce management for frontline workers.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Flank",
+    "company_url": "https://www.getflank.ai/",
+    "description": "Flank is an AI automation platform for expert teams. With Flank, expert teams —such as legal, privacy, compliance, info-sec, and finance—can train & deploy specialized AI Agents. These agents offer 24/7 on-demand support to commercial teams.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Flatfile",
+    "company_url": "https://flatfile.io/",
+    "description": "Flatfile takes all of the inconsistent data fundamentally inputted by humans and turns it into clean data that’s formatted exactly how your system needs it to look.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Flowdash",
+    "company_url": "https://flowdash.com/",
+    "description": "Flowdash is the most flexible platform for teams to manage, track, and complete work.",
+    "founders": [],
+    "status": "Acquired by Notion",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "FlutterFlow",
+    "company_url": "https://flutterflow.io/",
+    "description": "FlutterFlow is a low-code, visual application development platform for native mobile and web applications.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Flyreel",
+    "company_url": "https://www.flyreel.co/",
+    "description": "Flyreel’s AI assisted underwriting creates a baseline for a better insurance experience across the lifecycle.",
+    "founders": [],
+    "status": "Acquired by LexisNexis Risk Solutions",
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Forge",
+    "company_url": "https://www.forgehq.com/",
+    "description": "Forge leverages AI to simplify procurement management for hardware companies.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Foundational",
+    "company_url": "https://www.foundational.io/",
+    "description": "Foundational is a data management platform that helps developers understand the lineage and downstream impact of code changes.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Fragment",
+    "company_url": "https://fragment.dev/",
+    "description": "Fragment develops a ledger database application programming interface platform to build finance applications.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Fylamynt",
+    "company_url": "https://www.fylamynt.com/",
+    "description": "Fylamynt is a cloud workflow automation tool that builds, runs and analyzes cloud workflows securely with little to no code.",
+    "founders": [],
+    "status": "Acquired by NetApp",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Gigs",
+    "company_url": "https://gigs.com/",
+    "description": "Gigs is building Stripe for phone plans. Enabling platforms to sell phone and data subscriptions to their users.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Gynger",
+    "company_url": "https://www.gynger.io/",
+    "description": "Gynger combines software and capital to enable businesses to scale with the technology they love.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Helical",
+    "company_url": "https://www.helical.bio/",
+    "description": "Helical is building the application layer for Bio Foundation Models in Phamra.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2026,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Heru",
+    "company_url": "https://www.heru.app/",
+    "description": "Heru simplifies the complicated tax filing process for gig workers in Latin America.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Hostie",
+    "company_url": "https://www.hostie.ai/",
+    "description": "Hostie is an AI customer experience platform for restaurants.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Hugo",
+    "company_url": "https://www.hugo.team/",
+    "description": "Hugo is a meeting notes platform for fostering a culture that improves meeting performance and cohesion for hybrid work teams.",
+    "founders": [],
+    "status": "Acquired by Calendly",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Index",
+    "company_url": "https://tryindex.com/beta",
+    "description": "Index lets you visually build your own beautiful dashboards with the tools you already use.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Infisical",
+    "company_url": "https://infisical.com/",
+    "description": "Infisical is an open-source, end-to-end encrypted solution that allows development teams to sync their environment variables.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Iteratively",
+    "company_url": "http://iteratively.com/",
+    "description": "Iteratively helps data and product teams define, instrument, and collaborate on analytics tracking to ensure data quality issues are caught before making their way into production.",
+    "founders": [],
+    "status": "Acquired by Amplitude",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Jitty",
+    "company_url": "https://jitty.com/",
+    "description": "Jitty is building an AI-powered search engine for properties.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Kerna",
+    "company_url": "https://kernalabs.ai/",
+    "description": "Kerna is paving the way for a new generation of therapies by leveraging AI and high-throughput biology to decode RNA biology.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Klara",
+    "company_url": "https://www.klara.com/",
+    "description": "Klara enables medical organizations to provide patient care through intuitive communication, streamlined workflows, and easy-to-access virtual visits.",
+    "founders": [],
+    "status": "Acquired by ModMed",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Klime",
+    "company_url": "https://klime.com/",
+    "description": "Klime lets you know before customers churn, understand it with AI, and draft the perfect outreach to keep them engaged.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Krea",
+    "company_url": "https://www.krea.ai/home",
+    "description": "KREA is a design tool with AI inside.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Labelbox",
+    "company_url": "https://www.labelbox.com/",
+    "description": "Labelbox is a software platform that makes it easy to create and manage labeled data, enabling rapid deployment of artificial intelligence applications.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Lambda",
+    "company_url": "https://lambdalabs.com/",
+    "description": "GPU cloud, workstations, servers, and laptops built for deep learning.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2017,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "LangDB",
+    "company_url": "https://langdb.ai/",
+    "description": "LangDB is the fastest enterprise AI gateway.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "LastMile AI",
+    "company_url": "https://lastmileai.dev/",
+    "description": "LastMile is an AI developer platform for engineering teams.",
+    "founders": [],
+    "status": "Acquired by Meta",
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Linkup",
+    "company_url": "https://www.linkup.so/",
+    "description": "Linkup is building the world’s best search for AI apps",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Mage",
+    "company_url": "https://www.mage.ai/",
+    "description": "Mage is a collaborative AI tool for software developers",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "MainStreet",
+    "company_url": "https://workonmainstreet.com/",
+    "description": "MainStreet helps startups effortlessly discover, apply for, and receive government credits and incentives.",
+    "founders": [],
+    "status": "Acquired by Employer.com",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Mastra",
+    "company_url": "https://mastra.ai/",
+    "description": "Mastra is an all-in-one framework for building AI-powered applications and agents.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Mentum",
+    "company_url": "https://getmentum.com/",
+    "description": "Mentum is an API that allows fintech companies in LATAM to offer investment services to their end-users.",
+    "founders": [],
+    "status": "Acquired by Nuvocargo",
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Mine",
+    "company_url": "https://saymine.com/",
+    "description": "Mine connects consumers and companies around data privacy rights.",
+    "founders": [],
+    "status": "Acquired by McAfee",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Moov",
+    "company_url": "https://moov.io/",
+    "description": "Moov empowers embed banking and payment functionality for your own applications without having to worry about protocols, site reliability, security, or compliance.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Mural",
+    "company_url": "https://mural.co/",
+    "description": "Mural is a digital workspace for visual collaboration that allows you to share notes, be creative and stay productive in real time regardless of where your team is based.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Myst",
+    "company_url": "https://www.myst.ai/",
+    "description": "Myst helps energy companies better predict the future, resulting in lower costs, reduced risk and less waste through artificial intelligence.",
+    "founders": [],
+    "status": "Acquired by Snowflake",
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Nango",
+    "company_url": "https://nango.dev/",
+    "description": "Integrations for your products & agents",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Niva",
+    "company_url": "https://www.niva.co/",
+    "description": "Niva is a global business identity platform used to build trust in businesses across the globe.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Numa",
+    "company_url": "https://numa.com/",
+    "description": "Numa is the AI platform running customer operations inside the world’s best dealerships.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "OlaClick",
+    "company_url": "https://www.olaclick.com/?lang=en",
+    "description": "OlaClick is a web-based digital menu solution that helps businesses receive simplified online orders.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "OnScale",
+    "company_url": "https://onscale.com/",
+    "description": "OnScale accelerates research and development, reduces costs and helps engineers build a better future.",
+    "founders": [],
+    "status": "Acquired by ANSYS",
+    "partnership_year": 2018,
+    "everywhere_tags": [],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Openly",
+    "company_url": "https://openly.inc/",
+    "description": "Openly is a premium, tech-forward insurance platform and provider that’s designed specifically to be sold through independent brokers.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Oura",
+    "company_url": "https://ouraring.com/",
+    "description": "Oura makes and designs wellness wearable rings to track and improve sleep and performance.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Outgo",
+    "company_url": "https://www.outgo.com/",
+    "description": "Outgo is building the next-generation platform for freight.",
+    "founders": [],
+    "status": "Acquired by DAT",
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Paladin",
+    "company_url": "https://www.paladindrones.io/",
+    "description": "Paladin empowers first responders with the tools they need to enhance public safety and improve outcomes in critical situations.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Patlytics",
+    "company_url": "https://www.patlytics.ai/",
+    "description": "Patlytics is using AI to simplify patent discovery, analytics, comparison, and workflows.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Payaut",
+    "company_url": "https://payaut.com/",
+    "description": "Payaut is the payment solution for online platforms and marketplaces.",
+    "founders": [],
+    "status": "Acquired by Nuvei",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Payload",
+    "company_url": "https://payloadcms.com/",
+    "description": "Payload is an open-source headless CMS built for developers.",
+    "founders": [],
+    "status": "Acquired by Figma",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Penny",
+    "company_url": "https://trypenny.com/",
+    "description": "Penny uses AI to find your old pensions.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Pine Park Health",
+    "company_url": "https://www.pineparkhealth.com/",
+    "description": "Pine Park Health works with medicare advantage plans, senior living communities, and providers to improve health outcomes for seniors.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Plannuh",
+    "company_url": "https://www.plannuh.com/",
+    "description": "Plannuh optimizes the performance of your marketing spend and strategy through AI-driven budgeting and planning software.",
+    "founders": [],
+    "status": "Acquired by Planful",
+    "partnership_year": 2020,
+    "everywhere_tags": [],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "PopSQL",
+    "company_url": "https://popsql.com/",
+    "description": "PopSQL is a collaborative SQL editor that helps teams write and collaborate on queries, visualize data, and easily share their results.",
+    "founders": [],
+    "status": "Acquired by Timescale",
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Prepared",
+    "company_url": "https://www.prepared911.com/",
+    "description": "Prepared empowers emergency operators to use real-time data from callers.",
+    "founders": [],
+    "status": "Acquired by Axon",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Quilt",
+    "company_url": "https://www.quilt.com/",
+    "description": "Quilt is building a sleek and intelligent ductless heat pump system for the home.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "PropTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "R2",
+    "company_url": "https://r2.co/",
+    "description": "R2 provides embedded lending infrastructure for SMBs in Latin America.",
+    "founders": [],
+    "status": "Acquired by Ant Financial",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Rad AI",
+    "company_url": "https://www.radai.com/",
+    "description": "Rad AI is a platform built by radiologists, for radiologists, that optimizes workflows to help save time and energy.",
+    "founders": [
+      "backed by great investors"
+    ],
+    "status": null,
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Future of Work",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Range",
+    "company_url": "https://www.range.com/",
+    "description": "Range is an all-in-one wealth management platform. Manage your investments, taxes, cash flow, retirement, estate plans and more. Get unlimited access to your financial advisor through your AI-driven wealth dashboard.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Reclaim.ai",
+    "company_url": "https://reclaim.ai/",
+    "description": "Reclaim is an AI scheduling automation app that finds the best time for your meetings, tasks, habits, and breaks.",
+    "founders": [],
+    "status": "Acquired by Dropbox",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Recurate",
+    "company_url": "https://www.recurate.com/",
+    "description": "Recurate helps brands enable integrated resale marketplaces directly on their e-commerce stores.",
+    "founders": [],
+    "status": "Acquired by Trove",
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Roe AI",
+    "company_url": "https://www.getroe.ai/",
+    "description": "Roe AI is an artificial intelligence data processing platform created to modify data intelligence in businesses of all sizes.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Roi",
+    "company_url": "https://getroi.app",
+    "description": "Roi is an all-in-one investing platform to track, trade, and grow your wealth with your existing accounts.",
+    "founders": [],
+    "status": "Acquired by OpenAI",
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Rootly",
+    "company_url": "https://rootly.com/",
+    "description": "Rootly is an incident management platform and Slackbot designed to help companies resolve incidents faster by automating manual admin tasks and providing insight to prevent them in the future.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Sapiom",
+    "company_url": "https://www.sapiom.ai/",
+    "description": "Sapiom gives AI agents trusted access to the API economy.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2025,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Sapling",
+    "company_url": "https://www.saplinghr.com/",
+    "description": "Sapling gives People Operations and HR teams powerful tools to drive repeatable and consistent processes for teams in any location.",
+    "founders": [],
+    "status": "Acquired by Kallidus",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Scotty Labs",
+    "company_url": "https://www.scotty.ai/",
+    "description": "Scotty Labs is reinventing the driving experience.",
+    "founders": [],
+    "status": "Acquired by DoorDash",
+    "partnership_year": 2017,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Secureframe",
+    "company_url": "https://secureframe.com/",
+    "description": "Secureframe helps companies manage end-to-end security compliance at every stage of their growth.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Send AI",
+    "company_url": "https://www.send.ai/",
+    "description": "Send AI helps companies securely extract data from large volumes of complex documents with accuracy.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Silverstream",
+    "company_url": "https://www.silverstream.ai/",
+    "description": "Silverstream builds software tooling and infrastructure for AI agents.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Sona",
+    "company_url": "https://www.getsona.com/",
+    "description": "Sona is intelligent workforce management. Modernizing frontline enterprises' labor and productivity.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Spade",
+    "company_url": "https://spade.com/",
+    "description": "Spade develops transaction enrichment API to create applications and mission-critical systems.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Spline",
+    "company_url": "https://spline.design/",
+    "description": "Spline is a 3d design tool for the web, without coding.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Spotter",
+    "company_url": "https://spotter.ai/",
+    "description": "Spotter is an AI-driven dispatching software for the trucking industry.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Springtail",
+    "company_url": "https://www.springtail.io/",
+    "description": "Springtail is a scalable, real-time read replica for Postgres on AWS.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Stack AI",
+    "company_url": "https://www.stack-ai.com/",
+    "description": "Stack AI offers a no-code platform to deploy enterprise-grade AI applications and automated workflows.",
+    "founders": [],
+    "status": "Acquired by Asana",
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Stairwell",
+    "company_url": "https://stairwell.com/",
+    "description": "Stairwell provides security teams with user-centric tools to understand external and internal data sources to combat cyber attacks.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Streamlit",
+    "company_url": "https://streamlit.io",
+    "description": "Streamlit lets machine learning engineers quickly create apps for data exploration, model debugging, and results presentation.",
+    "founders": [],
+    "status": "Acquired by Snowflake",
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Syrup",
+    "company_url": "https://syrup.tech/",
+    "description": "Syrup is predictive software for inventory decision-making in commerce, powered by AI/ML.",
+    "founders": [],
+    "status": "Acquired by Anaplan",
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "The Coterie",
+    "company_url": "https://www.thecoterie.co/",
+    "description": "The Coterie provides remarkable access, diversification, liquidity, and estate planning for the world’s exceptional founders.",
+    "founders": [],
+    "status": "Acquired by Allocate",
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Tildei",
+    "company_url": "https://www.tildei.com/",
+    "description": "Tildei enables brands to have meaningful conversations with their customers at scale.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Toku",
+    "company_url": "https://trytoku.com/",
+    "description": "Toku is an all-in-one recurring payments platform for subscription companies in Latin America.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Ubiquity6",
+    "company_url": "https://ubiquity6.com/",
+    "description": "Ubiquity6 is using recent advancements in computer vision to build ubiquitous shared AR experiences.",
+    "founders": [],
+    "status": "Acquired by Discord",
+    "partnership_year": 2017,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Unit21",
+    "company_url": "https://www.unit21.ai/",
+    "description": "Unit21 protects businesses across industries against financial adversaries, by detecting and managing money laundering, fraud, and other risks.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "unitQ",
+    "company_url": "https://www.unitq.com/",
+    "description": "unitQ analyzes popular customer channels to uncover potential issues with your product, in real time.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Venn",
+    "company_url": "https://www.venn.ca/",
+    "description": "Venn gives you cash back on card spending, the best FX rates, multi-currency accounts and free transfers locally. Tailored for Canadian businesses operating worldwide.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Venta",
+    "company_url": "https://www.getventa.ai/",
+    "description": "Venta is a compliant AI colleague for sales teams in Europe",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Vera Health",
+    "company_url": "https://www.verahealth.ai/home",
+    "description": "Vera is a clinical decision-support search engine. It improves patient outcomes with practical answers backed by 60M+ peer-reviewed and up-to-date papers and guidelines. Delivered at the speed of AI.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2024,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Vijil",
+    "company_url": "https://www.vijil.ai/",
+    "description": "Vijil helps organizations build and operate autonomous agents that humans can trust.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Vocode",
+    "company_url": "https://www.vocode.dev/",
+    "description": "Vocode is an open-source library for building voice-based LLM applications.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Weflow",
+    "company_url": "https://www.getweflow.com",
+    "description": "Revenue teams use Weflow to boost productivity, pipeline visibility, forecast accuracy, and Salesforce data hygiene.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2022,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Wise Systems",
+    "company_url": "https://www.wisesystems.com/",
+    "description": "Wise Systems is the first autonomous dispatch and routing software for high-performance delivery fleets.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2018,
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Writer",
+    "company_url": "https://writer.com/",
+    "description": "Writer is the AI writing platform for teams.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "YearEnd",
+    "company_url": "https://yearend.com/",
+    "description": "YearEnd helps startup employees to optimize their equity and taxes in real-time.",
+    "founders": [],
+    "status": "Acquired by Carta",
+    "partnership_year": 2020,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Young Alfred",
+    "company_url": "https://youngalfred.com/",
+    "description": "Young Alfred helps you buy home, auto, renters and specialty property policies online that are personalized and safe.",
+    "founders": [],
+    "status": "Acquired by Credible",
+    "partnership_year": 2019,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Yuma AI",
+    "company_url": "https://yuma.ai/",
+    "description": "Yuma AI is a customer support automation company using generative AI to streamline and automate support services.",
+    "founders": [
+      "Guillaume Luccisano",
+      "a three-time founder whose previous startups include Socialcam (acquired by Autodesk for $60M) and Triplebyte (valued at $135M",
+      "acquired by Karat)"
+    ],
+    "status": null,
+    "partnership_year": 2023,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  },
+  {
+    "company_name": "Zowie",
+    "company_url": "https://getzowie.com/",
+    "description": "Zowie’s AI-powered ecommerce customer service suite offers everything you need to deliver fast, personalized, and effective experiences.",
+    "founders": [],
+    "status": null,
+    "partnership_year": 2021,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://gradient.com/portfolio",
+    "scraped_at": "2026-07-31T07:02:13+00:00"
+  }
+]

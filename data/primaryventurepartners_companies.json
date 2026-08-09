@@ -1,0 +1,666 @@
+[
+  {
+    "company_name": "Scaling revenue teams with emotionally intelligent AI Superhumans",
+    "company_url": "https://www.1mind.com/",
+    "description": "Scaling revenue teams with emotionally intelligent AI Superhumans",
+    "founders": [
+      "Amanda Kahlow"
+    ],
+    "sectors": [
+      "GTM Tech"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/1mind",
+    "invested_year": 2024,
+    "headquarters": "San Francisco, CA",
+    "investors": [
+      "Cassie Young"
+    ],
+    "founded_year": 2023,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Unfiltered buyer intelligence for tech decision-makers",
+    "company_url": "https://www.alium.io/",
+    "description": "Unfiltered buyer intelligence for tech decision-makers",
+    "founders": [
+      "Jonathan Sherry",
+      "Alexandre Testu"
+    ],
+    "sectors": [
+      "GTM Tech"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/alium",
+    "invested_year": 2020,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Cassie Young"
+    ],
+    "founded_year": 2020,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Fairer finance, a million identity decisions at a time",
+    "company_url": "https://www.alloy.com/",
+    "description": "Fairer finance, a million identity decisions at a time",
+    "founders": [
+      "Tommy Nicholas",
+      "Laura Spiekerman",
+      "Charles Hearn"
+    ],
+    "sectors": [
+      "Fintech & Enterprise AI"
+    ],
+    "stage": "StageSeries C",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/alloy",
+    "invested_year": 2015,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Emily Man",
+      "Brad Svrluga"
+    ],
+    "founded_year": 2015,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Simplifying access to mental health care",
+    "company_url": "https://www.helloalma.com/",
+    "description": "Simplifying access to mental health care",
+    "founders": [
+      "Dr. Harry Ritter"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "stage": "StageExited",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/alma",
+    "invested_year": 2018,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Brad Svrluga"
+    ],
+    "founded_year": 2017,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "The venture intelligence company",
+    "company_url": null,
+    "description": "The venture intelligence company",
+    "founders": [
+      "Chris Freeberg"
+    ],
+    "sectors": [
+      "Fintech & Enterprise AI"
+    ],
+    "stage": "StagePre-Seed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/altis",
+    "invested_year": 2025,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Ben Sun",
+      "Emily Man"
+    ],
+    "founded_year": 2025,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Accelerating bioprocessing with predictive simulation software for optimized manufacturing in pharma",
+    "company_url": "https://www.ark-biotech.com/",
+    "description": "Accelerating bioprocessing with predictive simulation software for optimized manufacturing in pharma",
+    "founders": [
+      "Yossi Quint"
+    ],
+    "sectors": [
+      "Infrastructure"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/ark",
+    "invested_year": 2021,
+    "headquarters": "Boston, MA",
+    "investors": [
+      "Brian Schechter"
+    ],
+    "founded_year": 2021,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Maximizing GPU performance for AI workloads",
+    "company_url": "https://www.crusoe.ai/",
+    "description": "Maximizing GPU performance for AI workloads",
+    "founders": [
+      "Alon Yariv",
+      "Omer Landau"
+    ],
+    "sectors": [
+      "Infrastructure"
+    ],
+    "stage": "StageExited",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/atero",
+    "invested_year": 2024,
+    "headquarters": "Tel Aviv, Israel",
+    "investors": [
+      "Brian Schechter",
+      "Tobias Citron"
+    ],
+    "founded_year": 2024,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Harnessing the ocean's potential by creating its most comprehensive sea floor map",
+    "company_url": "https://www.bedrockocean.com/",
+    "description": "Harnessing the ocean's potential by creating its most comprehensive sea floor map",
+    "founders": [
+      "Charles Chiau"
+    ],
+    "sectors": [
+      "Industrials",
+      "Physical AI"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/bedrock",
+    "invested_year": 2020,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Brad Svrluga",
+      "Zach Fredericks"
+    ],
+    "founded_year": 2019,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Predictive machine learning to maximize customer lifetime value",
+    "company_url": "https://www.blackcrow.ai/",
+    "description": "Predictive machine learning to maximize customer lifetime value",
+    "founders": [
+      "Richard Harris",
+      "Shehzad Khan",
+      "Joel Goldman"
+    ],
+    "sectors": [
+      "GTM Tech"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/black-crow-ai",
+    "invested_year": 2021,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Cassie Young",
+      "Brad Svrluga"
+    ],
+    "founded_year": 2020,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "AI Takeoffs for the Trades",
+    "company_url": "https://www.bobyard.com/",
+    "description": "AI Takeoffs for the Trades",
+    "founders": [
+      "Michael Ding"
+    ],
+    "sectors": [
+      "Vertical AI"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/bobyard",
+    "invested_year": 2023,
+    "headquarters": "San Francisco, CA",
+    "investors": [
+      "Jason Shuman"
+    ],
+    "founded_year": 2023,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "PropTech"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Scaling professional coaching for everyone in the workforce",
+    "company_url": "https://workbravely.com/",
+    "description": "Scaling professional coaching for everyone in the workforce",
+    "founders": [
+      "Sarah Sheehan"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/bravely",
+    "invested_year": 2017,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Cassie Young"
+    ],
+    "founded_year": 2017,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "The fastest path to production AI",
+    "company_url": "https://www.cake.ai/",
+    "description": "The fastest path to production AI",
+    "founders": [
+      "Misha Herscu"
+    ],
+    "sectors": [
+      "Infrastructure"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/cake-ai",
+    "invested_year": 2021,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Brian Schechter",
+      "Tobias Citron"
+    ],
+    "founded_year": 2021,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Crafting outdoor-rooted communities through thoughtful land acquisition and development",
+    "company_url": "https://cardinallands.com/",
+    "description": "Crafting outdoor-rooted communities through thoughtful land acquisition and development",
+    "founders": [
+      "Bryan Dunn",
+      "Albert Nichols"
+    ],
+    "sectors": [
+      "Vertical AI"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/cardinal-lands",
+    "invested_year": 2022,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Jason Shuman"
+    ],
+    "founded_year": 2022,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "CPG"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Next-generation software connecting U.S. and Mexico supply chain partners",
+    "company_url": "https://cargado.com/",
+    "description": "Next-generation software connecting U.S. and Mexico supply chain partners",
+    "founders": [
+      "Matt Silver",
+      "Rylan Hawkins"
+    ],
+    "sectors": [
+      "Industrials"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/cargado",
+    "invested_year": 2024,
+    "headquarters": "Chicago, IL",
+    "investors": [
+      "Zach Fredericks",
+      "Brad Svrluga"
+    ],
+    "founded_year": 2023,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "An agentic platform for disputes, fraud, and payment operations",
+    "company_url": "https://www.casaphq.com/",
+    "description": "An agentic platform for disputes, fraud, and payment operations",
+    "founders": [
+      "Shanthi Shanmugam",
+      "Saisi Peter"
+    ],
+    "sectors": [
+      "Fintech & Enterprise AI"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/casap",
+    "invested_year": 2022,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Emily Man",
+      "Brad Svrluga"
+    ],
+    "founded_year": 2022,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "The next generation of AI-powered trade compliance and duty recovery",
+    "company_url": "https://meetcaspian.com/",
+    "description": "The next generation of AI-powered trade compliance and duty recovery",
+    "founders": [
+      "Justin Sherlock",
+      "Matthew Ebeweber"
+    ],
+    "sectors": [
+      "Industrials"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/caspian",
+    "invested_year": 2024,
+    "headquarters": "San Francisco, CA",
+    "investors": [
+      "Emily Man",
+      "Zach Fredericks"
+    ],
+    "founded_year": 2024,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "The leading private network for the world's most powerful women",
+    "company_url": "https://chief.com/",
+    "description": "The leading private network for the world's most powerful women",
+    "founders": [
+      "Alison Moore",
+      "Carolyn Childers",
+      "Lindsay Kaplan"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "StageSeries B",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/chief",
+    "invested_year": 2017,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Ben Sun"
+    ],
+    "founded_year": 2017,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Building the incentives layer for the agentic economy",
+    "company_url": "https://circuitandchisel.com/",
+    "description": "Building the incentives layer for the agentic economy",
+    "founders": [
+      "Louis Amira",
+      "David Noël-Romas"
+    ],
+    "sectors": [
+      "Fintech & Enterprise AI"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/circuit-chisel",
+    "invested_year": 2025,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Emily Man"
+    ],
+    "founded_year": 2025,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Leading South Korean ecommerce platform revolutionizing online retail",
+    "company_url": "https://Coupang.com",
+    "description": "Leading South Korean ecommerce platform revolutionizing online retail",
+    "founders": [
+      "Bom Kim"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "StageIPO",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/coupang",
+    "invested_year": 2015,
+    "headquarters": "Seoul, South Korea",
+    "investors": [
+      "Ben Sun"
+    ],
+    "founded_year": 2010,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Building healthier communities",
+    "company_url": "https://www.crosswalk.health/",
+    "description": "Building healthier communities",
+    "founders": [
+      "Jon Collins"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "stage": "StageSeries A",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/crosswalk-health",
+    "invested_year": 2024,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Sam Toole"
+    ],
+    "founded_year": 2024,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Transforming clinical trials and precision medicine",
+    "company_url": "https://dandelionhealth.ai/",
+    "description": "Transforming clinical trials and precision medicine",
+    "founders": [
+      "Elliott Green"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/dandelion-health",
+    "invested_year": 2021,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Sam Toole"
+    ],
+    "founded_year": 2020,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "The vertically integrated operating system for dentists",
+    "company_url": "https://www.meetdandy.com/",
+    "description": "The vertically integrated operating system for dentists",
+    "founders": [
+      "Daniel Hanover",
+      "Toni Oloko"
+    ],
+    "sectors": [
+      "Vertical AI",
+      "Physical AI"
+    ],
+    "stage": "StageSeries C",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/dandy",
+    "invested_year": 2019,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Jason Shuman",
+      "Ben Sun"
+    ],
+    "founded_year": 2018,
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Empowering small and medium-sized businesses with everything they need to take control of their IT and security environment.",
+    "company_url": "https://www.electric.ai/",
+    "description": "IT powers work. Electric powers IT.",
+    "founders": [
+      "Ryan Denehy"
+    ],
+    "sectors": [],
+    "stage": "StageSeries D",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/electric-ai",
+    "invested_year": 2016,
+    "headquarters": "New York, NY",
+    "investors": [
+      "Brad Svrluga"
+    ],
+    "founded_year": 2016,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "Identity security for the agentic era",
+    "company_url": "http://eoscyber.ai/",
+    "description": "Identity security for the agentic era",
+    "founders": [
+      "Archit Lohokare",
+      "Kash Ivaturi"
+    ],
+    "sectors": [
+      "Cybersecurity"
+    ],
+    "stage": "StageSeed",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/eos",
+    "invested_year": 2025,
+    "headquarters": "San Mateo, CA",
+    "investors": [
+      "Tobias Citron"
+    ],
+    "founded_year": 2025,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  },
+  {
+    "company_name": "A compute stack powering the fastest inference in the world",
+    "company_url": "https://www.etched.com/",
+    "description": "A compute stack powering the fastest inference in the world",
+    "founders": [
+      "Gavin Uberti",
+      "Chris Zhu",
+      "Robert Wachen"
+    ],
+    "sectors": [
+      "Infrastructure",
+      "Physical AI"
+    ],
+    "stage": "StageSeries B",
+    "status": null,
+    "profile_url": "https://primary.vc/companies/etched",
+    "invested_year": 2023,
+    "headquarters": "San Francisco, CA",
+    "investors": [
+      "Brian Schechter",
+      "Tobias Citron"
+    ],
+    "founded_year": 2022,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://primary.vc/portfolio/specialization",
+    "scraped_at": "2026-07-30T07:07:57+00:00"
+  }
+]

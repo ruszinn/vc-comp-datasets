@@ -1,0 +1,1178 @@
+[
+  {
+    "file": "companies.json",
+    "company": "Webull",
+    "source": "wikidata",
+    "wikidata_id": "Q104902623",
+    "filled": {
+      "sectors": [
+        "financial services"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "ElevenLabs",
+    "source": "wikidata",
+    "wikidata_id": "Q116798355",
+    "filled": {
+      "sectors": [
+        "artificial intelligence"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "DualEntry",
+    "source": "wikidata",
+    "wikidata_id": "Q135509910",
+    "filled": {
+      "sectors": [
+        "enterprise resource planning"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Netskope",
+    "source": "wikidata",
+    "wikidata_id": "Q17082991",
+    "filled": {
+      "sectors": [
+        "computer security"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Character.AI",
+    "source": "wikidata",
+    "wikidata_id": "Q115517493",
+    "filled": {
+      "founders": [
+        "Noam Shazeer",
+        "Daniel De Freitas"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Helsing",
+    "source": "wikidata",
+    "wikidata_id": "Q127380521",
+    "filled": {
+      "sectors": [
+        "weapons industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Neuralink",
+    "source": "wikidata",
+    "wikidata_id": "Q29043471",
+    "filled": {
+      "year_founded": 2016,
+      "sectors": [
+        "neurotechnology"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "xAI",
+    "source": "wikidata",
+    "wikidata_id": "Q120599684",
+    "filled": {
+      "founders": [
+        "Elon Musk",
+        "Tony Wu",
+        "Igor Babuschkin"
+      ],
+      "sectors": [
+        "information technology industry",
+        "artificial intelligence"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Anthropic",
+    "source": "wikidata",
+    "wikidata_id": "Q116758847",
+    "filled": {
+      "sectors": [
+        "artificial intelligence"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Whatnot",
+    "source": "wikidata",
+    "wikidata_id": "Q131936300",
+    "filled": {
+      "sectors": [
+        "e-commerce"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Databricks",
+    "source": "wikidata",
+    "wikidata_id": "Q18350420",
+    "filled": {
+      "founders": [
+        "Ali Ghodsi",
+        "Ion Stoica",
+        "Reynold Xin",
+        "Matei Zaharia"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Orqa",
+    "source": "wikidata",
+    "wikidata_id": "Q118151894",
+    "filled": {
+      "sectors": [
+        "electronics industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Physics Wallah",
+    "source": "wikidata",
+    "wikidata_id": "Q111487437",
+    "filled": {
+      "sectors": [
+        "educational technology"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Sarvam AI",
+    "source": "wikidata",
+    "wikidata_id": "Q134437782",
+    "filled": {
+      "sectors": [
+        "artificial intelligence"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Kumospace",
+    "source": "wikidata",
+    "wikidata_id": "Q116960404",
+    "filled": {
+      "sectors": [
+        "communication software"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Anduril",
+    "source": "wikidata",
+    "wikidata_id": "Q61918830",
+    "filled": {
+      "sectors": [
+        "defense industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "CertiK",
+    "source": "wikidata",
+    "wikidata_id": "Q116425349",
+    "filled": {
+      "year_founded": 2018
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Stripe",
+    "source": "wikidata",
+    "wikidata_id": "Q7624104",
+    "filled": {
+      "founders": [
+        "Patrick Collison",
+        "John Collison"
+      ],
+      "sectors": [
+        "financial services",
+        "mobile payment industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Mistral AI",
+    "source": "wikidata",
+    "wikidata_id": "Q119718658",
+    "filled": {
+      "sectors": [
+        "combined administrative office services"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Aerohive",
+    "source": "wikidata",
+    "wikidata_id": "Q4688284",
+    "filled": {
+      "sectors": [
+        "information technology"
+      ],
+      "ticker_symbol": "NYSE: HIVE"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Affirm",
+    "source": "wikidata",
+    "wikidata_id": "Q65085822",
+    "filled": {
+      "founders": [
+        "Nathan Gettings",
+        "Max Levchin"
+      ],
+      "sectors": [
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Arctic Wolf",
+    "source": "wikidata",
+    "wikidata_id": "Q104833980",
+    "filled": {
+      "sectors": [
+        "computer security"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Barefoot Networks",
+    "source": "wikidata",
+    "wikidata_id": "Q24885857",
+    "filled": {
+      "sectors": [
+        "computer network"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Blockchain",
+    "source": "wikidata",
+    "wikidata_id": "Q15960875",
+    "filled": {
+      "sectors": [
+        "cryptocurrency"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Beme",
+    "source": "wikidata",
+    "wikidata_id": "Q46996012",
+    "filled": {
+      "sectors": [
+        "social media",
+        "journalism"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Bonobos",
+    "source": "wikidata",
+    "wikidata_id": "Q4942546",
+    "filled": {
+      "sectors": [
+        "retail"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Bromium",
+    "source": "wikidata",
+    "wikidata_id": "Q4973660",
+    "filled": {
+      "sectors": [
+        "computer security"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Zscaler",
+    "source": "wikidata",
+    "wikidata_id": "Q8074786",
+    "filled": {
+      "sectors": [
+        "internet security",
+        "computer security"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "SolarEdge",
+    "source": "wikidata",
+    "wikidata_id": "Q187212",
+    "filled": {
+      "sectors": [
+        "photovoltaics"
+      ],
+      "ticker_symbol": "NASDAQ: SEDG"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Rubrik",
+    "source": "wikidata",
+    "wikidata_id": "Q55632076",
+    "filled": {
+      "ticker_symbol": "NYSE: RBRK"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Outbrain",
+    "source": "wikidata",
+    "wikidata_id": "Q17051632",
+    "filled": {
+      "sectors": [
+        "marketing"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "OverOps",
+    "source": "wikidata",
+    "wikidata_id": "Q17070790",
+    "filled": {
+      "sectors": [
+        "software analytics"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Personetics",
+    "source": "wikidata",
+    "wikidata_id": "Q60751447",
+    "filled": {
+      "sectors": [
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "MuleSoft",
+    "source": "wikidata",
+    "wikidata_id": "Q6933868",
+    "filled": {
+      "sectors": [
+        "business software industry",
+        "software as a service"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Natera",
+    "source": "wikidata",
+    "wikidata_id": "Q6968762",
+    "filled": {
+      "ticker_symbol": "NASDAQ: NTRA"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Nutanix",
+    "source": "wikidata",
+    "wikidata_id": "Q16959629",
+    "filled": {
+      "sectors": [
+        "Hyper-converged infrastructure"
+      ],
+      "ticker_symbol": "NASDAQ: NTNX"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "LiveU",
+    "source": "wikidata",
+    "wikidata_id": "Q6654588",
+    "filled": {
+      "sectors": [
+        "electronics"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Fusion-IO",
+    "source": "wikidata",
+    "wikidata_id": "Q1475349",
+    "filled": {
+      "sectors": [
+        "solid-state drive"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "The Honest Company",
+    "source": "wikidata",
+    "wikidata_id": "Q18534725",
+    "filled": {
+      "sectors": [
+        "retail"
+      ],
+      "ticker_symbol": "NASDAQ: HNST"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Blue Nile",
+    "source": "wikidata",
+    "wikidata_id": "Q4929570",
+    "filled": {
+      "sectors": [
+        "retail"
+      ],
+      "ticker_symbol": "NASDAQ: NILE"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "BlueVine",
+    "source": "wikidata",
+    "wikidata_id": "Q103951085",
+    "filled": {
+      "sectors": [
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Ciena",
+    "source": "wikidata",
+    "wikidata_id": "Q1091783",
+    "filled": {
+      "sectors": [
+        "telecommunications"
+      ],
+      "ticker_symbol": "NYSE: CIEN"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Dremio",
+    "source": "wikidata",
+    "wikidata_id": "Q138685727",
+    "filled": {
+      "sectors": [
+        "data analytics software industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Riverbed Technology",
+    "source": "wikidata",
+    "wikidata_id": "Q1139852",
+    "filled": {
+      "sectors": [
+        "information technology"
+      ],
+      "ticker_symbol": "NASDAQ: RVBD"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "RoofStock",
+    "source": "wikidata",
+    "wikidata_id": "Q85847091",
+    "filled": {
+      "sectors": [
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Ripple",
+    "source": "wikidata",
+    "wikidata_id": "Q16904931",
+    "filled": {
+      "founders": [
+        "Chris Larsen",
+        "Jed McCaleb"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "QuantumScape",
+    "source": "wikidata",
+    "wikidata_id": "Q99036143",
+    "filled": {
+      "ticker_symbol": "NASDAQ: QS"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Playdom",
+    "source": "wikidata",
+    "wikidata_id": "Q637851",
+    "filled": {
+      "sectors": [
+        "video game industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "OYO",
+    "source": "wikidata",
+    "wikidata_id": "Q24906315",
+    "filled": {
+      "sectors": [
+        "hospitality service"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Masergy",
+    "source": "wikidata",
+    "wikidata_id": "Q39049120",
+    "filled": {
+      "sectors": [
+        "telecommunications"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Kongregate",
+    "source": "wikidata",
+    "wikidata_id": "Q3110042",
+    "filled": {
+      "year_founded": 2006
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Informatica",
+    "source": "wikidata",
+    "wikidata_id": "Q941392",
+    "filled": {
+      "ticker_symbol": "NYSE: INFA"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Guardant Health",
+    "source": "wikidata",
+    "wikidata_id": "Q53308751",
+    "filled": {
+      "sectors": [
+        "biotechnology"
+      ],
+      "ticker_symbol": "NASDAQ: GH"
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "ShoeDazzle",
+    "source": "wikidata",
+    "wikidata_id": "Q7499960",
+    "filled": {
+      "sectors": [
+        "retail"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "TheFind",
+    "source": "wikidata",
+    "wikidata_id": "Q7711636",
+    "filled": {
+      "year_founded": 2006
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Aqua Security",
+    "source": "wikidata",
+    "wikidata_id": "Q111982310",
+    "filled": {
+      "sectors": [
+        "information technology industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Goop",
+    "source": "wikidata",
+    "wikidata_id": "Q37848061",
+    "filled": {
+      "sectors": [
+        "alternative medicine"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Grab",
+    "source": "wikidata",
+    "wikidata_id": "Q20873932",
+    "filled": {
+      "sectors": [
+        "transport",
+        "peer-to-peer ridesharing",
+        "information technology"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Epic Games",
+    "source": "wikidata",
+    "wikidata_id": "Q739711",
+    "filled": {
+      "sectors": [
+        "video game industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Cato Networks",
+    "source": "wikidata",
+    "wikidata_id": "Q55647697",
+    "filled": {
+      "founders": [
+        "Shlomo Kramer"
+      ],
+      "sectors": [
+        "computer network"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "ezCater",
+    "source": "wikidata",
+    "wikidata_id": "Q105102719",
+    "filled": {
+      "sectors": [
+        "catering"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Haus Laboratories",
+    "source": "wikidata",
+    "wikidata_id": "Q77659264",
+    "filled": {
+      "sectors": [
+        "cosmetics industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Magic Spoon",
+    "source": "wikidata",
+    "wikidata_id": "Q113489440",
+    "filled": {
+      "sectors": [
+        "food industry"
+      ]
+    }
+  },
+  {
+    "file": "companies.json",
+    "company": "Kikoff",
+    "source": "wikidata",
+    "wikidata_id": "Q139595130",
+    "filled": {
+      "sectors": [
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Aisera",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Future of Work",
+        "Dev Tools / Cloud"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Anthropic",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Dev Tools / Cloud"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Axiom",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Dev Tools / Cloud"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Delphi",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Consumer",
+        "Future of Work"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Envoy",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Future of Work"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "FireHydrant",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Dev Tools / Cloud"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "FiveStars",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Consumer"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Ndea",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Dev Tools / Cloud"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Skild AI",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Deeptech / Robotics / AR/VR"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Usermind",
+    "source": "retag",
+    "filled": {
+      "everywhere_tags": [
+        "Future of Work",
+        "Data & Analytics"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Anthropic",
+    "source": "wikidata",
+    "wikidata_id": "Q116758847",
+    "filled": {
+      "sectors": [
+        "artificial intelligence"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Betterment",
+    "source": "wikidata",
+    "wikidata_id": "Q4898585",
+    "filled": {
+      "sectors": [
+        "financial services"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "BitPay",
+    "source": "wikidata",
+    "wikidata_id": "Q17001443",
+    "filled": {
+      "sectors": [
+        "cryptocurrency industry"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "BitSight",
+    "source": "wikidata",
+    "wikidata_id": "Q65121483",
+    "filled": {
+      "sectors": [
+        "computer security",
+        "risk management"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Bluevine",
+    "source": "wikidata",
+    "wikidata_id": "Q103951085",
+    "filled": {
+      "sectors": [
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Chime",
+    "source": "wikidata",
+    "wikidata_id": "Q85752013",
+    "filled": {
+      "sectors": [
+        "financial services",
+        "fintech"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Cofactor Genomics",
+    "source": "wikidata",
+    "wikidata_id": "Q5140872",
+    "filled": {
+      "sectors": [
+        "biotechnology",
+        "service"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Credit Sesame",
+    "source": "wikidata",
+    "wikidata_id": "Q96375655",
+    "filled": {
+      "sectors": [
+        "fintech",
+        "financial services"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "eero",
+    "source": "wikidata",
+    "wikidata_id": "Q100711695",
+    "filled": {
+      "founders": [
+        "Amos Schallich",
+        "Nate Hardison",
+        "Nick Weaver"
+      ],
+      "sectors": [
+        "consumer electronics industry"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Genesis Molecular AI",
+    "source": "wikidata",
+    "wikidata_id": "Q136655267",
+    "filled": {
+      "sectors": [
+        "biotechnology industry"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Getaround",
+    "source": "wikidata",
+    "wikidata_id": "Q5554388",
+    "filled": {
+      "sectors": [
+        "carsharing"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Gilead",
+    "source": "wikidata",
+    "wikidata_id": "Q663596",
+    "filled": {
+      "sectors": [
+        "pharmaceutical industry"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "HomeLight",
+    "source": "wikidata",
+    "wikidata_id": "Q47130436",
+    "filled": {
+      "founders": [
+        "Andrew Uher"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "JuliaHub",
+    "source": "wikidata",
+    "wikidata_id": "Q56027522",
+    "filled": {
+      "founders": [
+        "Jeff Bezanson",
+        "Alan Edelman",
+        "Stefan Karpinski",
+        "Viral B. Shah",
+        "Keno Fischer",
+        "Deepak Vinchhi"
+      ],
+      "sectors": [
+        "cloud computing"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Lovable",
+    "source": "wikidata",
+    "wikidata_id": "Q135998012",
+    "filled": {
+      "sectors": [
+        "information technology industry",
+        "artificial intelligence",
+        "vibe coding"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Netlify",
+    "source": "wikidata",
+    "wikidata_id": "Q56102498",
+    "filled": {
+      "founders": [
+        "Mathias Biilmann",
+        "Christian Bach"
+      ],
+      "sectors": [
+        "cloud computing",
+        "serverless computing",
+        "platform as a service"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Observable",
+    "source": "wikidata",
+    "wikidata_id": "Q131197164",
+    "filled": {
+      "founders": [
+        "Mike Bostock"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Pinecone",
+    "source": "wikidata",
+    "wikidata_id": "Q122196662",
+    "filled": {
+      "sectors": [
+        "software development"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Poshmark",
+    "source": "wikidata",
+    "wikidata_id": "Q17051868",
+    "filled": {
+      "sectors": [
+        "e-commerce"
+      ],
+      "ticker_symbol": "NASDAQ: POSH"
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "ShipBob",
+    "source": "wikidata",
+    "wikidata_id": "Q39054083",
+    "filled": {
+      "sectors": [
+        "logistics"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Siri",
+    "source": "wikidata",
+    "wikidata_id": "Q582159",
+    "filled": {
+      "founders": [
+        "Apple Inc."
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "The Black Tux",
+    "source": "wikidata",
+    "wikidata_id": "Q17108276",
+    "filled": {
+      "sectors": [
+        "e-commerce"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Tumblr",
+    "source": "wikidata",
+    "wikidata_id": "Q384060",
+    "filled": {
+      "founders": [
+        "David Karp",
+        "Marco Arment"
+      ],
+      "sectors": [
+        "social media"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Uber",
+    "source": "wikidata",
+    "wikidata_id": "Q780442",
+    "filled": {
+      "founders": [
+        "Garrett Camp",
+        "Travis Kalanick"
+      ],
+      "sectors": [
+        "information technology",
+        "peer-to-peer ridesharing"
+      ]
+    }
+  },
+  {
+    "file": "menlo_companies.json",
+    "company": "Warby Parker",
+    "source": "wikidata",
+    "wikidata_id": "Q7968882",
+    "filled": {
+      "sectors": [
+        "retail"
+      ]
+    }
+  },
+  {
+    "file": "usv_companies.json",
+    "company": "Marley Spoon",
+    "source": "wikidata",
+    "wikidata_id": "Q101568596",
+    "filled": {
+      "ticker_symbol": "Australian Securities Exchange: MMM"
+    }
+  },
+  {
+    "file": "usv_companies.json",
+    "company": "Tucows",
+    "source": "wikidata",
+    "wikidata_id": "Q2087612",
+    "filled": {
+      "ticker_symbol": "NASDAQ: TCX"
+    }
+  },
+  {
+    "file": "usv_companies.json",
+    "company": "Coinbase",
+    "source": "wikidata",
+    "wikidata_id": "Q16972754",
+    "filled": {
+      "ticker_symbol": "NASDAQ: COIN"
+    }
+  },
+  {
+    "file": "usv_companies.json",
+    "company": "Shapeways",
+    "source": "wikidata",
+    "wikidata_id": "Q2748407",
+    "filled": {
+      "ticker_symbol": "NYSE: SHPW"
+    }
+  }
+]

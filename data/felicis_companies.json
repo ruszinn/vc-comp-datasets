@@ -1,0 +1,4215 @@
+[
+  {
+    "company_name": "Aardvark",
+    "company_url": "https://vark.io/",
+    "description": "Aardvark is a Knowledge market",
+    "founders": [
+      "Max Ventilla",
+      "Damon Horowitz",
+      "Nathan Stoll",
+      "Rob Spiro"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Aaru",
+    "company_url": "https://aaru.com/",
+    "description": "Rethinking the science of prediction",
+    "founders": [
+      "Cameron Fink",
+      "Ned Koh",
+      "John Kessler"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Acompli",
+    "company_url": null,
+    "description": "Mobile email platform",
+    "founders": [
+      "Javier Soltero",
+      "JJ Zhuang",
+      "Kevin Henrikson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Adaptive Innovations",
+    "company_url": "https://www.adaptive.co/",
+    "description": "AI-native healthcare provider rebuilding the delivery of care from the inside out, starting with home health",
+    "founders": [
+      "Alex Wendland",
+      "Logan Stinson",
+      "Ryan Tolsma",
+      "Hunter Stinson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Adyen",
+    "company_url": "https://www.adyen.com/",
+    "description": "Financial technology platform",
+    "founders": [
+      "Pieter van der Does",
+      "Arnout Schuijff"
+    ],
+    "location": "Amsterdam, Netherlands",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Agency",
+    "company_url": "https://www.agency.inc/",
+    "description": "AI that turns customer management into growth",
+    "founders": [
+      "Elias Torres"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Alloy",
+    "company_url": "https://www.alloy.com/",
+    "description": "Platform for identity verification used to detect fraud",
+    "founders": [
+      "Tommy Nicholas",
+      "Laura Spiekerman",
+      "Charles Hearn"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Altitude Networks ",
+    "company_url": null,
+    "description": "Protecting enterprise data",
+    "founders": [
+      "Michael Coates",
+      "Amir Kavousian"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "AppJet",
+    "company_url": null,
+    "description": "Create web-based applications in a browser",
+    "founders": [
+      "Aaron Iba",
+      "David Greenspan",
+      "J.D. Zamfirescu"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Appurify",
+    "company_url": null,
+    "description": "Mobile test automation",
+    "founders": [
+      "Manish Lachwani",
+      "Jay Srinivasan",
+      "Pratyus Patnaik",
+      "Rahul Jain"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Archil",
+    "company_url": "https://archil.com/",
+    "description": "Storage that scales infinitely",
+    "founders": [
+      "Hunter Leath"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Arena",
+    "company_url": "https://arena.ai/",
+    "description": "AI model ranking",
+    "founders": [
+      "Anastasios Angelopoulos",
+      "Ion Stoica",
+      "Wei-Lin Chiang"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Armada",
+    "company_url": "https://www.armada.ai/",
+    "description": "Edge computing and connectivity platform",
+    "founders": [
+      "Dan Wright",
+      "Jonathan Runyan",
+      "Pradeep Nair"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Artemis",
+    "company_url": "https://artemissecurity.com/",
+    "description": "AI-Native protection platform powering modern security operations",
+    "founders": [
+      "Shachar Hirshberg",
+      "Dan Shiebler"
+    ],
+    "location": "New York City, New York",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ascend.io",
+    "company_url": "https://www.ascend.io/",
+    "description": "A unified platform for autonomous data pipelines",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Assort Health",
+    "company_url": "https://www.assorthealth.com/",
+    "description": "Agentic AI for healthcare systems",
+    "founders": [
+      "Jeffery Liu",
+      "Jon Wang"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Astranis",
+    "company_url": "https://www.astranis.com/",
+    "description": "Small and low-cost telecommunications satellites",
+    "founders": [
+      "John Gedmark",
+      "Ryan McLinko"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Atalanta",
+    "company_url": "https://www.atalanta.tech/",
+    "description": "Mathematical AI company whose vision is to bring provably correct decision-making to the world's most important missions",
+    "founders": [
+      "Anjana Rajan",
+      "Jonathan Ring"
+    ],
+    "location": "Washington, D.C.",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Atlas Health",
+    "company_url": "https://atlas.health/",
+    "description": "Hospital care that patients can access and afford",
+    "founders": [
+      "Ethan Davidoff",
+      "Bryan Andrade"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Atspoke",
+    "company_url": null,
+    "description": "Modern ticketing, self-service AI",
+    "founders": [
+      "Jay Srinivasan",
+      "Pratyus Patnaik",
+      "David Kaneda"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Attentive",
+    "company_url": "https://www.attentive.com/",
+    "description": "Personalized messaging platform for brands and organizations",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Automat",
+    "company_url": "https://www.runautomat.com/",
+    "description": "Business Automations Simplified. Managed automations (RPA) built and maintained by AI",
+    "founders": [
+      "Lucas Ochoa",
+      "Gautam Bose"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Azumio",
+    "company_url": "https://www.azumio.com/",
+    "description": "AI driven digital health solutions",
+    "founders": [
+      "Peter Kuhar",
+      "Bojan Bostjancic",
+      "Tom Xu"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "BioAge Labs",
+    "company_url": "https://bioagelabs.com/",
+    "description": "Biotechnology company developing drugs to treat aging and associated diseases",
+    "founders": [
+      " Kristen Fortney",
+      "Eric Morgen"
+    ],
+    "location": "Richmond, California",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Blomma",
+    "company_url": "https://www.blomma.com/",
+    "description": "AI-powered career coach with a mission to make great career coaching accessible to everyone",
+    "founders": [
+      "Silvia Oviedo Lopez",
+      "Siddhartha Dabral"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Blume",
+    "company_url": "https://www.blume.com/",
+    "description": "Safe and effective self-care products",
+    "founders": [
+      "Taran Ghatrora",
+      "Bunny Ghatrora"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Bonobos",
+    "company_url": "https://bonobos.com/",
+    "description": "Menswear fashion company",
+    "founders": [
+      "Andy Dunn",
+      "Brian Spaly"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Brevian",
+    "company_url": "https://www.brevian.ai/",
+    "description": "No-code platform to build custom, secure AI agents",
+    "founders": [
+      "Vinay Wagh",
+      "Ram Swaminathan"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Bright",
+    "company_url": "https://www.brightmoney.co/",
+    "description": "Solar panel systems for the developing world",
+    "founders": [
+      "Petko Plachkov",
+      "Varun Modi",
+      "Avi Patchava",
+      "Avinash Ramakanth",
+      "Alexander Seyfert"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "BrightRoll",
+    "company_url": null,
+    "description": "Programmatic video advertising platform",
+    "founders": [
+      "Tod Sacerdoti",
+      "Dru Nelson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Browser Use",
+    "company_url": "https://browser-use.com/",
+    "description": "Making websites accessible for AI agents",
+    "founders": [
+      "Magnus Müller",
+      "Gregor Žunič"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Bunkerhill",
+    "company_url": "https://www.bunkerhillhealth.com/",
+    "description": "AI agent platform for health systems",
+    "founders": [
+      "Nishith Khandwala",
+      "David Eng"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "C1",
+    "company_url": "https://www.c1.ai/",
+    "description": "Identity security for the modern workforce",
+    "founders": [
+      "Alex Bovee",
+      "Paul Querna"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Cambridge Terahertz",
+    "company_url": "https://www.thzcorp.com/",
+    "description": "Screening for concealed threats",
+    "founders": [
+      "Nathan Monroe",
+      "Anand Dixit"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Canva",
+    "company_url": "http://www.canva.com/",
+    "description": "Online design and publishing platform",
+    "founders": [
+      "Melanie Perkins",
+      "Cliff Obrecht",
+      " Cameron Adams"
+    ],
+    "location": "Sydney, Australia",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "CardSpring",
+    "company_url": null,
+    "description": "In-the-moment commerce experiences",
+    "founders": [
+      "Amit Kumar",
+      "Jeff Winner",
+      "Eckart Walther",
+      "Geraud Boyer"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Cedar",
+    "company_url": "https://www.cedarai.com/",
+    "description": "AI company providing operational planning software for rail yards",
+    "founders": [
+      "Daril Vilhena",
+      "Yi Chen"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Cellino",
+    "company_url": "https://cellinobio.com/",
+    "description": "Personalized, autologous cell therapies",
+    "founders": [
+      "Nabiha Saklayen",
+      "Marinna Madrid",
+      "Matthias Wagner"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Chalk",
+    "company_url": "https://chalk.ai/",
+    "description": "The data platform for inference",
+    "founders": [
+      "Marc Freed-Finnegan",
+      "Elliot Marx"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Chomp",
+    "company_url": null,
+    "description": "App search engine",
+    "founders": [
+      "Ben Keighran",
+      "Cathy Edwards"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Circulate",
+    "company_url": null,
+    "description": "Marketing identity resolution",
+    "founders": [
+      "Ari Jacoby",
+      "Todd Lieberman"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "ClassDojo",
+    "company_url": "https://www.classdojo.com/",
+    "description": "A school communication platform",
+    "founders": [
+      "Sam Chaudhary",
+      "Liam Don"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Clear Labs",
+    "company_url": "https://www.clearlabs.com/",
+    "description": "Fully automated sequencing platform for turnkey diagnostics",
+    "founders": [
+      " Sasan Amini",
+      "Ramin Khaksar",
+      "Mahni Ghorashi"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Coalition",
+    "company_url": "https://www.coalitioninc.com/",
+    "description": "Comprehensive cyber insurance and security",
+    "founders": [
+      "Joshua Motta",
+      "John Hering"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Condor",
+    "company_url": "https://www.condorsoftware.com/",
+    "description": "Financial intelligence and automation platform for life science",
+    "founders": [
+      "Jennifer Kyle"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Corridor",
+    "company_url": "https://www.corridor.dev/",
+    "description": "Secure AI coding at the source",
+    "founders": [
+      "Jack Cable",
+      "Ashwin Ramaswami"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Counterpart",
+    "company_url": "https://yourcounterpart.com/",
+    "description": "Insurance experts with AI driven underwriting and claims technology",
+    "founders": [
+      "Tanner Hackett"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Covalent",
+    "company_url": "https://www.covalentnetworks.com/",
+    "description": "Cloud-based software solutions for corporate and employee performance management",
+    "founders": [
+      "Ganesh Swami",
+      "Levi Aul"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Credit Karma",
+    "company_url": "https://www.creditkarma.com/",
+    "description": "Financial progress for all",
+    "founders": [
+      "Kenneth Lin",
+      "Ryan Graciano",
+      "Nichole Mustard"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Cruise",
+    "company_url": null,
+    "description": "Autonomous vehicles",
+    "founders": [
+      "Kyle Vogt",
+      "Dan Kan"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Crunchbase",
+    "company_url": "https://www.crunchbase.com/",
+    "description": "Leading destination for company insights",
+    "founders": [
+      "Michael Arrington"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Crusoe",
+    "company_url": "https://www.crusoe.ai/",
+    "description": "Aligning the future of computing with the future of the climate",
+    "founders": [
+      "Chase Lochmiller",
+      "Cully Cavness"
+    ],
+    "location": "Denver, Colorado",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Culture Amp",
+    "company_url": "https://www.cultureamp.com/",
+    "description": "Employee analytics platform",
+    "founders": [
+      "Didier Elzinga",
+      "Doug English",
+      "Rod Hamilton",
+      "Jon Williams"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "DataGrail",
+    "company_url": "https://www.datagrail.io/",
+    "description": "Privacy compliance and regulation platform",
+    "founders": [
+      "Daniel Barber",
+      "Ignacio Zendeja",
+      "Earl Hathaway"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Datology",
+    "company_url": "https://www.datologyai.com/",
+    "description": "Automated data curation",
+    "founders": [
+      "Ari Morcos",
+      "Bogdan Gaza",
+      "Matthew Leavitt"
+    ],
+    "location": "Redwood City, California",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dedrone",
+    "company_url": "https://www.dedrone.com/",
+    "description": "Counter-drone technology",
+    "founders": [
+      "Jörg Lamprecht",
+      "René Seeber",
+      "Ingo Seebach"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "DeepInfra",
+    "company_url": "https://deepinfra.com/",
+    "description": "Run the top AI models using a simple API, pay per use",
+    "founders": [
+      "Nikola Borisov",
+      "Georgios Papoutsis",
+      "Yessenzhar Kanapin"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "DeepJudge",
+    "company_url": "https://www.deepjudge.ai/",
+    "description": "Precision AI Search for legal teams",
+    "founders": [
+      "Paulina Grnarova",
+      "Yannic Kilcher",
+      "Kevin Roth"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Deeptrace",
+    "company_url": "https://deeptrace.com/",
+    "description": "AI agents for on-call",
+    "founders": [
+      "Andy Lee",
+      "Srinath Somasundaram"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Depot",
+    "company_url": "https://depot.dev/",
+    "description": "Accelerating builds, automatically",
+    "founders": [
+      "Kyle Galbraith",
+      "Jacob Gillespie"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dialpad",
+    "company_url": "https://www.dialpad.com/",
+    "description": "AI-powered cloud communications platform",
+    "founders": [
+      "Craig Walker",
+      "Brian Peterson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Diffbot",
+    "company_url": "https://www.diffbot.com/",
+    "description": "Knowledge as a service to power intelligent applications",
+    "founders": [
+      " Mike Tung"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dig Security",
+    "company_url": "https://www.paloaltonetworks.com/company/press/2023/palo-alto-networks-completes-acquisition-of-dig-security",
+    "description": "Real-time data security for the cloud",
+    "founders": [
+      "Dan Benjamin",
+      "Gad Akuka",
+      "Ido Azran"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Disco Technology",
+    "company_url": "https://www.disconetwork.com/",
+    "description": "AI-driven partnership platform for consumer brands",
+    "founders": [
+      "Conner Sherline"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Disqus",
+    "company_url": null,
+    "description": "Blog comment hosting service",
+    "founders": [
+      "Daniel Ha",
+      "Jason Yan"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Distributed Spectrum",
+    "company_url": "https://www.distributedspectrum.com/",
+    "description": "Real-time spectrum monitoring",
+    "founders": [
+      "Alex Wulff ",
+      "Ben Harpe",
+      "Isaac Struhl"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Distru",
+    "company_url": "https://www.distru.com/",
+    "description": "Supply chain software for the cannabis industry",
+    "founders": [
+      "Blaine Hatab",
+      "Azam Khan:",
+      "Johnny Ji",
+      "Blake Gentry"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "DoNotPay",
+    "company_url": "https://donotpay.com/",
+    "description": "The world's first robot lawyer",
+    "founders": [
+      "Joshua Browder"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dollar Shave Club",
+    "company_url": null,
+    "description": "Direct to consumer personal grooming products",
+    "founders": [
+      "Michael Dubin",
+      "Mark Levine"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dovetail",
+    "company_url": "https://dovetail.com/",
+    "description": "Cloud-based user research and customer feedback software",
+    "founders": [
+      "Benjamin Humphrey",
+      "Bradley Ayers"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dreambase",
+    "company_url": "https://dreambase.com/",
+    "description": "AI-native analytics for Supabase",
+    "founders": [
+      "Andy Keil",
+      "Kyle Ledbetter"
+    ],
+    "location": "Austin, Texas",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dropcam",
+    "company_url": null,
+    "description": "Connected video streaming cameras",
+    "founders": [
+      "Greg Duffy",
+      "Aamir Virani"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Dylibso",
+    "company_url": "https://dylibso.ai/",
+    "description": "Making WebAssembly everyone's favorite binary format",
+    "founders": [
+      "Steve Manuel",
+      "Benjamin Eckel",
+      "Zach Shipko"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Earnin",
+    "company_url": "https://www.earnin.com/",
+    "description": "Reimagining the way money moves to empower every person’s potential",
+    "founders": [
+      "Ram Palaniappan"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Edia",
+    "company_url": "https://edia.app/",
+    "description": "Personalized AI learning",
+    "founders": [
+      "Joe Philleo",
+      "Iain Proctor"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Elemy",
+    "company_url": "https://care.elemy.com/peds_b/",
+    "description": "Nationwide provider of childhood mental and behavioral healthcare",
+    "founders": [
+      "Yury Yakubchyk"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Elevate",
+    "company_url": "https://themindcompany.com/apps/elevate",
+    "description": "Brain training app designed to boost skills",
+    "founders": [
+      "Jesse Pickard",
+      "Karl Stenerud",
+      "Andy Mroczkowski"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Emailage",
+    "company_url": null,
+    "description": "Fraud prevention and identity verification technology",
+    "founders": [
+      "Reinaldo Carvalho",
+      "Rajesh Pandey"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Endurance Energy",
+    "company_url": "https://www.enduranceenergy.com/",
+    "description": "Building subsea geothermal power plants to end diesel reliance world wide",
+    "founders": [
+      "Andrew Redd"
+    ],
+    "location": "Seattle, Washington ",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ent",
+    "company_url": "https://ent.ai/",
+    "description": "Intent-aware endpoint platform for securing human and AI-driven work",
+    "founders": [
+      "Elias Manousos",
+      "Brandon Dixon"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Entalpic",
+    "company_url": "https://entalpic.ai/",
+    "description": "AI-driven materials discovery",
+    "founders": [
+      "Mathieu Galtier",
+      "Victor Schmidt",
+      "Alexandre Duval "
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Entire",
+    "company_url": "https://entire.io/",
+    "description": "AI-native developer platform",
+    "founders": [
+      "Thomas Dohmke"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Epinomics",
+    "company_url": null,
+    "description": "A GPS to guide personalized health",
+    "founders": [
+      "Fergus Chan",
+      "Paul Giresi",
+      "Howard Chang",
+      "Will Greenleaf"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ethena",
+    "company_url": "https://www.goethena.com/",
+    "description": "Compliance training for today’s teams",
+    "founders": [
+      "Roxanne Petraeus",
+      "Anne Solmssen"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Eventual Computing",
+    "company_url": "https://www.eventual.ai/",
+    "description": "Multimodal data processing",
+    "founders": [
+      "Sammy Sidhu",
+      "Jay Chia"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Evertune",
+    "company_url": "https://www.evertune.ai/",
+    "description": "AI marketing platform for brands",
+    "founders": [
+      "Brian Stempeck",
+      "Ed Chater",
+      "Poul Costinsky"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Exowatt",
+    "company_url": "https://www.exowatt.com/",
+    "description": "Next-generation renewable energy",
+    "founders": [
+      "Hannan Happi",
+      "Jack Abraham"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Extra by BuildForever",
+    "company_url": "https://buildforever.com/",
+    "description": "Your life's new inbox",
+    "founders": [
+      "Naveen Gavini",
+      "Albert Pereta",
+      "Steven Ramkumar"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Fellow",
+    "company_url": "https://fellow.ai/",
+    "description": "The best tool for meetings",
+    "founders": [
+      "Aydin Mirzaee",
+      "Amin Mirzaee",
+      "Samuel Cormier-Iijima"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Fifth Door",
+    "company_url": "https://fifthdoor.com/",
+    "description": "AI-native gaming platform for custom turn-based games",
+    "founders": [
+      "Daniel Kan",
+      "Amir Ghazvinian"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Fitbit",
+    "company_url": null,
+    "description": "Consumer electronics and fitness company",
+    "founders": [
+      "James Park",
+      "Eric Friedman"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Flexport",
+    "company_url": "https://www.flexport.com/",
+    "description": "Full-service global freight forwarder and logistics platform",
+    "founders": [
+      "Ryan Petersen"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Floored",
+    "company_url": null,
+    "description": "Software that turns 3D spatial data into clean interactive virtual worlds",
+    "founders": [
+      "David Eisenberg",
+      "Dustin Byrne ",
+      "Judy He"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Flower Labs",
+    "company_url": "https://flower.ai/",
+    "description": "Federated AI",
+    "founders": [
+      "Daniel Beutel",
+      "Nicholas Lane",
+      "Taner Topal"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Fluxx",
+    "company_url": "https://www.fluxx.io/",
+    "description": "Industry-leading cloud-first grant-making solution",
+    "founders": [
+      "Jason Ricci",
+      "Kerrin Mitchell"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Foodspotting",
+    "company_url": null,
+    "description": "Community-driven dish discovery app",
+    "founders": [
+      "Alexa Andrzejewski",
+      "Soraya Darabi",
+      "Ted Grubb"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Formation Bio",
+    "company_url": "https://www.formation.bio/",
+    "description": "Reimagining how clinical trials are run",
+    "founders": [
+      "Benjamine Liu",
+      "Linhao Zhang"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Fractile",
+    "company_url": "https://www.fractile.ai/",
+    "description": "Revolutionising compute to build the engine that can power the next generation of AI",
+    "founders": [
+      "Walter Goodwin"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "FundersClub",
+    "company_url": "https://fundersclub.com/",
+    "description": "FundersClub is an online venture capital firm that focuses on Seed and early stage investments",
+    "founders": [
+      "Alex Mittal",
+      "Boris Silver"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "General Proximity",
+    "company_url": "https://www.generalproximity.bio/",
+    "description": "Next-gen proximity medicines",
+    "founders": [
+      "Armand Cognetta"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Genesis Therapeutics",
+    "company_url": "https://genesis.ml/",
+    "description": "AI-powered drug discovery",
+    "founders": [
+      "Evan Feinberg",
+      "Ben Sklaroff"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ginkgo Bioworks",
+    "company_url": "https://www.ginkgo.bio/",
+    "description": "Developer of biological engineering products and custom microbes",
+    "founders": [
+      "Jason Kelly",
+      "Reshma Shetty",
+      "Tom Knight",
+      "Barry Canton",
+      "Austin Che"
+    ],
+    "location": "Boston, Massachusetts",
+    "everywhere_tags": [
+      "BioTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Goldsky",
+    "company_url": "https://goldsky.com/",
+    "description": "Real-time Data Infrastructure for Web3",
+    "founders": [
+      "Kevin Li",
+      "Jeffrey Ling"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Good Dog",
+    "company_url": "https://www.gooddog.com/",
+    "description": "Marketplace that helps users find dogs from reputable breeders, shelters and rescues",
+    "founders": [
+      "Josh Wais",
+      "Lauren McDevitt"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Granza Bio",
+    "company_url": "https://www.granzabio.com/",
+    "description": "Cancer therapeutics",
+    "founders": [
+      "Ashwin Jainarayanan",
+      "Ashwin Nandakumar",
+      "Michael Dustin"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "GreenPlaces",
+    "company_url": "https://greenplaces.com/",
+    "description": "Software platform providing full visibility into carbon emissions",
+    "founders": [
+      "Alex Lassiter"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Greenhouse Software",
+    "company_url": "https://www.greenhouse.com/blog/the-next-chapter",
+    "description": "Recruiting software as a service",
+    "founders": [
+      "Daniel Chait",
+      "Jon Stross"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Groundswell",
+    "company_url": "https://www.groundswell.io/",
+    "description": "Making charity an employee benefit",
+    "founders": [
+      "Jake Wood"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Guardant Health",
+    "company_url": "https://guardanthealth.com/",
+    "description": "A leading precision oncology company",
+    "founders": [
+      "Helmy Eltoukhy",
+      "AmirAli Talasaz"
+    ],
+    "location": "Palo Alto, California",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Guideline",
+    "company_url": "https://www.guideline.com/",
+    "description": "Retirement plan platform for growing businesses",
+    "founders": [
+      "Kevin Busque"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Guild",
+    "company_url": "https://guild.com/",
+    "description": "Career opportunity platform",
+    "founders": [
+      "Rachel Romer",
+      "Brittany Stich",
+      "Bijal Shah"
+    ],
+    "location": "Denver, Colorado",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Gusto",
+    "company_url": "https://gusto.com/",
+    "description": "A cloud-based payroll, benefits, and human resource management solution",
+    "founders": [
+      "Josh Reeves",
+      "Edward Kim",
+      "Tomer London"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Handipoints",
+    "company_url": null,
+    "description": "Virtual community for families",
+    "founders": [
+      "Viva Chu"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Hearsay Systems",
+    "company_url": "https://www.yext.com/",
+    "description": "Client engagement platform for financial services",
+    "founders": [
+      "Clara Shih",
+      "Steve Garrity"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Hippo Insurance",
+    "company_url": "https://www.hippo.com/",
+    "description": "Property insurance company",
+    "founders": [
+      "Assaf Wand",
+      "Eyal Navon"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Iru",
+    "company_url": "https://www.iru.com/",
+    "description": "Secure users, apps, and devices with an AI-powered platform ",
+    "founders": [
+      "Adam Pettit",
+      "Wesley Pettit",
+      "Mark Daughters"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Juniper Square",
+    "company_url": "https://www.junipersquare.com/",
+    "description": "Investment management platform",
+    "founders": [
+      "Alex Robinson",
+      "Adam Ginsburg",
+      "Yonas Fisseha"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Karma",
+    "company_url": null,
+    "description": "Social gift giving application",
+    "founders": [
+      "Lee Linden",
+      "Ben Lewis"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Key",
+    "company_url": "https://key.ai/",
+    "description": "Professional networking and community platform",
+    "founders": [
+      "Kushagra Shrivastava",
+      "Christopher Fong"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Kick",
+    "company_url": "https://www.kick.co/",
+    "description": "Self-driving bookkeeping",
+    "founders": [
+      "Conrad Wadowski"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "KiwiCo",
+    "company_url": "https://www.kiwico.com/",
+    "description": "A subscription box for projects with imaginative play and hands-on learning",
+    "founders": [
+      "Sandra Oh Lin"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Knox",
+    "company_url": "https://knoxsystems.com/",
+    "description": "FedRAMP as a service",
+    "founders": [
+      "Irina Denisenko"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Komodo Health",
+    "company_url": "https://www.komodohealth.com/",
+    "description": "Software that brings transparency and market intelligence to healthcare",
+    "founders": [
+      "Arif Nathoo",
+      "Web Sun"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Komodor",
+    "company_url": "https://komodor.com/",
+    "description": "Automated Kubernetes troubleshooting",
+    "founders": [
+      "Ben Ofiri",
+      "Itiel Shwartz"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Letta",
+    "company_url": "https://www.letta.com/",
+    "description": "Build AI with memory",
+    "founders": [
+      "Charles Packer",
+      "Sarah Wooders"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Liveramp",
+    "company_url": "https://liveramp.com/",
+    "description": "Data connectivity platform",
+    "founders": [
+      "Travis May",
+      "Auren Hoffman"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Luminal",
+    "company_url": "https://www.luminal.com/",
+    "description": "Revolutionizing AI infrastructure with complier driving GPU optimization",
+    "founders": [
+      "Joe Fioti",
+      "Jake Stevens",
+      "Matthew Gunton"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mashery",
+    "company_url": null,
+    "description": "API management services",
+    "founders": [
+      "Oren Michels",
+      "Kirsten Spoljaric",
+      "Scott Rafer"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Matterport",
+    "company_url": "https://matterport.com/",
+    "description": "3D cameras and virtual tour software platform",
+    "founders": [
+      "Matt Bell",
+      "David Gausebeck",
+      "Michael Beebe"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Maze",
+    "company_url": "https://maze.co/",
+    "description": "Continuous product discovery",
+    "founders": [
+      "Jonathan Widawski",
+      "Thomas Mary"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Meilisearch",
+    "company_url": "https://www.meilisearch.com/",
+    "description": "An open-source, blazingly fast, and hyper-relevant search engine",
+    "founders": [
+      "Quentin de Quelen",
+      "Clément Renault",
+      "Thomas Payet"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Meraki",
+    "company_url": null,
+    "description": "The leader in cloud controlled Wi-Fi, routing, and security",
+    "founders": [
+      "Sanjit Biswas",
+      "John Bicket",
+      "Hans Robertson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mercor",
+    "company_url": "https://www.mercor.com/",
+    "description": "Organizing human intelligence to power the AI economy",
+    "founders": [
+      "Brendan Foody",
+      "Adarsh Hiremath",
+      "Surya Midha"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mesmo TV",
+    "company_url": null,
+    "description": "A social video discovery site for gaming enthusiasts",
+    "founders": [
+      "Davin Miyoshi",
+      "Jesse Hull",
+      "Debarshi Kar"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Metaplane",
+    "company_url": "https://www.metaplane.dev/",
+    "description": "End-to-end data observability",
+    "founders": [
+      "Kevin Hu",
+      "Guru Mahendran"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Metromile",
+    "company_url": null,
+    "description": "Pay per mile car insurance",
+    "founders": [
+      "David Friedberg",
+      "Steve Pretre"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Midi Health",
+    "company_url": "https://www.joinmidi.com/",
+    "description": "The virtual care clinic for women 40+",
+    "founders": [
+      "Joanna Strober",
+      "Sharon Meers",
+      "Jill Herzig",
+      "Kathleen Jordan"
+    ],
+    "location": "Palo Alto, California",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "MightyHive",
+    "company_url": null,
+    "description": "Leading data and digital media consultancy that helps marketers take control",
+    "founders": [
+      "Pete Kim",
+      "Christopher Martin",
+      "Lexi Viripaeff"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Milo",
+    "company_url": null,
+    "description": "Local shopping",
+    "founders": [
+      "Jack Abraham"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mint",
+    "company_url": null,
+    "description": "Personal finance management",
+    "founders": [
+      "Aaron Patzer"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mob.ly",
+    "company_url": null,
+    "description": "Mobile and online recommendations service",
+    "founders": [
+      "Mihir Shah",
+      "Yishai Lerner"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mochi",
+    "company_url": null,
+    "description": "A browser-based games network",
+    "founders": [
+      "Jameson Hsu",
+      "Bob Ippolito"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Mon Ami",
+    "company_url": "https://www.monami.io/",
+    "description": "Mon Ami helps facilitate senior services and companionship for families caring for loved ones who might be socially isolated",
+    "founders": [
+      "Joy Zhang",
+      "Madeline Dangerfield-Cha",
+      "Steve Fram"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Moondream",
+    "company_url": "https://moondream.ai/",
+    "description": "Vision AI that works reliably and runs everywhere",
+    "founders": [
+      "Jay Allen",
+      "Vikhyat Korrapati"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "MotherDuck",
+    "company_url": "https://motherduck.com/",
+    "description": "Severless data analytics platform",
+    "founders": [
+      "Jordan Tigani",
+      "Ryan Boyd",
+      "Tino Tereshko",
+      "Leila Horejsi"
+    ],
+    "location": "Seattle, Washington",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Movity",
+    "company_url": null,
+    "description": "A real estate recruitment platform",
+    "founders": [
+      "Eric Wu",
+      "Sha Hwang"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Nayya",
+    "company_url": "https://www.nayya.com/",
+    "description": "Insurance benefits experience and management platform.",
+    "founders": [
+      "Sina Chehrazi",
+      "Akash Magoon"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Nilus",
+    "company_url": "https://www.nilus.com/",
+    "description": "Next-generation treasury management",
+    "founders": [
+      "Daniel Kalish",
+      "Danielle Shaul"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Nimble",
+    "company_url": "https://www.nimblerx.com/",
+    "description": "On-demand drug delivery platform",
+    "founders": [
+      "Talha Sattar",
+      "Jesse Franklin"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Notion",
+    "company_url": "https://www.notion.so/",
+    "description": "The connected workspace where better, faster work happens",
+    "founders": [
+      "Ivan Zhao",
+      "Simon Last",
+      "Akshay Kothari"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Novi Connect",
+    "company_url": "https://www.noviconnect.com/",
+    "description": "A procurement solution for the 21st century",
+    "founders": [
+      "Kimberly Shenk",
+      "Yashi Shrestha"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Observo.ai",
+    "company_url": "https://www.observo.ai/",
+    "description": "AI Data Pipeline for Security and DevOps",
+    "founders": [
+      "Gurjeet Arora",
+      "Ricky Arora"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Octave",
+    "company_url": "https://www.findoctave.com/",
+    "description": "A modern behavioral health practice",
+    "founders": [
+      "Sandeep Acharya",
+      "Kristen Scarlett"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Octopart",
+    "company_url": null,
+    "description": "The electronic part search engine",
+    "founders": [
+      "Sam Wurzel",
+      "Andres Morey",
+      "Harish Agarwal"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ontic",
+    "company_url": "https://ontic.co/",
+    "description": "Protective intelligence software",
+    "founders": [
+      "Lukas Quanstrom",
+      "Gagan Jain",
+      "Thomas Kopecky"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Opendoor",
+    "company_url": "https://www.opendoor.com/",
+    "description": "The new way to sell your home",
+    "founders": [
+      "Eric Wu",
+      "Keith Rabois",
+      "JD Ross"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Operand",
+    "company_url": "https://www.operand.com/",
+    "description": "AI consultant for retailers",
+    "founders": [
+      "Ram Gorthi",
+      "Akhil Iyengar",
+      "Arjun Sahney"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Operant",
+    "company_url": "https://www.operant.ai/",
+    "description": "The runtime application protection platform",
+    "founders": [
+      "Vrajesh Bhavsar",
+      "Priyanka Tembey",
+      "Ashley Roof"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Opsera",
+    "company_url": "https://opsera.ai/",
+    "description": "Continuous orchestration of DevOps tools, pipelines, and insights",
+    "founders": [
+      "Kumar Chivukula",
+      "Chandra Ranganathan"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Optimizely",
+    "company_url": null,
+    "description": "A/B testing and multivariate testing tools",
+    "founders": [
+      "Dan Siroker",
+      "Pete Koomen"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Orca Bio",
+    "company_url": "https://orcabio.com/",
+    "description": "Clinical-stage cell therapy",
+    "founders": [
+      "Nate Fernhoff",
+      "Ivan Dimov",
+      "Jeroen Bekaert"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Origin",
+    "company_url": "https://useorigin.com/",
+    "description": "Money management platform for the modern workforce",
+    "founders": [
+      "Matt Watson",
+      "João de Paula"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Oro Labs",
+    "company_url": "https://www.orolabs.ai/",
+    "description": "Smart procurement workflows",
+    "founders": [
+      "Sudhir Bhojwani",
+      "Lalitha Rajagopalan",
+      "Yuan Tung"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Osmosis",
+    "company_url": "https://www.osmosis.org/",
+    "description": "Medical and health education platform for clinicians and caregivers",
+    "founders": [
+      "Shiv Gaglani",
+      "Ryan Haynes"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Oso",
+    "company_url": "https://www.osohq.com/",
+    "description": "Authorization as a service",
+    "founders": [
+      " Graham Neray",
+      "Sam Scott"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Outright",
+    "company_url": null,
+    "description": "Cloud-based accounting solution for small businesses",
+    "founders": [
+      "Ben Curren",
+      "Kevin Reeth"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Paraform",
+    "company_url": "https://www.paraform.com/",
+    "description": "AI-powered recruiting marketplace",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Paytient",
+    "company_url": "https://www.paytient.com/",
+    "description": "Employer-sponsored payment platform for employees' medical expenses",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Pendulum",
+    "company_url": "https://pendulumlife.com/",
+    "description": "Improving health through products targeting the microbiome",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Perfect Coffee",
+    "company_url": null,
+    "description": "Taking the guesswork and unpredictability out of making perfect coffee, every time",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Periodic Labs",
+    "company_url": "https://periodic.com/",
+    "description": "Combining AI models with automated labs to accelerate materials discovery",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "PermitFlow",
+    "company_url": "https://www.permitflow.com/",
+    "description": "Construction permit software",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Pharos",
+    "company_url": "https://pharos.health/",
+    "description": "AI-powered analytics for hospitals",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Health",
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Piazza",
+    "company_url": "https://piazza.com/",
+    "description": "A social learning platform designed to connect students, TAs, and professors",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "PicnicHealth",
+    "company_url": "https://picnichealth.com/",
+    "description": "Healthcare technology company helping patients access their medical records and contribute their data to research",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Pindrop",
+    "company_url": "https://www.pindrop.com/",
+    "description": "AI-based IVR authentication and anti-fraud solutions to increase efficiency in call centers and stop fraudulent transactions",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Plaid",
+    "company_url": "https://plaid.com/",
+    "description": "The safer way for people to connect financial accounts to an app",
+    "founders": [
+      "Zach Perret",
+      "William Hockey"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Planet",
+    "company_url": "https://www.planet.com/",
+    "description": "Aerospace and data analytics company",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Pluralsight",
+    "company_url": "https://www.pluralsight.com/",
+    "description": "Online education courses for developers, IT admins, and creative professionals",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Plusmo",
+    "company_url": null,
+    "description": "Provider of mobile widgets and application store solutions",
+    "founders": [
+      "Krishna Vedati",
+      "Srinivas Mandyam"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Poly",
+    "company_url": "https://poly.app/",
+    "description": "Generate 3D design assets in seconds with AI",
+    "founders": [
+      "Abhay Agarwal",
+      "Sam Young"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Poolside",
+    "company_url": "https://www.poolside.ai/",
+    "description": "AI for software development",
+    "founders": [
+      "Jason Warner",
+      "Eiso Kant"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Popmenu",
+    "company_url": "https://get.popmenu.com/",
+    "description": "SaaS platform for restaurants with tools that attract and engage guests",
+    "founders": [
+      "Tony Roy ",
+      "Brendan Sweeney"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Posterous",
+    "company_url": null,
+    "description": "Blogging platform",
+    "founders": [
+      "Sachin Agarwal",
+      "Garry Tan"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Powerset",
+    "company_url": null,
+    "description": "Semantic search engine",
+    "founders": [
+      "Barney Pell",
+      "Lorenzo Thione",
+      "Steve Newcomb."
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Predibase",
+    "company_url": "https://www.rubrik.com/products/rubrik-agent-cloud",
+    "description": "The first low-code AI platform for developers",
+    "founders": [
+      "Devvret Rishi",
+      "Travis Addair",
+      "Piero Molino"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "PredictSpring",
+    "company_url": null,
+    "description": "Modern mobile commerce solution",
+    "founders": [
+      "Nitin Mangtani"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Prenuvo",
+    "company_url": "https://www.prenuvo.com/",
+    "description": "Hardware and AI to provide whole-body MRI scans and give people more insights about their health",
+    "founders": [
+      "Andrew Lacy",
+      "Rajpaul Attariwala"
+    ],
+    "location": "Redwood City, California",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Preql",
+    "company_url": "https://www.preql.ai/",
+    "description": "Create trusted, reporting-ready KPIs in minutes",
+    "founders": [
+      "Gabi Steele",
+      "Leah Weiss"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Producteev",
+    "company_url": null,
+    "description": "Cloud-based task management provider",
+    "founders": [
+      "Ilan Abehassera",
+      "Aric Lasry"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Proton",
+    "company_url": "https://www.proton.ai/",
+    "description": "AI-powered sales platform for distributors",
+    "founders": [
+      "Benjamin Cohen"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Puzzle",
+    "company_url": "https://puzzle.io/",
+    "description": "The new standard in accounting software for startups",
+    "founders": [
+      "Sasha Orloff",
+      "John Cwikla"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Quarterzip",
+    "company_url": "https://www.quarterzip.ai/about",
+    "description": "AI‑driven onboarding",
+    "founders": [
+      "Alexander Valente",
+      "Andrew Pankevicius"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Radiant Nuclear",
+    "company_url": "https://radiantnuclear.com/",
+    "description": "Micro nuclear reactors",
+    "founders": [
+      "Doug Bernauer",
+      "Bob Urberger"
+    ],
+    "location": "El Segundo, California",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "RapidFort",
+    "company_url": "https://www.rapidfort.com/",
+    "description": "Faster, more secure deployments",
+    "founders": [
+      "Mehran Farimani",
+      "Rajeev Thakur",
+      "Russell Andersson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Recursion",
+    "company_url": "https://www.recursion.com/",
+    "description": "Drug discovery through digital biology",
+    "founders": [
+      "Chris Gibson",
+      "Blake Borgeson",
+      "Dean Li"
+    ],
+    "location": "Salt Lake City, Utah",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "RelateIQ",
+    "company_url": null,
+    "description": "Relationship intelligence platform",
+    "founders": [
+      "Steve Loughlin",
+      "Adam Evans"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Revel",
+    "company_url": "https://www.revel.io/",
+    "description": "Next generation software for hardware",
+    "founders": [
+      "Scott Morton"
+    ],
+    "location": "Los Angeles, California",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ricursive Intelligence",
+    "company_url": "https://www.ricursive.com/",
+    "description": "Reinforcement learning for chip design",
+    "founders": [
+      "Anna Goldie",
+      "Azalia Mirhoseini"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Rigetti",
+    "company_url": "https://www.rigetti.com/",
+    "description": "Full-stack quantum computing",
+    "founders": [
+      "Chad Rigetti"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ring",
+    "company_url": null,
+    "description": "Outdoor home security",
+    "founders": [
+      "Jamie Siminoff"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Roadmunk",
+    "company_url": "https://www.tempo.io/",
+    "description": "Web-based product roadmap visualization planning tool",
+    "founders": [
+      "Latif Nanji",
+      "Tomas Benda",
+      "Jalil Asaria"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Rovio",
+    "company_url": "https://www.rovio.com/",
+    "description": "Video game developer based in Finland",
+    "founders": [
+      "Niklas Hed",
+      "Jarno Väkeväinen",
+      "Kim Dikert"
+    ],
+    "location": "Finland",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Runlayer",
+    "company_url": "https://www.runlayer.com/",
+    "description": "All-in-one platform for secure and observable enterprise AI",
+    "founders": [
+      "Andrew Berman",
+      "Tal Peretz",
+      "Vitor Balocco"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Runway",
+    "company_url": null,
+    "description": "The next creative suite, the generative suite",
+    "founders": [
+      "Cristóbal Valenzuela",
+      "Alejandro Matamala-Ortiz",
+      "Anastasis Germanidis"
+    ],
+    "location": "New York City, New York",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sapho",
+    "company_url": "https://www.citrix.com/blogs/2019/02/11/citrix-acquired-sapho-now-what/?srsltid=AfmBOoqw9Sg4gH0eynfML0YsQ9CYyjJrWNyEhUhM6kZhI9Xeapfv4p5H",
+    "description": "Provides employees a quick view into the important information they need",
+    "founders": [
+      "Fouad ElNaggar",
+      "Peter Yared"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "SayNow",
+    "company_url": null,
+    "description": "Voice-based experiences",
+    "founders": [
+      "Nikhyl Singhal",
+      "Ujjwal Singh"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Scalyr",
+    "company_url": null,
+    "description": "Server log monitoring tools provider",
+    "founders": [
+      "Steve Newman",
+      "Steven Czerwinski"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Scopely",
+    "company_url": "https://www.scopely.com/",
+    "description": "Global leader in interactive entertainment and mobile games",
+    "founders": [
+      "Walter Driver",
+      "Ankur Bulsara",
+      "Eric Futoran",
+      "Eytan Elbaz"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Semgrep",
+    "company_url": "https://semgrep.dev/",
+    "description": "Secure guardrails for code",
+    "founders": [
+      "Isaac Evans",
+      "Drew Dennison",
+      "Luke O'Malley"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sendori",
+    "company_url": null,
+    "description": "Advertising exchange technology",
+    "founders": [
+      "Ofer Ronen",
+      "David Weldon"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "SentiLink",
+    "company_url": "https://www.sentilink.com/",
+    "description": "Identity verification that helps detect and block synthetic identities",
+    "founders": [
+      "Naftali Harris",
+      "Maxwell Blumenfeld"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Shopify",
+    "company_url": "https://www.shopify.com/",
+    "description": "E-commerce platform",
+    "founders": [
+      "Tobias Lütke",
+      "Scott Lake",
+      " Daniel Weinand"
+    ],
+    "location": "Ottawa, Ontario",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Simular",
+    "company_url": "https://www.simular.ai/",
+    "description": "Delivering product grade autonomy across platforms",
+    "founders": [
+      "Ang Li",
+      "Jiachen Yang"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Singularity",
+    "company_url": "https://www.singularityus.com/",
+    "description": "Integrated air defense against modern drone threats",
+    "founders": [
+      "Jack Oswald",
+      "Shail Giroux"
+    ],
+    "location": "El Segundo, California",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Skild AI",
+    "company_url": "https://www.skild.ai/",
+    "description": "General purpose robotic intelligence",
+    "founders": [
+      "Deepak Pathak",
+      "Abhinav Gupta"
+    ],
+    "location": "Pittsburgh, Pennsylvania",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Skip the Dishes",
+    "company_url": "https://www.skipthedishes.com/",
+    "description": "Online food delivery service",
+    "founders": [
+      "Josh Simair",
+      "Chris Simair",
+      "Jeff Adamson",
+      "Andrew Chau"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sleuth",
+    "company_url": "https://www.sleuth.io/",
+    "description": "Accurate and actionable DORA metrics tracker for improving engineering efficiency",
+    "founders": [
+      "Dylan Etkin",
+      "Don Brown"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Slingshot",
+    "company_url": "https://slingshotai.com/",
+    "description": "Mental health AI",
+    "founders": [
+      "Daniel Reid Cahn",
+      "Neil Parikh"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Smack",
+    "company_url": "https://smacktechnologies.com/",
+    "description": "The Frontier AI Lab for National Security",
+    "founders": [
+      "Andy Markoff",
+      "Clint Alanis",
+      "Dan Gould"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sona",
+    "company_url": "https://www.getsona.com/",
+    "description": "Workforce management platform",
+    "founders": [
+      "Steffen Wulff Petersen",
+      "Ben Dixon",
+      "Oli Johnson"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sooth Labs",
+    "company_url": "https://www.sooth.inc/",
+    "description": "Building a world model for global foresight that integrates events and signals to deliver calibrated, auditable forecasts",
+    "founders": [
+      "Yaser Sheikh",
+      "Russ Salakhutdinov",
+      "Chuck Hoover",
+      "David LaRose",
+      "Shih-En Wei"
+    ],
+    "location": "Pittsburgh, Pennsylvania",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "SoundHound",
+    "company_url": "https://www.soundhound.com/",
+    "description": "Voice-enabled AI and conversational intelligence technologies",
+    "founders": [
+      "Keyvan Mohajer",
+      "James Hom",
+      "Majid Emami"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sourcegraph",
+    "company_url": "https://sourcegraph.com/",
+    "description": "Universal code search for developers and companies",
+    "founders": [
+      "Quinn Slack",
+      "Beyang Liu"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Spekit",
+    "company_url": "https://www.spekit.com/",
+    "description": "The just-in-time learning platform designed to drive team efficiency and impact",
+    "founders": [
+      "Melanie Fellay",
+      "Zari Zahra"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Sphere",
+    "company_url": "https://www.getsphere.com/",
+    "description": "AI-powered global tax compliance platform",
+    "founders": [
+      "Nicholas Rudder",
+      "Adrian Sarstedt"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Spool",
+    "company_url": null,
+    "description": "Save articles and videos to your devices",
+    "founders": [
+      "Avichal Garg",
+      "Curtis Spencer"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Stainless",
+    "company_url": "https://www.stainless.com/",
+    "description": "The platform for high-quality, easy-to-use APIs",
+    "founders": [
+      "Alex Rattray"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Standard Kernel",
+    "company_url": "https://standardkernel.com/",
+    "description": "Building AI infrastructure with AI",
+    "founders": [
+      "Anne Ouyang",
+      "Chris Rinard"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Stream",
+    "company_url": "https://getstream.io/",
+    "description": "Build in-app chat and feeds, faster",
+    "founders": [
+      "Thierry Schellenbach",
+      "Tommaso Barbugli"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Supabase",
+    "company_url": "https://supabase.com/",
+    "description": "The open source Firebase alternative",
+    "founders": [
+      "Paul Copplestone",
+      "Anthony Wilson"
+    ],
+    "location": "Global",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Tapulous",
+    "company_url": null,
+    "description": "Video game developer and publisher",
+    "founders": [
+      "Bart Decrem",
+      "Andrew Lacy"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Teal Health",
+    "company_url": "https://www.getteal.com/",
+    "description": "At-home cervical cancer screening for all women",
+    "founders": [
+      "Kara Egan",
+      "Avnesh Thakor"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Tera AI",
+    "company_url": "https://www.tera-ai.com/",
+    "description": "Spatial reasoning for robots",
+    "founders": [
+      "Tony Zhang"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Terra Security",
+    "company_url": "https://www.terra.security/",
+    "description": "AI augmented penetration testing",
+    "founders": [
+      "Shahar Peled",
+      "Gal Malachi"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "TestBox",
+    "company_url": "https://www.testbox.com/",
+    "description": "Platform for software purchase testing",
+    "founders": [
+      "Sam Senior",
+      "Peter Holland"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "The Climate Corporation ",
+    "company_url": null,
+    "description": "Digital agriculture company",
+    "founders": [
+      "David Friedberg",
+      "Siraj Khaliq"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Themis",
+    "company_url": "https://www.themis.com/",
+    "description": "Compliance collaboration tool for companies",
+    "founders": [
+      " Neepa Patel"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Third Dimension",
+    "company_url": "https://thirddimension.ai/",
+    "description": "Generative 3D worlds",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "ThirdLove",
+    "company_url": "https://www.thirdlove.com/",
+    "description": "Intimates brand that believes fit should come first",
+    "founders": [
+      "Heidi Zak",
+      "David Spector",
+      "Ra'el Cohen"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Tines",
+    "company_url": "https://www.tines.com/",
+    "description": "No-code automation for security teams",
+    "founders": [
+      "Eoin Hinchy",
+      "Thomas Kinsella"
+    ],
+    "location": "Dublin, Ireland",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Topkey",
+    "company_url": "https://topkey.io/",
+    "description": "Fintech and software platform for property managers",
+    "founders": [
+      "Jonathan Sukhia",
+      "Bryan Beshore"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Torch",
+    "company_url": "https://torchdental.com/",
+    "description": "Technology solutions for dental practices",
+    "founders": [
+      "Khaled Boukadoum",
+      "Yassine Boukadoum",
+      "Drew Werner"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Twitch",
+    "company_url": "https://www.twitch.tv/",
+    "description": "Livestreaming video platform and community for gamers",
+    "founders": [
+      "Emmett Shear",
+      "Justin Kan",
+      "Kyle Vogt",
+      "Kevin Lin",
+      "Michael Seibel"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Tynker",
+    "company_url": "https://www.tynker.com/",
+    "description": "Creative computing platform for kids",
+    "founders": [
+      "Krishna Vedati",
+      "Srinivas Mandyam",
+      "Kelvin Chong"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Ultimate.ai",
+    "company_url": null,
+    "description": "Bringing multilingual customer service automation to businesses",
+    "founders": [
+      "Reetu Kainulainen",
+      "Sarah Al-Hussaini",
+      "Jaakko Pasanen",
+      "Markus Rautio"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Unconventional AI",
+    "company_url": "https://unconv.ai/",
+    "description": "Rethinking the foundations of a computer to optimize energy efficiency for AI",
+    "founders": [
+      "Naveen Rao"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Vannevar Labs",
+    "company_url": "https://www.vannevarlabs.com/",
+    "description": "Defense technology company solving national security problems",
+    "founders": [
+      "Brett Granberg",
+      "Nini Hamrick"
+    ],
+    "location": "Palo Alto, California",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Verkada",
+    "company_url": "https://www.verkada.com/",
+    "description": "Modern security solutions that help enterprises run safer, smarter buildings",
+    "founders": [
+      "Filip Kaliszan",
+      "Hans Robertson",
+      "James Ren",
+      "Benjamin Bercovitz"
+    ],
+    "location": "San Mateo, California",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Vicarious",
+    "company_url": null,
+    "description": "A turnkey robotics solution integrator using artificial intelligence to automate complex tasks",
+    "founders": [
+      "D. Scott Phoenix",
+      "Dileep George"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Violet Labs",
+    "company_url": "https://www.violetlabs.com/",
+    "description": "Cloud-based data integration for complex hardware engineering",
+    "founders": [
+      "Lucy Hoag",
+      "Caitlin Curtis"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "VoiceStar",
+    "company_url": null,
+    "description": "Conversational intelligence software",
+    "founders": [
+      "Todd Lieberman"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Voiceflow",
+    "company_url": "https://www.voiceflow.com/",
+    "description": "Where teams build chat and voice assistants",
+    "founders": [
+      "Braden Ream",
+      "Tyler Han",
+      "Andrew Lawrence",
+      "Michael Hood"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Warby Parker",
+    "company_url": "https://www.warbyparker.com/",
+    "description": "Lifestyle brand that offers designer eyewear while being a socially conscious business",
+    "founders": [
+      "Neil Blumenthal",
+      "Dave Gilboa",
+      "Jeff Raider",
+      "Andy Hunt"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Warmly",
+    "company_url": "https://www.warmly.ai/",
+    "description": "Convert website visitors instantly",
+    "founders": [
+      "Maximus Greenwald",
+      "Carina Boo",
+      "Val Yermakova",
+      "Alan Zhao"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Wavii",
+    "company_url": null,
+    "description": "Follow topics and receive short updates about them",
+    "founders": [
+      "Zeki Mokhtarzada"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Webs",
+    "company_url": null,
+    "description": "Free and premium website hosting",
+    "founders": [
+      "Haroon Mokhtarzada",
+      "Zeki Mokhtarzada"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Weebly",
+    "company_url": null,
+    "description": "Free website builder",
+    "founders": [
+      "David Rusenko",
+      "Chris Fanini",
+      "Dan Veltri"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Weights & Biases",
+    "company_url": "https://wandb.ai/site",
+    "description": "The developer-first ‍MLOps platform",
+    "founders": [
+      "Lukas Biewald",
+      "Chris Van Pelt",
+      "Shawn Lewis"
+    ],
+    "location": "San Francisco, California",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Wherobots",
+    "company_url": "https://wherobots.com/",
+    "description": "Geospatial data platform",
+    "founders": [],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Wildfire",
+    "company_url": null,
+    "description": "Enterprise social media marketing software",
+    "founders": [
+      "Victoria Ransom",
+      "Alain Chuard"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Wish",
+    "company_url": "https://www.wish.com/",
+    "description": "Mobile shopping app",
+    "founders": [
+      "Peter Szulczewski",
+      "Danny Zhang"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Wordware",
+    "company_url": "https://www.wordware.ai/",
+    "description": "No-code platform for AI apps",
+    "founders": [
+      "Filip Kozera",
+      "Robert Chandler"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Yapta",
+    "company_url": null,
+    "description": "Travel price optimization",
+    "founders": [
+      "Tom Romary",
+      "Brett Allsop"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Yes Inc",
+    "company_url": null,
+    "description": "Applications that connect people in real life",
+    "founders": [
+      "Keith Coleman"
+    ],
+    "location": null,
+    "everywhere_tags": [],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Yume",
+    "company_url": null,
+    "description": "Video ad network",
+    "founders": [
+      "Jayant Kadambi",
+      "Ayyappan Sankaran"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Yutori",
+    "company_url": "https://yutori.com/scouts",
+    "description": "An AI Chief of Staff for everyone",
+    "founders": [
+      "Devi Parikh",
+      "Abhishek Das",
+      "Dhruv Batra"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Zefr",
+    "company_url": "https://zefr.com/",
+    "description": "Enabling digital advertising effectiveness while ensuring brand and social responsibility",
+    "founders": [
+      "Zach James",
+      "Richard Raddon"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Zinch",
+    "company_url": null,
+    "description": "Helping students find scholarships and engage in college networking",
+    "founders": [
+      "Mick Hagen",
+      "Brad Hagen",
+      "Sid Krommenhoek"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Zipline",
+    "company_url": "https://www.zipline.com/",
+    "description": "The world's largest autonomous on-demand delivery system",
+    "founders": [
+      "Keller Rinaudo Cliffton",
+      "Keenan Wyrobek",
+      "William Hetzler",
+      "Ryan Oksenhorn"
+    ],
+    "location": " South San Francisco, California",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Zodiac",
+    "company_url": null,
+    "description": "Consumer data analytics company",
+    "founders": [
+      "Peter Fader",
+      "Daniel McCarthy",
+      "Artem Mariychin"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Zubale",
+    "company_url": "https://www.zubale.com/",
+    "description": "E-commerce fulfillment for brands and retailers in Latin America",
+    "founders": [
+      "Allison Campbell",
+      "Sebastian Monroy"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "Zylon",
+    "company_url": "https://www.zylon.ai/",
+    "description": "Private AI collaborators",
+    "founders": [
+      "Daniel Gallego Vico",
+      "Iván Martínez Toro"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "humans&",
+    "company_url": "https://humansand.ai/",
+    "description": "AI-native human relationships ",
+    "founders": [
+      "Eric Zelikman",
+      "Andi Peng",
+      "Georges Harik",
+      "Yuchen He",
+      "Noah Goodman"
+    ],
+    "location": null,
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  },
+  {
+    "company_name": "n8n",
+    "company_url": "https://n8n.io/",
+    "description": "Workflow automation for technical people",
+    "founders": [
+      "Jan Oberhauser"
+    ],
+    "location": "Berlin, Germany",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://felicis.com/portfolio",
+    "scraped_at": "2026-07-27T20:03:14+00:00"
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "company_name": "Persefoni",
+    "description": null,
+    "tagline": null,
+    "company_url": "https://www.persefoni.com",
+    "case_study_url": "https://www.parkway.vc/portfolio/persefoni",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66bf55a894dab4a6e8d4cbdf_655d6aa9dd28d2e6097fd6ee_Persefoni_Logo_Universal_Lockup_Brand_Black.svg",
+    "sectors": [
+      "A.I."
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Omran Al-Kuwari",
+        "title": null
+      }
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Wambi",
+    "description": "Wambi transforms cultures and improves experiences in healthcare so organizations can treat people better. Founded in 2016 on the ideal that human connection can revolutionize an industry, we are committed to driving cultural transformation in healthcare systems and the communities they serve. ‍",
+    "tagline": null,
+    "company_url": "https://wambi.org/about/",
+    "case_study_url": "https://www.parkway.vc/portfolio/wambi",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66bf5259507ce4226a8fec03_Wambi-Icon-Full-Color.svg",
+    "sectors": [
+      "Healthcare"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Health",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "x.ai",
+    "description": "x.ai- xAI is a company working on building artificial intelligence to accelerate human scientific discovery.",
+    "tagline": "x.ai",
+    "company_url": "http://x.ai",
+    "case_study_url": "https://www.parkway.vc/portfolio/x-ai",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e8d_images.png",
+    "sectors": [
+      "A.I."
+    ],
+    "stage": "Completed",
+    "founded_year": 2024,
+    "parkway_deal_team": [
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Brian Hoyt",
+        "title": "Chief Operations Officer"
+      }
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Figure",
+    "description": "Figure is a groundbreaking AI robotics company on track to revolutionize the global labor force.",
+    "tagline": "forging a path to the first autonomous humanoid robot",
+    "company_url": "https://www.figure.ai/",
+    "case_study_url": "https://www.parkway.vc/portfolio/figure",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e43_Logo%20-%20Figure.svg",
+    "sectors": [
+      "A.I."
+    ],
+    "stage": "Completed",
+    "founded_year": 2022,
+    "parkway_deal_team": [
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "OXOS",
+    "description": null,
+    "tagline": null,
+    "company_url": "https://oxos.com",
+    "case_study_url": "https://www.parkway.vc/portfolio/oxos",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e3e_Logo%20-%20OXOS.svg",
+    "sectors": [
+      "A.I."
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Ian Campbell",
+        "title": null
+      }
+    ],
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Gemba",
+    "description": null,
+    "tagline": null,
+    "company_url": "https://thegemba.com",
+    "case_study_url": "https://www.parkway.vc/portfolio/gemba",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e3c_Logo%20-%20Gemba.png",
+    "sectors": [
+      "Simulation"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Kangaroo",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/kangaroo",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e39_Logo%20-%20Kangaroo.svg",
+    "sectors": [
+      "Complex Engineering"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Verity",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/verity",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e38_Logo%20-%20Verity.svg",
+    "sectors": [
+      "Complex Engineering"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Robert Bibow",
+        "title": "Managing Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Tae",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/tae",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e35_Logo%20-%20Tae.svg",
+    "sectors": [
+      "Complex Engineering"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Testfit",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/testfit",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e10_Logo%20-%20Testfit.svg",
+    "sectors": [
+      "A.I."
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Jesse Coors-Blankenship",
+        "title": "Co-founder, General Partner"
+      },
+      {
+        "name": "Gregg Hill",
+        "title": "Co-founder, General Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Centivo",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/centivo",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e0e_Logo%20-%20Centivo.svg",
+    "sectors": [
+      "FinTech"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Robert Bibow",
+        "title": "Managing Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Ostendo",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/ostendo",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e09_Logo%20-%20Ostendo.svg",
+    "sectors": [
+      "Complex Engineering"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Robert Bibow",
+        "title": "Managing Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Deserve",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/deserve",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1e08_Logo%20-%20Deserve.svg",
+    "sectors": [
+      "FinTech"
+    ],
+    "stage": "Completed",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Robert Bibow",
+        "title": "Managing Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Lyft",
+    "description": "Lyft is a transportation network company that develops a mobile-phone application which facilitates peer-to-peer ride sharing by connecting passengers who need a ride to drivers who have a car.",
+    "tagline": null,
+    "company_url": "http://www.lyft.com",
+    "case_study_url": "https://www.parkway.vc/portfolio/lyft",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1dd3_Logo%20-%20Lyft.svg",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [
+      {
+        "name": "Robert Bibow",
+        "title": "Managing Partner"
+      }
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Mobileye",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": null,
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1dbd_Logo%20-%20Mobileye.svg",
+    "sectors": [
+      "Complex Engineering"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Didi",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/didi",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1dbc_Logo%20-%20Didi.svg",
+    "sectors": [
+      "Transportation"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Brookstone",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": null,
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1dbb_Logo%20-%20Brookstone.svg",
+    "sectors": [
+      "Financial"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Accolade",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/accolade",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1dba_Logo%20-%20Accolade.svg",
+    "sectors": [
+      "Healthcare"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Wanda Group",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/wanda-group",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1db9_Logo%20-%20Wanda%20Group.svg",
+    "sectors": [
+      "Real Estate"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Sensetime",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/sensetime",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1db8_Logo%20-%20Sensetime.svg",
+    "sectors": [
+      "Real Estate"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Compass",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/compass",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1db6_Logo%20-%20Compass.svg",
+    "sectors": [
+      "Real Estate"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Cleared",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/cleared",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1d7f_Logo%20-%20Cleared.svg",
+    "sectors": [
+      "Healthcare"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Onscale",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/onscale",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1d68_Logo%20-%20Onscale.svg",
+    "sectors": [
+      "Software"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Frustum",
+    "description": null,
+    "tagline": null,
+    "company_url": null,
+    "case_study_url": "https://www.parkway.vc/portfolio/frustum",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1d4b_Logo%20-%20Frustum.svg",
+    "sectors": [
+      "Generative Design"
+    ],
+    "stage": "Exited",
+    "founded_year": null,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  },
+  {
+    "company_name": "Sandbox AQ",
+    "description": "Solving global challenges with AI and advanced computing for positive impact",
+    "tagline": "Sandbox AQ",
+    "company_url": "https://www.sandboxaq.com/",
+    "case_study_url": "https://www.parkway.vc/portfolio/sandbox-aq",
+    "logo_url": "https://cdn.prod.website-files.com/66a1484ec369b7c2937b1c9d/66a1484ec369b7c2937b1d35_Logo%20-%20SandboxAQ.svg",
+    "sectors": [
+      "A.I."
+    ],
+    "stage": "Completed",
+    "founded_year": 2021,
+    "parkway_deal_team": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.parkway.vc/portfolio",
+    "scraped_at": "2026-07-01T23:36:34.177778+00:00"
+  }
+]

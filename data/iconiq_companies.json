@@ -1,0 +1,1526 @@
+[
+  {
+    "company_name": "1Password",
+    "description": "Secure, easy-to-use password manager with an encrypted vault for individuals, teams, and enterprises to manage credentials and other sensitive data across web and mobile apps",
+    "company_url": "https://www.1password.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d531bc1e3ae02c1ed5e_6a0d68b44c96ac44b31fc155_1Password.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "AcuityMD",
+    "description": "AcuityMD is a commercial platform built for the medical technology industry. Thousands of sales and marketing professionals use AcuityMD to identify target markets, surface top opportunities, and grow their business.",
+    "company_url": "https://www.acuitymd.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d55513b27288b3ca09f_6a0d67465283b852ddc036c0_AcuityMD.png",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Adyen",
+    "description": "End-to-end global payments platform that integrates gateway, risk management, processing, acquiring, and settlement of payments",
+    "company_url": "https://www.adyen.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d562ad56f506dfd7b9d_6a0d676421cf6381a450c315_Adyen.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Age of Learning",
+    "description": "Education technology provider that helps children build a strong foundation for academic success",
+    "company_url": "https://www.ageoflearning.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d57a86a3cb897cdc76b_6a0d677beff9ca879489502f_Age%2520of%2520Learning.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "AirBnB",
+    "description": "Online community marketplace for people to list, discover, and book accommodations",
+    "company_url": "https://www.airbnb.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d58691063bd07d2f5bf_6a0d67f0d1101473c6799dff_Airbnb.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Airtable",
+    "description": "Easy-to-use online platform for creating and sharing relational databases",
+    "company_url": "https://www.airtable.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d5aba478a9dcd49e520_6a0d687014617a0220fbe754_Airtable.png",
+    "sectors": [
+      "AI",
+      "Consumer Internet",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Ajaib",
+    "description": "Stock brokerage platform in Indonesia that enables customers to buy and sell stocks, ETFs, and mutual funds",
+    "company_url": "https://ajaib.co.id/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d5b03f3dd8a86cf06a3_6a0d68851631554fbd2ce70f_Ajaib.png",
+    "sectors": [
+      "Consumer Internet",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Alibaba",
+    "description": "Global e-commerce platform that connects buyers and suppliers around the world",
+    "company_url": "https://www.alibaba.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d5c3bc0fc5e6319e8dc_6a0d6470024338ed1cb7f936_Alibaba.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Alteryx",
+    "description": "End-to-end automation of analytics, machine learning, and data science processes",
+    "company_url": "https://www.alteryx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d5ec9252babae2611ef_6a0d68a4489cf47c3db915a4_Alteryx.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Altruist",
+    "description": "Altruist combines a self-clearing brokerage with software for account opening, trading, reporting, and billing.",
+    "company_url": "https://altruist.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d5fba478a9dcd49e7b5_6a0d69fc5addeba30e5d6860_Altruist.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Anduril",
+    "description": "Anduril helps modernize defense for the US and its allies.",
+    "company_url": "https://www.anduril.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3dfe89c2add64d305e62_6a0d6a158bcb665e037215cd_Anduril.png",
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Anthropic",
+    "description": "The AI company and research lab developing AI for humanity’s long-term well-being with its best-in-class Claude family of models.",
+    "company_url": "https://www.anthropic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d60edf113f3cb8f219b_6a0d6a39c5fdfae4a8a31298_Anthropic.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Apprentice",
+    "description": null,
+    "company_url": "https://www.apprentice.io/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6158d2c03407fbd59e_6a0d6a4e88913ede1d3da3ba_Apprentice.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Apttus Corporation",
+    "description": "Enterprise class applications for end-to-end management of business functions",
+    "company_url": "https://www.conga.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6303f3dd8a86cf117f_6a0e197512b65882aa0da4aa_Apttus.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Articulate",
+    "description": "Course authoring and content creation platform for e-learning professionals",
+    "company_url": "https://www.articulate.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6341d7fd67db0e234d_6a0d6a64dc0ce6dd5596c8ec_Articulate.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Assured",
+    "description": "Assured is the the AI engine powering the next era of claims, transforming how carriers ingest, service, and process claims.",
+    "company_url": "https://www.assured.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3e03314fedde90b4bb53_6a31ad0dfae1a5d555e562b8_Assured%2520Insurance.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Aurora Solar",
+    "description": "Cloud-based software that provides systems design, sales, permitting, and analytics tools for residential solar installers",
+    "company_url": "https://www.aurorasolar.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6441d7fd67db0e23bb_6a0d6a7afe9f49de94aa6096_Aurora.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Automattic",
+    "description": "Web development company that operates WordPress, WooCommerce, Tumblr, and more",
+    "company_url": "https://www.automattic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6579b9ceabca627701_6a0d6a96fbfc3fa0c8606fc4_Automattic.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Axonius",
+    "description": "Cybersecurity asset inventory management platform that enables agentless deployment without scanning or reading networks",
+    "company_url": "https://www.axonius.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d65f27af75514f16437_6a0d6aa86118a3b3e31a718d_Axonius.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Backstory",
+    "description": "Revenue operations and intelligence platform that helps drive better sales productivity",
+    "company_url": "https://www.backstory.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3dbee225f14c6d59bc57_6a0d6abe3ad492e4d943863a_Backstory.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "BambooHR",
+    "description": "HR software for small and medium-sized businesses that have outgrown spreadsheets, automating many of the most tedious HR functions",
+    "company_url": "https://www.bamboohr.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d66de337c710620f040_6a0d6ad2464a1e6fb3be3860_BambooHR.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Benchling",
+    "description": "Cloud-based R&D platform that enables life sciences and biotechnology researchers to more easily track, measure, and forecast their scientific work",
+    "company_url": "https://www.benchling.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d672e90a6914f1c8c3c_6a0d6ae28b6dd81515348da8_Benchling.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "BetterUp",
+    "description": "People experience platform that democratizes high-quality virtual coaching, counseling, and mental health support for workplace professionals to achieve improved performance",
+    "company_url": "https://www.betterup.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d67a47f54a1f0cb3c1e_6a0d6af23b61786ef1b45826_BetterUp.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Bill.com",
+    "description": "AI-enabled financial software platform that simplifies, digitizes, and automates complex back office financial operations and cash flow management for small and medium-sized businesses",
+    "company_url": "https://www.bill.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6859041a326792313a_6a0d6b167bb0dfa69d5a7f4a_Bill.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Blackline Systems",
+    "description": "Cloud-based financial operations management platform that automates the financial close and other accounting processes",
+    "company_url": "https://www.blackline.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6959041a32679231be_6a0d6b2b3633f93dbd2ae06b_BlackLine.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Braintrust",
+    "description": "Braintrust is the AI observability platform for building quality AI products.",
+    "company_url": "https://www.braintrust.dev/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3dfa06abf4c5e0ce0d3e_6a0d6b3bdb3f6a08f8035f91_Braintrust.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Braze",
+    "description": "Comprehensive customer engagement platform that powers customer-centric interactions between consumers and brands",
+    "company_url": "https://www.braze.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6a1bc1e3ae02c1f8c5_6a0d6b4c1212cf8fee523c1b_Braze.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Calendly",
+    "description": "Automated scheduling software designed to remove friction and make the process of finding time easy",
+    "company_url": "https://www.calendly.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6a94e821256073fe5e_6a0d6b7cb7aeb6b73eb9b055_Calendly.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Campaign Monitor",
+    "description": "Email marketing platform that allows companies to make lasting impressions on their audiences",
+    "company_url": "https://www.campaignmonitor.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6bb323464d1f3ff93c_6a0d6b945bf8fb99887609d1_Campaign%2520Monitor.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Canva",
+    "description": "Online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more",
+    "company_url": "https://www.canva.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6c79b9ceabca627efd_6a0d6ba6d7d777a7e39b0cd6_Canva.png",
+    "sectors": [
+      "AI",
+      "Consumer Internet",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "CaptivateIQ",
+    "description": "Sales incentive management platform that helps sales and finance teams automate the design and payout of sales commissions",
+    "company_url": "https://www.captivateiq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6dc9252babae261c1a_6a0d6bc27cfa4781b0fb7faa_CaptivateIQ.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Causaly",
+    "description": "Causaly is a production-grade generative AI platform for research insights and knowledge automation adopted by thousands of scientists.",
+    "company_url": "https://www.causaly.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6e79b9ceabca627fe6_6a0d6bd4cf4d114018f03568_Causaly.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Chime",
+    "description": "Digital provider of consumer banking services including a checking account, advanced direct deposits, automatic savings, and a free ATM network without overdraft fees, monthly service charges or minimum balance requirements",
+    "company_url": "https://www.chime.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6e3bc0fc5e6319f367_6a0d6c075cf3f20b782017b1_Chime.png",
+    "sectors": [
+      "Consumer Internet",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Clara",
+    "description": "Latin America’s end-to-end business spend management platform",
+    "company_url": "https://www.clara.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d6f03f3dd8a86cf1b19_6a0d6c24f34c562f63a3e2be_Clara.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Coast",
+    "description": "A fleet fuel and gas card plus expense management solution that helps fleets control and track employee spending on fuel and other expenses.",
+    "company_url": "https://coastpay.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d70f27af75514f16962_6a0d6c40640bc948f6167b3d_Coast.png",
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Collibra",
+    "description": "Data intelligence platform that helps companies find, understand, and trust their data, ensuring quality and accessibility",
+    "company_url": "https://www.collibra.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7141d7fd67db0e2a15_6a0d6c4d14bf965eb9c4b64c_Collibra.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Conduct",
+    "description": "Conduct helps the world's largest companies manage their ERP systems and operate at record speed.",
+    "company_url": "https://conduct.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3e03566488bcba99207e_6a3226b598f7efbb054ec0d4_Conduct.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Conexiom",
+    "description": "Supply chain document automation software for distributors and manufacturers’ order-to-cash and procure-to-pay processes",
+    "company_url": "https://www.conexiom.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d72e6ec3f9277f79504_6a0d6cf64d5bb2fa497a3796_Conexiom.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Coupa",
+    "description": "Cloud-based platform for business spend management that offers a fully unified suite of financial applications",
+    "company_url": "https://www.coupa.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d72fdc55371a721b215_6a0d6d2335bff1ab73c4f616_Coupa.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "CrowdStrike",
+    "description": "Cloud-native security platform for protecting critical areas of enterprise risk",
+    "company_url": "https://www.crowdstrike.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d73f27af75514f16b1e_6a0d6d326fd87b75a51cdba8_CrowdStrike.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "CyberGRX",
+    "description": "Third-party cyber risk management platform that allows customers to evaluate ecosystems for vulnerabilities introduced by third-party applications and systems",
+    "company_url": "https://www.cybergrx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d74b323464d1f3fff6c_6a0d6d453f3a260485b6c988_CyberGRX.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Databricks",
+    "description": "Databricks brings AI to your data to help you bring AI to the world.",
+    "company_url": "https://www.databricks.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d771bc1e3ae02c1ffcf_6a0d6d8adf7330778e84d5d6_Databricks.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Datadog",
+    "description": "Essential monitoring and security platform for cloud applications",
+    "company_url": "http://www.datadoghq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d78e16c8408c8b6a693_6a0d6e7e0124ba05cef9d627_DRATA.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Dataiku",
+    "description": "AI and machine learning platform, supporting agility in organizations’ data efforts via collaborative, elastic, and responsible AI, all at enterprise scale",
+    "company_url": "https://www.dataiku.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7aa7420faa9cec4d5a_6a0d6d9cc7a82774120388db_Dataiku.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "dbt",
+    "description": "Data transformation platform that enables teams to create and disseminate organizational knowledge",
+    "company_url": "https://www.getdbt.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7a1bc1e3ae02c2021d_6a0d6dac88c180c5e8708edd_dbt%2520Labs.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "DeepL",
+    "description": "Powered by neural networks and the latest AI innovations, DeepL technology captures even the slightest nuances and reproduces them in translation, unlike any other service.",
+    "company_url": "https://www.deepl.com/translator",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7ce225f14c6d599a85_6a0d6dbb0b651aa76908de8f_DeepL.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Devoted Health",
+    "description": "All-in-one healthcare company on a mission to dramatically improve the health and well-being of older Americans by caring for every person like family",
+    "company_url": "https://www.devoted.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7dedf113f3cb8f3f26_6a0d6dec6a5fcb884b7c6c7b_Devoted%2520Health.png",
+    "sectors": [
+      "Consumer Internet",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "DexCare",
+    "description": "DexCare routes patients to care across fragmented systems, helping you fill capacity, reduce waits, and grow without adding resources.",
+    "company_url": "https://dexcare.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7de60b20077bfe76c3_6a0d6dfad8dd2b675d0d59ab_DexCare.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Dialpad",
+    "description": "Unified business communications platform for global teams",
+    "company_url": "https://www.dialpad.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7e39737661c9e633a7_6a0d6e0eb2f590080a810052_Dialpad.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "DocuSign",
+    "description": "Cloud-based electronic signature platform that helps organizations connect and automate how they prepare, sign, act on, and manage agreements",
+    "company_url": "https://www.docusign.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d7fb42e12c7a9ffe215_6a0d6e2aff3259f0d0e1a089_dLocal.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Drata",
+    "description": "Security and compliance automation platform that continuously monitors and collects evidence of a company’s security controls, while streamlining compliance workflows end-to-end",
+    "company_url": "https://www.drata.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d807d3661e667c5adbe_6a0d6e39af92699f62b5d420_Docusign.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "DX",
+    "description": "DX helps organizations measure and improve developer productivity, with the engineering intelligence platform designed by leading software researchers.",
+    "company_url": "https://getdx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d80a7420faa9cec508a_6a0d6e9573355668710e66a1_DX.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "ElevenLabs",
+    "description": "Pioneering research in Text to Speech, AI Voice Generator, and more",
+    "company_url": "https://elevenlabs.io/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8137e82e35d7f8cec2_6a0d6ea736d7c2eb7223cee9_ElevenLabs.png",
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Enfusion",
+    "description": "Cloud-native, end-to-end software platform for institutional asset managers to streamline core investment operations",
+    "company_url": "https://www.enfusion.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8374d5f4313d72a5e9_6a0d6ec4af92699f62b5f170_Enfusion.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Epic Games",
+    "description": "Interactive entertainment company that develops games and offers its game engine technology to other developers",
+    "company_url": "https://store.epicgames.com/en-US/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d847ee4d810ef7dcb5a_6a0d6f22c6fbad834476e19e_Epic%2520Games.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "EvolutionIQ",
+    "description": "EvolutionIQ created a fully AI-driven claims guidance platform for the most sophisticated insurance carriers in the world. The platform makes insurance more fair, transparent, and affordable.",
+    "company_url": "https://evolutioniq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d85e48a86dbb19785d8_6a0d6f3223656704543f27f3_EvolutionIQ.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "EzCater",
+    "description": "National marketplace for corporate catering that allows companies to manage all their food ordering, payments, budgeting, and reporting in one simple, customizable platform",
+    "company_url": "https://www.ezcater.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d86e16c8408c8b6acc9_6a0d6f46f8ebc544016a8207_ezCater.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Fastly",
+    "description": "Content delivery network platform that provides developers with the tools they need to build the most groundbreaking apps",
+    "company_url": "https://www.fastly.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8742fbf69282188cab_6a0d6f55144168411ba4ba64_Fastly.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Fetch Rewards",
+    "description": "Mobile shopping platform that rewards shoppers with savings on everyday purchases by simply scanning a receipt",
+    "company_url": "https://www.fetchrewards.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d88fdc55371a721bf6e_6a0d6f6535bff1ab73c56c4c_Fetch.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Figma",
+    "description": "Figma is the leading collaborative design tool for building meaningful products.",
+    "company_url": "https://www.figma.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8937e82e35d7f8d4aa_6a0d6f7223f143eb2440116c_Figma.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Fin",
+    "description": "All-in-one customer communications platform that is purpose-built for sales, marketing, and support to use together",
+    "company_url": "https://fin.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3dfff27af75514f1bcb0_6a0b93f43b394de244e674fc_Fin%2520(fka%2520Intercom).png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Fireblocks",
+    "description": "Core infrastructure platform for digital asset management providing institutions with the tooling to securely and compliantly store, transfer, and manage token assets",
+    "company_url": "https://www.fireblocks.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8a3bc0fc5e631a1028_6a0d6f825b1338104dae2125_Fireblocks.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Fivetran",
+    "description": "Automated data integration platform that improves the accuracy of data-driven decisions by continuously synchronizing data from source applications to any destination",
+    "company_url": "https://www.fivetran.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8be028b76cecf96256_6a0d6f93ca18867c3f8a8140_Fivetran.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Flipkart",
+    "description": "India's largest online eCommerce website that offers over 150 million products across 80+ categories",
+    "company_url": "https://www.flipkart.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8ca86a3cb897ce44f2_6a0d700bca18867c3f8a92c8_FloQast.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Floqast",
+    "description": "The accounting workflow automation solution, designed by accountants for accountants",
+    "company_url": "https://floqast.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8d39737661c9e63a64_6a0d6fe933fece6090be313e_Flywire.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Freewill",
+    "description": "Provider of technology to make the largest and most impactful charitable donations easier for donors to give and simpler for nonprofit organizations to receive",
+    "company_url": "https://www.freewill.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8e7d3661e667c5b745_6a0d7037a3ad9cb665555e1e_FreeWill.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "FTX Trading",
+    "description": "Global cryptocurrency exchange offering access to cryptocurrency derivatives, futures, spot markets, NFTs, and more",
+    "company_url": "https://www.ftx.us/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d874fbce8635eaecce6_6a0d7933311b60114e64cd29_FTX.png",
+    "sectors": [
+      "Consumer Internet",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Gem",
+    "description": "All-in-one recruiting platform that enables talent acquisition teams to find, engage, and nurture top talent",
+    "company_url": "https://www.gem.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d8e89c2add64d30031b_6a0d794fc628f425400fb9d3_Gem.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "GitLab",
+    "description": "Open source, end-to-end software development platform designed to unify issue tracking, code review, continuous integration, and continuous delivery into a single user interface",
+    "company_url": "https://www.gitlab.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d90915b90e886b00c1e_6a0d795eb5ff8f6d8fe02bc0_GitLab.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Glean",
+    "description": "The AI-powered work assistant. Across all your company’s data.",
+    "company_url": "https://www.glean.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d91c17d611157e6cfe7_6a0d79715b1338104db00a45_Glean.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "GoFundMe",
+    "description": "Online crowdfunding platform that allows individuals, businesses, charities, and organizations to raise money and lend support for specific causes",
+    "company_url": "https://www.gofundme.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9246ec06ffff59faa5_6a0d7981dda98eb825782e11_GoFundMe.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "GoodRx",
+    "description": "Consumer-focused digital healthcare platform to provide all Americans with access to affordable prescription drug prices and quality care",
+    "company_url": "https://www.goodrx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d93915b90e886b00dad_6a0d7c17e8b3d2cf37431563_GoodRx.png",
+    "sectors": [
+      "Consumer Internet",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "GreenSky",
+    "description": "Digital lending platform that partners with home contractors, specialty retailers, and healthcare professionals to offer consumers point-of-sale financing",
+    "company_url": "https://www.greensky.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d946fa95ece220001b1_6a0d7c26e27df99a38567362_GreenSky.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Grotto",
+    "description": "Supercharging property management teams with AI to eliminate vacancy loss.",
+    "company_url": "https://grottoai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3dfb53a3451ed3472701_6a0d7c388c1acc276e5471ed_Grotto%2520AI.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Groww",
+    "description": "Mutual fund and stock investing platform, with a mission to democratize access to financial markets across India",
+    "company_url": "https://groww.in/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d96e6ec3f9277f7bb6d_6a0d7c43f85a8ba3fb5d41a1_Groww.png",
+    "sectors": [
+      "Consumer Internet",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Guild",
+    "description": "Education platform that is on a mission to unlock opportunity for America’s workforce by helping companies educate and upskill their workers",
+    "company_url": "https://www.guildeducation.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9774d5f4313d72b23e_6a0d7c5535bff1ab73c8947e_Guild.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "HashiCorp",
+    "description": "Provider of open-source tools and commercial products that enable developers, operators, and security professionals to secure and run distributed application infrastructure",
+    "company_url": "https://www.hashicorp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9846ec06ffff59fe5d_6a0d7c66fe9988d20dcc07ff_HashiCorp.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "HeadSpin",
+    "description": "Digital Experience AI Platform combining cloud-hosted and on-prem global device infrastructure, test automation, and ML-driven performance and quality of experience analytics for mobile, web, audio, and video",
+    "company_url": "https://www.headspin.io/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d992e90a6914f1ca7ed_6a0d7c7c36d7c2eb722670fc_HeadSpin.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Helsing",
+    "description": "Helsing is building the software, systems, and industrial capacity to help Europe define its own security future.",
+    "company_url": "https://helsing.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a6745c2d07eefb0109ddfab_6a550d22602f51a29f9a9772_Helsing.png",
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Heptagon Advanced Micro-Optics",
+    "description": "Intelligent micro optics systems for smart devices",
+    "company_url": "https://www.ams.com/en/ams-start",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9a74d5f4313d72b436_6a0d7c8d7cfa4781b0fed4cc_Heptagon.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "HighRadius",
+    "description": "Cloud-based autonomous software for the Office of the CFO, transforming the order to cash, treasury, and record to report processes",
+    "company_url": "https://www.highradius.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9bb323464d1f401cc0_6a0d7c9e529d319a6cc8d982_HighRadius.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Highspot",
+    "description": "Sales enablement platform that helps organizations increase the performance and productivity of sales teams",
+    "company_url": "https://www.highspot.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9c7ee4d810ef7dd685_6a0d7caf4d5bb2fa497d2668_Highspot.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Hightouch",
+    "description": "Data activation platform that enables business users to take action on customer data across sales, marketing, support, and customer success tools",
+    "company_url": "https://www.hightouch.io/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9d06abf4c5e0cdd902_6a0d7cb8f82bd7f1e8af1e56_Hightouch.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Hippo",
+    "description": "Direct-to-consumer home insurance provider driven by a differentiated underwriting engine to provide instantaneous quotes to consumers online",
+    "company_url": "https://www.hippo.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9d46ec06ffff5a00d4_6a0d7cc5f57189ad464d9845_Hippo.png",
+    "sectors": [
+      "Consumer Internet",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "The Honest Company",
+    "description": "E-commerce platform focused on sustainable consumer products",
+    "company_url": "https://www.honest.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3d9f34c0992f721fb42f_6a0d882b7f6cba105603831a_The%2520Honest%2520Company.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Houzz",
+    "description": "Home remodeling and design platform that provides consumers with everything they need to improve or design their homes and equips home professionals with an all-in-one marketing and business management solution",
+    "company_url": "https://www.houzz.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da034c0992f721fb4cd_6a0d7ce02491092eeb8b8df4_Houzz.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "IEX",
+    "description": "Equity trading venue owned exclusively by buy-side investors, including mutual funds, hedge funds, and family offices",
+    "company_url": "https://exchange.iex.io/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da174d5f4313d72b68b_6a0d7cf01e22cd7d2ef5b60a_IEX.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Incident IQ",
+    "description": "Incident IQ is a K-12 tech support & asset management platform that manages the hardware, software & systems today's classrooms rely on.",
+    "company_url": "https://www.incidentiq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da2ec55e4c31a89f421_6a0d7cfef82bd7f1e8af2b1f_Incident%2520IQ.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "InVision",
+    "description": "Digital product design platform that enables creative collaboration across teams and geographies",
+    "company_url": "https://www.invisionapp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da2e60b20077bfe8b72_6a0d7d426c5c4c8da17d81f1_Intersect.png",
+    "sectors": [
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "K2 Space",
+    "description": "Building the largest satellites in orbit.",
+    "company_url": "https://www.k2space.com/#",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a69f38d170d714d9818e620_K2%20space%20logo.png",
+    "sectors": [],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Komodo Health",
+    "description": "Cloud native, healthcare data platform that aggregates, sanitizes, and combines data in an actionable “Healthcare Map,” providing analytics and insights to stakeholders across the healthcare industry",
+    "company_url": "https://www.komodohealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da453a3451ed346e38e_6a0d7d5a3084fd5dee607ba4_Komodo%2520Health.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Lead Bank",
+    "description": "Programmable financial services at the speed of fintech.",
+    "company_url": "https://www.lead.bank/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da5edf113f3cb8f5630_6a0d7d742a202751d55f3304_Lead.png",
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Legora",
+    "description": "Legora is the collaborative AI powering lawyers to review and research faster, draft smarter, and advise with precision.",
+    "company_url": "https://legora.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3da634c0992f721fb6f4_6a0d7d809acb15b87919e6f1_Legora.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Loom",
+    "description": "Asynchronous video communication tool that enables people to collaborate and communicate more effectively",
+    "company_url": "https://www.loom.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3daed574625bf42e0dbb_6a0d7d8dbf47169f4809d445_Loom.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Lucid",
+    "description": "Visual collaboration suite that enables teams to see and build the future with virtual whiteboarding, intelligent diagramming, and cloud visualization",
+    "company_url": "https://www.lucid.co/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3db079b9ceabca62aa93_6a0d7d9fed58a8c4199ac731_Lucid.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Marqeta",
+    "description": "Modern card issuing platform that allows users to instantly issue various types of cards and process card payments with an open API platform",
+    "company_url": "https://www.marqeta.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3db1260a5556c02e2674_6a0d7db6a9f69aa1a7661e63_Marqeta.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Miro",
+    "description": "Online visual collaboration platform that enables collocated, distributed, and remote teams to work together without the constraints of a physical location",
+    "company_url": "https://www.miro.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3db2513b27288b3cfd44_6a0d7dea1b01e302dc119727_Miro.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Monte Carlo",
+    "description": "End-to-end data observability platform that helps teams increase their trust in data by eliminating data downtime",
+    "company_url": "https://www.montecarlodata.com/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3db22e90a6914f1cc1ed_6a0d7e06577716eeb5785994_Monte%2520Carlo.png",
+    "sectors": [
+      "AI",
+      "Enterprise SaaS"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Monzo",
+    "description": null,
+    "company_url": "https://monzo.com/us",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3db337e82e35d7f8faee_6a0d7e140125de31a604c1c3_Monza.png",
+    "sectors": [
+      "Enterprise SaaS",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  },
+  {
+    "company_name": "Motorway",
+    "description": "Used car marketplace that enables consumers to quickly list and sell their used cars from the comfort of their home",
+    "company_url": "https://motorway.co.uk/",
+    "logo_url": "https://cdn.prod.website-files.com/65e1d7fb19a3e64b5c36fb38/6a4e3db4c17d611157e6ecee_6a0d7e224b9488e9f6dd7822_Motorway.png",
+    "sectors": [
+      "Consumer Internet"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.iconiq.com/growth/companies",
+    "scraped_at": "2026-08-03T08:16:42.891987+00:00"
+  }
+]

@@ -1,0 +1,1694 @@
+[
+  {
+    "company_name": "AAVantgarde Bio",
+    "description": "Next-generation gene therapies by enabling delivery of large genes",
+    "company_url": "https://www.aavantgardebio.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/01/Aavangarde-resized-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Accent Therapeutics",
+    "description": "Targeting RNA-modifying proteins for novel precision cancer therapies",
+    "company_url": "https://accenttx.com/",
+    "careers_url": "https://accenttx.com/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/ACCENT-300x200.png?strip=all",
+    "involvement": [
+      "Incubated"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Actelion",
+    "description": "Small molecule therapies for severe cardiovascular diseases",
+    "company_url": "https://www.jnj.com/tag/actelion",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Actelion-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "ATLN",
+    "exchange": "SWX",
+    "acquirer": null,
+    "exit_year": "2000",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Adnexus Therapeutics",
+    "description": "Novel biologic drugs platform",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Adnexus-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "BMS",
+    "exit_year": "2007",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Affinia Therapeutics",
+    "description": "Building the future of gene therapy",
+    "company_url": "https://www.affiniatx.com/",
+    "careers_url": "https://www.affiniatx.com/careers/our-dna/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/AffiniaTM-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Aiolos Bio",
+    "description": "Reimagining treatments for patients with respiratory illnesses and inflammatory conditions",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/10/Aiolos-Bio-1-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "GSK",
+    "exit_year": "2024",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Akero Therapeutics",
+    "description": "Restoring metabolic balance to treat NASH and serious metabolic diseases",
+    "company_url": "https://akerotx.com/",
+    "careers_url": "https://akerotx.com/our-culture/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Akero-300x200.png?strip=all",
+    "involvement": [
+      "Incubated"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Novo",
+    "exit_year": "2025",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Alnylam Pharmaceuticals",
+    "description": "RNAi-based drugs for severe diseases",
+    "company_url": "https://www.alnylam.com/",
+    "careers_url": "https://www.alnylam.com/careers",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Alnylam-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "ALNY",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2004",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Annovation Biopharma",
+    "description": "Novel anesthetics",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Annovation-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "The Medicines Company",
+    "exit_year": "2015",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Antares Therapeutics",
+    "description": "First-in-class precision medicines for cancer and other serious diseases",
+    "company_url": "http://www.antaresrx.com",
+    "careers_url": "https://antaresrx.com/#careers",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2025/06/Antares-logo-web-300x200.jpg?strip=all",
+    "involvement": [],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Arkuda Therapeutics",
+    "description": "Targeting progranulin and lysosomal biology to treat neurodegenerative diseases",
+    "company_url": "https://www.arkudatx.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/ARKUDATx-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "JnJ",
+    "exit_year": "2025",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "ArQule",
+    "description": "Novel cancer drugs using combinatorial chemistry",
+    "company_url": "https://www.merck.com/news/merck-to-acquire-arqule-advancing-leadership-in-oncology/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Arqule-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "ARQL",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "1996",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Arteaus Therapeutics",
+    "description": "Migraine prevention therapy",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Arteaus-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Eli Lilly",
+    "exit_year": "2013",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Avila Therapeutics",
+    "description": "Covalent irreversible inhibitors",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Avila_PEO-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Celgene",
+    "exit_year": "2012",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Bicycle Therapeutics",
+    "description": "Novel bicyclic peptides (bicycles) and bicycle drug conjugates for cancer",
+    "company_url": "/",
+    "careers_url": "/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Bicycle_BIG-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": "BCYC",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2019",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Cadent Therapeutics",
+    "description": "Breakthrough therapies for neurological & psychiatric conditions",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Cadent_logo-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Novartis",
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Caldera Therapeutics",
+    "description": "First-in-class bispecific antibody for the treatment of IBD",
+    "company_url": "https://www.calderatx.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2026/01/Caldera-Final-Logo-Full-Color-RGB-web-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Cogent Biosciences",
+    "description": "Precision therapeutics for genetically defined diseases",
+    "company_url": "https://www.cogentbio.com/",
+    "careers_url": "/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Cogent_biosciences-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "COGT",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Comanche Biopharma",
+    "description": "Developing the first treatment targeting a root cause of preeclampsia",
+    "company_url": "https://comanchebiopharma.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/01/Comanche-resized-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "CoStim Pharmaceuticals",
+    "description": "Novel antibodies for immuno-oncology",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Costim-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Novartis",
+    "exit_year": "2014",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Crucell",
+    "description": "Novel vaccine platform",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Crucell-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Johnson & Johnson",
+    "exit_year": "2010",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Day One Biopharmaceuticals",
+    "description": "Rapidly developing new cancer treatments for people of all ages",
+    "company_url": "https://www.dayonebio.com/",
+    "careers_url": "https://www.dayonebio.com/join-our-team/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/DayOneBio-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "DAWN",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2021",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "deCODE genetics",
+    "description": "Population genetics for the discovery of novel drug targets",
+    "company_url": "/",
+    "careers_url": "/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/deCODE-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Amgen",
+    "exit_year": "2012",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Delinia",
+    "description": "Novel biologic therapeutics for autoimmune diseases",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Delinia-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Celgene",
+    "exit_year": "2017",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Diagonal Therapeutics",
+    "description": "Advancing a ground-breaking approach to agonist antibody therapeutics",
+    "company_url": "http://www.diagonaltx.com",
+    "careers_url": "https://www.linkedin.com/company/diagonal-therapeutics/jobs/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/04/Untitled-design-11-1-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Disarm Therapeutics",
+    "description": "Preventing axonal degeneration in patients with neurological diseases",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Disarm-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Lilly",
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Disc Medicine",
+    "description": "Innovative treatments for hematologic diseases",
+    "company_url": "https://www.discmedicine.com/",
+    "careers_url": "https://www.discmedicine.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2026/01/Disc-logo-new-web-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "IRON",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2022",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Dyne Therapeutics",
+    "description": "Pioneering targeted therapies for serious muscle diseases",
+    "company_url": "https://www.dyne-tx.com/",
+    "careers_url": "https://www.dyne-tx.com/careers-culture/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/DyneLogo-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "DYN",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Ethyreal Bio",
+    "description": "Precision therapies for thyroid diseases with high unmet need",
+    "company_url": "https://www.ethyrealbio.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2026/06/Ethyreal-logo-web-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Exelixis",
+    "description": "Functional genomics-based drug discovery",
+    "company_url": "https://www.exelixis.com/",
+    "careers_url": "https://www.exelixis.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Exelixis-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "EXEL",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2000",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "F-Star Alpha Limited",
+    "description": "Novel bispecific antibodies platform",
+    "company_url": "https://f-star.com/",
+    "careers_url": "https://f-star.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/FStar-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "invoX Pharma",
+    "exit_year": "2023",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Generation Bio",
+    "description": "Scalable, re-dosable, non-viral gene therapy for genetic diseases",
+    "company_url": "https://generationbio.com/",
+    "careers_url": "https://generationbio.com/join-us/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Generation-Bio-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Xoma Royalty",
+    "exit_year": "2026",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Harbour Antibodies",
+    "description": "Mouse platforms for the generation of fully human antibodies",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Harbour-Biomed-300x200.png?strip=all",
+    "involvement": [
+      "Incubated"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Harbour BioMed",
+    "exit_year": "2016",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Horizon Pharma",
+    "description": "Therapies for rare and inflammatory diseases",
+    "company_url": "https://www.horizontherapeutics.com/",
+    "careers_url": "https://www.horizontherapeutics.com/careers/join-our-team",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Horizon-TX-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "HZNP",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2011",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "HotSpot Therapeutics",
+    "description": "Unlocking nature's regulatory mechanisms to fuel the discovery of new medicines",
+    "company_url": "https://www.hotspotthera.com/",
+    "careers_url": "https://www.hotspotthera.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/HotSpot-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "IFM Therapeutics",
+    "description": "Targeting the innate immune system to treat cancer and inflammatory diseases",
+    "company_url": "https://www.ifmthera.com/",
+    "careers_url": "https://www.ifmthera.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/IFM_Thera-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "BMS (2017); Novartis (2019)",
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Ikena Oncology",
+    "description": "Targeted oncology therapies",
+    "company_url": "https://ikenaoncology.com/",
+    "careers_url": "https://ikenaoncology.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Ikena-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "merged with Inmagene",
+    "exit_year": "2024",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Intellia Therapeutics",
+    "description": "Gene editing therapies",
+    "company_url": "https://www.intelliatx.com/",
+    "careers_url": "https://www.intelliatx.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Intellia-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "NTLA",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2016",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Judo Bio",
+    "description": "Developing oligonucleotide therapeutics targeting the kidney",
+    "company_url": "https://judo.bio/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/10/Judo-Bio-logo-web-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "K36 Therapeutics",
+    "description": "Translating epigenetic modulation of oncogenic pathways into first-in-class small molecule therapeutics",
+    "company_url": "https://www.k36tx.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/K36-300x200.png?strip=all",
+    "involvement": [
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Kailera Therapeutics",
+    "description": "Advancing next-generation therapies for obesity and related conditions",
+    "company_url": "https://www.kailera.com/",
+    "careers_url": "https://www.kailera.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/09/Kailera-Logo-web2-300x200.jpg?strip=all",
+    "involvement": [
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "KLRA",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2026",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Kinaset Therapeutics",
+    "description": "Novel therapeutics for severe respiratory diseases",
+    "company_url": "https://www.kinasettherapeutics.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Kinaset-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Korro Bio",
+    "description": "mRNA editing based therapies",
+    "company_url": "https://www.korrobio.com/",
+    "careers_url": "https://www.korrobio.com/join-us/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Korro-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "KRRO",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2023",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Kymera Therapeutics",
+    "description": "Delivering novel small molecule protein degrader medicines",
+    "company_url": "https://www.kymeratx.com/",
+    "careers_url": "https://www.kymeratx.com/careers-page/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Kymera-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "KYMR",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Lifordi Immunotherapeutics",
+    "description": "Leveraging ADC success to develop treatments for autoimmune and inflammatory disorders",
+    "company_url": "http://www.lifordi.com",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/01/Lifordi-logo-resized-300x200.png?strip=all",
+    "involvement": [
+      "Seeded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Lysosomal Therapeutics, Inc.",
+    "description": "Novel therapies for severe neurodegenerative diseases",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/LTI-300x200.png?strip=all",
+    "involvement": [
+      "Seeded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Bial",
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Mariana Oncology",
+    "description": "Treating cancer's toughest tumors through innovation in precision radiopharmaceuticals",
+    "company_url": "https://www.marianaoncology.com/",
+    "careers_url": "https://www.marianaoncology.com/join-us/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Mariana-Oncology-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Novartis",
+    "exit_year": "2024",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Matchpoint Therapeutics",
+    "description": "Discovering precision covalent medicines for immune diseases",
+    "company_url": "https://matchpointtx.com/",
+    "careers_url": "https://matchpointtx.com/#careers",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Matchpoint-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Micromet",
+    "description": "Novel biologics for cancer treatment",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Micromet-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Amgen",
+    "exit_year": "2012",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Momenta Pharmaceuticals",
+    "description": "Development of complex biosimilar products",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Momenta-4c-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "MNTA",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2004",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "MorphoSys",
+    "description": "Novel antibody discovery platform",
+    "company_url": "https://www.morphosys.com/en/home",
+    "careers_url": "https://www.morphosys.com/en/careers",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Morphosys-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "MOR.DE",
+    "exchange": "XETRA",
+    "acquirer": null,
+    "exit_year": "1999",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "nChroma Bio",
+    "description": "Best-in-class epigenetic editing & targeted in vivo delivery technology to reach the full potential of genetic medicines",
+    "company_url": "https://www.nchromabio.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2025/01/nChroma-logo-web2-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Nimbus Therapeutics",
+    "description": "Breakthrough computer-aided drug design for transformative medicines",
+    "company_url": "http://www.nimbustx.com/",
+    "careers_url": "https://www.nimbustx.com/culture-careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Nimbus-2-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Novexel",
+    "description": "Novel antibiotics",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/novexel-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "AstraZeneca",
+    "exit_year": "2010",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Obsidian Therapeutics",
+    "description": "New class of regulated cell and gene therapies",
+    "company_url": "https://obsidiantx.com/",
+    "careers_url": "https://obsidiantx.com/join-our-team/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Obsidian-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Padlock Therapeutics",
+    "description": "Novel medicines for auto-immune diseases",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Padlock-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "BMS",
+    "exit_year": "2016",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Pheon Therapeutics",
+    "description": "ADC specialist for solid cancers",
+    "company_url": "https://pheontx.com/",
+    "careers_url": "https://pheontx.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/PheonTx-300x200.png?strip=all",
+    "involvement": [
+      "Incubated"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Q32 Bio",
+    "description": "Targeting regulators of innate and adaptive immunity to restore immune homeostasis",
+    "company_url": "https://www.q32bio.com/",
+    "careers_url": "https://www.q32bio.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Q32BIO-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "QTTB",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2024",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Rectify",
+    "description": "Restoring ABC transporter function for patients with serious genetic diseases",
+    "company_url": "https://rectifypharma.com/",
+    "careers_url": "https://rectifypharma.com/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Rectify-1-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Remix Therapeutics",
+    "description": "Reprogramming RNA to address undruggable drivers of disease",
+    "company_url": "https://www.remixtx.com/",
+    "careers_url": "https://www.remixtx.com/join-us/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/RemixTx-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Renasant Bio",
+    "description": "Disease-modifying oral small molecule treatments for ADPKD",
+    "company_url": "https://www.renasantbio.com/",
+    "careers_url": "https://www.renasantbio.com/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2025/07/Renasant-logo-web-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Replimune",
+    "description": "Next-generation oncolytic immuno-therapies for cancer treatment",
+    "company_url": "https://replimune.com/",
+    "careers_url": "https://replimune.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Replimue-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": "REPL",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2018",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Rodin Therapeutics",
+    "description": "Enhancing synaptic integrity for treatment of neurological disorders",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Rodin-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Alkermes",
+    "exit_year": "2019",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Scorpion Therapeutics",
+    "description": "Targeted oncology therapies",
+    "company_url": "https://www.scorpiontx.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Scorpion-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Eli Lilly",
+    "exit_year": "2025",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Sionna Therapeutics",
+    "description": "Developing highly effective, differentiated treatments for cystic fibrosis",
+    "company_url": "https://www.sionnatx.com/",
+    "careers_url": "https://www.sionnatx.com/join-us/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Sionna-300x200.png?strip=all",
+    "involvement": [
+      "Seeded"
+    ],
+    "status": "Active",
+    "ticker_symbol": "SION",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2025",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Spero Therapeutics",
+    "description": "Novel antibiotics for drug-resistant bacterial infections",
+    "company_url": "https://www.sperotherapeutics.com/",
+    "careers_url": "https://www.sperotherapeutics.com/careers",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/SPERO-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": "SPRO",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2017",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Stromedix",
+    "description": "Novel fibrosis therapeutic",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Stromedix-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Biogen Idec",
+    "exit_year": "2012",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Surface Oncology",
+    "description": "Novel antibodies built to break through the tumor microenvironment",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Surface-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Coherus",
+    "exit_year": "2023",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Synlogic",
+    "description": "Pioneering transformative new biotherapeutics for patients",
+    "company_url": "https://www.synlogictx.com/",
+    "careers_url": "https://www.synlogictx.com/our-people/join-us/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Synlogic-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": "SYBX",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2017",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Third Harmonic Bio",
+    "description": "Advancing medicines for allergy and inflammation",
+    "company_url": "https://thirdharmonicbio.com/",
+    "careers_url": "https://thirdharmonicbio.com/careers/",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Third-Harmonic-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": "THRD",
+    "exchange": "NASDAQ",
+    "acquirer": null,
+    "exit_year": "2022",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Trace Neuroscience",
+    "description": "Antisense oligonucleotide therapeutics for genetically driven diseases with high unmet medical need including ALS",
+    "company_url": "http://www.traceneuro.com",
+    "careers_url": "https://www.traceneuro.com/#contact-us",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2024/11/trace_logo_primary_rgb_darkblue_web-300x200.jpg?strip=all",
+    "involvement": [],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Translate Bio",
+    "description": "mRNA vaccines and therapies",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Translate-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Sanofi",
+    "exit_year": "2021",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "TRIANA Biomedicines",
+    "description": "Target-first, rational molecular glue drug discovery platform",
+    "company_url": "https://trianabio.com/",
+    "careers_url": "https://trianabio.com/#join-us",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/TRIANA_ID_BIO-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Triveni Bio",
+    "description": "Novel antibodies for the treatment of I&I disorders",
+    "company_url": "http://www.triveni.bio",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/10/Triveni-Bio-1-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Vedere Bio",
+    "description": "Next-generation ocular gene therapies for vision restoration and preservation",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Vedere-Colored-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Novartis",
+    "exit_year": "2020",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Versanis Bio",
+    "description": "Transformative treatments for people with obesity and other cardiometabolic diseases",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Versanis-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Lilly",
+    "exit_year": "2023",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Vigil Neuroscience",
+    "description": "Harnessing the power of microglia to transform treatments for neuro-degenerative diseases",
+    "company_url": "https://www.vigilneuro.com/",
+    "careers_url": "https://www.vigilneuro.com/careers",
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Vigil-300x200.png?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Sanofi",
+    "exit_year": "2025",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Vima Therapeutics",
+    "description": "Oral therapies for people with movement disorders",
+    "company_url": "https://vimatx.com/",
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2025/05/Vima-logo-web-300x200.jpg?strip=all",
+    "involvement": [
+      "Seeded",
+      "Incubated",
+      "Co-founded"
+    ],
+    "status": "Active",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": null,
+    "exit_year": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  },
+  {
+    "company_name": "Vitae Pharmaceuticals",
+    "description": "Novel therapeutics using proprietary computational chemistry",
+    "company_url": null,
+    "careers_url": null,
+    "logo_url": "https://ecskrgnm8g8.exactdn.com/wp-content/uploads/2023/08/Vitae-300x200.png?strip=all",
+    "involvement": [],
+    "status": "Exited",
+    "ticker_symbol": null,
+    "exchange": null,
+    "acquirer": "Allergan",
+    "exit_year": "2016",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://atlasventure.com/portfolio/",
+    "scraped_at": "2026-07-01T23:25:14.688673+00:00"
+  }
+]

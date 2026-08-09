@@ -1,0 +1,1910 @@
+[
+  {
+    "company_name": "1upHealth",
+    "company_url": "https://1up.health/",
+    "description": "1upHealth is healthcare's most complete FHIR platform to connect, control and compute data.",
+    "founders": [
+      "Ricky Sahu"
+    ],
+    "sectors": [
+      "Healthcare",
+      "SaaS"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Actor Labs",
+    "company_url": "https://labs.actor/",
+    "description": "Actor is deploying general robot models into heavy machinery.",
+    "founders": [
+      "Lane Burgett & Shashi Shekhar Verma"
+    ],
+    "sectors": [],
+    "location": "Mountain View, CA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Adaptive Security",
+    "company_url": "https://www.adaptivesecurity.com/",
+    "description": "Adaptive is an AI-native enterprise security platform to protect businesses from next-gen threats like deepfake social engineering.",
+    "founders": [
+      "Brian Long & Andrew Jones"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "New York",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Airbnb - Exited via IPO",
+    "company_url": "https://www.airbnb.com/",
+    "description": "Airbnb was born in 2007 and has since grown to over 4 million Hosts who have welcomed over 1.5 billion guest arrivals in almost every country across the globe, now every day, Hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. (Exited via IPO)",
+    "founders": [
+      "Brian Chesky, Nathan Blecharczyk, and Joe Gebbia"
+    ],
+    "sectors": [
+      "Consumer",
+      "Exited"
+    ],
+    "location": "California, US",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Alloy",
+    "company_url": "https://www.alloy.com/",
+    "description": "Alloy is the global end-to-end identity risk solution that helps banks and fintechs automate and manage their decisions for onboarding, ongoing fraud & AML monitoring, and credit underwriting.",
+    "founders": [
+      "Tommy Nicholas, Laura Spiekerman, and Charles Hearn"
+    ],
+    "sectors": [
+      "Fintech",
+      "SaaS"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Anchor - Acquired by Spotify",
+    "company_url": "https://podcasters.spotify.com/",
+    "description": "Anchor is the easiest way to make a podcast. Record or upload high-quality audio, host unlimited episodes, and distribute everywhere with just one click. (Acquired by Spotify)",
+    "founders": [
+      "Michael Mignano and Nir Zicherman"
+    ],
+    "sectors": [
+      "Exited",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "AppHero - Acquired by Fuse Powered",
+    "company_url": null,
+    "description": "AppHero recommends apps you’ll love by learning about your unique interests, preferences and characteristics.",
+    "founders": [
+      "Jordan Satok"
+    ],
+    "sectors": [
+      "SaaS",
+      "Consumer",
+      "Exited"
+    ],
+    "location": "Toronto, Canada",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Approximate Labs",
+    "company_url": "https://www.approximatelabs.com/",
+    "description": "Approximate Labs is a research lab that works at the intersection of artificial intelligence and tabular data.",
+    "founders": [
+      "Mike Biven"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "Colorado, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Areal.ai",
+    "company_url": "https://www.dokuman.ai/",
+    "description": "Areal is an AI-powered data extraction platform for all types of documents, it provides workflow specific document type classification, data validation and full text search features.",
+    "founders": [
+      "Alan Greene, Anthea Chung, Cheryl Greene, Sam De Brouwer, and Walter De Brouwer."
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Argilla - Acquired by HuggingFace",
+    "company_url": "https://argilla.io/",
+    "description": "Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets. (Acquired by Hugging Face)",
+    "founders": [],
+    "sectors": [
+      "Exited"
+    ],
+    "location": "",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Attention",
+    "company_url": "https://www.attention.com",
+    "description": "With our AI capabilities, Attention understands your conversations & sales methodology and fills up your CRM fields with one click.",
+    "founders": [
+      "Anis Bennaceur and Matthias Wickenburg"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Attentive",
+    "company_url": "https://www.attentive.com/",
+    "description": "The world’s #1 SMS marketing platform. Send smarter campaigns, see faster conversions, achieve higher ROI.",
+    "founders": [
+      "Brian Long and Andrew Jones"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "AutoFi",
+    "company_url": "https://www.autofi.com/",
+    "description": "AutoFi is an e-commerce software platform that allows car buyers, for the first time, to purchase and finance a car entirely online. AutoFi’s platform connects an auto dealer’s customers to a network of lenders, providing a fast, mobile-first checkout experience.",
+    "founders": [
+      "Kevin Singerman and Mandar Gokhale"
+    ],
+    "sectors": [
+      "Fintech",
+      "SaaS",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Automation Anywhere",
+    "company_url": "https://www.automationanywhere.com/products/automation-360",
+    "description": "Automation Anywhere is the leader in intelligent automation solutions that put AI to work across every aspect of an organization.",
+    "founders": [
+      "Mihir Shukla and Ankur Kothari"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Axle",
+    "company_url": "https://www.axleaccess.com/",
+    "description": "Axle is the modern platform to originate, distribute, and execute corporate access events—faster, more accurately, and with less friction.",
+    "founders": [
+      "Sam Shapiro"
+    ],
+    "sectors": [
+      "AI",
+      "Fintech"
+    ],
+    "location": "New York",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Beam",
+    "company_url": "https://www.getbeam.cash",
+    "description": "Unlock real-world crypto value. Tradfi-compliant payment, risk and identity services.",
+    "founders": [
+      "Dan Mottice and Matt Vanhouten"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Distributed",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Bearworks",
+    "company_url": "https://www.bearworks.com/",
+    "description": "Transform your team with an AI-powered Sales Conversation Platform for unparalleled productivity",
+    "founders": [
+      "Albert Wang and Greg Meyer"
+    ],
+    "sectors": [
+      "SaaS",
+      "AI"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Bedrock",
+    "company_url": "https://www.bedrockocean.com/",
+    "description": "Bedrock provides high-resolution marine surveys, including Geophysical, Hydrographic, and UXO.",
+    "founders": [
+      "Anthony DiMare and Charles Chiau"
+    ],
+    "sectors": [
+      "Deep-tech",
+      "Sustainability"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Bito",
+    "company_url": "https://bito.ai/",
+    "description": "Bito helps software engineers ship better code, faster. Its codebase-aware AI Code Review Agent integrates with Git and IDEs, cutting merge time by 89% and reducing regressions by 34%. Developers start free.",
+    "founders": [
+      "Amar Goel, Anand Das, and Mukesh Agarwal"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Boston Geospatial",
+    "company_url": "https://www.bostongeospatial.com/",
+    "description": "Boston Geospatial brings ready-to-use geospatial insights to operators and risk managers in the critical infrastructure sectors.",
+    "founders": [
+      "Justin Oliveira"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "MA, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Boxed - Exited via IPO",
+    "company_url": "https://boxed.com/",
+    "description": "Boxed gives you the products you love in bulk delivered to your door. (Exited via IPO)",
+    "founders": [
+      "Chieh Huang, Christopher Cheung, Jared Yaman, and William Fong"
+    ],
+    "sectors": [
+      "Consumer",
+      "Exited"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Brightwheel",
+    "company_url": "https://mybrightwheel.com/",
+    "description": "The #1 platform in early education across the globe. Brightwheel makes life easier for teachers and helps parents better engage with their child’s development.",
+    "founders": [
+      "Dave Vasen"
+    ],
+    "sectors": [
+      "SaaS",
+      "Fintech",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Briq",
+    "company_url": "https://briq.com/",
+    "description": "Briq is a construction technology company that uses adaptive intelligence and enterprise data to detect environmental, economic, and market landscape changes in the construction and real estate industries.",
+    "founders": [
+      "Ron Goldshmidt and Bassem Hamdy"
+    ],
+    "sectors": [
+      "Fintech",
+      "SaaS",
+      "Deep-tech"
+    ],
+    "location": "CA, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Cameo - Acquired by Vimeo",
+    "company_url": "https://vimeo.com/",
+    "description": "Cameo allows you to easily create beautiful short films on your own or with friends, it is the first app to bring professional-grade video effects and styles to users of any skill level. (Acquired by Vimeo)",
+    "founders": [
+      "Andy Thompson, Matthew Rosenberg, and Michael Constantiner"
+    ],
+    "sectors": [
+      "SaaS",
+      "Consumer",
+      "Exited"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Catio",
+    "company_url": "https://www.catio.tech/",
+    "description": "Copilot for Tech Stack Architecture",
+    "founders": [
+      "Boris Bogatin (Co-founder & CEO), Toufic Boubez (Co-founder & CTO)"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "Distributed",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Cecil",
+    "company_url": "https://cecil.earth/",
+    "description": "Cecil is data infrastructure for natural assets. It helps you organise complex data for high-integrity reporting across global standards",
+    "founders": [
+      "Alex Logan and Rory Oxenham"
+    ],
+    "sectors": [
+      "Sustainability",
+      "SaaS"
+    ],
+    "location": "New York, USA; London, UK; Sydney, Australia",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Chatgrid - Acquired by Medallia",
+    "company_url": "https://www.medallia.com/",
+    "description": "With ChatGrid you can tap into and take action on the voice of your customer anywhere and anytime. (Acquired by Medallia)",
+    "founders": [
+      "Herman Yang"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS",
+      "Exited"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "CloudX",
+    "company_url": "https://www.cloudx.io/",
+    "description": "CloudX is a supply side platform for mobile and AI publishers. Boost revenue with AI workflows and a liquid marketplace.",
+    "founders": [
+      "Jim Payne, Founder"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "California",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Conduit Health",
+    "company_url": "https://conduithealth.com/",
+    "description": "The platform that gets home medical supplies into the right hands.",
+    "founders": [
+      "Natan Wise and Rocky Seftel"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Coworker",
+    "company_url": "https://coworker.ai/",
+    "description": "Unlike generic AI, Coworker can answer, plan, and execute tasks for you with full company context across 40+ enterprise apps — no custom coding required.",
+    "founders": [
+      "Alex Calder and Bradford Church"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Crossterra",
+    "company_url": "https://www.crossterra.com/",
+    "description": "Crossterra is the unified platform that helps brands launch, operate, and scale across the world's fastest growing economies without rebuilding their stack or taking on operational risk.",
+    "founders": [
+      "Rahul Gandi, Founder"
+    ],
+    "sectors": [],
+    "location": "New York",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Cube",
+    "company_url": "https://cube.dev/",
+    "description": "The Semantic Layer for every data app. Connect data silos, drive consistent metrics, and power your AI and analytics with context.",
+    "founders": [
+      "Artyom Keydunov and Pavel Tiunov"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Curo",
+    "company_url": "https://www.curocharging.com/",
+    "description": "The first Virtual Depot platform, providing fleets with access to exclusive, cost-effective EV charging whilst driving revenue for asset owners.",
+    "founders": [
+      "Kieran White and Andrew Porter"
+    ],
+    "sectors": [
+      "Sustainability",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Cymbal",
+    "company_url": "https://cymbal.xyz/",
+    "description": "Cymbal's mission is to take the world's blockchain data—all the billions of events and activities stored on-chain—and make it understandable by anyone.",
+    "founders": [
+      "Eric Feng, James Jerlecki, and Shabih Rizvi"
+    ],
+    "sectors": [
+      "Web3",
+      "Fintech"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Daylight",
+    "company_url": "https://www.daylight.xyz/",
+    "description": "Daylight's transaction recommendation API helps apps, protocols, and creators grow transactions and revenue.",
+    "founders": [
+      "Kyle McCollom, Morley Zhi, and Austin McCollom"
+    ],
+    "sectors": [
+      "Web3",
+      "SaaS"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Definitive Intelligence - Acquired by Groq - Acquired by Nvidia",
+    "company_url": "https://groq.com/",
+    "description": "Definitive Intelligence is at the forefront of generative AI technology, redefining how businesses utilize data. (Acquired by Groq)",
+    "founders": [
+      "Sunny Madra, Gavin Sherry, and Caleb Welton"
+    ],
+    "sectors": [
+      "AI",
+      "Exited"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "DemandSage - Acquired by Snap",
+    "company_url": "https://www.demandsage.com/",
+    "description": "DemandSage uses the power of data to help businesses make informed decisions that can lead to long-term growth.",
+    "founders": [
+      "Raj Aggarwal and Henry Cipolla"
+    ],
+    "sectors": [
+      "Exited",
+      "SaaS"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Drip",
+    "company_url": "https://www.dripshop.live/",
+    "description": "Drip is a fast-growing, VC-backed live shopping platform and tooling company for passionate communities starting with collectibles.",
+    "founders": [
+      "Javaughn Lawrence and Sameep Sheth"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Dubsmash - Acquired by Reddit",
+    "company_url": "https://www.reddit.com/",
+    "description": "Dubsmash is a viral messaging app that has taken the #1 spot in the App Store of over 29 different countries across Europe. (Acquired by Reddit)",
+    "founders": [
+      "Daniel Taschik, Jonas Drupel, Roland Grenke, and Tim Specht"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited",
+      "Consumer"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Edera",
+    "company_url": "https://edera.dev/",
+    "description": "Edera is a secure-by-design infrastructure solution to prevent container escapes that occur on Kubernetes, addressing security breaches from the root cause.",
+    "founders": [],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Santa Barbara, CA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Elevate Labs",
+    "company_url": "https://elevateapp.com/",
+    "description": "Elevate is a new type of cognitive training tool designed to build communication and analytical skills.",
+    "founders": [
+      "Jesse Pickard and Karl Stenerud"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Embrace",
+    "company_url": "https://embrace.io/",
+    "description": "Deliver better, bolder mobile experiences with Embrace. Optimize app performance & solve every crash, error, and ANR with our comprehensive platform.",
+    "founders": [
+      "Eric Futoran"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Evertune",
+    "company_url": "http://evertune.ai",
+    "description": "Evertune is a brand analytics platform focusing specifically on what AI models say about a particular brand or product.",
+    "founders": [],
+    "sectors": [
+      "AI"
+    ],
+    "location": "New York, NY",
+    "status": "exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fabi",
+    "company_url": "https://www.fabi.ai/",
+    "description": "Fabi.ai is an AI-first, collaborative platform for data scientists and analysts, designed with one goal in mind: supercharge the team and take the time to reach an insight from hours to minutes.",
+    "founders": [
+      "Marc Dupuis and Lei Tang"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fabric",
+    "company_url": "https://withfabric.xyz/",
+    "description": "Fabric works in capital formation, collective action, economic freedom.",
+    "founders": [
+      "Jonny Mack, Dan Simpson, and Chris Douglas"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "location": "Dispersed",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fathom Optics",
+    "company_url": "https://www.fathomoptics.com/",
+    "description": "Moving graphics for the tangible surface of print. Next-gen authentication and embellishment, no lenses or foils needed.",
+    "founders": [
+      "Tom Baran and Matthew Hirsch"
+    ],
+    "sectors": [
+      "Deep-tech"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Flapjack - Acquired by Monster",
+    "company_url": "https://www.flapjack.com/jobr/",
+    "description": "Flapjack (previously Jobr) allows career-seekers to easily browse for jobs and connect with employers without the hassle of a formal job search. (Acquired by Monster)",
+    "founders": [
+      "Hari Ananth and TJ Nahigian"
+    ],
+    "sectors": [
+      "Exited",
+      "SaaS",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fondu - Acquired by Airbnb",
+    "company_url": "https://fondu.com/",
+    "description": "Fondu is an online community for sharing bite-sized reviews about places to eat and drink. (Acquired by Airbnb)",
+    "founders": [
+      "Gauri Manglik, Mike Lewis, and Orion Burt"
+    ],
+    "sectors": [
+      "Exited",
+      "Consumer",
+      "SaaS"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "FortressIQ - Acquired by Automation Anywhere",
+    "company_url": "https://www.automationanywhere.com/products/process-discovery",
+    "description": "FortressIQ is delivering data-driven digital transformation, helping to build the next-generation quantified workforce. (Acquired by Automation Anywhere)",
+    "founders": [
+      "Pankaj Chowdhry"
+    ],
+    "sectors": [
+      "Exited",
+      "SaaS",
+      "Deep-tech"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fox",
+    "company_url": "https://foxrobotics.com/",
+    "description": "Fox Robotics is the first to offer an automated forklift that can unload pallets from trailers to receiving docks — we take a standard lift truck and add sensors and software to enable self-driving with precise navigation and robust pallet picking and movement.",
+    "founders": [
+      "Peter Anderson-Sprecher and Charles Duhadway"
+    ],
+    "sectors": [
+      "SaaS",
+      "Deep-tech"
+    ],
+    "location": "Texas, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fractal",
+    "company_url": "https://www.fractal.is/",
+    "description": "Fractal is on a mission to make games more fun, for gamers and game developers.",
+    "founders": [
+      "Justin Kan, Robin Chan, and Dan Borstelmann"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Fritz Labs - Acquired by Spotify",
+    "company_url": "https://twitter.com/fritzlabs",
+    "description": "Fritz AI was the machine learning platform for iOS, Android, and SnapML with a mission to make the power of ML available to mobile developers.",
+    "founders": [
+      "Dan Abdinoor and Jameson Toole"
+    ],
+    "sectors": [
+      "AI",
+      "Exited",
+      "Deep-tech",
+      "SaaS"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Ghost",
+    "company_url": "https://www.ghst.io/",
+    "description": "Ghost is the marketplace that connects leading retail brands with surplus distribution partners.",
+    "founders": [
+      "Dee Murthy and Josh Kaplan"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Ginger - Acquired by Headspace",
+    "company_url": "https://organizations.headspace.com/",
+    "description": "Ginger is an on-demand mental health company providing around-the-clock access to emotional support via coaching, therapy and psychiatry. (Acquired by Headspace)",
+    "founders": [
+      "Alex Pentland, Anmol Madan, Karan Singh, and Ryan O'Toole"
+    ],
+    "sectors": [
+      "Healthcare",
+      "SaaS",
+      "Exited",
+      "Deep-tech",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Glystn",
+    "company_url": "https://www.glystn.com/",
+    "description": "Glystn is AI-powered community relationship mgmt for multi-platform creators, brands, and digital-native businesses.",
+    "founders": [
+      "Ethan Fasset and Michael Rowehl"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Groq - Acquired by Nvidia",
+    "company_url": "https://groq.com/",
+    "description": "Groq delivers fast, low cost inference that doesn’t flake when things get real.",
+    "founders": [],
+    "sectors": [],
+    "location": "",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Halden",
+    "company_url": "https://www.haldenai.com/",
+    "description": "Halden finances GPUs and is purpose-built for AI clouds and startups. By structuring deals to protect capital providers, Halden offers borrowers lower down payments, lower monthly payments, and millions in cash back at loan end — something no other financing offers.",
+    "founders": [
+      "Kamran Hameed and Adam Falls, Co-Founders"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "Boston & Salt Lake City",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Happier",
+    "company_url": "https://www.tenpercent.com/",
+    "description": "The Happier app allows you to access practical teachings alongside guided meditations to make mindfulness into a habit you carry everywhere.",
+    "founders": [
+      "Ben Rubin and Derek Haswell"
+    ],
+    "sectors": [
+      "Healthcare",
+      "SaaS",
+      "Consumer"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Headspace",
+    "company_url": "https://www.headspace.com/",
+    "description": "Through evidence-based meditation and mindfulness tools, mental health coaching, therapy, psychiatry, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you.",
+    "founders": [
+      "Andy Puddicombe and Richard Pierson"
+    ],
+    "sectors": [
+      "SaaS",
+      "Healthcare"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Hinge - Acquired by Match",
+    "company_url": "https://hinge.co/",
+    "description": "Hinge is the dating app made for dating, and we’re good at what we do. (Acquired by match.com)",
+    "founders": [
+      "Justin McLeod"
+    ],
+    "sectors": [
+      "Consumer",
+      "Exited"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Hive",
+    "company_url": "https://thehive.ai/",
+    "description": "Hive is a full-stack AI company specialized in computer vision and deep learning, which power innovators with practical AI solutions and data labeling.",
+    "founders": [
+      "Kevin Guo and Dmitriy Karpman"
+    ],
+    "sectors": [
+      "AI",
+      "Deep-tech",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Hyper - Acquired by Motorola",
+    "company_url": "https://www.callhyper.com/",
+    "description": "AI that handles 911 calls",
+    "founders": [
+      "Ben Sanders, Damian McCabe, Reinhard Ekl"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "San Francisco",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "IMRSV - Acquired by Kairos",
+    "company_url": "https://www.imrsv.com/",
+    "description": "IMRSV is a technology company using computer vision for real-world, real-time data analysis. IMRSV’s Cara software is a breakthrough in perceptive computing. (Acquired by Kairos)",
+    "founders": [
+      "Jason Sosa"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Inevitable",
+    "company_url": "https://inevitabletech.com/",
+    "description": "Inevitable Tech produces locally grown food from robotic greenhouses that are good for people and for the planet, and affordable for everyone.",
+    "founders": [
+      "David Lee (CEO)"
+    ],
+    "sectors": [
+      "SaaS",
+      "Sustainability",
+      "Deep-tech"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "ISEE",
+    "company_url": "https://www.isee.ai/",
+    "description": "The most advanced autonomous yard truck solution in the marketplace today",
+    "founders": [
+      "Yibiao Zhao and Debbie Yu"
+    ],
+    "sectors": [
+      "SaaS",
+      "AI",
+      "Deep-tech",
+      "Sustainability"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Kindo",
+    "company_url": "https://kindo.ai/",
+    "description": "With Kindo you can connect to any AI model, integrate with your current apps, and offload your endless tasks with workflows — in just a few clicks.",
+    "founders": [
+      "Ron Williams, Margaret Jennings, and Bryan Vann"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Kin Health",
+    "company_url": "https://www.meetkin.com/",
+    "description": "Conversational AI patient and caregiver empowerment",
+    "founders": [
+      "Arpan Parikh, MD / Amit Parikh, MD / Kyle Alwyn"
+    ],
+    "sectors": [],
+    "location": "Los Angeles",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "LaunchKey - Acquired by iovation",
+    "company_url": "https://launchkey.com/",
+    "description": "LaunchKey is a multifactor authentication (MFA) and real-time authorization platform that leverages the mobile devices end-users already own. (Acquired by Iovation)",
+    "founders": [
+      "Devin Egan, Geoff Sanders, and Yo Sub Kwon"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited"
+    ],
+    "location": "Nevada, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Lawmatics",
+    "company_url": "https://www.lawmatics.com/?utm_source=google&utm_medium=cpc&utm_campaign=Search_Branded&utm_content=Brand-Exact&utm_term=lawmatics&matchtype=e&device=c&gad_source=1&gclid=CjwKCAiAgeeqBhBAEiwAoDDhn40WJvg_Wwjli0og4fHjoFiO8RKAXDC1VfTyCK6VDGsFnUxTSGfxJBoCK1YQAvD_BwE",
+    "description": "Lawmatics is a full funnel CRM, client intake and marketing automation software designed for the modern law firm.",
+    "founders": [
+      "Matt Spiegel, and Roey Chasman"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Legit - Acquired by Clora",
+    "company_url": "https://www.clora.com/",
+    "description": "Legit helps R&D teams consisting of engineers, researchers and scientists refine their ideas and figure out what’s truly unique about their solutions. (Acquired by Clora)",
+    "founders": [
+      "Anthony Bucci, Jacob Rosen, and Matt Osman"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited",
+      "Healthcare",
+      "Deep-tech"
+    ],
+    "location": "Massachusetts, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Level AI",
+    "company_url": "https://thelevel.ai/",
+    "description": "Level AI's call center AI uses semantic intelligence to understand support interactions to improve contact center team performance.",
+    "founders": [
+      "Ashish Nagar"
+    ],
+    "sectors": [
+      "AI",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Lit Protocol",
+    "company_url": "https://www.litprotocol.com/",
+    "description": "Lit is a blockchain-agnostic middleware network that can be used to read and write data between blockchains, state machines, and off-chain platforms with conditional decryption and programmatic signing.",
+    "founders": [
+      "David Sneider"
+    ],
+    "sectors": [
+      "Web3"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Localytics - Acquired by Upland Software",
+    "company_url": "https://uplandsoftware.com/localytics/",
+    "description": "Localytics is the leading mobile engagement platform that give companies the insights and tools they need to improve their mobile app acquisition, engagement and retention efforts. (Acquired by Upland Software)",
+    "founders": [
+      "Raj Aggarwal, Andrew Rollins, Brian Suthoff, and Henry Cipolla"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited"
+    ],
+    "location": "Dispersed",
+    "status": "exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Lunar Outpost",
+    "company_url": "https://www.lunaroutpost.com/",
+    "description": "Lunar Outpost is the leader in space mobility and infrastructure, developing advanced robotic systems for extreme environments. From enabling the first commercial rover on the Moon to driving NASA’s Lunar Terrain Vehicle Services program, Lunar Outpost is accelerating the new space economy for the betterment of life here on Earth. Lunar Outpost is scaling the core technologies that power the industrialization of space.",
+    "founders": [
+      "Justin Cyrus - CEO, AJ Gemer - CTO, Julian Cyrus - COO, Forrest Meyen - CSO"
+    ],
+    "sectors": [
+      "Deep-tech"
+    ],
+    "location": "Golden, CO",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Mantle",
+    "company_url": "https://withmantle.com/",
+    "description": "Modern solutions for managing private assets, from cap tables to capital calls.",
+    "founders": [
+      "Amar Varma"
+    ],
+    "sectors": [
+      "AI",
+      "Fintech"
+    ],
+    "location": "Toronto, Canada",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Medallia - Exited via IPO",
+    "company_url": "https://www.medallia.com/",
+    "description": "Medallia is the pioneer and market leader in customer, employee, citizen, and patient experience — as the leading enterprise experience platform, Medallia Experience Cloud is the mission-critical system of record that makes all other applications customer and employee aware. (Exited via IPO)",
+    "founders": [
+      "Amy Pressman and Borge Hald"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited"
+    ],
+    "location": "Dispersed",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Medcrypt",
+    "company_url": "https://www.medcrypt.com/",
+    "description": "MedCrypt provides data security as a service to medical device OEMs. From medical imaging device, to implantable devices like pacemakers, MedCrypt ensures that devices act only on instructions from trusted sources.",
+    "founders": [
+      "Mike Kijewski, Brett Hemenway, and Eric Pancoast"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Deep-tech",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Meta Resolver - Acquired by Millenial Media",
+    "company_url": null,
+    "description": "Metaresolver powers smarter media buying on mobile platforms through tighter targeting using proprietary data. (Acquired by Millenial Media)",
+    "founders": [
+      "Seamus McAteer, Cindy Mesaros, and Mike Rowehl"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Mia",
+    "company_url": "https://www.mia.inc/",
+    "description": "Mia is the AI super employee powering customer conversations for car dealerships.",
+    "founders": [
+      "Brian Hoang, CEO, Kelvin Pho, CTO, Marwan Kodeih, CPO"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "Austin, TX",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Micromart",
+    "company_url": "https://www.micromart.com/",
+    "description": "Micromart™ develops food retail technology for vending, micro-market, and food service operators. Our mission is to power fully autonomous stores and connect communities to the food they crave.",
+    "founders": [
+      "Yang Yu"
+    ],
+    "sectors": [
+      "SaaS",
+      "Consumer"
+    ],
+    "location": "Toronto, Canada",
+    "status": "exited",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Mio",
+    "company_url": "https://www.m.io/",
+    "description": "Mio powers seamless communication between workplace chat apps.",
+    "founders": [
+      "Tom Hadfield and James Cundle"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Texas, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Mobly",
+    "company_url": "https://www.getmobly.com/",
+    "description": "Mobly is the System of Record for Event Marketing, allowing users to use 1 app to capture leads at all of their events, big and small, with seamless CRM integration and best-in-class data enrichment.",
+    "founders": [
+      "Zach Barney and Kris Jenkins"
+    ],
+    "sectors": [],
+    "location": "Lehi, UT",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Model-Prime",
+    "company_url": "https://www.model-prime.com/",
+    "description": "Model-Prime makes working with robotics data easy.",
+    "founders": [
+      "Jeanine Gritzer and Arun Venkatadri"
+    ],
+    "sectors": [
+      "Deep-tech"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "mParticle - Acquired by Rokt",
+    "company_url": "https://www.mparticle.com/",
+    "description": "Amplify your customer data with AI. Combine real-time data quality and governance protections with AI-powered insights and predictions. Only with the mParticle Customer Data Platform. (Acquired by Rokt)",
+    "founders": [
+      "Michael Katz and Andrew Katz"
+    ],
+    "sectors": [
+      "SaaS",
+      "AI",
+      "Exited"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "N3TWORK",
+    "company_url": "https://www.n3twork.com/",
+    "description": "N3TWORK is a new type of games, media, and technology company.",
+    "founders": [
+      "Alan Yu, Bob Stevenson, Erik Lammerding, Neil Young, and Steve Detwiler"
+    ],
+    "sectors": [
+      "SaaS",
+      "Consumer"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Nebex",
+    "company_url": "https://www.nebex.com/",
+    "description": "Nebex serves the full range of sovereign, commercial, and financial participants in the global space economy. We are designed to meet institutional standards at every level.",
+    "founders": [
+      "Tejpaul Bhatia, Founder"
+    ],
+    "sectors": [],
+    "location": "New York",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "NEYON",
+    "company_url": "https://neyon.ai/",
+    "description": "Simplifying AI factory operations.",
+    "founders": [
+      "Tamanna Sait, Jungho Anh, and Brian Wolfe, Co-Founders"
+    ],
+    "sectors": [
+      "AI"
+    ],
+    "location": "Redwood City, CA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Nirvana Health",
+    "company_url": "https://www.meetnirvana.com/",
+    "description": "Nirvana Health cuts out the convoluted coverage maze and elevates your practice's potential by experiencing healthcare's future with Nirvana’s transparent coverage technology.",
+    "founders": [
+      "Akshay Venkitasubramanian, Urvish Parikh, and Kelvin Chan"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "PropTech"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Novu",
+    "company_url": "http://novu.co",
+    "description": "Novu is the open-source notification infrastructure for developers, with simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, and Push.",
+    "founders": [
+      "Tomer Barnea and Dima Grossman"
+    ],
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Tel Aviv, Israel",
+    "status": "exited",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Oboe",
+    "company_url": "https://www.oboe.fyi/",
+    "description": "Oboe is an AI-native learning app that provides personalized educational content across a wide swath of categories to consumers.",
+    "founders": [],
+    "sectors": [
+      "Consumer",
+      "AI"
+    ],
+    "location": "New York, NY",
+    "status": "exited",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Ohai",
+    "company_url": "https://www.ohai.ai/",
+    "description": "Building AI for All Families - Say \"ohai\" to your AI household assistant",
+    "founders": [
+      "Sheila Marcelo (CEO)"
+    ],
+    "sectors": [
+      "AI",
+      "Consumer"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Owlet - Exited via IPO",
+    "company_url": "https://owletcare.com/",
+    "description": "Owlet give you total view of Baby from anywhere with the only baby monitor to stream HD video while also tracking heart rate and oxygen as sleep quality indicators. (Exited via IPO)",
+    "founders": [
+      "Kurt Workman, Zack Bomsta, Jordan Monroe, and Jake Colvin"
+    ],
+    "sectors": [
+      "Consumer",
+      "Healthcare",
+      "Deep-tech",
+      "Exited"
+    ],
+    "location": "Utah, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health",
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Parallel - Acquired by iCapital",
+    "company_url": "https://parallelmarkets.com/",
+    "description": "Modern onboarding & compliance solutions for banks, funds and institutions. (Acquired by iCapital)",
+    "founders": [
+      "Tony Peccatiello, Brian Muller, and Nicholas Goss"
+    ],
+    "sectors": [
+      "SaaS",
+      "Fintech",
+      "Web3",
+      "Exited"
+    ],
+    "location": "New York, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Passage Labs",
+    "company_url": "https://www.passage.xyz/",
+    "description": "Passage Protocol is building the membership layer for web3 communities by providing building blocks for projects to quickly deploy performant, long-lasting web3 relationship management and loyalty rewards programming.",
+    "founders": [
+      "Zac Choi"
+    ],
+    "sectors": [
+      "Web3"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Passbase - Acquired by Parallel Markets",
+    "company_url": "https://parallelmarkets.com/?utm_source=passbase.com",
+    "description": "Passbase integrates seamless, bank-level identity verification into your website, app, or checkout with just a few lines of code. (Acquired by Parallel Markets)",
+    "founders": [
+      "Felix Gerlach, Mathias Klenk, and Dave McGibbon"
+    ],
+    "sectors": [
+      "Fintech",
+      "Web3",
+      "SaaS",
+      "Exited"
+    ],
+    "location": "Berlin, Germany",
+    "status": "exited",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Peel Insights - Acquired by Shopify",
+    "company_url": "https://www.peelinsights.com/",
+    "description": "Peel automates your business analytics and creates hyper-segmented reports so you have the data needed to take actions to grow your profit. (Acquired by Shopify)",
+    "founders": [
+      "Nicolas Grasset, Yasmin Nozari, and Phillipe Casorla Sagot"
+    ],
+    "sectors": [
+      "SaaS",
+      "Exited"
+    ],
+    "location": "NY, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Phil",
+    "company_url": "https://phil.us/",
+    "description": "Phil connects all stakeholders in the specialty pharmacy ecosystem to deliver a delightful patient experience.",
+    "founders": [
+      "Deepak Thomas and Puran Singh"
+    ],
+    "sectors": [
+      "Healthcare",
+      "SaaS"
+    ],
+    "location": "California, USA",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Phytoform",
+    "company_url": "https://www.phytoformlabs.com/",
+    "description": "Here at Phytoform, we believe in the need to unlock the power of plant genetics to make agriculture sustainable. Our crop improvement platform uses A.I. and Genome Editing to discover and implement novel traits. Our main focus is to deliver advanced crops in a bid to reduce waste and emissions within our food system.",
+    "founders": [
+      "William Pelton and Nicolas Kral"
+    ],
+    "sectors": [
+      "AI",
+      "Sustainability"
+    ],
+    "location": "Dispersed",
+    "status": "exited",
+    "everywhere_tags": [
+      "BioTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Pienso",
+    "company_url": "https://pienso.com/",
+    "description": "Pienso is a machine learning platform for non-programmers, our end to end Intelligent Development Environment allows non-programming experts to create and train their own machine learning models without the need for external support.",
+    "founders": [
+      "Birago Jones and Karthik Dinakar"
+    ],
+    "sectors": [
+      "Deep-tech",
+      "SaaS"
+    ],
+    "location": "Brooklyn, USA",
+    "status": "exited",
+    "everywhere_tags": [],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  },
+  {
+    "company_name": "Predoc",
+    "company_url": "https://www.predoc.ai/",
+    "description": "AI-Powered Health Information Management",
+    "founders": [
+      "Nish Hari, Alex Daniels, Kaushal Kulkarni, and Priya Mehta"
+    ],
+    "sectors": [
+      "Healthcare",
+      "AI"
+    ],
+    "location": "New York",
+    "status": "exited",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://eniac.vc/companies",
+    "scraped_at": "2026-08-07T21:28:07+00:00"
+  }
+]

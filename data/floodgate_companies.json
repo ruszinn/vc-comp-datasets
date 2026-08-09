@@ -1,0 +1,2326 @@
+[
+  {
+    "company_name": "Aceable",
+    "company_url": "https://www.aceable.com/",
+    "description": "Edtech - Consumer",
+    "founders": [
+      "Blake Garrett"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/aceable",
+    "linkedin_url": "https://www.linkedin.com/company/aceable/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Aconite",
+    "company_url": "http://www.aconite.co/",
+    "description": "Gaming - Consumer",
+    "founders": [
+      "Nadya Lev",
+      "Star St. Germain"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/aconiteco/",
+    "linkedin_url": "https://www.linkedin.com/company/aconite/about/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Aible",
+    "company_url": "https://www.aible.com/",
+    "description": "AI - Enterprise",
+    "founders": [
+      "Arijit Sengupta"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/iamAible",
+    "linkedin_url": "https://www.linkedin.com/company/aible/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "AirGarage",
+    "company_url": "https://airgarage.com/",
+    "description": "Internet - Enterprise",
+    "founders": [
+      "Jonathon Barkl",
+      "Chelsea Border",
+      "Scott Fitsimones"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/airgarageinc",
+    "linkedin_url": "https://www.linkedin.com/company/airgarage/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Applied Intuition",
+    "company_url": "https://www.appliedintuition.com/",
+    "description": "AV - Enterprise | Artificial Intelligence",
+    "founders": [
+      "Qasar Younis",
+      "Peter Ludwig"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/AppliedInt",
+    "linkedin_url": "https://www.linkedin.com/company/applied-intuition-inc/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "APT",
+    "company_url": "https://www.tryapt.ai/",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Tomas Hoyos",
+      "James Beshara"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Arch",
+    "company_url": "https://www.getarch.com/",
+    "description": "Enterprise",
+    "founders": [
+      "Phil Krinner",
+      "Sacha Schmitz"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/get-arch/about/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Ario",
+    "company_url": "https://www.heyario.com",
+    "description": "Consumer | Artificial Intelligence",
+    "founders": [
+      "Sumit Agarwal",
+      "Mengmeng Chen"
+    ],
+    "sectors": [
+      "Consumer",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/hey_ario",
+    "linkedin_url": "https://www.linkedin.com/company/heyario/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Around",
+    "company_url": "https://www.around.co/",
+    "description": "Video - Consumer | Enterprise",
+    "founders": [
+      "Dominik Zane",
+      "Pavel Serbajlo",
+      "Matt Zakutny"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/around_hq",
+    "linkedin_url": "https://www.linkedin.com/company/around0000/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Artifact",
+    "company_url": "https://artifact.engineer",
+    "description": null,
+    "founders": [
+      "Antony Samuel",
+      "Corbin Klett"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Bazaarvoice",
+    "company_url": "https://www.bazaarvoice.com/",
+    "description": "Marketing & Advertising - Enterprise",
+    "founders": [
+      "Brett Hurt",
+      "Brant Barton"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/Bazaarvoice",
+    "linkedin_url": "https://www.linkedin.com/company/bazaarvoice/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "BigCommerce",
+    "company_url": "https://www.bigcommerce.com/",
+    "description": "Ecommerce - Enterprise",
+    "founders": [
+      "Mitchell Harper",
+      "Eddie Machaalani"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/Bigcommerce",
+    "linkedin_url": "https://www.linkedin.com/company/bigcommerce/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Blooma",
+    "company_url": "https://blooma.ai/",
+    "description": "Real Estate - Enterprise",
+    "founders": [
+      "Shayne Skaff"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/blooma_ai?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/blooma-ai/",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Bluejay",
+    "company_url": "https://getbluejay.ai",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Faraz Siddiqi",
+      "Rohan Vasishth"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/getbluejay_ai",
+    "linkedin_url": "https://linkedin.com/company/get-bluejay",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "boam",
+    "company_url": "https://boam.ai",
+    "description": "Food Tech - Enterprise | Consumer",
+    "founders": [
+      "Daniel Petz",
+      "Stuart Murless"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/letsboam",
+    "linkedin_url": "https://www.linkedin.com/company/boam/about/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Bot MD",
+    "company_url": "https://www.botmd.io/en/",
+    "description": "Hospital & Health Care - Healthcare",
+    "founders": [
+      "Dorothea Koh"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/botmdio?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/botmd/about/",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Business Connect China",
+    "company_url": "https://www.bcc.global/HomeEN/Index.html",
+    "description": "Research - Enterprise",
+    "founders": [
+      "Chang Zhao"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/business-connect-china/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Chegg",
+    "company_url": "https://www.chegg.com/",
+    "description": "Edtech - Consumer",
+    "founders": [
+      "Osman Rashid",
+      "Aayush Phumbhra",
+      "Josh Carlson"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/Chegg",
+    "linkedin_url": "https://www.linkedin.com/company/chegg-inc-/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Clever",
+    "company_url": "https://clever.com/",
+    "description": "Edtech - Enterprise",
+    "founders": [
+      "Tyler Bosmey",
+      "Dan Carroll",
+      "Rafael Garcia"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/clever",
+    "linkedin_url": "https://www.linkedin.com/company/clever-inc-/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Clover Health",
+    "company_url": "https://www.cloverhealth.com/en/",
+    "description": "Hospital & Health Care - Healthcare",
+    "founders": [
+      "Kris Gale",
+      "Vivek Garipalli"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/CloverHealth",
+    "linkedin_url": "https://www.linkedin.com/company/clover-health/",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Comprehensive",
+    "company_url": "https://www.comprehensive.io/",
+    "description": "Enterprise",
+    "founders": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/comprehensiveio",
+    "linkedin_url": "https://www.linkedin.com/company/comprehensiveio",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Counsel",
+    "company_url": "https://counselhealth.com",
+    "description": null,
+    "founders": [
+      "Muthu Alagappan",
+      "Prathik Naidu"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Created by Humans",
+    "company_url": "https://www.createdbyhumans.ai/",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Trip Adler",
+      "Edward Igushev",
+      "Jen Singerman"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/createdbyhumans",
+    "linkedin_url": "https://www.linkedin.com/company/createdbyhumans/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Culdesac",
+    "company_url": "http://www.culdesac.com",
+    "description": "Real Estate - Enterprise",
+    "founders": [
+      "Ryan Johnson",
+      "Jeff Berens"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/culdesac",
+    "linkedin_url": "https://www.linkedin.com/company/liveculdesac/",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Demandforce",
+    "company_url": "https://www.demandforce.com/",
+    "description": "Marketing & Advertising - Enterprise",
+    "founders": [
+      "Rick Berry",
+      "Sam Osman"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/demandforce",
+    "linkedin_url": "https://www.linkedin.com/company/demandforce/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Digg",
+    "company_url": "https://digg.com/d/ogin",
+    "description": "Consumer",
+    "founders": [
+      "Justin Mezzell",
+      "Kevin Rose"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/digg",
+    "linkedin_url": "https://www.linkedin.com/company/digg/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Draftbit",
+    "company_url": "https://draftbit.com/",
+    "description": "Low Code - Enterprise",
+    "founders": [
+      "Brian Luerssen",
+      "Peter Piekarczyk",
+      "Donald Hruska"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/draftbit",
+    "linkedin_url": "https://www.linkedin.com/company/draftbit/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Efex",
+    "company_url": "https://www.efexpay.com/en",
+    "description": "Fintech",
+    "founders": [
+      "Dimitri Zaninovich",
+      "Santiago Bustamante Villa"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/efexpay/",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Egnyte",
+    "company_url": "https://www.egnyte.com/",
+    "description": "Security - Enterprise",
+    "founders": [
+      "Vineet Jain",
+      "Rajesh Ram",
+      "Kris Lahiri"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/Egnyte",
+    "linkedin_url": "https://www.linkedin.com/company/egnyte/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Emotive",
+    "company_url": "https://emotive.io/",
+    "description": "Marketing & Advertising - Enterprise",
+    "founders": [
+      "Brian Zatulove"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/emotiveio/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Eudia",
+    "company_url": "https://www.eudia.com/",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Omar Haroun",
+      "Ashish Agrawal",
+      "and David Van Reyk"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/EudiaHQ",
+    "linkedin_url": "https://www.linkedin.com/company/eudiahq/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Fieldguide",
+    "company_url": "https://www.fieldguide.io/",
+    "description": "Financial Services - Enterprise | Fintech",
+    "founders": [
+      "Jin Chang",
+      "Chris Szymansky"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/fieldguide-inc/about/",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Flare",
+    "company_url": "http://www.theflareapp.com",
+    "description": "Consumer",
+    "founders": [
+      "Jack Chen"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "GoFormz",
+    "company_url": "https://www.goformz.com/",
+    "description": "Information Technology & Services - Enterprise",
+    "founders": [
+      "Jeff Fildey",
+      "Jonathan McIntire",
+      "Jason Craven",
+      "Andrew Stevens",
+      "Jason Freitas",
+      "Jonathan Stevens"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/goformz",
+    "linkedin_url": "https://www.linkedin.com/company/goformz/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Hadrian",
+    "company_url": "http://www.hadrian.co",
+    "description": "Enterprise",
+    "founders": [
+      "Chris Power"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/71668100/admin/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Handraise",
+    "company_url": "https://www.handraise.com/",
+    "description": "Enterprise | Artificial Intelligence",
+    "founders": [
+      "Matt Allison"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/handraise",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Harmonic AI",
+    "company_url": "http://www.harmonic.ai",
+    "description": "Company Software - Enterprise",
+    "founders": [
+      "Bryan Casey"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Hebbia",
+    "company_url": "https://hebbia.ai/",
+    "description": "Computer Software - Consumer | Enterprise | Artificial Intelligence",
+    "founders": [
+      "George Sivulka"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/HebbiaAI",
+    "linkedin_url": "https://www.linkedin.com/company/hebbia/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "IFTTT",
+    "company_url": "https://ifttt.com/",
+    "description": "Information Technology & Services - Enterprise",
+    "founders": [
+      "Alexander Tibbets",
+      "Linden Tibbets"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/IFTTT",
+    "linkedin_url": "https://www.linkedin.com/company/ifttt/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Inscopix",
+    "company_url": "https://www.inscopix.com/",
+    "description": "Biotechnology - Healthcare",
+    "founders": [
+      "Kunal Ghosh",
+      "Mark Schnitzer"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/Inscopix",
+    "linkedin_url": "https://www.linkedin.com/company/inscopix-inc-/",
+    "everywhere_tags": [
+      "BioTech",
+      "Health"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Ivy",
+    "company_url": "http://www.theivywallet.com",
+    "description": "Enterprise",
+    "founders": [
+      "Sacha Tueni and Jesse Seaver"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/ivyscan",
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Jodel",
+    "company_url": "https://jodel.com/",
+    "description": "Social - Enterprise",
+    "founders": [
+      "Alessio Avellan Borgmeyer"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/jodelapp",
+    "linkedin_url": "https://www.linkedin.com/company/jodel-app/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Joey AI",
+    "company_url": "https://calljoey.ai/",
+    "description": "Consumer - Consumer | Artificial Intelligence",
+    "founders": [
+      "Carly Malatskey",
+      "Jacob Liber"
+    ],
+    "sectors": [
+      "Consumer",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Katanemo",
+    "company_url": "https://www.katanemo.com/",
+    "description": "Enterprise | Artificial Intelligence",
+    "founders": [
+      "Salman Paracha"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/katanemo",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Keepsafe",
+    "company_url": "https://www.getkeepsafe.com/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Zouhair Belkoura",
+      "Philipp Berner"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/keepsafe",
+    "linkedin_url": "https://www.linkedin.com/company/keepsafe-software/about/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Kodra Technologies, Inc.",
+    "company_url": "https://kodra.ai/",
+    "description": null,
+    "founders": [
+      "Asif Khan"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Last Energy",
+    "company_url": "https://www.lastenergy.com",
+    "description": "Energy - Other",
+    "founders": [
+      "Bret Kugelmass"
+    ],
+    "sectors": [
+      "Other"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Living Carbon",
+    "company_url": "http://www.livingcarbon.com",
+    "description": "Biotechnology - Other",
+    "founders": [
+      "Madeline Hall",
+      "Patrick Mellor"
+    ],
+    "sectors": [
+      "Other"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "BioTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Lob",
+    "company_url": "https://www.lob.com/",
+    "description": "Logistics & Supply Chain - Enterprise",
+    "founders": [
+      "Leore Avidar",
+      "Harry Zhang"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/lob?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "linkedin_url": "https://www.linkedin.com/company/lob/",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Loris.ai",
+    "company_url": "https://loris.ai/",
+    "description": "Computer Software - Enterprise | Artificial Intelligence",
+    "founders": [
+      "Etie Hertz"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Artificial Intelligence"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/loris_ai",
+    "linkedin_url": "https://www.linkedin.com/company/loris-ai/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Loyalist",
+    "company_url": "http://www.eatloyalist.com",
+    "description": "Enterprise",
+    "founders": [],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "LTSE",
+    "company_url": "http://www.ltse.com",
+    "description": "Financial Services - Fintech",
+    "founders": [
+      "Eric Ries",
+      "Zoran Perkov"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/ltse",
+    "linkedin_url": "https://www.linkedin.com/company/ltse",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Lyft",
+    "company_url": "https://www.lyft.com/",
+    "description": "Marketplace - Consumer",
+    "founders": [
+      "John Zimmer",
+      "Matt von Horn",
+      "Logan Green",
+      "Marcus Cohn"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/lyft",
+    "linkedin_url": "https://www.linkedin.com/company/lyft/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Magic Mind",
+    "company_url": "https://magicmind.com",
+    "description": "Ecommerce - Consumer",
+    "founders": [
+      "James Beshara"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/magicmind",
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Mem Labs",
+    "company_url": "https://get.mem.ai/",
+    "description": "Knowledge Management - Consumer | Artificial Intelligence",
+    "founders": [
+      "Kevin Moody",
+      "Dennis Xu"
+    ],
+    "sectors": [
+      "Consumer",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/memdotai?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/mem-labs/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Mentava",
+    "company_url": "https://www.mentava.com/",
+    "description": "Consumer",
+    "founders": [
+      "Niels Hoven"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/mentavainc",
+    "linkedin_url": "https://linkedin.com/company/mentava",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Merlin Labs",
+    "company_url": "https://www.merlinlabs.com/",
+    "description": "AV - Enterprise",
+    "founders": [
+      "Matt George"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/merlinlabs/about/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Messari",
+    "company_url": "http://www.messari.io",
+    "description": "Crypto - Fintech | Crypto",
+    "founders": [
+      "Dan McArdle",
+      "Eric Turner"
+    ],
+    "sectors": [
+      "Fintech",
+      "Crypto"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/MessariCrypto",
+    "linkedin_url": "https://www.linkedin.com/company/messari/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Mighty Networks",
+    "company_url": "https://mightynetworks.com/",
+    "description": "Social - Consumer | Enterprise",
+    "founders": [
+      "Gina Bianchini",
+      "Matteo Melani"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/mightynetworks",
+    "linkedin_url": "https://www.linkedin.com/company/mightybell/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "MixMax",
+    "company_url": "https://www.mixmax.com/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Chanpory Rith",
+      "Olof Mathe",
+      "Brad Vogel"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/MixmaxHQ",
+    "linkedin_url": "https://www.linkedin.com/company/mixmax-inc-/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "N3twork",
+    "company_url": "https://n3twork.com/",
+    "description": "Gaming - Enterprise",
+    "founders": [
+      "Neil Young",
+      "Alan Yu",
+      "Steve Detwiler",
+      "Bob Stevenson",
+      "Erik Lammerding"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/n3tworkinc",
+    "linkedin_url": "https://www.linkedin.com/company/n3twork-inc/",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Neo.Tax",
+    "company_url": "https://neo.tax/",
+    "description": "Financial Services - Enterprise | Fintech | Artificial Intelligence",
+    "founders": [
+      "Ibrahim",
+      "Firas Abuzaid"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Fintech",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/getneotax",
+    "linkedin_url": "https://www.linkedin.com/company/getneotax/",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Neptune",
+    "company_url": "https://www.meetneptune.com/",
+    "description": null,
+    "founders": [
+      "Sol Lee",
+      "Ronke Oyekunle"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/meetneptune",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "ngmoco",
+    "company_url": "https://blog.ngmoco.com/",
+    "description": "Gaming - Consumer",
+    "founders": [
+      "Neil Young",
+      "Bob Steveson",
+      "Alan Yu",
+      "Joe Keene"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/ngmoco",
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Nirvana",
+    "company_url": "https://www.nirvanasolutions.com/",
+    "description": "Energy - Consumer",
+    "founders": [
+      "Shams Karim"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/nirvanaondemand?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/nirvana-solutions/",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Nooks Communication",
+    "company_url": "https://nooks.ai",
+    "description": "Video - Enterprise | Enterprise",
+    "founders": [
+      "Daniel Lee",
+      "Nikhil Cheerla",
+      "Rohan Suri"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/nooksapp",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "OhmConnect",
+    "company_url": "https://www.ohmconnect.com/",
+    "description": "Energy - Consumer | Enterprise",
+    "founders": [
+      "Curtis Tongue",
+      "Matt Duesterberg"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/ohmconnect",
+    "linkedin_url": "https://www.linkedin.com/company/ohmconnect/",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Okta",
+    "company_url": "https://www.okta.com/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Todd McKinnon",
+      "Frederic Kerrest"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/okta",
+    "linkedin_url": "https://www.linkedin.com/company/okta-inc-/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Ontic",
+    "company_url": "https://ontic.co",
+    "description": "Security - Enterprise",
+    "founders": [
+      "Lukas Quanstrom",
+      "Thomas Kopecky",
+      "Gagan Jain"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/ontic_ai",
+    "linkedin_url": "https://www.linkedin.com/company/ontic-technologies/",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Origin",
+    "company_url": "https://www.origin.io/",
+    "description": "Manufacturing - Enterprise",
+    "founders": [
+      "Chris Prucha and Joel Ong"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/origin_io",
+    "linkedin_url": "https://www.linkedin.com/company/origin-io/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Outreach",
+    "company_url": "https://www.outreach.io/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Andrew Kinzer",
+      "Manuel Medina",
+      "Gordon Hempton",
+      "Wes Hather"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/outreach_io",
+    "linkedin_url": "https://www.linkedin.com/company/outreach-saas/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Pantheon",
+    "company_url": "https://pantheon.io/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Josh Koenig",
+      "David Timothy Strauss",
+      "Matt Cheney",
+      "Zack Rosen"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/getpantheon",
+    "linkedin_url": "https://www.linkedin.com/company/getpantheon/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Parallel Wireless",
+    "company_url": "https://www.parallelwireless.com/",
+    "description": "Wireless - Enterprise",
+    "founders": [
+      "Rajesh Mishra",
+      "Kaitki Agarwal",
+      "Steve Papa",
+      "Sridhar Donepudi"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/parallel_tw/",
+    "linkedin_url": "https://www.linkedin.com/company/parallel-wireless-inc-/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Passionfruit",
+    "company_url": "https://getpassionfruit.com",
+    "description": "Enterprise | Artificial Intelligence",
+    "founders": [
+      "Aditya Raj Jain",
+      "Rishabh Chatterjee"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/getpassionfruit/about",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Plaicin",
+    "company_url": "http://www.plaicin.com",
+    "description": "Artificial Intelligence | Consumer",
+    "founders": [
+      "Matt Kelly",
+      "Frank Ong"
+    ],
+    "sectors": [
+      "Artificial Intelligence",
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Polygence",
+    "company_url": "http://www.polygence.org",
+    "description": "Consumer",
+    "founders": [
+      "Janos Perczel",
+      "Jin Chow"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/polygence",
+    "linkedin_url": "https://www.linkedin.com/company/polygence/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Prax Health",
+    "company_url": "https://www.praxhealth.com/",
+    "description": null,
+    "founders": [
+      "Meghan Jewitt",
+      "Nick Elser",
+      "Heather Wake"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/prax-health/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Rafay Systems",
+    "company_url": "https://rafay.co/",
+    "description": "Data - Enterprise",
+    "founders": [
+      "Haseeb Budhani",
+      "Hanumantha (Hemanth) Kavuluru"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/rafaysystemsinc",
+    "linkedin_url": "https://www.linkedin.com/company/rafay-systems/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Rappi",
+    "company_url": "https://www.rappi.com/",
+    "description": "Marketplace - Enterprise | Consumer",
+    "founders": [
+      "Simon Borrero",
+      "Felipe Villamarina",
+      "Sebastian Meja"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/RappiBrasil",
+    "linkedin_url": "https://www.linkedin.com/company/rappi/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "ReadyOn",
+    "company_url": "https://readyon.ai",
+    "description": null,
+    "founders": [
+      "Dominic Mirabile"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://linkedin.com/company/readyon-ai",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Refinery29",
+    "company_url": "https://www.refinery29.com/en-ca",
+    "description": "Media - Consumer",
+    "founders": [
+      "Philippe von Borries",
+      "Justin Stefano"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/Refinery29",
+    "linkedin_url": "https://www.linkedin.com/company/refinery29-inc-/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Replenysh",
+    "company_url": "https://www.replenysh.com/",
+    "description": "Internet - Enterprise",
+    "founders": [
+      "Mark Armen",
+      "Clark Dinnison"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/replenysh",
+    "linkedin_url": "https://www.linkedin.com/company/replenysh/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Roo",
+    "company_url": "http://roo.vet",
+    "description": "Consumer",
+    "founders": [
+      "Lisa Hu"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/roo_vet",
+    "linkedin_url": "https://protect-us.mimecast.com/s/rtovCpYoEASq3v0sDrQ4j?domain=linkedin.com",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Rumi",
+    "company_url": "https://rumi.ai",
+    "description": "Video - Consumer | Enterprise",
+    "founders": [
+      "Vinny Lingham",
+      "Margaret Grobler",
+      "Michael Gaylord"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/rumidotai",
+    "linkedin_url": "https://www.linkedin.com/company/rumiai",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "SalesRevv",
+    "company_url": "https://salesrevv.ai",
+    "description": "Artificial Intelligence | Other",
+    "founders": [
+      "Joe DeMarco",
+      "Bhargav Patel",
+      "Nick Sheehan"
+    ],
+    "sectors": [
+      "Artificial Intelligence",
+      "Other"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://linkedin.com/company/salesrevv",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Shipper",
+    "company_url": "https://shipper.id/",
+    "description": "Logistic & Supply Chain - Enterprise",
+    "founders": [
+      "Phil Opamuratawongse",
+      "Budi Handoko"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/ShipperID",
+    "linkedin_url": "https://www.linkedin.com/company/shipper-indonesia/",
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Skale Labs",
+    "company_url": "https://skale.ai",
+    "description": "Crypto - Fintech | Crypto",
+    "founders": [
+      "Jack O'Holleran",
+      "Stan Kladko"
+    ],
+    "sectors": [
+      "Fintech",
+      "Crypto"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/SkaleNetwork",
+    "linkedin_url": "https://www.linkedin.com/company/skale-labs/about/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "SmarterDX",
+    "company_url": "https://smarterdx.com/",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Michael Gao"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": "M&A",
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/smarterdx",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Smule",
+    "company_url": "https://www.smule.com/",
+    "description": "Social - Consumer",
+    "founders": [
+      "Jeff Smith",
+      "Ge Wang"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/smule",
+    "linkedin_url": "https://www.linkedin.com/company/smule-inc./",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "SnapLogic",
+    "company_url": "https://www.snaplogic.com/",
+    "description": "Information Technology & Services - Enterprise",
+    "founders": [
+      "Guarav Dhillon",
+      "Mike Pittaro"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/SnapLogic",
+    "linkedin_url": "https://www.linkedin.com/company/snaplogic/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Spiceworks",
+    "company_url": "https://www.spiceworks.com/",
+    "description": "Information Technology & Services - Enterprise",
+    "founders": [
+      "Jay Hallberg",
+      "Scott Abel",
+      "Francis Sullivan",
+      "Greg Kattawar"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/spiceworks",
+    "linkedin_url": "https://www.linkedin.com/company/spiceworks/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Starkware",
+    "company_url": "https://starkware.co/",
+    "description": "Crypto - Fintech",
+    "founders": [
+      "Uri Kolodny",
+      "Eli Ben Sasson",
+      "Alessandro Chiesa",
+      "Michael Riabsev"
+    ],
+    "sectors": [
+      "Fintech"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/StarkWareLabs",
+    "linkedin_url": "https://www.linkedin.com/company/starkware/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Stella Foster",
+    "company_url": "https://Stellafoster.com",
+    "description": "Consumer | Artificial Intelligence",
+    "founders": [
+      "Jacob Catalano",
+      "Illya Bakurov"
+    ],
+    "sectors": [
+      "Consumer",
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/Stella_Foster_",
+    "linkedin_url": "https://linkedin.com/company/stellafoster",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Studio",
+    "company_url": "https://studio.com/",
+    "description": "E-Learning - Consumer",
+    "founders": [
+      "Max Deutsch",
+      "Valentin Perez"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/wearestudio",
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Sunset",
+    "company_url": "https://www.sunsethq.com/",
+    "description": null,
+    "founders": [
+      "Brendan Mahony"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/sunsethq",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Superorder",
+    "company_url": "https://www.superorder.com/",
+    "description": "Marketing & Advertising - Enterprise",
+    "founders": [
+      "Raghav Poddar"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": null,
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Tango Card",
+    "company_url": "https://www.tangocard.com/",
+    "description": "Financial Services - Consumer | Fintech",
+    "founders": [
+      "David Leeds"
+    ],
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/tangocard",
+    "linkedin_url": "https://www.linkedin.com/company/tango-card-inc/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "TaskRabbit",
+    "company_url": "https://www.taskrabbit.com/",
+    "description": "Marketplace - Consumer",
+    "founders": [
+      "Leah Busque",
+      "Kevin Busque"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/taskrabbit",
+    "linkedin_url": "https://www.linkedin.com/company/taskrabbit/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Terra",
+    "company_url": "https://useterra.com/",
+    "description": "Consumer",
+    "founders": [
+      "Lev Glushkovskii",
+      "Dylan McFarland"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/useterra",
+    "linkedin_url": "https://www.linkedin.com/company/useterra/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Terradot",
+    "company_url": "https://terradot.earth/",
+    "description": null,
+    "founders": [
+      "James Kanoff",
+      "Sasankh Munukutla"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/terradot/about/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Tesorio",
+    "company_url": "https://www.tesorio.com/",
+    "description": "Financial Services - Enterprise | Fintech",
+    "founders": [
+      "Carlos R. Vega",
+      "Fabio Fleitas"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/usetesorio?lang=en",
+    "linkedin_url": "https://www.linkedin.com/company/tesorio/",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Tetrascience",
+    "company_url": "https://www.tetrascience.com/",
+    "description": "Data - Healthcare",
+    "founders": [
+      "Alok Tayi",
+      "Salvatore Savo",
+      "Siping Wang"
+    ],
+    "sectors": [
+      "Healthcare"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/TetraScience",
+    "linkedin_url": null,
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "TextIQ",
+    "company_url": "https://www.textiq.com/",
+    "description": "Data - Enterprise",
+    "founders": [
+      "Omar Haroun"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/textIQ",
+    "linkedin_url": "https://www.linkedin.com/company/textiq/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "The Zebra",
+    "company_url": "https://www.thezebra.com/",
+    "description": "Insurance - Consumer | Fintech",
+    "founders": [
+      "Adam Lyons"
+    ],
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/TheZebraCo",
+    "linkedin_url": "https://www.linkedin.com/company/the-zebra/",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Thinkful",
+    "company_url": "https://www.thinkful.com/",
+    "description": "Edtech - Consumer",
+    "founders": [
+      "Darrell Silver Daniel Friedman"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/thinkful",
+    "linkedin_url": "https://www.linkedin.com/school/thinkful/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Twitch",
+    "company_url": "https://www.twitch.tv/",
+    "description": "Social - Consumer",
+    "founders": [
+      "Emmett Shear"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/Twitch",
+    "linkedin_url": "https://www.linkedin.com/company/twitch-tv/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "X",
+    "company_url": "https://twitter.com/",
+    "description": "Social - Consumer",
+    "founders": [],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": "IPO",
+    "twitter_url": "https://twitter.com/twitter",
+    "linkedin_url": "https://www.linkedin.com/company/twitter/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Valgo",
+    "company_url": "https://valgo.ai",
+    "description": null,
+    "founders": [
+      "Robert Moss",
+      "Sydney Katz",
+      "Jon Qian"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": "https://x.com/valgorithmicinc",
+    "linkedin_url": "https://www.linkedin.com/company/valgorithmic",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Valley Steer",
+    "company_url": "https://www.valleysteer.com/",
+    "description": null,
+    "founders": [
+      "Gerald Zhou",
+      "Nick Johnson"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/valleysteer/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Vendia",
+    "company_url": "https://vendia.net/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Timothy Wagner",
+      "Shruthi Rao"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/VendiaHQ",
+    "linkedin_url": "https://www.linkedin.com/company/vendiahq",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Visily",
+    "company_url": "https://www.visily.ai",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Jordan Woods",
+      "Buu Nguyen"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/visilyai",
+    "linkedin_url": "https://linkedin.com/comany/visilyai/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Wavedash",
+    "company_url": "https://wavedash.com/browse",
+    "description": "Consumer",
+    "founders": [
+      "Kyler Blue",
+      "George Kennedy",
+      "Matt Portner"
+    ],
+    "sectors": [
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://x.com/wavedash",
+    "linkedin_url": "https://www.linkedin.com/company/wavedashgg/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Waystation",
+    "company_url": "https://www.waystationai.com/",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Ryan Caldbeck"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://www.linkedin.com/company/waystation-ai-inc",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Weebly",
+    "company_url": "https://www.weebly.com/ca",
+    "description": "Internet - Consumer | Enterprise",
+    "founders": [
+      "David Rusenko",
+      "Chris Fanini",
+      "Dan Veltri"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/weebly",
+    "linkedin_url": "https://www.linkedin.com/company/weebly/",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Wellfound",
+    "company_url": "https://wellfound.com",
+    "description": "Internet - Enterprise | Consumer",
+    "founders": [
+      "Babak Nivi",
+      "Naval Ravikant"
+    ],
+    "sectors": [
+      "Enterprise",
+      "Consumer"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/WellfoundHQ",
+    "linkedin_url": "https://www.linkedin.com/company/wellfoundhq",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Workboard",
+    "company_url": "https://www.workboard.com/",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Deidre Paknad",
+      "Daryoush Paknad"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/WorkboardInc",
+    "linkedin_url": "https://www.linkedin.com/company/workboard-inc-/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Xamarin",
+    "company_url": "https://dotnet.microsoft.com/apps/xamarin",
+    "description": "Computer Software - Enterprise",
+    "founders": [
+      "Joseph Hill",
+      "Nat Friedman",
+      "Miguel de Icaza"
+    ],
+    "sectors": [
+      "Enterprise"
+    ],
+    "status": "M&A",
+    "twitter_url": "https://twitter.com/xamarinhq",
+    "linkedin_url": "https://www.linkedin.com/company/xamarin/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Xpertloop",
+    "company_url": "http://www.xpertloop.ai",
+    "description": "Artificial Intelligence",
+    "founders": [
+      "Wade Cohn",
+      "Garry Wheeler",
+      "Dave Yeats"
+    ],
+    "sectors": [
+      "Artificial Intelligence"
+    ],
+    "status": null,
+    "twitter_url": null,
+    "linkedin_url": "https://linkedin.com/company/xpertloop",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Zeplin",
+    "company_url": "https://zeplin.io/",
+    "description": "Computer Software - Consumer | Enterprise",
+    "founders": [
+      "Ismail Ceylan Pelin Kenez",
+      "Berk Cebi",
+      "Merih Akar"
+    ],
+    "sectors": [
+      "Consumer",
+      "Enterprise"
+    ],
+    "status": null,
+    "twitter_url": "https://twitter.com/zeplin",
+    "linkedin_url": "https://www.linkedin.com/company/zeplin-io/",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  },
+  {
+    "company_name": "Zitadel",
+    "company_url": "https://zitadel.com",
+    "description": null,
+    "founders": [
+      "Florian Forster"
+    ],
+    "sectors": [],
+    "status": null,
+    "twitter_url": "https://x.com/zitadel",
+    "linkedin_url": "https://linkedin.com/company/zitadel/",
+    "everywhere_tags": [],
+    "source_url": "https://floodgate.com/companies",
+    "scraped_at": "2026-08-04T07:06:09+00:00"
+  }
+]

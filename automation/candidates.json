@@ -1,0 +1,20 @@
+{
+  "_comment": "Discovery queue: VC firms to try adding. discover.py dedups these vs the GitHub repo, resolves each portfolio_url (leave null to auto-resolve from homepage), scrapes via the /scrape service, and lets Zapier add the firm row to Airtable. This is a STARTER list — edit it, and let newsletter-scout append fresh candidates. portfolio_url is left null on purpose (no fabricated URLs); the finder derives it live from the homepage.",
+  "candidates": [
+    {"firm_name": "Emergence Capital",   "homepage": "emcap.com",            "portfolio_url": null},
+    {"firm_name": "Foundation Capital",  "homepage": "foundationcapital.com","portfolio_url": null},
+    {"firm_name": "Uncork Capital",      "homepage": "uncorkcapital.com",    "portfolio_url": null},
+    {"firm_name": "Craft Ventures",      "homepage": "craftventures.com",    "portfolio_url": null},
+    {"firm_name": "Felicis",             "homepage": "felicis.com",          "portfolio_url": null},
+    {"firm_name": "Amplify Partners",    "homepage": "amplifypartners.com",  "portfolio_url": null},
+    {"firm_name": "SignalFire",          "homepage": "signalfire.com",       "portfolio_url": null},
+    {"firm_name": "Boldstart Ventures",  "homepage": "boldstart.vc",         "portfolio_url": null},
+    {"firm_name": "Homebrew",            "homepage": "homebrew.co",          "portfolio_url": null},
+    {"firm_name": "Costanoa Ventures",   "homepage": "costanoa.vc",          "portfolio_url": null},
+    {"firm_name": "Foundry Group",       "homepage": "foundrygroup.com",     "portfolio_url": null},
+    {"firm_name": "Susa Ventures",       "homepage": "susaventures.com",     "portfolio_url": null},
+    {"firm_name": "Bullpen Capital",     "homepage": "bullpencap.com",       "portfolio_url": null},
+    {"firm_name": "Wing VC",             "homepage": "wing.vc",              "portfolio_url": null},
+    {"firm_name": "Scale Venture Partners", "homepage": "scalevp.com",       "portfolio_url": null}
+  ]
+}

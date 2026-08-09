@@ -1,0 +1,5138 @@
+[
+  {
+    "company_name": "10Beauty",
+    "description": "10Beaty creates intelligent beauty products.",
+    "company_url": "https://www.10beauty.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d90ff17fccea4f7f9569ed_10Beauty.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "A Bit Lucky",
+    "description": "A Bit Lucky is a real-time multiplayer social game developer.",
+    "company_url": "http://www.zynga.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91039d99c7b2cf90c4626_A%20Bit%20Lucky.png",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Abra",
+    "description": "Abra is a secure all-in-one digital wallet.",
+    "company_url": "https://abra.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9109c71f5e411e5ea5834_Abra.svg",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "ActionX",
+    "description": "ActionX is a mobile customer acquisition and retargeting platform.",
+    "company_url": "https://www.xaxis.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfaca7dc88071b875011ea_actionx-logo.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Air",
+    "description": "Air is the automated creative operations platform.",
+    "company_url": "https://air.inc/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9146c8979322a32c8e809_air.svg",
+    "first_investment_year": 2019,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "AIR Platforms",
+    "description": "AIR Platforms is the AI-powered credit intelligence platform.",
+    "company_url": "https://www.airplatforms.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e08a0f8d282b49901669af_AIR%20Platforms.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Allbirds",
+    "description": "Allbirds is the sustainable footwear brand.",
+    "company_url": "http://www.allbirds.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91518b976a6af2c73be4d_Allbirds.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Commerce",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Altitude",
+    "description": "Altitude AI processes raw sensor data.",
+    "company_url": "https://www.getaltitudeai.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d915423377aadd9dc4c74e_Altitude.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Ample Hills",
+    "description": "Ample Hills is a small-batch, all-natural ice cream maker.",
+    "company_url": "https://www.amplehills.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfad94b63a10f03273ddc3_ample-hills-logo.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Armstrong",
+    "description": "Armstrong is the kitchen robotics company.",
+    "company_url": "https://armstrong.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9159bf45dd2f1a21e15b9_Armstrong.png",
+    "first_investment_year": 2021,
+    "status": "Exited",
+    "sectors": [
+      "AI/ML",
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Augmentir",
+    "description": "Augmentir is the agentic platform for connected industrial frontline work.",
+    "company_url": "https://www.augmentir.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d915ed5a245aae49fc81d1_Augmentir.svg",
+    "first_investment_year": 2019,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Augmodo",
+    "description": "Augmodo is the spatial computing platform for retail and commerce.",
+    "company_url": "http://augmodo.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9160e223252604671afe6_Augmodo.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Augury",
+    "description": "Augury the AI-powered solution that automatically diagnoses machines.",
+    "company_url": "http://www.augury.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9162f40c5cde5871451c9_Augury.svg",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "AutoFi",
+    "description": "AutoFi is a POS platform that automates vehicle purchasing and financing.",
+    "company_url": "http://www.autofi.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d916a87384ae6988a1c2f1_AutoFi.svg",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Ava",
+    "description": "Ava is an accessibility platform providing live captions for deaf and heard-of-hearing people.",
+    "company_url": "http://www.ava.me",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9172cdee1a1565055a5fd_Ava.png",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Axial",
+    "description": "Axios is a private deal network for middle market owners, advisors, and investors.",
+    "company_url": "http://www.axial.net",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d919f05047aac367e39948_Axial.svg",
+    "first_investment_year": 2010,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Axios",
+    "description": "Axios is an efficient news platform championing \"smart brevity.\"",
+    "company_url": "http://www.axios.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91a1053711039b4df5751_Axios.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Ayoh Foods",
+    "description": "Ayoh Foods is Molly Baz's saucy mayo brand.",
+    "company_url": "https://eatayoh.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e66884e20cdeb35e3b0614_Ayoh%20logo.png",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "BarkBox",
+    "description": "BarkBox is makes products that foster the health and happiness of dogs.",
+    "company_url": "http://bark.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91aa3ae6e525671c4aa87_BarkBox.png",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "BaubleBar",
+    "description": "BaubleBar is a one-stop retailer for affordable, on-trend fashion jewelry.",
+    "company_url": "http://www.baublebar.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfae507bfb9fd945d98d0f_baublebar.svg",
+    "first_investment_year": 2010,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Birchbox",
+    "description": "Birchbox is commerce platform for personalized beauty products.",
+    "company_url": "http://www.birchbox.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91c6b1659d6b664db1ce0_Birchbox.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Birdstop",
+    "description": "Birdstop is the remote sensing platform for national critical infrastructure.",
+    "company_url": "https://www.birdstop.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91c9f9aabe0b34066998e_Birdstop.png",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Blade",
+    "description": "Blade is a short-distance aviation company.",
+    "company_url": "https://blade.flyblade.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfaf467c4c9699277dbe83_blade.svg",
+    "first_investment_year": 2017,
+    "status": "Exited",
+    "sectors": [
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Block",
+    "description": "Block is the platform transforming the renovation industry.",
+    "company_url": "https://www.blockrenovation.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91cd1ed90463a36be6348_Block.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Blockdaemon",
+    "description": "Blockdaemon is a multi-cloud platform for leading blockchain protocols.",
+    "company_url": "https://blockdaemon.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91d0161e361f66c873aaa_Blockdaemon.svg",
+    "first_investment_year": 2019,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Bloglovin'",
+    "description": "Bloglovin' is the blog platform connecting creators.",
+    "company_url": "https://www.bloglovin.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91d32d7698a1c65b24197_Bloglovin%27.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Bluefin Labs",
+    "description": "Bluefin Labs is a social TV analytics platform.",
+    "company_url": "http://www.twitter.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfafa006fb395424f034a3_bluefin-labs.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Board",
+    "description": "Board is the first ever face-to-face game console designed to bring people together.",
+    "company_url": "https://board.fun/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91df512d6fbe52054b576_Board.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Bookkeep",
+    "description": "Bookkeep is an accounting automation tool.",
+    "company_url": "https://www.bookkeep.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91e27aedd655d166694e1_Bookkeep.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "BRAMI",
+    "description": "Brami is the maker of plant-based, Italian-inspired food products.",
+    "company_url": "https://bramisnacks.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d91a5ca411e301816b64cc_BRAMI.png",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Branch",
+    "description": "Branch Media builds social products to empower conversation.",
+    "company_url": "https://about.facebook.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92bfc2275904fc11379a8_Branch.png",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Brandtale",
+    "description": "Brandtale is a marketing intelligence platform.",
+    "company_url": "http://www.brandtale.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69ac426ef1c1d5d1dc7ba_numerator.com.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Brit + Co",
+    "description": "Brit + Co is a digital media company for women with creative spirit.",
+    "company_url": "https://www.brit.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92c19b4e98dcc790ad6ba_Brit%20%2B%20Co.png",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Built AI",
+    "description": "BuiltAI is the AI-powered modeling platform for real estate professionals.",
+    "company_url": "https://www.builtai.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92c3485d23740c3261fe8_Built%20AI.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "BuzzFeed",
+    "description": "BuzzFeed is a social news and entertainment platform.",
+    "company_url": "http://www.buzzfeed.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92c7e55fe90801fe367d7_BuzzFeed.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cabana",
+    "description": "Cabana is a mobile app development platform.",
+    "company_url": "http://www.twitter.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69a848ec3ad1ec55194f0_Cabana-logo.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Caladan",
+    "description": "Caladan is a biotech platform for synthetic biology and biomanufacturing.",
+    "company_url": "https://caladan.bio/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92d2f22ab42c88cabfe7b_Caladan.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "BioTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "CAMP",
+    "description": "CAMP is a family experience company.",
+    "company_url": "https://camp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92cd6cbe39e87a6383597_CAMP.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cantina",
+    "description": "Cantina is the most advanced AI character creator.",
+    "company_url": "https://www.cantina.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92d5196bde2099c144c97_Cantina.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Capitalize",
+    "description": "Capitalize is the platform that turns data into CRE deals",
+    "company_url": "https://www.capitalize.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92d777da683a12447535b_Capitalize.png",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Casa",
+    "description": "Casa provides the safest way to store your bitcoin.",
+    "company_url": "https://keys.casa/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92d9f77fbf28a9e23c356_Casa.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Casper",
+    "description": "Casper is the designer of sleep products.",
+    "company_url": "https://casper.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92e66994b3fbd9f114795_Casper.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cellular Intelligence",
+    "description": "Cellular Intelligence is the first universal virtual cell-signaling model.",
+    "company_url": "https://www.cellularintelligence.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92e865b9b98bb1015f934_Cellular%20Intelligence.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Celtra",
+    "description": "Celtra is the digital advertising platform for streamlining workflows.",
+    "company_url": "https://www.celtra.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93239ec42a4d54a76f4ed_Celtra.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services",
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Chartbeat",
+    "description": "Chartbeat is an analytics platform for deepening audience connections.",
+    "company_url": "http://www.chartbeat.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d932ccfd857786b620644c_Chartbeat.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Chubbies",
+    "description": "Chubbies is an e-commerce platform.",
+    "company_url": "http://www.chubbiesshorts.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93317d2362378c3e053ff_Chubbies.png",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "ClassDojo",
+    "description": "ClassDojo is a behavior feedback platform for teachers, students, and parents.",
+    "company_url": "http://www.classdojo.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93f68b085be8389043360_ClassDojo.png",
+    "first_investment_year": 2011,
+    "status": "Active",
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Climatic",
+    "description": "Climatic is the first daily lung health system.",
+    "company_url": "https://www.climatichealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93f8321a61037da7c178a_Climatic.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "Wellness & Longevity",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cocoon",
+    "description": "Cocoon is a private social app for close relationships.",
+    "company_url": "https://cocoon.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93f9f6d2380488a55e4fb_Cocoon.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Code Climate",
+    "description": "Code Climate is a development platform for managing code quality.",
+    "company_url": "https://codeclimate.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93fc3e66ec7673159c91d_Code%20Climate.png",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Companion",
+    "description": "Companion is a training platform for dogs powered by machine learning and robotics.",
+    "company_url": "https://joincompanion.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76c90bcfb848ef2218809_Companion%20(2).svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Compose",
+    "description": "Compose is a data base service platform for data stores.",
+    "company_url": "http://www.compose.io",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d93fe1d9865ce966875970_Compose.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Confide",
+    "description": "Confide is an off-the-record messenger.",
+    "company_url": "http://www.getconfide.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76cae246af2803c269ae4_confide-logo.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Conflixis",
+    "description": "Conflixis helps enterprises manage conflicts of interest.",
+    "company_url": "https://www.conflixis.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9401d9abc5491419cd5ed_Conflixis.png",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cord Project",
+    "description": "Cord is a high-speed voice messaging app.",
+    "company_url": "https://www.spotify.com/us/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69b75f140026f25483152_Cord%20Project.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cotopaxi",
+    "description": "Cotopaxi is a sustainable outdoor apparel brand.",
+    "company_url": "http://cotopaxi.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94059b882e3392ce79af5_Cotopaxi.svg",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cover",
+    "description": "Cover is a mobile payments app for restaurants.",
+    "company_url": "http://www.paywithcover.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb08d7d26ca9742705fa7_Cover.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG",
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Crexi",
+    "description": "Crexi is a commercial real estate marketplace.",
+    "company_url": "http://www.crexi.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94074d824bb1ac40d5026_Crexi.svg",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Crossing Minds",
+    "description": "Crossing Minds is an AI-powered recommendation platform driving online discovery.",
+    "company_url": "https://www.crossingminds.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9408c5d9990dc08b56ad6_Crossing%20Minds.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "CrowdTangle",
+    "description": "CrowdTangle is a content discovery tool for the social web.",
+    "company_url": "http://www.crowdtangle.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0ea9adb761d20aa680945_crowdtangle.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "CryptTV",
+    "description": "CryptTV is the creator of online horror stories.",
+    "company_url": "http://crypttv.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69c8de52d3961196a59d3_CryptTV.svg",
+    "first_investment_year": 2017,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cue",
+    "description": "Cue uses data from online accounts to provide users with daily activity updates.",
+    "company_url": "http://www.apple.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d940cd0e0f935a6ea44640_Cue.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Culture IQ",
+    "description": "CultureIQ is a strategic culture management solution.",
+    "company_url": "http://cultureiq.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb0d570e95928c710e1d0_culture-iq.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Cure",
+    "description": "Cure is a science-backed beverage brand offering plant-based electrolyte drink mixes.",
+    "company_url": "https://www.curehydration.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d940f0e6995cbbb4470099_Cure.png",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "CUUP",
+    "description": "CUUP is the designer of inclusive lingerie.",
+    "company_url": "https://shopcuup.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d92cf36c9ad72827cbb41e_CUUP.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "DailyBooth",
+    "description": "DailyBooth was a photoblogging website.",
+    "company_url": "http://www.airbnb.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69cde94df48112d886774_DailyBooth.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Databand",
+    "description": "Databand is an observability platform that enables data teams to monitor pipeline health.",
+    "company_url": "https://databand.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69d2f1b9d48257117a543_Databand%20(2).svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "DataSnap",
+    "description": "Datasnap.io provides insights into consumer engagement with the physical world.",
+    "company_url": "https://www.home.neustar/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb1434e27dd6bfb0931e3_Datasnap.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Daylight",
+    "description": "Daylight facilitates energy renovations for lower bills and a comfortable home.",
+    "company_url": "https://godaylight.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d941700455d17b33775c3a_Daylight.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Dering Hall",
+    "description": "Dering Hall is an online marketplace for high-end furnishing and home products.",
+    "company_url": "http://www.deringhall.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d941a09abc5491419d145d_Dering%20Hall.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Dia & Co.",
+    "description": "Dia&Co is digital-first retailer exclusively serving women sizes 14 and up.",
+    "company_url": "http://www.dia.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d941bb96ab542b7c476b51_Dia%20%26%20Co.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Digital Genius",
+    "description": "DigitalGenius is an AI-powered customer service platform.",
+    "company_url": "http://digitalgenius.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb182814c6e9d52384838_digital-genius.svg",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "Data & Security",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Disclo",
+    "description": "Disclo is the workplace disclosure and accommodation management platform.",
+    "company_url": "https://www.disclo.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d941dba234dc71ff05ec38_Disclo.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Data & Security",
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Dispatch",
+    "description": "Dispatch is a project management tool for teams.",
+    "company_url": "http://www.meetup.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0edca50c3f02e6e982fb8_meetup.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "DocSend",
+    "description": "DocSend is a platform for managing documents and improving deal conversion.",
+    "company_url": "http://www.docsend.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d942087f710477779329e9_DocSend.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Doctor on Demand",
+    "description": "Doctor on Demand is a video medicine practice connecting patients healthcare providers.",
+    "company_url": "http://www.doctorondemand.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94222d7b3478ba819069f_Doctor%20on%20Demand.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Dragon",
+    "description": "Dragon Innovation is a manufacturing services firm.",
+    "company_url": "http://www.dragoninnovation.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d942ca3d6b42de2cc33f93_Dragon.png",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Dr. B",
+    "description": "Dr. B is a telehealth company offering visitless prescription services.",
+    "company_url": "https://hidrb.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94275e27a4a5745e62384_Dr.%20B.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "DRL",
+    "description": "Drone Racing League is a global, professional drone racing circuit.",
+    "company_url": "http://thedroneracingleague.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94124053370caa4aaacc8_DRL.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment",
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Elm Biosciences",
+    "description": "Elm Biosciences is the intentional skincare platform for living and aging well.",
+    "company_url": "https://elmbiosciences.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94316d7b3478ba81927ea_Elm%20Biosciences.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "Wellness & Longevity",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Even Financial",
+    "description": "Even Financial is a supply-side platform for marketplace lending and consumer finance.",
+    "company_url": "http://www.evenfinancial.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb33e564a7dee64b3adb4_Even%20Financial.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Everlane",
+    "description": "Everlane is a retailer of ethical luxury apparel.",
+    "company_url": "http://www.everlane.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9438a31bc286f06ecd3f9_Everlane.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Commerce",
+      "Energy Transition & Climate"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Climate / Sustainability",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Everytable",
+    "description": "Everytable is the mission-driven restaurant company reinventing fast food.",
+    "company_url": "http://www.everytable.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d943f2321668a5e908fee1_Everytable.svg",
+    "first_investment_year": 2016,
+    "status": "Active",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Expressable",
+    "description": "Expressable is the family-centered speech therapy company.",
+    "company_url": "https://www.expressable.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9442c9f6bd5939a7e6342_Expressable.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fancy Hands",
+    "description": "Fancy Hands provides personal assistant services for various projects.",
+    "company_url": "http://www.fancyhands.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e69e2c8eab0436c3a57191_Fancy%20Hands.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fatherly",
+    "description": "Fatherly is the leading digital media brand for dads.",
+    "company_url": "http://www.fatherly.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94487b451d4207cef3db5_Fatherly.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fi",
+    "description": "Fi is a dog technology company.",
+    "company_url": "https://tryfi.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d944a67020f94b551ff3d0_Fi.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "FidoCure",
+    "description": "The One Health Company is a biotechnology firm advancing canine oncology.",
+    "company_url": "https://www.theonehealthcompany.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d944c17f5451c90360e8fa_FidoCure.png",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fieldlens",
+    "description": "FieldLens is a project management platform for the construction industry.",
+    "company_url": "http://www.fieldlens.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e7630e271eb82306993f9d_Fieldlens.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fitlab",
+    "description": "FitLab is the first platform to connect every aspect of your fitness lifestyle.",
+    "company_url": "https://www.fitlab.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d944f834f03891a9123d36_Fitlab.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Wellness & Longevity"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Flare",
+    "description": "Flare is a wearable safety technology company.",
+    "company_url": "https://getflare.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb3695851bcb9fcc051f8_flare.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Commerce",
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Floored",
+    "description": "Floor develops software that converts 3D spatial data into interactive virtual worlds.",
+    "company_url": "https://cbrebuild.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9451b3da5edbe4c037055_Floored.png",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Food52",
+    "description": "Food52 is a premier cooking and home content-commerce platform.",
+    "company_url": "http://www.food52.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d945359abc5491419db27e_Food52.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Footprint",
+    "description": "Footprint is the last identity form you’ll ever fill out.",
+    "company_url": "https://www.onefootprint.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94550d5b3ebdba3a11e2f_Footprint.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Forum AI",
+    "description": "Forum AI is the company bringing human expert judgment to AI.",
+    "company_url": "https://www.byforum.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9456be07c438e368bdd8a_Forum%20AI.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fresh Nation",
+    "description": "Fresh Nation is a operations and logistics platform for local food vendors.",
+    "company_url": "https://freshnation.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0eb163467c763c61fe38b_fresh%20nation.png",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Fundera",
+    "description": "Fundera is an online marketplace and advisor for small business financing.",
+    "company_url": "http://www.fundera.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0eb320036a34f4ff10065_fundera.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Gdgt",
+    "description": "gdgt is a website for reviews and product information on consumer electronics.",
+    "company_url": "http://www.aol.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76368226c995196d0508b_Gdgt.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Genies",
+    "description": "Genies is an AI-powered character company for building avatars and digital identities.",
+    "company_url": "http://www.genies.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e92698a495ae8440c4c5f6_ECL%20Logos%202%20(12).png",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Genius",
+    "description": "Genius is the world's biggest encyclopedia of music.",
+    "company_url": "https://genius.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d945fd310857af23a0c117_Genius.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Giphy",
+    "description": "GIPHY is the first and largest GIF search engine.",
+    "company_url": "http://www.giphy.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9462442a18c6a74227d32_Giphy.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "GlamSquad",
+    "description": "Glamsquad is a provder of beauty services.",
+    "company_url": "http://www.glamsquad.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d946451180b6417f0727ae_GlamSquad.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Glossier",
+    "description": "Glossier is a content-driven, direct-to-consumer beauty brand.",
+    "company_url": "http://www.glossier.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d946613076430a8498e2ef_Glossier.svg",
+    "first_investment_year": 2013,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Goldenset",
+    "description": "Goldenset helps you manage your digital identity.",
+    "company_url": "https://www.goldenset.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e7652ef3d5f7ee55fabf6c_Goldenset.svg",
+    "first_investment_year": 2022,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "GoodRx",
+    "description": "GoodRx is a leading source for lowering prescription drug costs.",
+    "company_url": "https://www.goodrx.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d946ad67671dd2a736ee53_GoodRx.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "BioTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Good Uncle",
+    "description": "Good Uncle is a virtual food hall delivering hot meals is under 10 minutes.",
+    "company_url": "http://www.gooduncle.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d946953c9ca224157a6185_Good%20Uncle.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Group Commerce",
+    "description": "Group Commerce is an enterprise-grade marketing platform for e-commerce.",
+    "company_url": "https://eu.nimblecommerce.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e765873024f4a85f5f7a51_Group%20Commerce.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "GroupMe",
+    "description": "GroupMe is a group mobile messaging service.",
+    "company_url": "https://groupme.com/en-US/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94704179b3256fcaa3217_GroupMe.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Group Nine",
+    "description": "Group Nine was a digital media holding company.",
+    "company_url": "http://www.groupninemedia.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d946e9c4d4a65e94352cda_Group%20Nine.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Grovo",
+    "description": "Grovo was an enterprise training provider on internet tools and cloud services.",
+    "company_url": "http://www.grovo.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d947213a8686f66c29d9cc_Grovo.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Guideline",
+    "description": "Guideline is the easy, affordable retirement platform for small businesses.",
+    "company_url": "https://www.guideline.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94740235b432938399523_Guideline.png",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Halp",
+    "description": "Halp offers 1-on-1 digital coaching for international students.",
+    "company_url": "https://halp.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9475b9f042eb6ecbf0ce7_Halp.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Haven Energy",
+    "description": "Haven Energy is the climate tech platform accelerating home battery adoption.",
+    "company_url": "https://havenenergy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9477c4913e08423e4a94f_Haven%20Energy.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate",
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Havenly",
+    "description": "Havenly is the best way to design your home.",
+    "company_url": "https://havenly.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9479bc9130d4690839e8a_Havenly.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "PropTech",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Heartbeat Health",
+    "description": "Heartbeat is redsigning the field of cardiology to be more inclusive.",
+    "company_url": "https://www.heartbeathealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9480d3a8686f66c29fa1f_Heartbeat%20Health.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Hello Cake",
+    "description": "Hello Cake is a sexual health brand.",
+    "company_url": "https://hellocake.com/?gclid=CjwKCAjwz_WGBhA1EiwAUAxIcSIJIDowR5Q6YBnVoS2VFTDcYYQTb4C_fK2eyi5J2WB9JB6QVRi_tBoChxEQAvD_BwE",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d94829d6ad11661415946a_Hello%20Cake.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Wellness & Longevity",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Heyday",
+    "description": "Heyday is a one-stop skincare shop.",
+    "company_url": "https://www.heydayskincare.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d948622c8fc7228a7b13d1_Heyday.svg",
+    "first_investment_year": 2017,
+    "status": "Exited",
+    "sectors": [
+      "Wellness & Longevity",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "HiFi",
+    "description": "HIFI is the financial rights organization for the music industry.",
+    "company_url": "https://hi.fi/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9487eee8fd87cca36ba2e_HiFi.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Hipster",
+    "description": "Hipster is an app that allows users to share photographic postcards.",
+    "company_url": "http://yahoo.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb3e557be8351f913cb86_Hipster.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Hungryroot",
+    "description": "Hungryroot is your personal grocer, powered by AI.",
+    "company_url": "http://www.hungryroot.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d956d5d7ac1d72ebde9399_Hungryroot.svg",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "IFTTT",
+    "description": "IFTTT is the free way to get all your apps and devices talking to each other.",
+    "company_url": "http://www.ifttt.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95711f7f3468af1b2aac0_IFTTT.svg",
+    "first_investment_year": 2011,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Ingenuity Foods",
+    "description": "Ingenuity™ Brands is the first company dedicated to food-based brain nutrition.",
+    "company_url": "https://brainiackids.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d958dd9112c0c870a21c7f_Ingenuity%20Foods.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Inturn",
+    "description": "Inturn is the first global marketplace to efficiently and easily sell excess inventory.",
+    "company_url": "http://www.inturn.co",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0eb80a0fe0acaa5060617_Inturn.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Jibe",
+    "description": "Jibe provides SaaS-based recruiting technology solutions.",
+    "company_url": "http://www.jibe.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d958fac376e282ffe72970_Jibe.png",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Jobr",
+    "description": "Jobr connects talented individuals with job opportunities.",
+    "company_url": "https://www.monster.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76614eed72c3634ae4c67_Jobr-logo.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Joor",
+    "description": "Joor is an online wholesale marketplace connecting fashion brands with retailers.",
+    "company_url": "http://www.jooraccess.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9591bcccf03d6f5569985_Joor.svg",
+    "first_investment_year": 2011,
+    "status": "Active",
+    "sectors": [
+      "Supply Chain & Logistics",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Journey",
+    "description": "Journey is the world’s first AI-powered loyalty program for independent hospitality.",
+    "company_url": "https://journey.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95960db9ebb114aa5d4f8_Journey.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment",
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "June Life",
+    "description": "June Oven is the world's only intelligent convection oven.",
+    "company_url": "http://juneoven.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9597ab9b958e29a3741bc_June%20Life.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage",
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "CPG",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "K Health",
+    "description": "K Health is an AI-powered telehealth company that provides 24/7 virtual care.",
+    "company_url": "http://khealth.ai",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d9599da0d39aeb6b6115d2_K%20Health.png",
+    "first_investment_year": 2016,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Kindred",
+    "description": "Kindred is the community for senior leaders committed to advancing ESG and DEI.",
+    "company_url": "https://kindredmembers.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d959e78fb0d81e885affae_Kindred.png",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Klara",
+    "description": "KLARA is a secure and collaborative communication platform for patients and providers.",
+    "company_url": "http://klara.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d959ff2edc91cefa6f22a2_Klara.svg",
+    "first_investment_year": 2016,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Lava",
+    "description": "Lava is the payment platform for the AI economy.",
+    "company_url": "https://www.lavapayments.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95a2ca4b97df843349890_Lava.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "LawnStarter",
+    "description": "LawnStarter is the easiest and most trusted brand in lawn care.",
+    "company_url": "https://www.lawnstarter.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95a447deb6bbf852ae64a_LawnStarter.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "PropTech",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "LeafLink",
+    "description": "LeafLink is a wholesale order management platform for the cannabis industry.",
+    "company_url": "http://leaflink.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95aa4c448318464238bed_LeafLink.svg",
+    "first_investment_year": 2017,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Le Tote",
+    "description": "Le Tote is an online fashion subscription service.",
+    "company_url": "http://www.letote.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95a62cd09234145499dd0_Le%20Tote.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Le Walk",
+    "description": "Le Walk is the location-based immersive travel app.",
+    "company_url": "https://www.lewalk.app/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95a798fb0d81e885b153f_Le%20Walk.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Lil Snack",
+    "description": "Lil Snack is the snackable games company.",
+    "company_url": "https://www.lilsnack.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95abfb9ba67455b0cd77a_Lil%20Snack.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "LittleBits",
+    "description": "littleBits is an open source library of electronic modules built for prototyping.",
+    "company_url": "http://www.littlebits.cc",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e085dd37aed61cf8bcf4e2_littleBits.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "LiveIntent",
+    "description": "LiveIntent is a web platform offering advertising services for marketers and publishers.",
+    "company_url": "http://www.liveintent.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95aee63b2d1016c9edf22_LiveIntent.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Lockchain.ai",
+    "description": "Lockchain.ai is the AI-powered risk management platform for blockchain.",
+    "company_url": "https://lockchain.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e08b8d8c7c8a3ff5186f01_lockchain-ai.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Lola",
+    "description": "LOLA is a comprehensive resource for women's reproductive health and hygiene.",
+    "company_url": "http://www.mylola.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95b1d727f241a179833e7_Lola.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Loop",
+    "description": "Loop is the exchange-first returns platform for scaling Shopify brands.",
+    "company_url": "https://loopreturns.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95b3994df9175f9f620f1_Loop.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Commerce",
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Magic",
+    "description": "Magic transforms real world experiences with AI.",
+    "company_url": "https://magic.company",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95bae721dc8f3705e854b_Magic.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "MakerBot",
+    "description": "MakerBot Industries creates open source 3D printers.",
+    "company_url": "http://www.stratasys.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95bcf3af57ddfd7285fea_MakerBot.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Makr",
+    "description": "Makr provides a design application to create customizable stationary products.",
+    "company_url": "https://www.staples.com/?dm_tpl=32829&dm_ad=1&dm_fb=0,0,0,0,0,0,0&cid=PS:GS:SBD:B:BN&gclid=Cj0KCQjw852XBhC6ARIsAJsFPN0ALb0iN_Y2-eWR8lHxMtWLQHbkRPdaUG6frr_cv5ZHiFat1k3HD6AaAqEnEALw_wcB",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95bed8dbb273970c54ab0_Makr.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Market",
+    "description": "Market is the AI assistant for e-commerce marketing.",
+    "company_url": "https://www.withmarket.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb4d9df2f7f68e04615d8_market.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Maxwell Health",
+    "description": "Maxwell Health is an operating system for employee benefits in the healthcare industry.",
+    "company_url": "http://www.maxwellhealth.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dca5bc8b3c962658466a46_Maxwell%20Health.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Medly",
+    "description": "Medly delivers prescriptions to your door.",
+    "company_url": "https://medlypharmacy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0eb9d83a567856de2e3d3_Medly.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Medmo",
+    "description": "Medmo transforms medical imaging for patients and providers.",
+    "company_url": "https://www.medmo.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcab0aaae47eac1956c35f_Medmo.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Meet Cute",
+    "description": "Meet Cute is an audio rom-com company.",
+    "company_url": "https://www.meetcute.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76696d24b59c31e740f13_Meet%20Cute.svg",
+    "first_investment_year": 2020,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Memrise",
+    "description": "Memrise is an online learning platform.",
+    "company_url": "http://www.memrise.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcab95c36a6445a06499ac_Memrise.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Mentium",
+    "description": "Mentium is the AI agent for the supply chain logistics industry.",
+    "company_url": "https://mentium.io",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76a101a0e36f3b32f69bc_Mentium.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Metric Insights",
+    "description": "Metric Insights is a business intelligence portal.",
+    "company_url": "http://www.metricinsights.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcac93b0e2d0e638aba21e_Metric%20Insights.svg",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Mic",
+    "description": "Mic is the leading digital news company for change makers.",
+    "company_url": "https://mic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcacafe1c5367d23c2e43e_Mic.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "MIRROR",
+    "description": "MIRROR is the first connected fitness system.",
+    "company_url": "http://getthemirror.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95b70d1ff7bc15ea7d738_MIRROR.png",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Wellness & Longevity"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Moat",
+    "description": "Moat is a SaaS-based search engine for display ads.",
+    "company_url": "http://www.moat.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0cbe2961502e80e167893_MOAT.png",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Monument",
+    "description": "Monument is an online support community and telehealth solution for alcohol addiction.",
+    "company_url": "https://joinmonument.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcacc62a82360890c35fd9_Monument.svg",
+    "first_investment_year": 2019,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Morty",
+    "description": "Morty empowers homebuyers to confidently secure and finance their home purchase.",
+    "company_url": "https://www.morty.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcace87416e9ed4ae7978a_Morty.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "PropTech",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Cybersecurity",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "mother.tech",
+    "description": "mother.tech is an AI-native apps and entertainment company.",
+    "company_url": "https://mother.tech/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb5cf5107887bd1aba2a8_Mother-logo-inverted%201.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "MOTORMIA",
+    "description": "MOTORMIA is the AI-powered automotive platform.",
+    "company_url": "https://www.motormia.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69d95b8bf34064386b30ae57_MOTORMIA.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Mura",
+    "description": "Mura uses AI to improve commercial field service operations.",
+    "company_url": "https://www.mura.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcad01d5448ddef69f1976_Mura.svg",
+    "first_investment_year": 2024,
+    "status": "Exited",
+    "sectors": [
+      "AI/ML",
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "MyCarrier",
+    "description": "MyCarrier is the transportation management platform for SMBs.",
+    "company_url": "https://go.mycarrier.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcad1c80c205b648346a4e_MyCarrier.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Supply Chain & Logistics",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Nacelle",
+    "description": "Nacelle is a headless commerce platform for high-speed page loads and mobile shopping.",
+    "company_url": "https://getnacelle.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcad3474bc51cb1c34bbe2_Nacelle.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Namely",
+    "description": "Namely is an all-in-one HR platform employees will love to use.",
+    "company_url": "http://www.namely.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcad4a53f556bdf4f153b5_Namely.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Neighborland",
+    "description": "Neighborland is a public engagement platform.",
+    "company_url": "http://www.neighborland.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e76b1795d8c9830c8b490e_Neighborland.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "NewsCred",
+    "description": "NewsCred was a content marketing and syndication platform for brands and publishers.",
+    "company_url": "http://www.newscred.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0cc2dab16e6fd4c71ef55_NewsCred.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Newsle",
+    "description": "Newsle is a web application that allows users to follow news on social media platforms.",
+    "company_url": "https://www.linkedin.com/feed/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcad7c720a714b39f63a41_Newsle.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Niche",
+    "description": "Niche.co was an online community of social media creators.",
+    "company_url": "https://twitter.com/home?lang=en",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcad947b6607472c709b5f_Niche.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Nifty League",
+    "description": "Nifty League is building the premier modern gaming ecosystem in the metaverse.",
+    "company_url": "https://niftyleague.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaddf0c35f4526d3dd7c8_Nifty%20League.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Nodejitsu",
+    "description": "Nodejitsude provides a node.js PaaS to build scalable private clouds.",
+    "company_url": "https://www.godaddy.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcadf7b8465c049d4122b0_Nodejitsu.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Novel",
+    "description": "Novel helps brands build loyalty with digital wallet passes.",
+    "company_url": "https://www.novel.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae1162c528d0b11d9ed4_Novel.svg",
+    "first_investment_year": 2021,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Ollie",
+    "description": "Ollie is a trailblazing pet wellness brand.",
+    "company_url": "https://www.myollie.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae25f6e01d33fcc059d0_Ollie.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "On Me",
+    "description": "On Me is the personalized digital gifting platform.",
+    "company_url": "https://onme.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae3d402fa950176876f0_On%20Me.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "OnProfit",
+    "description": "OnProfit is the platform helping the enterprise maximize revenue.",
+    "company_url": "https://onprofit.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae584714420b63b7f959_OnProfit.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Onward",
+    "description": "Onward helps divorced and separated parents manage shared expenses for children.",
+    "company_url": "https://www.onwardapp.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0ec34ca47f88c72d704d3_Onward.svg",
+    "first_investment_year": 2021,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Opentrons",
+    "description": "Opentrons makes robots for biologists.",
+    "company_url": "https://opentrons.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae6d469118b38133929a_Opentrons.svg",
+    "first_investment_year": 2017,
+    "status": "Exited",
+    "sectors": [
+      "Hardware & Robotics",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "BioTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "OrderGroove",
+    "description": "Ordergroove is a subscription commerce platform optimizing recurring revenue.",
+    "company_url": "http://www.ordergroove.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae844df2fbeffe6710d0_OrderGroove.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Ordway Labs",
+    "description": "Ordway is a billing and revenue automation platform.",
+    "company_url": "https://www.ordwaylabs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcae9ad9a7d582b3c5b423_Ordway%20Labs.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Oscar",
+    "description": "Oscar is a health insurance company that uses tech to humanize healthcare.",
+    "company_url": "http://www.hioscar.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaeac03877eb611e2a7fc_Oscar.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Otherland",
+    "description": "Otherland is a home fragrance brand.",
+    "company_url": "https://www.otherland.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaec3c1b2cd72279a04b4_Otherland.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "P-1 AI",
+    "description": "P-1 AI is building engineering AGI for the physical world.",
+    "company_url": "https://p-1.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaeed98394e9d3422af17_P-1%20AI.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "PaintZen",
+    "description": "Paintzen is an online painting company.",
+    "company_url": "https://www.paintzen.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf1f67bd1d21e1f70159_PaintZen.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Palmetto",
+    "description": "Palmetto is the leading clean technology software and fulfillment platform company.",
+    "company_url": "https://www.palmetto.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf364ee07c3549ae73da_Palmetto.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Pando",
+    "description": "Pando is the first true career progression platform.",
+    "company_url": "https://www.pando.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf4d7cf5c27e4458d18a_Pando.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Pangea Health",
+    "description": "Pangea Health is a software-enabled sales marketplace.",
+    "company_url": "https://www.pangeahealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf66f510427590547513_Pangea%20Health.svg",
+    "first_investment_year": 2022,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Panjo",
+    "description": "Panjo is an online marketplace for auto, sport, and hobby enthusiasts.",
+    "company_url": "http://www.panjo.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0ec53d19bed0610ab1a4b_Panjo.png",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Panna",
+    "description": "Panna is a digital cooking magazine.",
+    "company_url": "http://www.pannacooking.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb63d6ccc983de210bcda_Panna%20Cooking.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Parade",
+    "description": "Parade is a sustainable and all-inclusive underwear brand.",
+    "company_url": "https://yourparade.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb694aec71c5c58700259_Parade.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Parsec",
+    "description": "Parsec is a high-performance remote desktop and streaming platform.",
+    "company_url": "https://parsecgaming.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf7c6ca961a7636cf9d1_Parsec.svg",
+    "first_investment_year": 2017,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Payable",
+    "description": "Payable helps you easily manage and pay your contractors.",
+    "company_url": "https://stripe.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf972af6f3ac991efdb0_Payable.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Peel",
+    "description": "Peel is a data analytics platform that automates marketing and business analytics.",
+    "company_url": "https://www.peelinsights.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcafb3c4fab7e300e78e49_Peel.svg",
+    "first_investment_year": 2021,
+    "status": "Exited",
+    "sectors": [
+      "Commerce",
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Percolate",
+    "description": "Percolate's intelligent platform helps brands scale their digital content strategies.",
+    "company_url": "http://www.percolate.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcafcccc1beaff2ae1f8ab_Percolate.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Performance Drone Works",
+    "description": "Performance Drone Works develops autonomous unmanned aerial systems.",
+    "company_url": "https://www.pdw.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcafe380e427564db49b65_Performance%20Drone%20Works.svg",
+    "first_investment_year": 2019,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Perry Health",
+    "description": "Perry Health is the world's first remote health system for patients with chronic disease.",
+    "company_url": "https://www.perryhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0866fc9aae755fd2629b1_perryhealth.svg",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Pie",
+    "description": "Pie helps you meet friends-of-friends, doing things IRL.",
+    "company_url": "https://apps.apple.com/us/app/pie-meet-friends-of-friends/id1509667820",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaff83825144bef41b217_Pie.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Plantible",
+    "description": "Plantible is producing the next generation plant-based protein.",
+    "company_url": "https://www.plantiblefoods.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb00d6aae03baabf4acb0_Plantible.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate",
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "CPG",
+      "BioTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Plated",
+    "description": "Plated delivers gourmet recipes and ingredients.",
+    "company_url": "http://www.plated.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0ec73fa40d1bd0f7499ed_Plated.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Plus One Robotics",
+    "description": "Plus One provides robotic solutions for parcel handling and logistics",
+    "company_url": "https://plusonerobotics.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb03780e427564db4a831_Plus%20One%20Robotics.svg",
+    "first_investment_year": 2017,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Poncho",
+    "description": "Poncho was a mobile app for personalized weather forecasts.",
+    "company_url": "https://www.irisnova.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb04d7bc4589d2ed63ac1_Poncho.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "PowerToFly",
+    "description": "PowerToFly is a recruiting and retention platform for diverse talent.",
+    "company_url": "http://www.powertofly.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb0622a1444dd9e45c3a2_PowerToFly.svg",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "PRIMA",
+    "description": "Prima is a wellness brand.",
+    "company_url": "https://www.prima.co/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcaf042ddb544ca0c5ce05_PRIMA.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [
+      "Wellness & Longevity"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Prose",
+    "description": "Prose offers fresh and custom-made hair care solutions.",
+    "company_url": "https://prosehair.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb07ac36a6445a0657872_Prose.svg",
+    "first_investment_year": 2017,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "Wellness & Longevity"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "PublicStuff",
+    "description": "PublicStuff is an online community service.",
+    "company_url": "https://www.accela.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0ec9dc4e8422a38b41e0b_PublicStuff.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Pulse",
+    "description": "Pulse is a news reading app providing news from miltiple RSS feeds.",
+    "company_url": "http://www.linkedin.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb090b02313d7a66023a1_Pulse.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "PureWow",
+    "description": "PureWow is a digial media company focused on women's lifestyle content.",
+    "company_url": "https://vaynermedia.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb0a8b0e2d0e638ac52cf_PureWow.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Quartzy",
+    "description": "Quartzy is an online laboratory management system.",
+    "company_url": "http://www.quartzy.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcb0d3cf09bb2a07f2e1f5_Quartzy.svg",
+    "first_investment_year": 2011,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Qwiki",
+    "description": "Qwiki was an app that allows users to create interactive stories.",
+    "company_url": "http://www.yahoo.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccd9cca8e5b46eeb71272_Qwiki.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Radiate",
+    "description": "Radiate connects people through shared experiences.",
+    "company_url": "https://www.radiatetheworld.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccecda6cbbae561efce04_Radiate.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Realm",
+    "description": "Realm provides a centralized source of actionable insights for homeowners.",
+    "company_url": "https://realmhome.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccf35d2d608496e7ae65d_Realm.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "PropTech",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Realm.io",
+    "description": "Realm (formerly tight.db) is a mobile open-source database.",
+    "company_url": "https://realm.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccf602ae6a88cd5de1250_Realm.io.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Rebel",
+    "description": "Rebel is a software platform enabling web-functionality within emails.",
+    "company_url": "http://www.rebelmail.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0ed0a5b409bc49525e843_Rebel.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "RebelMouse",
+    "description": "RebelMouse is the first publishing platform fully wired for social.",
+    "company_url": "http://www.rebelmouse.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccf7aa41f63ee41f0c807_RebelMouse.svg",
+    "first_investment_year": 2012,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "Marketing Services",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Recast",
+    "description": "Recast is an automated marketing data science platform for the digital era",
+    "company_url": "http://getrecast.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e10955487bbaff84973ad9_recast-logo%201.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "Marketing Services",
+      "Commerce",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Recyclops",
+    "description": "Recyclops makes recycling and sustainable options accessible.",
+    "company_url": "https://recyclops.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccf92683f071838af8b34_Recyclops.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Refinery 29",
+    "description": "Refinery29 is a fashion and style website and media company.",
+    "company_url": "http://www.refinery29.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccfd8f7881a14c3f9c312_Refinery%2029.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Resy",
+    "description": "Resy is a mobile app for reservations.",
+    "company_url": "http://www.resy.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dccff7e3575e229ec5d0ff_Resy.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Rise Labs",
+    "description": "Rise provides affordable 1:1 personal diet coaching from top nutritionists.",
+    "company_url": "https://www.onemedical.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e087ee2d9db260df099caa_Rise%20Labs.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Wellness & Longevity"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Rize",
+    "description": "RIZE was a 3D printing company.",
+    "company_url": "https://palitra3d.com/welcome-rize-customers/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0fc2345690f3b0c770855_Rize.png",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Rockets of Awesome",
+    "description": "Rockets of Awesome is a e-commerce platform for childrens clothing.",
+    "company_url": "http://www.rocketsofawesome.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd01f0b6afc3e29abb36f_Rockets%20of%20Awesome.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "ROOM",
+    "description": "ROOM is the modular office brand.",
+    "company_url": "https://room.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcceb5942a6b30cb0b21d2_ROOM.svg",
+    "first_investment_year": 2020,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Runhappy",
+    "description": "Runhappy is an enterprise events booking platform.",
+    "company_url": "https://www.runhappy.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/6a5e6651fea0c01093cdd662_Logotype-Black.png",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Marketing Services",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Sailthru",
+    "description": "Sailthru provides personalized marketing communication technology.",
+    "company_url": "http://www.sailthru.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd05f8d1a09602e56856a_Sailthru.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Scaled Cognition",
+    "description": "Scaled Cognition is the world’s first agentic pre-trained transformer.",
+    "company_url": "https://www.scaledcognition.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd07c271429a0844c75ea_Scaled%20Cognition.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Science Exchange",
+    "description": "Science Exchange is a marketplace for scientific collaboration.",
+    "company_url": "http://www.scienceexchange.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd09eef0a7c731c30892e_Science%20Exchange.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Scotch",
+    "description": "Scotch is the all-in-one operating system for the alcohol beverage industry.",
+    "company_url": "https://scotchpos.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd1490611f175860caa08_Scotch.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "SeatGeek",
+    "description": "SeatGeek is a ticket search engine.",
+    "company_url": "http://www.seatgeek.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0168907c4c2ceacd18a31_SeatGeek.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "SellerCrowd",
+    "description": "???",
+    "company_url": "http://www.sellercrowd.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd166faabdc28eee3fb67_SellerCrowd.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Sequencing.com",
+    "description": "Sequencing.com is a DNA interpretation platform.",
+    "company_url": "https://sequencing.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd1af57444c276b1c7032_Sequencing.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Healthcare",
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Shortcut",
+    "description": "Shortcut is a project manage platform for software teams.",
+    "company_url": "https://shortcut.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd1c5fbec46c8d370971e_Shortcut.svg",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Sidecar",
+    "description": "SideCar was an app that allowed drivers to fill spare seats.",
+    "company_url": "https://www.gm.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb7681b690a4464434866_sidecar.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Simple",
+    "description": "Simple is a web and mobile application simplifying banking processes.",
+    "company_url": "https://www.bbva.com/en/us/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb7aeaec71c5c58705a24_Simple.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "SIMULATE",
+    "description": "SIMULATE is the maker of plant-based chicken products.",
+    "company_url": "https://simulate.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e1099d98e3aa42fbfc7cd9_SIMULATE%201.png",
+    "first_investment_year": 2017,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Skift",
+    "description": "Skift is a travel intelligence media company.",
+    "company_url": "http://www.skift.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd1f882f25bf501cd76f6_Skift.svg",
+    "first_investment_year": 2013,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Skiplagged",
+    "description": "Skiplagged is a travel platform that makes it more affordable to see the world.",
+    "company_url": "https://skiplagged.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd20ef0e5de04cb4d2151_Skiplagged.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Small Door",
+    "description": "Small Door is a new veterinary experience.",
+    "company_url": "http://www.smalldoorvet.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd226b7e0b1de32bbcdf2_Small%20Door.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "SmartThings",
+    "description": "SmartThings allows users to connect and control smart home devices.",
+    "company_url": "http://www.smartthings.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb8797aafe51dd83c5e34_SmartThings.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "SocialFlow",
+    "description": "SocialFlow is a social distribution and monetization platform.",
+    "company_url": "http://www.socialflow.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd2415e4ae9b6721303ba_SocialFlow.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Songza",
+    "description": "Songza is a free music streaming service.",
+    "company_url": "https://www.google.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd257dfd87a683176d425_Songza.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Sonoro",
+    "description": "Sonoro is the content creation platform for audio-first Latinx storytelling.",
+    "company_url": "https://sonoromedia.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd271bc94a0e1f668724c_Sonoro.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Soylent",
+    "description": "Soylent is a pioneer of the plant-based meal replacement category.",
+    "company_url": "https://soylent.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd28a7898bc3edef0099f_Soylent.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Spacious",
+    "description": "Spacious is a platform that repurposes underutilized urban spaces.",
+    "company_url": "https://www.wework.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e08883ac3327c09d146f6d_Spacious.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Spanfeller Media Group",
+    "description": "Spanfeller Media Group is digital publishing company.",
+    "company_url": "https://www.tribpub.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd2a56107862cebfc4b2d_Spanfeller%20Media%20Group.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Spatial",
+    "description": "Spatial helps creators and brands build their own metaverse spaces.",
+    "company_url": "https://spatial.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd2bf66ee102822e702cd_Spatial.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Spectrm",
+    "description": "Spectrm enables users to create their own media content for messaging apps.",
+    "company_url": "https://spectrm.io/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e088e757297a068a003d96_Spectrm.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Splash",
+    "description": "Splash is an event technology company that powers in-person marketing.",
+    "company_url": "http://www.splashthat.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd2d5120d9ae1b98d8310_Splash.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Splice",
+    "description": "Splice is a music creation ecosystem combining genAI with an unmatched sounds library.",
+    "company_url": "http://splice.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd2f252098aff29af5e2c_Splice.svg",
+    "first_investment_year": 2013,
+    "status": "Active",
+    "sectors": [
+      "Media & Entertainment",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Spoon Media",
+    "description": "Spoon University is a food media brand for the next generation.",
+    "company_url": "http://spoonuniversity.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd30926089ec13c7823ac_Spoon%20Media.svg",
+    "first_investment_year": 2015,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment",
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Static Media",
+    "description": "Static Media, formerly ZergNet, is an editorial recommendations platform.",
+    "company_url": "https://www.static.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd32f94130ce5777b534b_Static%20Media.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Stiller's Soda",
+    "description": "Stiller's Soda is Ben Stiller's modern beverage brand.",
+    "company_url": "https://stillerssoda.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd386e43933397d13f323_Stiller%27s%20Soda.svg",
+    "first_investment_year": 2025,
+    "status": "Active",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Stitch",
+    "description": "Stitch is a self-service data integration market.",
+    "company_url": "http://www.stitchdata.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd59ad2fb9557ccc6bda5_Stitch.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Storehouse",
+    "description": "Viewfinder is a photo sharing and curation app.",
+    "company_url": "https://squareup.com/us/en",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd5b48be61fcce0d20ab2_Storehouse.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Studs",
+    "description": "Studs is a piercing and e-commerce experience tailor-made for a new generation.",
+    "company_url": "https://studs.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd5d2781191d58ce1f70f_Studs.svg",
+    "first_investment_year": 2019,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Studypool",
+    "description": "Studypool is an online marketplace connecting students with tutors.",
+    "company_url": "http://www.studypool.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd5e94867226609a4fd2d_Studypool.svg",
+    "first_investment_year": 2015,
+    "status": "Active",
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Sunrise",
+    "description": "Sunrise is a free calendar app.",
+    "company_url": "https://www.microsoft.com/en-us/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd6267c22942d772eade6_Sunrise.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Sweet Reason",
+    "description": "Sweet Reason is a CBD-infused sparkling water brand.",
+    "company_url": "https://drinksweetreason.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0fc7af1a4a01492ed98db_Sweet%20Reason.png",
+    "first_investment_year": 2019,
+    "status": "Exited",
+    "sectors": [
+      "Food & Beverage"
+    ],
+    "everywhere_tags": [
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Symbiotic Security",
+    "description": "Symbiotic Security is the first real-time security platform for software development.",
+    "company_url": "https://www.symbioticsec.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd63dcd0278981d355ac2_Symbiotic%20Security.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Tapad",
+    "description": "Tapad provides cross-platform and unified ad solutions for brands and businesses.",
+    "company_url": "http://www.tapad.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb991aa27633b567cc586_Tapad.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Teal Labs",
+    "description": "Teal provides solutions to accelerate the job search.",
+    "company_url": "https://www.tealhq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd6552550808cc0c8b011_Teal%20Labs.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "TeamOhana",
+    "description": "TeamOhana is the AI-powered platform for headcount management.",
+    "company_url": "https://www.teamohana.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd66fb5ae6b2ca65af11e_TeamOhana.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Teleskope",
+    "description": "Teleskope is a data protection platform that automates security, privacy, and compliance.",
+    "company_url": "http://teleskope.ai",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd6886e1effd092d7894d_Teleskope.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "AI/ML",
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Cybersecurity",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Tetra",
+    "description": "Tetra is a home services company.",
+    "company_url": "http://tetra.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd69d3a1c153426316077_Tetra.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Texture",
+    "description": "Texture is the first data and communication platform for distributed energy.",
+    "company_url": "https://www.texturehq.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd6b40611f175860da098_Texture.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Energy Transition & Climate",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "The Black Tux",
+    "description": "The Black Tux is a tuxedo and suit rental service.",
+    "company_url": "http://www.theblacktux.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd6c8d10a0291bd685791_The%20Black%20Tux.svg",
+    "first_investment_year": 2013,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "The Inside",
+    "description": "The Inside is a home furnishings brand.",
+    "company_url": "https://www.theinside.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd6f59d68d09e4b0b818f_The%20Inside.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "The Six Bells",
+    "description": "The Six Bells is a multi-channel commerce and hospitality brand.",
+    "company_url": "https://www.thesixbells.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfb9a7f315e9fdc808faa7_The%20Six%20Bells.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "PropTech",
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Thrive",
+    "description": "Thrive is a leading behavior change technology platform.",
+    "company_url": "http://www.thriveglobal.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd7507c8a6fd76656cf21_Thrive.svg",
+    "first_investment_year": 2016,
+    "status": "Active",
+    "sectors": [
+      "Wellness & Longevity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "TollBit",
+    "description": "TollBit helps websites protect and monetize their content against AI web scraping.",
+    "company_url": "https://tollbit.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd7e3f9cf2a0cf6b00459_TollBit.svg",
+    "first_investment_year": 2024,
+    "status": "Active",
+    "sectors": [
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Topicals",
+    "description": "Topicals is the skincare brand working to destigmatize chronic skin conditions.",
+    "company_url": "https://www.mytopicals.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd80057444c276b1de24b_Topicals.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "Wellness & Longevity"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health",
+      "CPG"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Toss",
+    "description": "Toss is a simple consumer finance solution.",
+    "company_url": "https://toss.im/en",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd81501bdde1efe82478d_Toss.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Trackd",
+    "description": "Trackd is a cybersecurity platform providing vulnerability remediation solutions.",
+    "company_url": "http://trackd.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd829d2fb9557ccc7b3cb_Trackd.svg",
+    "first_investment_year": 2022,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Tracksmith",
+    "description": "Tracksmith is an independent running brand.",
+    "company_url": "http://www.tracksmith.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd86177fe7ec12953203f_Tracksmith.svg",
+    "first_investment_year": 2013,
+    "status": "Active",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Transfix",
+    "description": "Transfix is an AI-powered freight tech company.",
+    "company_url": "http://transfix.io",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd8fd57444c276b1e210b_Transfix.svg",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Supply Chain & Logistics"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Tubular Labs",
+    "description": "Tubular is a video measurement and analytics platform.",
+    "company_url": "https://www.tubularlabs.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd93e8429efe9948c94c3_Tubular%20Labs.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Tulip Retail",
+    "description": "Tulip Retail develops end-to-end sales platforms for retailers.",
+    "company_url": "https://www.tulip.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd9542c75ebfbd6b1260d_Tulip%20Retail.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Tutorspree",
+    "description": "Tutorspree is an online tuition services platform.",
+    "company_url": "https://www.wyzant.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd973d7136f7c7d992a74_Tutorspree.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Twice",
+    "description": "Twice is an online clothing resale store.",
+    "company_url": "http://www.liketwice.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dcd9908400b91f2977c793_Twice.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "UberMedia",
+    "description": "UberMedia makes tools and apps for Twitter.",
+    "company_url": "https://near.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd205750faefa3e045ae10_UberMedia.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Undock",
+    "description": "Undock is a lightning fast meeting experience.",
+    "company_url": "https://undock.com/l/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce4f883e469c9e95958dd_Undock.svg",
+    "first_investment_year": 2020,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Uniform",
+    "description": "Uniform is a modern orthodontic platform.",
+    "company_url": "https://www.uniformteeth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0fc530a38f37a9c111390_Uniformteeth.png",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Healthcare"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Unikrn",
+    "description": "Unikrn lets you bet on esports matches, play your favorite games, and win awesome prizes. Acquired by Entain.",
+    "company_url": "https://unikrn.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfbad5cbc593b216248b41_Unikrn.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Urban Sky",
+    "description": "Urban Sky is a stratospheric technology and remote sensing company.",
+    "company_url": "https://www.urbansky.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce67c1c18c14b60ccc9fc_Urban%20Sky.svg",
+    "first_investment_year": 2023,
+    "status": "Active",
+    "sectors": [
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Valdera",
+    "description": "Valdera is the modern chemical and raw material sourcing platform.",
+    "company_url": "https://www.valdera.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce6ab4fdcd7cb2aeb3605_Valdera.svg",
+    "first_investment_year": 2021,
+    "status": "Active",
+    "sectors": [
+      "Supply Chain & Logistics",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Vangst",
+    "description": "Vangst connects the best talent on the market with leading cannabis companies.",
+    "company_url": "https://vangst.com/vangst-main-page",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce6c60be8661e1a5c5d46_Vangst.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "VeeFriends",
+    "description": "VeeFriends is an NFT project designed around meaningful intellectual property.",
+    "company_url": "https://veefriends.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce6db2b55dceb623cbc49_VeeFriends.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Web3 / Crypto",
+      "PropTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Venmo",
+    "description": "Venmo is a mobile payment platform.",
+    "company_url": "http://www.braintreepayments.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce6f9b1a0e029d0a41a8c_Venmo.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Veritonic",
+    "description": "Veritonic is an audio research and analytics company.",
+    "company_url": "https://www.veritonic.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce710ca2bcb4b44263a06_Veritonic.svg",
+    "first_investment_year": 2020,
+    "status": "Active",
+    "sectors": [
+      "Marketing Services"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "VHX",
+    "description": "VHX is an online digital distribution platform for independent artists.",
+    "company_url": "http://www.vhx.tv",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce694ec41655bbde88d33_VHX.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Vibe Biotechnology",
+    "description": "Vibe Bio uses DAO technology to develop treatments for rare diseases.",
+    "company_url": "https://www.vibebio.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce727911f5c062dbe1586_Vibe%20Biotechnology.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "FinTech, DeFi, & Blockchain",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "BioTech"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Violet Grey",
+    "description": "Violet Grey is a private dressing studio.",
+    "company_url": "http://www.violetgrey.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce75226727ae89213f427_Violet%20Grey.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Virgin Mega",
+    "description": "Virgin Mega is a digital-first retail store.",
+    "company_url": "https://www.nike.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dce76710d73d16ab21aca5_Virgin%20Mega.svg",
+    "first_investment_year": 2013,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Visual Revenue",
+    "description": "Visual Revenue is a real-time predictive analytics platform for editors.",
+    "company_url": "https://www.outbrain.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfbb94acf81f11ff1e5f0b_visual-revenue.svg",
+    "first_investment_year": 2011,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Wagon",
+    "description": "Wagon is a data analytics tool for creating, visualizing, and sharing data analysis.",
+    "company_url": "https://www.box.com/home",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd02372ccd7d9b9b9a8558_Wagon.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Data & Security"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Warby Parker",
+    "description": "Warby Parker is a retailer of prescription eyeware.",
+    "company_url": "http://www.warbyparker.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd027c865a236801fe20b0_Warby%20Parker.svg",
+    "first_investment_year": 2010,
+    "status": "Exited",
+    "sectors": [
+      "Commerce"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "WayUp",
+    "description": "WayUp is a recruitment platform for students and recent graduates.",
+    "company_url": "http://www.wayup.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd02b1903e9f8f2f0de7c1_WayUp.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "WeatherPromise",
+    "description": "WeatherPromise guarantees weather for travelers.",
+    "company_url": "https://www.weatherpromise.com/en",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd02c882f608d705e5ae8b_WeatherPromise.svg",
+    "first_investment_year": 2022,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "Energy Transition & Climate"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Climate / Sustainability",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Who What Wear",
+    "description": "Who What Wear is an international fashion company.",
+    "company_url": "https://www.whowhatwear.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd032c8af907842072b569_Who%20What%20Wear.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Wonderschool",
+    "description": "Wonderschool is a network of boutique early childhood programs.",
+    "company_url": "http://www.onepreschool.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0cc92437ae46776f67c4a_Wonderschool.png",
+    "first_investment_year": 2014,
+    "status": "Active",
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Wondery",
+    "description": "Wondery is a podcast studio for immersive storytelling.",
+    "company_url": "https://wondery.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd0349aa6a78e4281320f1_Wondery.svg",
+    "first_investment_year": 2018,
+    "status": "Exited",
+    "sectors": [
+      "Media & Entertainment"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Workjam",
+    "description": "WorkJam is a digital workplace platform for frontline workers.",
+    "company_url": "http://www.workjam.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd0369f62a4668a620882b_Workjam.svg",
+    "first_investment_year": 2017,
+    "status": "Active",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Workrails",
+    "description": "WorkRails is a platform that streamlines all aspects of the services sales process.",
+    "company_url": "https://workrails.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd039d27d5b9c370f7951a_Workrails.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "X.ai",
+    "description": "x.ai is an AI-powered scheduling and virtual assistant platform.",
+    "company_url": "https://x.ai/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd04f5e7c9ba7974299c99_X.ai.svg",
+    "first_investment_year": 2014,
+    "status": "Exited",
+    "sectors": [
+      "Future of Work & Productivity"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Yieldify",
+    "description": "Yieldify is a customer journey optimization platform for e-commerce.",
+    "company_url": "https://www.yieldify.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dfbbfbd0b03103e1c99862_Yieldify.svg",
+    "first_investment_year": 2016,
+    "status": "Exited",
+    "sectors": [],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "YourMechanic",
+    "description": "YourMechanic is an online mechanic marketplace for vehicle owners.",
+    "company_url": "http://www.yourmechanic.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69e0bdef83cf6dd1b116fe49_YourMechanic.svg",
+    "first_investment_year": 2012,
+    "status": "Exited",
+    "sectors": [
+      "PropTech"
+    ],
+    "everywhere_tags": [
+      "PropTech",
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "ZenBusiness",
+    "description": "ZenBusiness helps entrepreneurs start and grow a business.",
+    "company_url": "https://zenbusiness.com/",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd0565c0562d5b0ba549c5_ZenBusiness.svg",
+    "first_investment_year": 2018,
+    "status": "Active",
+    "sectors": [
+      "Commerce",
+      "AI/ML"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  },
+  {
+    "company_name": "Zipline",
+    "description": "Zipline is a drone logistics and delivery company.",
+    "company_url": "http://www.flyzipline.com",
+    "logo_url": "https://cdn.prod.website-files.com/69ca9a18b40272cd4150f1b9/69dd057fb1a50c35d9a1ace4_zipline.svg",
+    "first_investment_year": 2011,
+    "status": "Active",
+    "sectors": [
+      "Supply Chain & Logistics",
+      "Hardware & Robotics"
+    ],
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.lererhippeau.com/portfolio",
+    "scraped_at": "2026-07-22T21:10:58.745178+00:00"
+  }
+]

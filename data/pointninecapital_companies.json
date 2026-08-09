@@ -1,0 +1,3870 @@
+[
+  {
+    "company_name": "15Five",
+    "company_url": "http://www.15five.com/",
+    "description": "15Five is a performance management platform that helps businesses improve employee engagement, performance, and retention through continuous feedback, OKRs, performance reviews, engagement surveys, and more – now augmented by AI coaching tools like Kona.",
+    "sectors": [
+      "Enterprise",
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Aardaia",
+    "company_url": "https://aardaia.com/",
+    "description": "Aardaia is pioneering a new era of crop domestication by turning wild plants into resilient crops for the 21st century. Its flagship crop, the aardaker, is a nitrogen-fixing, high-protein tuber that combines the yield of a potato with the protein density of a legume.",
+    "sectors": [
+      "Food"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Wageningen",
+    "country": "Netherlands",
+    "founded_year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "BioTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Airstoc",
+    "company_url": "https://www.crunchbase.com/organization/airstoc",
+    "description": "Founded in 2013 in Sheffield, Airstoc was a marketplace that connected businesses with professional drone pilots and stock aerial footage worldwide.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Sheffield",
+    "country": "UK",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Aletiq",
+    "company_url": "https://www.aletiq.com/",
+    "description": "Aletiq is a next-generation, AI-powered PLM platform that centralizes product data, documents, and workflows into a single source of truth. By unifying PLM and EDMS capabilities, it streamlines collaboration and boosts operational efficiency for engineering and manufacturing teams.",
+    "sectors": [
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Algolia",
+    "company_url": "http://www.algolia.com/",
+    "description": "Founded in 2012, Algolia is an API-first AI search and discovery platform combining keyword and vector search to deliver fast, relevant experiences at scale. Point Nine co-led the company’s seed round in 2013.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Amenitiz",
+    "company_url": "https://www.amenitiz.io/",
+    "description": "Amenitiz is an all-in-one operating system for independent hotels and B&Bs, combining a cloud PMS, channel manager, native booking engine, website builder, and integrated payments to streamline operations and increase direct bookings.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Barcelona",
+    "country": "Spain",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "AMMP",
+    "company_url": "https://www.ammp.io/",
+    "description": "AMMP provides AMMP OS, a device-agnostic platform that connects and manages clean‑energy portfolios. By aggregating data from diverse hardware and sites into a single, actionable view, it helps energy companies automate operations, reduce downtime, and scale reliably.",
+    "sectors": [
+      "Vertical Software",
+      "Climate & Energy"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Amperecloud",
+    "company_url": "https://ampere.cloud/",
+    "description": "Amperecloud builds the operating system for renewables: a central hub that connects data loggers, inverters, and meters to deliver real-time monitoring, anomaly detection, and reporting across solar portfolios. The platform streamlines operations so asset owners maximize yield and uptime.",
+    "sectors": [
+      "Vertical Software",
+      "Climate & Energy"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Anthropic",
+    "company_url": "https://www.anthropic.com/",
+    "description": "Anthropic builds Claude, a family of frontier AI models used by consumers, developers, and enterprises, and does the underlying research on making highly capable systems interpretable, reliable, and steerable.",
+    "sectors": [
+      "AI",
+      "Foundation Model"
+    ],
+    "stage": "Later-stage",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "asgoodasnew",
+    "company_url": "https://asgoodasnew.com/",
+    "description": "asgoodasnew is a European re-commerce company for premium consumer electronics, refurbishing and selling smartphones, laptops, cameras and more. The company also operates the buyback platform wirkaufens to extend device lifecycles and promote a circular economy.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Frankfurt (Oder)",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Async",
+    "company_url": "https://async.com/",
+    "description": "Async (previously Podcastle) is an AI-powered platform that lets creators and teams record, edit, and publish video and audio content in a single workflow using AI tools for editing, dubbing, subtitles, and voice generation.",
+    "sectors": [
+      "PLG",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Athenian",
+    "company_url": "https://athenian.com/",
+    "description": "Athenian was an engineering insights platform that helped software teams improve delivery by turning GitHub, Jira, and CI/CD data into actionable metrics and workflows. Acquired by the Linux Foundation.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Attio",
+    "company_url": "https://www.attio.com/",
+    "description": "Attio is an AI-native, highly customizable CRM that lets go-to-market teams design workflows, integrate data, and build real-time reporting in one platform. With a flexible data model and native automation, it adapts to your processes instead of forcing rigid templates.",
+    "sectors": [
+      "PLG",
+      "Enterprise",
+      "AI",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Automile",
+    "company_url": "http://www.automile.io/",
+    "description": "Founded in 2013, Automile built a cloud-based solution for vehicle and asset tracking, offering live location, smart alerts, mileage and fuel reporting, and route optimization for thousands of businesses. In 2020, Automile was acquired by ABAX.",
+    "sectors": [
+      "Enterprise",
+      "Logistics"
+    ],
+    "stage": "Series A",
+    "status": "Acquired",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Back",
+    "company_url": "https://backhq.com/",
+    "description": "Back created a modern employee helpdesk that unified HR and IT requests across Slack, Microsoft Teams, and email, automating repetitive tasks to deliver faster, consistent support. Founded in 2018 in Berlin, Back was acquired by Personio in 2022.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Bearer",
+    "company_url": "https://www.bearer.com/",
+    "description": "Founded to secure modern, data-driven software, Bearer offered a CLI-first code scanner for API discovery, data leak prevention, and OWASP-class issues with easy CI/CD integration. The company was acquired by Cycode in 2024.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Bitbond",
+    "company_url": "https://www.bitbond.com/",
+    "description": "Bitbond provides bank-grade tokenization and digital asset technology for financial institutions and issuers, from token creation to custody and onchain settlement. Founded in 2013, the company pioneered Germany’s first BaFin-approved security token offering and now serves thousands of users globally.",
+    "sectors": [
+      "Enterprise",
+      "Crypto"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "BlueLayer",
+    "company_url": "https://bluelayer.io/",
+    "description": "BlueLayer is an end-to-end operating system for carbon project developers, helping teams plan, monitor, and scale projects with integrated data management and reporting.",
+    "sectors": [
+      "Enterprise",
+      "Climate & Energy"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Brainly",
+    "company_url": "http://brainly.com/",
+    "description": "Founded in Kraków in 2009 and now headquartered in New York, Brainly combines a massive peer-to-peer homework community with an AI Learning Companion that delivers trusted, step-by-step explanations.",
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Kraków",
+    "country": "Poland",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Brightback",
+    "company_url": "https://brightback.com/",
+    "description": "Brightback was a no-code retention automation tool that helped SaaS and subscription brands save customers at the moment of cancel by testing tailored offers, pauses, and downgrades. Founded in 2018, it was acquired by Chargebee in 2022 and rebranded as Chargebee Retention.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "CallDesk",
+    "company_url": "https://calldesk.ai/",
+    "description": "Calldesk builds and deploys AI voice agents that automate repetitive phone calls for contact centers, improving customer experience while reducing costs and scaling 24/7. Founded in 2016 in Paris, it serves enterprises with secure, multilingual callbots that integrate with existing systems and deliver measurable ROI.",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Candis",
+    "company_url": "http://www.candis.io/",
+    "description": "Founded in 2015, Candis offers a cloud solution for finance teams to manage invoices at scale: centralizing receipt, automating data extraction and duplicate detection, streamlining multi-step approvals, and syncing to accounting and payment tools.",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "cargo.one",
+    "company_url": "https://www.cargo.one/",
+    "description": "cargo.one is a digital marketplace for booking and marketing air cargo capacity. Founded in 2017, it lets freight forwarders search, compare, and instantly book real-time rates across 60+ airlines, and is trusted by 20,000+ forwarders in 134 countries.",
+    "sectors": [
+      "B2B Marketplace",
+      "Vertical Software",
+      "Logistics"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Chainalysis",
+    "company_url": "https://chainalysis.com/",
+    "description": "Founded in 2014, Chainalysis maps blockchain activity to real‑world entities so organizations can detect and prevent crypto crime, recover funds, and meet AML requirements. Its investigation, risk, and compliance products are trusted by law enforcement, regulators, and exchanges globally.",
+    "sectors": [
+      "Enterprise",
+      "Crypto"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "New York City",
+    "country": "USA",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "ChartMogul",
+    "company_url": "https://chartmogul.com/",
+    "description": "ChartMogul is a subscription analytics platform that unifies billing data to track key SaaS metrics like MRR, churn, LTV, and cohorts, helping thousands of subscription businesses worldwide measure and grow their recurring revenue.",
+    "sectors": [
+      "PLG",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "ChicChickClub",
+    "company_url": "https://www.crunchbase.com/organization/chicchickclub",
+    "description": "ChicChickClub was a Berlin-based subscription commerce service for women’s shoes, bags, and accessories. It offered monthly personalized selections via a style quiz, aiming to be Germany’s leading shoe-shopping club with a monthly subscription model.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Cibando",
+    "company_url": "https://www.crunchbase.com/organization/cibando",
+    "description": "Cibando was an Italy-based, mobile-first restaurant search and discovery service. It was known for professionally curated photos and editorial reviews, helping diners find top dining spots across Italy. The company was acquired by Zomato in 2014, with the team leading Zomato’s expansion in the Italian market.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Milan",
+    "country": "Italy",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Circular",
+    "company_url": "https://circular.io/",
+    "description": "Circular was a hiring network where in-house recruiters shared pre-vetted candidates they couldn’t hire, helping tech companies fill roles faster with warm referrals.",
+    "sectors": [
+      "Enterprise",
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Madrid",
+    "country": "Spain",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "claimsforce",
+    "company_url": "https://www.claimsforce.com/",
+    "description": "claimsforce is a Hamburg-based insurtech providing a SaaS platform for end-to-end claims management. It builds modern claims software for P&C insurers and loss adjusters, offering modular tools to digitize and automate processes, improving cycle times and customer experience across DACH and the UK.",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Hamburg",
+    "country": "Germany",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Clio",
+    "company_url": "https://www.clio.com",
+    "description": "Founded in 2008 as a Web-based practice management software for small law firms, Clio is the global leader in legal software, offering an intelligent, AI‑enabled platform for practice management, client intake, billing, and trusted legal research.",
+    "sectors": [
+      "Vertical Software",
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Vancouver",
+    "country": "Canada",
+    "founded_year": 2009,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "CloudTalk",
+    "company_url": "https://www.cloudtalk.io/",
+    "description": "CloudTalk provides a modern business phone system and virtual call center for growing companies, combining VoIP with AI features like transcription and real-time coaching, advanced dialing and IVR, and deep CRM integrations, helping teams deliver faster, higher‑quality support and sales.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "SMB SaaS",
+      "CRM"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Combatant Gentlemen",
+    "company_url": "https://www.combatgent.com/",
+    "description": "Combatant Gentlemen was a direct-to-consumer menswear brand offering affordable suits, shirts, and accessories via a vertically integrated model. Founded in 2012 by third-generation tailor Vishaal Melwani, the company ultimately shut down.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Santa Monica",
+    "country": "USA",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Confrere",
+    "company_url": "https://confrere.com/",
+    "description": "Confrere was a Norwegian video-consultation platform for healthcare and other professionals, enabling secure, user-friendly, and GDPR-compliant video appointments. It was acquired by Daily in 2022 to bolster their telehealth-focused video API, with parts of its brand and customer contracts later transferred to Carasent.",
+    "sectors": [
+      "Vertical Software",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Oslo",
+    "country": "Norway",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Contactually",
+    "company_url": "https://www.crunchbase.com/organization/contactually",
+    "description": "Contactually provided a relationship-driven CRM widely used in real estate, syncing email and contacts to prioritize outreach and nurture leads. The company was acquired by Compass in 2019.",
+    "sectors": [
+      "Enterprise",
+      "SMB SaaS",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Washington DC",
+    "country": "USA",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Contentful",
+    "company_url": "http://www.contentful.com/",
+    "description": "Founded in Berlin in 2012, Contentful pioneered the API-first, headless CMS. Today, Contentful is the leading composable content platform that lets teams create, manage, and deliver digital content across websites, apps, and any channel via APIs.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Couchsurfing",
+    "company_url": "https://www.couchsurfing.com/",
+    "description": "Couchsurfing is a global hospitality exchange that connects travelers with local hosts for free stays, meetups, and cultural exchange. Founded in 2004, it spans hundreds of thousands of cities and fosters trust-based travel through profiles, references, and community events.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Cryptio",
+    "company_url": "https://cryptio.co/",
+    "description": "Cryptio is an institutional-grade crypto accounting and reporting platform that consolidates on- and off-chain data, automates reconciliations, and delivers audit-ready financials. Integrating with major blockchains, exchanges, and ERPs, it helps enterprises and crypto-native teams stay compliant at scale.",
+    "sectors": [
+      "Enterprise",
+      "Crypto"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "DaWanda",
+    "company_url": "https://www.crunchbase.com/organization/dawanda",
+    "description": "Founded in Berlin in 2006, DaWanda built a popular marketplace for handmade and vintage items, connecting creators and shoppers across Europe. An early Point Nine portfolio company, DaWanda shut down in 2018 and arranged a migration of sellers and buyers to Etsy.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Detail",
+    "company_url": "https://www.detail.co/",
+    "description": "Detail builds a mobile‑first video studio for iPhone that combines recording, AI auto‑editing, captions, and formatting to produce ready‑to‑post clips in minutes. Creators and small teams use it for interviews, tutorials, and podcasts, with templates and exports for TikTok, Reels, and YouTube.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "DigitaleSeiten",
+    "company_url": "http://www.digitaleseiten.de/",
+    "description": "DigitaleSeiten offers subscription-based lead generation and reputation management for SMEs, boosting online visibility and customer reviews to drive more jobs. Focused on crafts and services in Germany, the company became part of Müller Medien in 2017.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Docplanner",
+    "company_url": "http://www.docplanner.com/",
+    "description": "Docplanner is a global healthcare marketplace and SaaS platform that helps patients find and book doctors while giving clinics software for scheduling, communication, telemedicine, and payments. Point Nine has been a proud early backer since the seed stage.",
+    "sectors": [
+      "B2B Marketplace",
+      "Vertical Software",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Warsaw",
+    "country": "Poland",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "BioTech",
+      "Health",
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Donna",
+    "company_url": "https://www.donna.legal/",
+    "description": "Donna developed an AI-powered assistant for lawyers before it was cool. It helped lawyers proofread and analyze agreements faster and more consistently but ultimately didn't get to strong PMF.",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "stage": "Pre-seed",
+    "status": "RIP",
+    "city": "Malmö",
+    "country": "Sweden",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Draxon",
+    "company_url": "https://www.draxon.com/",
+    "description": "Founded by Westwing founder Stefan Smalla, Draxon provides standardized VR training for airport ground handling teams, delivered on preconfigured devices with a library of immersive modules aligned to IATA standards. The platform helps airports and handlers improve safety, consistency, and ramp operations at scale.",
+    "sectors": [
+      "Enterprise",
+      "AR/VR"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Cologne",
+    "country": "Germany",
+    "founded_year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Duplo",
+    "company_url": "https://tryduplo.com/",
+    "description": "Duplo builds the financial operating system for African enterprises – combining domestic and cross-border payments, vendor management, cards, and reporting in one platform.",
+    "sectors": [
+      "SMB SaaS",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Lagos",
+    "country": "Nigeria",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "EnjoyHQ",
+    "company_url": "https://getenjoyhq.com/",
+    "description": "EnjoyHQ (formerly NomNom Insights) provides a centralized hub for qualitative and quantitative research, enabling faster synthesis, tagging, and collaboration across teams. The company was acquired by UserZoom in 2021 and today operates within UserTesting.",
+    "sectors": [
+      "Enterprise",
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "EraDrive",
+    "company_url": "https://www.eradrive.space/",
+    "description": "EraDrive delivers compact, AI-powered self-driving modules that bring autonomy to any spacecraft, enabling onboard navigation, control, collision avoidance, and visual awareness in orbit.",
+    "sectors": [
+      "AI",
+      "Deep Tech",
+      "Computer Vision",
+      "Physical AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Eversports",
+    "company_url": "https://www.eversports.com/",
+    "description": "Eversports is an all-in-one platform for studios to handle bookings, payments, and marketing, alongside a consumer app to find and book activities. Headquartered in Vienna, the company has grown since 2013 to power thousands of studios and millions of annual bookings across Europe. In 2024, Eversports was acquired in a majority buyout by Verdane.",
+    "sectors": [
+      "B2B Marketplace",
+      "Vertical Software",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Vienna",
+    "country": "Austria",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Factorial",
+    "company_url": "https://factorialhr.com/",
+    "description": "Founded in 2016 in Barcelona, Factorial provides a modern HRIS for small and mid-sized businesses, streamlining employee data, time tracking, payroll, recruiting, and analytics. Backed early by Point Nine, Factorial now serves thousands of companies worldwide.",
+    "sectors": [
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Barcelona",
+    "country": "Spain",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Figures",
+    "company_url": "https://figures.hr/",
+    "description": "Figures provides an all-in-one compensation platform that pairs reliable market data with budgeting, pay equity, and review workflows. Built for European companies, it integrates across the HR stack to support transparent, consistent, and compliant pay practices at scale.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "PropTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Findable",
+    "company_url": "https://www.findable.no/",
+    "description": "Findable is an AI-powered building intelligence platform that automatically digitizes, organizes, and retrieves building documentation, helping owners, managers, and contractors stay compliant and in control across real estate portfolios.",
+    "sectors": [
+      "Enterprise",
+      "Vertical Software",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Oslo",
+    "country": "Norway",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Finiata",
+    "company_url": "https://www.finiata.com/",
+    "description": "Finiata is a Berlin-born fintech providing fast, flexible working capital to small businesses and freelancers, particularly in Poland.",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "float",
+    "company_url": "https://float.build/",
+    "description": "Founded by Typeform co-founder David Okuniev, Float is a design-led product lab that builds elegant, user-first software with small, focused teams. Its first product, Supercut, delivers blazing-fast, on-brand video messaging for businesses.",
+    "sectors": [
+      "PLG",
+      "AI"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Barcelona",
+    "country": "Spain",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Forithmus",
+    "company_url": "https://forithmus.com/",
+    "description": "Forithmus uses proprietary datasets to builds foundation models for medical imaging.",
+    "sectors": [
+      "AI",
+      "Healthcare",
+      "Foundation Model"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "founded_year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Front",
+    "company_url": "http://frontapp.com/",
+    "description": "Front is a modern customer service platform that unifies email, SMS, chat, and more in a collaborative inbox, enriched with CRM data, automation, and AI to deliver fast, personal support at scale. Founded in 2013, it now powers customer operations for thousands of teams worldwide.",
+    "sectors": [
+      "Enterprise",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Fyber",
+    "company_url": "https://www.crunchbase.com/organization/Fyber",
+    "description": "Fyber is a mobile app monetization and mediation platform that helps developers maximize revenue through programmatic advertising, in-app bidding, and a large ad marketplace. Founded in 2009 in Berlin (as SponsorPay) and rebranded in 2014, the company was acquired by Digital Turbine in 2021.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Geckoboard",
+    "company_url": "https://www.geckoboard.com/",
+    "description": "Founded in 2010, Geckoboard builds simple, live dashboards that put key metrics front and center for growing teams. With dozens of built-in integrations and easy sharing to TVs, links, and Slack, it helps organizations track goals, motivate teams, and make faster, data-driven decisions. Geckoboard was a private angel investment by Christoph prior to the formation of Point Nine.",
+    "sectors": [
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Gengo",
+    "company_url": "http://gengo.com/",
+    "description": "Gengo enabled businesses to order human translation at scale via an API-powered marketplace and a global crowd of linguists, later expanding into ML dataset creation. Acquired by Lionbridge in 2019, its AI data arm was subsequently acquired by TELUS International in 2021.",
+    "sectors": [
+      "Enterprise",
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Tokyo",
+    "country": "Japan",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "GitBook",
+    "company_url": "https://www.gitbook.com/",
+    "description": "Founded in 2014 in Lyon, GitBook is a leading platform for technical documentation and knowledge bases. With Markdown-first editing, Git integrations, and built-in AI tools, it helps teams share and maintain accurate, discoverable documentation at scale.",
+    "sectors": [
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Lyon",
+    "country": "France",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Gladly",
+    "company_url": "https://www.gladly.com/",
+    "description": "Gladly is an AI-powered customer service platform that puts people, not tickets, at the center, unifying voice, email, chat, SMS, and social in one view. Brands use it to deliver personalized, efficient support and drive loyalty across the customer journey.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Goodays",
+    "company_url": "https://goodays.co/",
+    "description": "Goodays (formerly Critizr) is a European customer experience management platform that helps retailers and service brands capture feedback, empower local teams to act, and improve loyalty and NPS at scale. Founded in 2012, it supports leading multi‑location brands across Europe.",
+    "sectors": [
+      "Enterprise",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "GoOpti",
+    "company_url": "https://www.goopti.com/",
+    "description": "GoOpti is a European transportation platform offering shared and private, door-to-door airport transfers across multiple countries. Founded in 2011, it uses dynamic scheduling to match travelers with reliable shuttles at affordable prices.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "GoSpotCheck",
+    "company_url": "https://www.gospotcheck.com/",
+    "description": "GoSpotCheck built web and mobile software for field teams to plan, execute, and analyze work in real time, powering retail audits, merchandising, and photo AI insights. In 2020, the Denver-based company was acquired by FORM.com, combining strengths in low-code workflow and mobile data collection.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Series A",
+    "status": "Acquired",
+    "city": "Denver",
+    "country": "USA",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Gourmey",
+    "company_url": "https://gourmey.com/",
+    "description": "Gourmey is France's pioneering cultivated meat company, developing premium cultivated poultry, starting with foie gras, to deliver ethical, sustainable meat without animal slaughter.",
+    "sectors": [
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Graneet",
+    "company_url": "https://www.graneet.fr/",
+    "description": "Graneet is a cloud ERP and all-in-one financial cockpit for construction SMEs, unifying estimating, progress invoicing, purchasing, planning, and pre-accounting. It helps teams run more profitable projects with real-time margin tracking and live budget vs. actuals from bid to closeout.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "PropTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Grasp",
+    "company_url": "https://grasp.study/",
+    "description": "Grasp is an AI study companion that turns lectures, readings, and notes into clear summaries, smart flashcards, and adaptive quizzes, helping students learn faster and remember longer with spaced repetition and progress tracking.",
+    "sectors": [
+      "Consumer",
+      "AI",
+      "Education"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Gravity Sketch",
+    "company_url": "https://www.gravitysketch.com/",
+    "description": "Founded in 2014 in London, Gravity Sketch enables industrial, automotive, and footwear teams to design directly in 3D and co-create in immersive rooms across VR and screen. Its collaborative workflow streamlines reviews, reduces rework, and moves ideas to production faster.",
+    "sectors": [
+      "Enterprise",
+      "AR/VR"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "Transportation / Mobility",
+      "CPG"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "GreenBlender",
+    "company_url": "https://www.crunchbase.com/organization/green-blender",
+    "description": "GreenBlender was a New York–based subscription service that delivered pre-portioned ingredients and recipes for organic smoothies.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "New York City",
+    "country": "USA",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Handshake",
+    "company_url": "https://www.handshake.com/",
+    "description": "Handshake was a B2B e-commerce startup that built a wholesale marketplace connecting independent retailers with curated suppliers and streamlining bulk ordering. The New York based startup was acquired by Shopify in 2019.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "HappyCo",
+    "company_url": "https://happy.co/",
+    "description": "HappyCo is a leading PropTech platform for multifamily operators, offering AI-powered software that streamlines property operations across inspections, maintenance, and asset management.",
+    "sectors": [
+      "Enterprise",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Helpling",
+    "company_url": "https://www.helpling.de/de_en",
+    "description": "Helpling is a Berlin-based marketplace for home cleaning and household services, connecting customers with vetted, insured cleaners via web and app. Founded in 2014, the company operates across Europe and handles scheduling, cashless payments, and customer support for a seamless experience.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "HeyGo",
+    "company_url": "https://www.heygo.com/",
+    "description": "Heygo (formerly VirtualTrips) enabled users to book local guides for live virtual tours in destinations around the world – letting tourists “travel from home” through digital streaming. The company shut down in 2023, after raising about US$20 million but failing to build a viable business once in-person travel resumed post-COVID.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Honey",
+    "company_url": "https://honey.is/",
+    "description": "Honey was a modern reinvention of the corporate intranet, built to help fast-growing teams stay connected and engaged as they scaled. Its intuitive platform made it easy to share knowledge, celebrate culture, and communicate across the company. In 2023, Honey was acquired by BambooHR.",
+    "sectors": [
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "New York City",
+    "country": "USA",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Hula Earth",
+    "company_url": "https://hula.earth/",
+    "description": "Hula Earth builds the data layer for nature investments, unifying in-situ measurements and remote sensing to quantify biodiversity health and change. Companies use its reports and APIs to assess risks, track restoration, and meet emerging disclosure standards with auditable, site-level evidence.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Physical AI",
+      "Hardware"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Hull",
+    "company_url": "http://www.hull.io/",
+    "description": "Hull was a real-time customer data platform that unified, synchronized, and enriched customer profiles across tools to power marketing and sales operations. The company was acquired by MessageBird.",
+    "sectors": [
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Humanity",
+    "company_url": "https://www.humanity.com/",
+    "description": "Humanity (formerly ShiftPlanning) is a cloud-based employee scheduling and shift planning platform that helps businesses forecast demand, build compliant schedules, and track time via web and mobile. Founded in 2010, Humanity was acquired by TCP Software.",
+    "sectors": [
+      "Enterprise",
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Hundeland",
+    "company_url": "http://www.hundeland.de/",
+    "description": "Hundeland is a German online shop for premium dog food, treats, and accessories. Now part of AlphaPet Ventures, it curates high-quality, species-appropriate nutrition and gear, backed by helpful guidance and fast shipping.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "incident.io",
+    "company_url": "https://incident.io/",
+    "description": "incident.io is a modern incident management platform that brings alerting, on-call, incident response, status pages, and post-incident reviews together – right inside Slack and Teams.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "inFakt",
+    "company_url": "https://www.infakt.pl/",
+    "description": "Founded in 2008, inFakt is a leading Polish accounting-technology platform that combines a modern invoicing and bookkeeping app with access to certified accountants. It helps freelancers and small businesses manage taxes, payroll, and compliance via web and mobile. In 2020, inFakt was acquired by Visma.",
+    "sectors": [
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Kraków",
+    "country": "Poland",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Infogram",
+    "company_url": "https://infogram.com/",
+    "description": "Founded in 2012 in Riga, Infogram helps users turn data into interactive charts, infographics, dashboards, and maps. The company was acquired by Prezi in 2017.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Riga",
+    "country": "Latvia",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Intenseye",
+    "company_url": "https://www.intenseye.com/",
+    "description": "Intenseye is an AI-powered workplace safety platform that uses computer vision on existing cameras to detect hazards in real time. It builds enterprise EHS software, delivering instant alerts, insights, and trend analysis from existing CCTV to reduce injuries and drive a proactive safety culture while protecting worker privacy.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Manufacturing",
+      "Physical AI",
+      "Computer Vision"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Jobber",
+    "company_url": "https://getjobber.com/",
+    "description": "Jobber is the leading software platform for field service management SMBs that streamlines quoting, scheduling, dispatch, invoicing, and payments in one system across web and mobile. Founded in 2011 in Edmonton, Canada.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Edmonton",
+    "country": "Canada",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Junction",
+    "company_url": "https://www.junction.com/",
+    "description": "Junction (formerly Vital) is a healthcare infrastructure platform that unifies lab testing and wearable device data through a single API. It streamlines ordering, results, and device connectivity with automated workflows and real-time updates.",
+    "sectors": [
+      "Enterprise",
+      "Healthcare",
+      "AI"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "New York City",
+    "country": "USA",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "June",
+    "company_url": "https://june.so/",
+    "description": "June was a product and customer analytics platform for B2B SaaS that delivered auto-generated reports and opinionated templates to help teams understand account-level usage and share insights via Slack and email. In 2025, its founding team joined Amplitude and the standalone product was wound down.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Juro",
+    "company_url": "http://juro.com/",
+    "description": "Juro is an AI-powered contract automation platform that unifies drafting, review, negotiation, e-signature, and post-signature management. It helps legal and business teams create, agree, and manage contracts end-to-end, integrating with existing tools and serving global customers.",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Kaiko",
+    "company_url": "https://www.kaiko.com/",
+    "description": "Kaiko delivers high-quality, regulatory-grade crypto market data, pricing, reference rates, indices, and monitoring tools for institutions, exchanges, and fintechs.",
+    "sectors": [
+      "Enterprise",
+      "Crypto"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Keynua",
+    "company_url": "https://www.keynua.com/en/",
+    "description": "Keynua is a digital identity and e-signature platform that enables businesses to securely sign documents online using video signatures, biometric verification, and identity validation.",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Lima",
+    "country": "Peru",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "KISI",
+    "company_url": "https://getkisi.com/",
+    "description": "Kisi is a cloud-based access control and security platform that lets organizations manage doors, credentials, and badges from anywhere via mobile and web. Founded in 2012, it pairs smart readers and controllers with deep integrations to unify physical access with modern IT.",
+    "sectors": [
+      "Enterprise",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "New York City",
+    "country": "USA",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Kitchen Stories",
+    "company_url": "http://kitchenstories.de/",
+    "description": "Kitchen Stories is a Berlin-born digital cooking platform offering step-by-step recipes, HD video tutorials, and smart-appliance integrations to help anyone cook with confidence. Founded in 2013, it was majority-acquired by BSH Home Appliances in 2018.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Kreditech",
+    "company_url": "https://www.crunchbase.com/organization/kreditech-4e3a",
+    "description": "Kreditech was a Hamburg-based fintech founded in 2012 that used alternative data and machine-learning credit scoring to provide consumer loans and point-of-sale financing in emerging markets.",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Hamburg",
+    "country": "Germany",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Laserhub",
+    "company_url": "https://laserhub.com/",
+    "description": "Laserhub is a European digital procurement platform for custom metal and plastic parts, offering instant quotes and reliable delivery via a vetted manufacturing network. Founded in 2017 and based in Stuttgart.",
+    "sectors": [
+      "B2B Marketplace",
+      "Manufacturing"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Lemoncat",
+    "company_url": "https://www.crunchbase.com/organization/lemoncat-gmbh",
+    "description": "Lemoncat was a Berlin-based marketplace for corporate catering, helping companies book curated caterers for meetings and events. Founded in 2016, it was acquired by Rocket Internet’s Caterwings in 2019 and integrated into the B2B Food Group.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "LessonLeap",
+    "company_url": "https://lessonleap.com/en/",
+    "description": "LessonLeap offered engaging online courses that helped K–6 students build language and communication skills through live, small-group classes. LessonLeap was acquired by Preply, another P9 portfolio company.",
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "LIFT",
+    "company_url": "https://www.liftaircraft.com/",
+    "description": "LIFT develops HEXA, a single-seat, semi-autonomous electric VTOL classified as an ultralight under FAA Part 103, enabling flight without a pilot’s license.",
+    "sectors": [
+      "Deep Tech",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Austin",
+    "country": "USA",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Loom",
+    "company_url": "http://www.loom.com/",
+    "description": "Loom is the leading async video messaging platform for work, letting teams record screen, camera, and mic to share quick, link-based videos that replace meetings and long emails. Point Nine led Loom's seed round in 2017. In 2023, the company was acquired by Atlassian for close to $1B.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Lottielab",
+    "company_url": "https://www.lottielab.io/",
+    "description": "Founded in 2021 in London, Lottielab makes it easy to create, edit, and export Lottie animations for web and mobile. With deep Figma integration, real-time collaboration, and AI-assisted motion (including text-to-animation), it helps teams ship high‑quality animations faster.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Madvertise",
+    "company_url": "https://madvertise.com/en/",
+    "description": "Founded in Berlin in 2008, Madvertise built mobile-first ad solutions for brands and agencies, delivering premium reach and high-impact formats across Europe.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Mambu",
+    "company_url": "http://www.mambu.com/",
+    "description": "Mambu is a cloud-native, composable core banking platform that enables banks, lenders, and fintechs to build, launch, and scale deposits, lending, and payment products quickly. Founded in 2011 and headquartered in Amsterdam, it serves customers worldwide.",
+    "sectors": [
+      "Enterprise",
+      "Vertical Software",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Mason",
+    "company_url": "https://www.trymason.com/",
+    "description": "Mason was a feature-building platform that enabled product teams to design, build, and deploy front-end features together without full app releases. Positioned as “front-end as a service,” the company ceased operations in September 2019.",
+    "sectors": [
+      "Dev Tools & Infra"
+    ],
+    "stage": "Pre-seed",
+    "status": "RIP",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Mavenoid",
+    "company_url": "http://www.mavenoid.com/",
+    "description": "Founded in 2016, Mavenoid builds an AI agent for product support focused on physical products. The platform automates diagnostics and deflection, and escalates to live video assistance when needed, helping companies resolve complex issues faster, prevent unnecessary replacements, and improve customer experience across channels.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Mention",
+    "company_url": "http://mention.com/",
+    "description": "Mention is a social listening and media monitoring platform that tracks brand, competitor, and industry mentions across social, news, blogs, and the web, with alerts, sentiment, and analytics for PR and marketing teams. Founded in 2012 in Paris, it was acquired by Mynewsdesk in 2018.",
+    "sectors": [
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "merXu",
+    "company_url": "https://merxu.com/en/",
+    "description": "merXu was a European B2B marketplace for renewable energy and industrial installations, connecting verified sellers with installers and wholesalers to trade PV modules, inverters, heat pumps, batteries, and EV chargers.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Warsaw",
+    "country": "Poland",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Metalshub",
+    "company_url": "https://www.metals-hub.com/",
+    "description": "Metalshub is a digital supply chain and trading platform for the metals and mining industry. Based in Düsseldorf, it connects buyers and sellers of metals and ferroalloys with integrated procurement tools, RFQ workflows, and proprietary price indices.",
+    "sectors": [
+      "B2B Marketplace",
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Dusseldorf",
+    "country": "Germany",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Mission Barns",
+    "company_url": "https://missionbarns.com/",
+    "description": "Mission Barns develops cultivated pork fat and other animal fat ingredients that make meat alternatives and hybrid products taste and cook like conventional meat. Founded in 2018 in Berkeley, the company became the first to bring cultivated meat to US supermarkets.",
+    "sectors": [
+      "Deep Tech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "BioTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Moai.cash",
+    "company_url": "https://www.moai.cash/",
+    "description": "Moai.cash is a decentralized financial super app on Telegram offering zero-fee transactions, a crypto wallet, and prediction markets.",
+    "sectors": [
+      "Consumer",
+      "Crypto"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Toronto",
+    "country": "Canada",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Mokker.ai",
+    "company_url": "https://mokker.ai/",
+    "description": "Mokker.ai is an AI-powered product photography platform that turns simple product shots into studio-quality images. It removes backgrounds, offers customizable scenes and templates, and generates on‑brand visuals for e‑commerce, marketplaces, and ads—without a physical photoshoot.",
+    "sectors": [
+      "PLG",
+      "AI"
+    ],
+    "stage": "Pre-seed",
+    "status": "Acquired",
+    "city": "Vienna",
+    "country": "Austria",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Momox",
+    "company_url": "http://www.momox.de/",
+    "description": "Momox (one of Christoph's angel investments before starting P9) is Europe’s leading re-commerce platform for used books, media, and fashion. Founded in 2004 in Berlin, it buys items online at fixed prices and resells them via storefronts like medimops, extending product lifecycles and promoting circular consumption.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2009,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "NexHealth",
+    "company_url": "https://www.nexhealth.com/",
+    "description": "Founded in 2017, NexHealth streamlines the patient journey—from booking to intake, reminders, and payments—by syncing directly with practice EHRs. The company also provides a universal EHR API, enabling developers to build healthcare apps that integrate across dozens of systems.",
+    "sectors": [
+      "Enterprise",
+      "Vertical Software",
+      "Healthcare",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Odyssey",
+    "company_url": "https://odyssey.ml/",
+    "description": "Odyssey is an AI research lab building world models — systems that learn the physics, causality, and dynamics of the real world well enough to generate video you can move through and interact with in real time. Its Odyssey-2 model streams minutes-long, explorable simulations from a single text or image prompt.",
+    "sectors": [
+      "AI",
+      "Foundation Model",
+      "Computer Vision"
+    ],
+    "stage": "Later-stage",
+    "status": "Active",
+    "city": "Palo Alto",
+    "country": "USA",
+    "founded_year": 2026,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Oferteo",
+    "company_url": "http://www.oferteo.pl/",
+    "description": "Oferteo is Poland’s largest online marketplace connecting people and companies seeking services with vetted contractors across home, construction, and business categories. The platform generates over 2 million requests annually and helps 700,000+ providers win new customers.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Wrocław",
+    "country": "Poland",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Omnea",
+    "company_url": "https://www.omnea.co/",
+    "description": "Omnea is an AI-native procurement and supplier relationship management platform that streamlines intake, approvals, and renewals, centralizes supplier data, and automates third‑party risk and performance workflows across systems.",
+    "sectors": [
+      "Enterprise",
+      "Fintech",
+      "Vertical Software",
+      "AI"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Ontruck",
+    "company_url": "https://www.ontruck.com/",
+    "description": "Ontruck is a European digital road‑freight platform that connects shippers with vetted carriers for full and part‑load palletized goods. Founded in Madrid in 2016, it uses real‑time tracking and route optimization to reduce empty miles, cut CO2, and deliver reliable, cost‑efficient transport across Spain and neighboring markets.",
+    "sectors": [
+      "B2B Marketplace",
+      "Logistics"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Madrid",
+    "country": "Spain",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Pento",
+    "company_url": "https://www.pento.io/",
+    "description": "Pento is a UK-focused payroll automation platform that lets companies run payroll in minutes with real-time calculations, HMRC and pension integrations, and error-reducing workflows. In 2024, Pento was acquired by HRIS provider HiBob to power native UK payroll within Bob.",
+    "sectors": [
+      "SMB SaaS"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "PersistIQ",
+    "company_url": "https://persistiq.com/",
+    "description": "PersistIQ is a sales engagement and prospecting platform that helps small and mid-sized teams find new customers, personalize multi-channel outreach, and automate tasks across email, calls, and CRM. Acquired by Wishpond in 2021.",
+    "sectors": [
+      "SMB SaaS",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Petsapp",
+    "company_url": "https://petsapp.com/",
+    "description": "Petsapp is a client communication and payments platform for veterinary clinics, offering SMS and WhatsApp chat, appointment booking, video consults, reminders, and digital payments – helping teams streamline workflows and improve the pet owner experience.",
+    "sectors": [
+      "Vertical Software",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "FinTech / Insurance",
+      "Gaming / Media / Entertainment",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "PlayPlay",
+    "company_url": "https://playplay.com/",
+    "description": "PlayPlay is an AI-powered video creation platform that helps marketing and communications teams turn messages into professional, on‑brand videos in minutes – no editing skills required. Templates, brand kits, and automated captions, voiceovers, and translations let teams scale video across channels with consistency.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Polar Analytics",
+    "company_url": "https://www.polaranalytics.com/",
+    "description": "Polar Analytics is an all-in-one ecommerce analytics platform for Shopify and omnichannel brands, unifying data from storefronts, ad platforms, and other sources into a single source of truth.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Pomocni",
+    "company_url": "https://www.crunchbase.com/organization/pomocni-sp-z-o-o",
+    "description": "Founded in 2008 around the Niania.pl domain, Pomocni runs six niche platforms that match families with vetted caregivers and home services across Poland. Today, the group is owned by Burda Media Home, part of Burda Media Polska.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Warsaw",
+    "country": "Poland",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Poolside",
+    "company_url": "https://poolside.ai/",
+    "description": "Poolside is a frontier lab building the most capable foundation models, agents, and enterprise systems to deploy them, starting with software development. Founded by Eiso Kant (founder of Athenian, a P9 portfolio company) and former GitHub CTO Jason Warner.",
+    "sectors": [
+      "Enterprise",
+      "Foundation Model",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Preply",
+    "company_url": "https://preply.com/",
+    "description": "Preply is a global online language learning marketplace that connects learners with expert tutors for 1-on-1 video lessons, using AI to personalize progress. With 100,000+ tutors across 90+ languages, it serves learners in 180+ countries.",
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Procurify",
+    "company_url": "https://www.procurify.com/",
+    "description": "Procurify helps finance and operations teams manage purchasing and AP in one place, with budgets, approvals, vendor management, and smart spend cards that track spend in real time. Its AI-enhanced platform provides end-to-end visibility from request through payment.",
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Vancouver",
+    "country": "Canada",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Procuros",
+    "company_url": "https://procuros.io/",
+    "description": "Procuros builds an AI-powered B2B Integration Hub for retail and FMCG, unifying EDI, APIs, and supplier portals to exchange orders, delivery notes, and invoices seamlessly with thousands of partners.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Hamburg",
+    "country": "Germany",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Project Europe",
+    "company_url": "https://www.projecteurope.co/",
+    "description": "Project Europe is an initiative that brings together leading European founders, operators, and investors to support the next generation of startup builders through community, mentorship, and shared resources.",
+    "sectors": [],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Propertybase",
+    "company_url": "https://www.propertybase.com/",
+    "description": "One of Christoph's angel investments before P9, Propertybase was a CRM solution specifically for the real estate industry. Acquired by Boston Logic in 2017.",
+    "sectors": [
+      "Vertical Software",
+      "CRM"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "PropTech"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Purmeo",
+    "company_url": "https://purmeo.de/",
+    "description": "Purmeo is a Berlin-based nutrition brand offering high-quality supplements – from probiotics to targeted micronutrient complexes – designed to support gut, immune, and everyday wellness.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Qlub",
+    "company_url": "https://qlub.io/",
+    "description": "Qlub provides QR-powered pay-at-table, order-and-pay, and digital menu solutions for restaurants, hotels, and lounges. Diners scan a QR code to view the menu, split and settle the bill in seconds while venues boost table turns, tips, and operational efficiency.",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Dubai",
+    "country": "UAE",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Qwilr",
+    "company_url": "https://qwilr.com/",
+    "description": "Qwilr is a modern proposal and quoting platform that turns sales documents into interactive web pages with e‑signature, payments, and detailed analytics, connected to CRMs like Salesforce and HubSpot. Founded in Sydney in 2014, it helps B2B teams move faster and win more deals.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Sydney",
+    "country": "Australia",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "REKKI",
+    "company_url": "https://rekki.com/",
+    "description": "REKKI connects restaurants with their suppliers, letting chefs browse products, place and track orders, chat in real time, and handle payments in one place. Suppliers use REKKI to streamline order intake and get paid faster, with AI‑powered tools that reduce errors and bad debt.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "rekord",
+    "company_url": "https://www.rekordsoftware.com/",
+    "description": "Rekord is an AI-native platform that enables financial institutions to design, scale, and monitor intelligent decision flows across underwriting, onboarding, compliance, and fraud. It unifies models, data, and policies to operationalize AI with guardrails and real-time observability.",
+    "sectors": [
+      "Enterprise",
+      "Fintech",
+      "AI",
+      "Vertical Software"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Dublin",
+    "country": "Ireland",
+    "founded_year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Remerge",
+    "company_url": "https://www.remerge.io/",
+    "description": "Remerge is a leading demand-side platform (DSP) for high-performing app marketing campaigns. Founded in Berlin in 2014, the company operates globally with a strong privacy-first approach.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Reonic",
+    "company_url": "https://reonic.com/en-gb/",
+    "description": "Reonic is a vertical software platform for renewable energy installers. By unifying lead capture, system design, simulation, digital proposals, and project management Reonic helps teams sell, size, and deliver solar, storage, and heat pump projects faster and more profitably.",
+    "sectors": [
+      "Vertical Software",
+      "Climate & Energy"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "rerun",
+    "company_url": "https://rerun.io/",
+    "description": "Rerun builds the data stack for Physical AI, with an open-source SDK and viewer to log, sync, and visualize multimodal data from robotics and computer vision in real time. Teams use Rerun to debug, explore, and share interactive views locally or at scale.",
+    "sectors": [
+      "Enterprise",
+      "Open Source",
+      "AI",
+      "Physical AI",
+      "Computer Vision"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Revolut",
+    "company_url": "https://revolut.com/",
+    "description": "Revolut is the leading global neobank. Founded in London in 2015, Revolut has become a global financial super app, unifying everyday money management – spend, send, save, invest, and business finances – in a single platform.",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "riskmethods",
+    "company_url": "http://www.riskmethods.net/",
+    "description": "Founded in 2013 in Munich, riskmethods provides supply chain risk management software that continuously monitors global threats, scores supplier exposure, and guides mitigation to keep operations resilient and compliant. The company was acquired by Sphera in 2022.",
+    "sectors": [
+      "Enterprise"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Rizm",
+    "company_url": "https://www.rizm.de/",
+    "description": "RIZM's software platform integrates data from production, energy procurement, and infrastructure to algorithmically optimize industrial energy systems. Founded in 2020, RIZM helps manufacturers cut costs, reduce emissions, and stay resilient amid energy market volatility.",
+    "sectors": [
+      "Enterprise",
+      "Climate & Energy"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Münster",
+    "country": "Germany",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Rollbox",
+    "company_url": "https://www.crunchbase.com/organization/rollbox",
+    "description": "Rollbox built an API-first payroll engine that automated multi-country payroll processing for businesses and platforms. Founded in Spain, it offered developer-friendly integrations to run and reconcile payroll at scale. The company was acquired by Personio in 2019.",
+    "sectors": [
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Madrid",
+    "country": "Spain",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Roomorama",
+    "company_url": "https://www.crunchbase.com/organization/roomorama",
+    "description": "Roomorama was a marketplace for professionally managed vacation and short‑term rentals, offering apartments and homes worldwide with secure, instant bookings. Founded in 2009 by Federico Folcia and Jia En Teo, the company ceased operations in 2017.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "New York City",
+    "country": "USA",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "PropTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Rooser",
+    "company_url": "https://www.crunchbase.com/organization/rooser",
+    "description": "Rooser was a B2B seafood marketplace based in Edinburgh, connecting European buyers and suppliers with real-time pricing, quality data, and logistics tools to cut waste and improve transparency.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Edinburgh",
+    "country": "UK",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Root Global",
+    "company_url": "https://www.rootglobal.io/",
+    "description": "Root Global builds climate intelligence and an end-to-end platform for agricultural supply chains, enabling food and beverage companies to accurately measure, report, and reduce supply chain emissions based on primary data.",
+    "sectors": [
+      "Enterprise",
+      "Climate & Energy"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Logistics / Supply Chain",
+      "CPG",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "samedi",
+    "company_url": "https://www.samedi.de/en/",
+    "description": "Founded in 2008 in Berlin, samedi offers a secure patient engagement and scheduling platform for hospitals and medical practices. Acquired by Meierhofer AG in 2017, samedi was one of Christoph’s angel investments prior to Point Nine.",
+    "sectors": [
+      "Vertical Software",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Savedo",
+    "company_url": "https://www.savedo.de/",
+    "description": "Savedo was a Berlin-based marketplace for retail investment products, letting savers access competitive term deposits from partner banks across Europe. Acquired by Deposit Solutions in 2017, it was later integrated into the combined Raisin/Deposit Solutions group.",
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Scondoo",
+    "company_url": "http://scondoo.de/",
+    "description": "Scondoo is a Berlin-based cashback app that helps shoppers save on groceries and drugstore purchases: snap a receipt, redeem offers, and get money back across major retailers. Founded in 2012, Scondoo was acquired by UK-based CheckoutSmart in 2017.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "BioTech",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "ScreenCloud",
+    "company_url": "https://screen.cloud/",
+    "description": "ScreenCloud is a cloud-based digital signage platform that lets organizations manage and broadcast content, dashboards, and employee comms to any screen at scale.",
+    "sectors": [
+      "Enterprise",
+      "SMB SaaS"
+    ],
+    "stage": "Series A",
+    "status": "Acquired",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Sensmore",
+    "company_url": "https://www.sensmore.ai/",
+    "description": "Sensmore pioneers embodied AI and vision-based localization (VLAM) for heavy machinery in mining, construction, and related industries. The company retrofits off-highway vehicles with full-stack autonomy, enabling them to perceive, plan, and operate safely and efficiently in the world’s harshest environments.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Physical AI",
+      "Hardware",
+      "Computer Vision"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility",
+      "PropTech",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Sereact",
+    "company_url": "https://sereact.ai/",
+    "description": "Sereact develops VLA AI that acts as a production-ready brain for robots, enabling zero-shot autonomy in real-world warehouses and industrial settings. Its system lets robots see, reason, and manipulate varied items across arms, mobile manipulators, and more.",
+    "sectors": [
+      "Enterprise",
+      "Manufacturing",
+      "AI",
+      "Physical AI",
+      "Computer Vision"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Server Density",
+    "company_url": "https://www.serverdensity.com/",
+    "description": "Server Density was a SaaS platform for monitoring servers, websites, and cloud infrastructure. Founded in 2009 and acquired by StackPath in 2018, Server Density was one of Christoph’s angel investments prior to Point Nine.",
+    "sectors": [
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "London",
+    "country": "UK",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Shapr3D",
+    "company_url": "https://www.shapr3d.com/",
+    "description": "Shapr3D builds a cross-platform, direct-modeling CAD app for iPad, Mac, Windows, and Apple Vision Pro. It brings precise, touch-friendly modeling to designers and engineers, streamlining sketching, 3D modeling, and drawings, with robust import/export for manufacturing workflows and integration with major CAD formats.",
+    "sectors": [
+      "PLG",
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Budapest",
+    "country": "Hungary",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Showbie",
+    "company_url": "http://www.showbie.com/",
+    "description": "Showbie is a K–12 learning platform used by millions of students and educators to manage classroom workflows, deliver assessments, and provide personalized feedback.",
+    "sectors": [
+      "Vertical Software",
+      "Fintech"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Edmonton",
+    "country": "Canada",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Soba",
+    "company_url": "https://www.soba.xyz/",
+    "description": "Soba is an online multiplayer open world and gaming platform with no-code game-making tools, enabling anyone to build, share, and play 3D games across devices.",
+    "sectors": [
+      "Consumer",
+      "Crypto"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2019,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Soda",
+    "company_url": "https://www.soda.io/",
+    "description": "Soda is a data quality and observability platform that helps data and AI teams test, monitor, and prevent issues across pipelines in real time. Built for modern data stacks, Soda blends automated checks with collaborative workflows to deliver trusted, production-grade data.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Brussels",
+    "country": "Belgium",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Solarize",
+    "company_url": "https://www.solarize.de/en/software/",
+    "description": "Solarize provides a modular software platform that orchestrates EV charging, photovoltaic generation, batteries, and dynamic tariffs across properties and fleets. Utilities, real estate operators, and EPCs use it to optimize energy flows and automate metering, billing, and load management.",
+    "sectors": [
+      "Enterprise",
+      "Climate & Energy"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Transportation / Mobility",
+      "PropTech",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Spacebase",
+    "company_url": "https://www.spacebase.com/en/",
+    "description": "Spacebase is a booking platform for workshop spaces, meeting rooms and events.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Sqreen",
+    "company_url": "https://www.sqreen.io/",
+    "description": "Founded in 2015, Sqreen built developer-friendly AppSec, combining in-app monitoring and protection to surface vulnerabilities and stop attacks in real time. The company was acquired by Datadog in 2021; Point Nine was an early backer.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "StarOfService",
+    "company_url": "http://www.starofservice.com/",
+    "description": "Founded in 2012 in Paris, StarOfService is an online marketplace that connects consumers with local professionals across hundreds of services – from home improvement to photography – by collecting requests, matching pros, and enabling quotes and bookings.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Storefront",
+    "company_url": "https://www.thestorefront.com/",
+    "description": "Storefront, founded in 2014, is an online marketplace that makes offline retail accessible on demand by connecting brands with short-term retail spaces for pop-ups and experiential stores across major global cities. Acquired by PopUp Immo, a company specializing in short-term retail space rentals.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "PropTech",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "StuDocu",
+    "company_url": "http://www.studocu.com/",
+    "description": "StuDocu is a global student-to-student learning platform where learners share and discover course-specific study materials, now enhanced by AI tools for quizzes and flashcards. Founded in 2013 in the Netherlands, it serves tens of millions of students worldwide.",
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "StyleSeat",
+    "company_url": "https://www.styleseat.com/",
+    "description": "StyleSeat is a marketplace and business platform for beauty and barber professionals, helping them get discovered by new clients and run operations with online booking, scheduling, payments, and marketing tools. Founded in 2011, it connects millions of clients with independent stylists across the U.S.",
+    "sectors": [
+      "B2B Marketplace",
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2010,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work",
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "SuperAnnotate",
+    "company_url": "https://superannotate.com/",
+    "description": "SuperAnnotate is an end-to-end data platform for multimodal AI that unifies dataset creation, curation, labeling, and quality management with model evaluation and fine-tuning. Teams use it to accelerate computer vision and GenAI workflows, deliver better models, and manage data at scale.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra",
+      "AI",
+      "Computer Vision"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Superpopcorn",
+    "company_url": "https://www.crunchbase.com/organization/superpopcorn",
+    "description": "Superpopcorn was a Germany-based mobile platform that helped users browse showtimes and reserve or buy cinema tickets quickly and securely.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Tenderly",
+    "company_url": "https://tenderly.co/",
+    "description": "Tenderly is a full‑stack Web3 infrastructure and developer platform for EVM chains, combining high‑performance Node RPC and a Web3 Gateway with Virtual TestNets, transaction simulation, debugging, monitoring, and alerting to help teams build, ship, and scale dapps with end‑to‑end observability.",
+    "sectors": [
+      "Dev Tools & Infra",
+      "Crypto"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Tengo",
+    "company_url": "https://www.tengo.cc/",
+    "description": "Tengo is an AI-powered platform that helps companies find, qualify, and respond to public tenders at scale. It centralizes opportunities, automates analysis and answer drafting, and streamlines collaboration from discovery to submission for faster, higher-quality bids.",
+    "sectors": [
+      "Enterprise",
+      "AI"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2024,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Thalamed",
+    "company_url": "http://www.thalamed.com/",
+    "description": "Thalamed was a B2B marketplace that helped doctors, clinics, and hospitals find, compare, and purchase medical equipment by requesting quotes from leading manufacturers. Acquired in 2021.",
+    "sectors": [
+      "B2B Marketplace",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "TheBrief",
+    "company_url": "https://www.creatopy.com/",
+    "description": "TheBrief (formerly Creatopy) is an AI agency that unifies ad creation, campaign launch, and optimization. It helps teams run ads directly to major channels, generate dynamic creatives at scale, and leverage AI agents for ongoing recommendations and faster, more consistent results.",
+    "sectors": [
+      "PLG",
+      "Enterprise",
+      "AI"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Oradea",
+    "country": "Romania",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Tier",
+    "company_url": "https://www.tier.app/",
+    "description": "Founded in Berlin in 2018, Tier built a leading shared micromobility platform for e‑scooters and e‑bikes across Europe and beyond, focused on safe, sustainable urban transport. In 2024, Tier merged with Dott to create one of Europe’s largest operators.",
+    "sectors": [
+      "Consumer",
+      "Hardware"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "TradeLink",
+    "company_url": "https://www.tradelink.co/",
+    "description": "TradeLink is a logistics collaboration platform that digitizes delivery coordination between warehouses, suppliers, and carriers – covering slot booking, dock and yard management, driver check-in, and load carrier tracking – to make inbound flows predictable, cut waiting times, and improve on-time performance.",
+    "sectors": [
+      "Enterprise",
+      "Logistics"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Tripaneer",
+    "company_url": "https://www.tripaneer.com/",
+    "description": "Tripaneer is a leading marketplace for multi-day, themed travel experiences, spanning yoga and meditation retreats, surf camps, safaris, culinary vacations, and more. Founded in 2013 and based in Amsterdam, it helps travelers discover and safely book unforgettable trips worldwide.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Transportation / Mobility",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Typeform",
+    "company_url": "http://www.typeform.com/",
+    "description": "Typeform, founded in Barcelona in 2012, helps businesses collect insights and leads through beautifully designed, conversational forms, surveys, and quizzes. Today, Typeform has evolved into an AI-powered engagement platform, where users can build and edit interactive forms instantly using natural language prompts.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Barcelona",
+    "country": "Spain",
+    "founded_year": 2013,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Unamo",
+    "company_url": "https://unamo.com/",
+    "description": "Founded in 2012 as Positionly and later rebranded to Unamo, the company provided an integrated platform for SEO ranking, on-page optimization, and social media monitoring to help teams manage and grow their online presence.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "RIP",
+    "city": "Warsaw",
+    "country": "Poland",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Unbounce",
+    "company_url": "http://unbounce.com/",
+    "description": "Unbounce, founded in 2009 in Vancouver, was one of the first and leading platforms for building high-converting landing pages without code. Over time it expanded into a conversion intelligence platform, adding several AI tools to further boost performance and ROI.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Vancouver",
+    "country": "Canada",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Upciti",
+    "company_url": "https://upciti.com/en/",
+    "description": "Paris-based Upciti provides urban intelligence via on‑device computer vision sensors and software that turn real‑time street activity into actionable metrics for traffic, infrastructure, and livability. Used by municipalities worldwide, Upciti processes data locally to protect citizens’ privacy.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Hardware",
+      "Computer Vision"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "UpCodes",
+    "company_url": "https://up.codes/",
+    "description": "UpCodes is a comprehensive building-code compliance platform for architects, engineers, and contractors. Founded in 2016, it unifies searchable codes across jurisdictions, collaboration tools, and Copilot – an AI assistant that answers project-specific code questions with cited sections.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Userfox",
+    "company_url": "https://www.crunchbase.com/organization/userfox",
+    "description": "Userfox built tools to design and send behavior-triggered, personalized emails, enabling startups and SaaS companies to onboard, engage, and retain users. The Y Combinator–backed company was acquired by AdRoll in 2014 to expand its CRM and email capabilities.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2012,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Vend",
+    "company_url": "http://www.vendhq.com/",
+    "description": "Founded in Auckland in 2010, Vend built one of the first cloud POS systems for independent retailers, offering inventory, multi-store, loyalty, and real-time reporting. Backed early by Point Nine, Vend was acquired by Lightspeed in 2021, where its technology continues to power modern retail operations.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "founded_year": 2011,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Vercept",
+    "company_url": "https://vercept.com/",
+    "description": "Founded by world-class AI researchers in Seattle, Vercept is training a foundational model for how computers use computers. Its product, Vy, lets you command your machine with natural language, navigating apps, content, and context seamlessly.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Foundation Model"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Seattle",
+    "country": "USA",
+    "founded_year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Vev",
+    "company_url": "https://about.vev.co/",
+    "description": "Vev provides free, modern software for independent professionals and small teams to run service businesses end-to-end. The platform offers online booking, payments, scheduling, team management, and lightweight CRM.",
+    "sectors": [
+      "Vertical Software"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "founded_year": 2021,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Whereby",
+    "company_url": "https://whereby.com/",
+    "description": "Whereby provides secure, no-download video meetings and a developer-friendly video API used across telehealth, education, and customer support. Founded in Norway as appear.in in 2013 and rebranded in 2019, the company focuses on simplicity, customization, and privacy-first design.",
+    "sectors": [
+      "PLG"
+    ],
+    "stage": "Series A",
+    "status": "Active",
+    "city": "Oslo",
+    "country": "Norway",
+    "founded_year": 2020,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health",
+      "Cybersecurity",
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Wikifarmer",
+    "company_url": "https://wikifarmer.com/market/en/about-us/",
+    "description": "Wikifarmer is a global platform that empowers farmers with free, expert-led education and a B2B marketplace to sell directly to verified buyers. It promotes fair, transparent agri-food trade and traceability while helping buyers source quality, sustainably produced goods.",
+    "sectors": [
+      "B2B Marketplace"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Athens",
+    "country": "Greece",
+    "founded_year": 2022,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "PropTech",
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Workerbase",
+    "company_url": "https://workerbase.com/",
+    "description": "Workerbase helps factories modernize operations with a no-code connected worker suite for digital work instructions, task management, alerts, and data capture – linking people, machines, and IT systems. Manufacturers use it to boost productivity, quality, and agility without rebuilding the shop floor.",
+    "sectors": [
+      "Enterprise",
+      "Manufacturing"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "xChange",
+    "company_url": "https://container-xchange.com/",
+    "description": "Container xChange helps logistics companies buy, sell, and lease shipping containers worldwide on a trusted marketplace, with tools for tracking, partner vetting, and secure payments. Headquartered in Hamburg, the company serves thousands of members across global hubs.",
+    "sectors": [
+      "B2B Marketplace",
+      "Logistics"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Hamburg",
+    "country": "Germany",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Cybersecurity",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Xeneta",
+    "company_url": "https://www.xeneta.com/",
+    "description": "Xeneta is the leading ocean and air freight rate benchmarking and market intelligence platform, using crowdsourced data to deliver real-time pricing, capacity, and index insights that help shippers, forwarders, and carriers benchmark, plan, and negotiate better.",
+    "sectors": [
+      "B2B Marketplace",
+      "Vertical Software",
+      "Logistics"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Oslo",
+    "country": "Norway",
+    "founded_year": 2014,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Logistics / Supply Chain",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Yogaia",
+    "company_url": "https://yogaia.com/",
+    "description": "Yogaia is an online wellness platform offering live and on-demand yoga, Pilates, strength, and mindfulness classes you can join from anywhere. Founded in Finland in 2013, it pioneered live, interactive sessions with optional camera-on feedback to bring studio energy home.",
+    "sectors": [
+      "Consumer"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Helsinki",
+    "country": "Finland",
+    "founded_year": 2015,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Consumer"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Zauber",
+    "company_url": "https://gozauber.com/",
+    "description": "Zauber is building the AI operating system for logistics, unifying tools like spot rate requests and TMS booking to automate planning and execution across the supply chain. Founded by Erik Muttersbach, co-founder of Forto, one of Europe’s largest digital freight forwarders, Zauber applies deep industry expertise to streamline global freight workflows through an integrated, AI-first platform.",
+    "sectors": [
+      "Enterprise",
+      "AI",
+      "Logistics"
+    ],
+    "stage": "Pre-seed",
+    "status": "Active",
+    "city": "Berlin",
+    "country": "Germany",
+    "founded_year": 2025,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Future of Work",
+      "Logistics / Supply Chain"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Zenaton",
+    "company_url": "https://zenaton.com/",
+    "description": "Zenaton was a developer-focused workflow orchestration platform that automated and supervised complex business processes, handling retries and powering event-driven background jobs with simple code across workers and queues.",
+    "sectors": [
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "Paris",
+    "country": "France",
+    "founded_year": 2018,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "ZenML",
+    "company_url": "https://zenml.io",
+    "description": "ZenML is an open-source MLOps and LLMOps framework that helps teams build reproducible, production-ready ML pipelines across any stack. Its code-first, pipeline-centric approach integrates with popular tools, and a managed cloud adds collaboration, governance, and enterprise support.",
+    "sectors": [
+      "Dev Tools & Infra",
+      "AI",
+      "Open Source"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "Munich",
+    "country": "Germany",
+    "founded_year": 2023,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Future of Work"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Zentist",
+    "company_url": "https://zentist.io/",
+    "description": "Zentist provides an AI-powered dental revenue cycle management platform focused on dental support organizations (DSOs) and multi-site dental practices in the US.",
+    "sectors": [
+      "Vertical Software",
+      "Healthcare"
+    ],
+    "stage": "Seed",
+    "status": "Active",
+    "city": "San Francisco",
+    "country": "USA",
+    "founded_year": 2017,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  },
+  {
+    "company_name": "Zype",
+    "company_url": "http://www.zype.com/",
+    "description": "Zype provides an API-first video infrastructure solution that lets media companies manage, monetize, and distribute video content across web, mobile, and other platforms.",
+    "sectors": [
+      "Enterprise",
+      "Dev Tools & Infra"
+    ],
+    "stage": "Seed",
+    "status": "Acquired",
+    "city": "New York CIty",
+    "country": "USA",
+    "founded_year": 2016,
+    "logo_url": "https://cdn.prod.website-files.com/692822ddaad59f0a12948b97/692d8e338f862c7eb6c2660f_ea3c82d6c382ae6ff506117edd6f5f19_unicorn.png",
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.pointnine.com/companies",
+    "scraped_at": "2026-08-03T19:06:56+00:00"
+  }
+]

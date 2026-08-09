@@ -1,0 +1,5177 @@
+[
+  {
+    "company_name": "Board",
+    "description": "Board-game feel, video-game magic. The first ever face-to-face game console.",
+    "company_url": "https://board.fun/",
+    "usv_post_url": "https://www.usv.com/writing/2026/06/board/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/06/Board-Square-300x246.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Efficient Computer",
+    "description": "Efficient Computer builds ultra-low-power processors designed to bring programmable intelligence to energy-constrained devices like EVs, robots, and edge hardware.",
+    "company_url": "https://www.efficient.computer/",
+    "usv_post_url": "https://www.usv.com/writing/2026/02/the-future-of-programmable-everything-runs-on-efficient-energy-efficient-computers-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/03/efficientcomputer_logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "fomo",
+    "description": "fomo is a social-first trading platform building a simpler way to access on-chain markets.",
+    "company_url": "https://fomo.family/",
+    "usv_post_url": "https://www.usv.com/writing/2026/06/fomo/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/06/fomo_logo.jpeg",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Generalist",
+    "description": "A frontier AI research and product-driven company building general intelligence for the physical world.",
+    "company_url": "https://generalistai.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/06/Generalist-AI-Logo-300x300.jpg",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Gritt",
+    "description": "Gritt is an intelligent system that combines robotics and AI to build the infrastructure that pulls society forward.",
+    "company_url": "https://www.gritt.ai/",
+    "usv_post_url": "https://www.usv.com/writing/2026/07/gritt/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/07/gritt_robotics_logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Isembard",
+    "description": "A software-first manufacturing company that uses AI-powered factories and automation to rapidly produce high-precision components for industries like aerospace, defense, and energy.",
+    "company_url": "https://www.isembard.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/03/isembard_logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Climate / Sustainability",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Pascal",
+    "description": "A new prediction market venue built entirely by traders for traders.",
+    "company_url": "https://www.pascal.trade/",
+    "usv_post_url": "https://www.usv.com/writing/2026/07/pascal/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/07/Pascal-300x300.jpg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Suno",
+    "description": "Suno is an AI music platform that empowers anyone to create, edit, and share studio-quality original songs, audio, and music videos.",
+    "company_url": "https://suno.com/",
+    "usv_post_url": "https://www.usv.com/writing/2026/06/suno/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/06/Suno.webp",
+    "first_investment_stage": "Series D",
+    "first_investment_year": 2026,
+    "initial_investment_type": "series-d",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Cactos",
+    "description": "Revolutionize the way you store and use energy",
+    "company_url": "https://cactos.com/",
+    "usv_post_url": "https://www.usv.com/writing/2025/02/cactos/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/07/cactosenergy_logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2025,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Doctronic",
+    "description": "Your trusted AI doctor.",
+    "company_url": "https://www.doctronic.ai/",
+    "usv_post_url": "https://www.usv.com/writing/2025/07/the-rebel-alliance-3/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/01/Doctronic-logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2025,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Electroflow",
+    "description": "Bolstering our Lithum supply without building new mines.",
+    "company_url": "https://www.eflowtech.com/",
+    "usv_post_url": "https://www.usv.com/writing/2025/10/electroflow/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/10/Electroflow-300x296.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2025,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "General Intelligence",
+    "description": "Automate your life with natural language",
+    "company_url": "https://cofounder.co/",
+    "usv_post_url": "https://www.usv.com/writing/2025/12/the-race-to-run-businesses-autonomously-cofounder-by-the-general-intelligence-company-of-new-york/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/01/Cofounder-logo-flower-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2025,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Humane Genomics",
+    "description": "Platform for developing synthetic viruses that can reprogram cells",
+    "company_url": "https://humanegenomics.com/",
+    "usv_post_url": "https://www.usv.com/writing/2025/02/humane-genomics-2/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/hg_logo.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2025,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Miren",
+    "description": "A new kind of software company that's starting with a focus on deployment platforms.",
+    "company_url": null,
+    "usv_post_url": "https://www.usv.com/writing/2025/02/miren/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/08/Miren-Avatar-On-White-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2025,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Pluralis",
+    "description": "Pluralis Research works on Protocol Learning: multi-participant training of foundation models where no single participant has, or can ever obtain, a full copy of the model.",
+    "company_url": "https://pluralis.ai/",
+    "usv_post_url": "https://www.usv.com/writing/2025/03/pluralis-towards-actually-open-ai/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/08/Pluralis-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2025,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Recall",
+    "description": "Recall uses on-chain skill markets and prediction mechanics to create transparent, market-driven rankings of AI model performance.",
+    "company_url": "https://recall.network/",
+    "usv_post_url": "https://www.usv.com/?p=12174",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/03/Recall-Logo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2025,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Supper",
+    "description": "An agentic data platform that connects directly to your existing sources and answers questions in natural language, in real time.",
+    "company_url": "https://www.supper.co/",
+    "usv_post_url": "https://www.usv.com/writing/2025/12/turning-locked-up-data-into-collective-knowledge-suppers-agentic-data-platform/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/03/Supper.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2025,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Tutor Intelligence",
+    "description": "Tutor Intelligence is building the technology and processes to let robots go where they’ve never gone before: the average American factory.",
+    "company_url": "https://tutorintelligence.com/",
+    "usv_post_url": "https://www.usv.com/writing/2025/12/tutor-intelligence/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2026/01/tutorintelligence_logo-.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2025,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Machine Learning"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Volteras",
+    "description": "Volteras is an early-stage startup that specializes in software for electric vehicles and connected cars, driving the adoption of clean technologies in the automotive sector.",
+    "company_url": "https://volteras.com/",
+    "usv_post_url": "https://www.usv.com/writing/2025/05/volteras/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/07/volteras_logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2025,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Anon",
+    "description": "The Integration Platform for the Internet. Empowering developers to build user-permissions integrations for sites without APIs.",
+    "company_url": "https://www.anon.com/",
+    "usv_post_url": "https://www.usv.com/writing/2024/04/our-investment-in-anon/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/05/Anon-300x300.jpeg",
+    "first_investment_stage": null,
+    "first_investment_year": 2024,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Blixt",
+    "description": "Blixt develops technologies that enable software control of electricity and create the spark for an entirely new shift in energy.",
+    "company_url": "https://blixt.tech/",
+    "usv_post_url": "https://www.usv.com/writing/2024/03/blixt/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/03/BLIXT_Logo_Master_Black-300x121.jpg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2024,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Consensus",
+    "description": "Consensus responsibly uses AI to help you conduct research faster.",
+    "company_url": "https://consensus.app/",
+    "usv_post_url": "https://www.usv.com/writing/2024/08/consensus/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/09/consensus_nlp_logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2024,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Daylight",
+    "description": "Personalized, onchain transaction recommendation engine",
+    "company_url": "https://about.daylight.xyz/",
+    "usv_post_url": "https://www.usv.com/writing/2024/09/daylight/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/daylight_logo-300x300.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2024,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Farcaster",
+    "description": "Sufficiently decentralized social network and protocol",
+    "company_url": "https://www.farcaster.xyz/",
+    "usv_post_url": "https://www.usv.com/writing/2024/05/farcaster/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/farcaster_logo-300x300.jpg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2024,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Crypto",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Glow",
+    "description": "Crypto incentives for the deployment of additional solar",
+    "company_url": "https://glow.org/",
+    "usv_post_url": "https://www.usv.com/writing/2024/10/our-investment-in-glow-protocol-depin-at-the-edge-of-energy-markets/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/glow_logo.jpeg",
+    "first_investment_stage": "Token",
+    "first_investment_year": 2024,
+    "initial_investment_type": "token",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate",
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Neynar",
+    "description": "Developer tools for building on open social protocols",
+    "company_url": "https://neynar.com/",
+    "usv_post_url": "https://www.usv.com/writing/2024/05/neynar/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/neynar_logo-300x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2024,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Presto",
+    "description": "Presto enable fleets to charge on-the-go at thousands of public fast-charging stations.",
+    "company_url": "https://www.prestocharging.com/",
+    "usv_post_url": "https://www.usv.com/writing/2025/02/presto/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/Presto-Charging.webp",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2024,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Unigrid",
+    "description": "Sodium batteries for a clean energy future.",
+    "company_url": "https://www.unigridbattery.com/",
+    "usv_post_url": "https://www.usv.com/writing/2024/06/unigrid/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/09/unigrid_inc_logo-1.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2024,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Code",
+    "description": "Instant, global, peer-to-peer payments",
+    "company_url": "https://getcode.com/",
+    "usv_post_url": "https://www.usv.com/writing/2024/02/code/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/code_logo-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2023,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Daybreak",
+    "description": "Daybreak partners with districts and schools to provide personalized mental health support to help students reach their full potential.",
+    "company_url": "https://www.daybreakhealth.com/",
+    "usv_post_url": "https://www.usv.com/writing/2023/08/daybreaks-series-b/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/09/daybreak_health_logo_take5.jpeg",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2023,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Noya",
+    "description": "Noya is accelerating the world's transition to carbon negativity by removing CO2 from the air with direct air carbon capture technology.",
+    "company_url": "https://www.noya.co/",
+    "usv_post_url": "https://www.usv.com/writing/2023/04/noya/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/04/Noya-LockupVertical-PrimeBlue-296x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2023,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Odyssey",
+    "description": "Odyssey’s platform is a digital system of record, connecting project developers, financiers, and equipment suppliers and enabling them to transact in a low-friction, high-trust manner across global opportunities.",
+    "company_url": "https://odysseyenergysolutions.com/",
+    "usv_post_url": "https://www.usv.com/writing/2023/05/odyssey/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/05/Odyssey-1.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2023,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Paragraph",
+    "description": "Onchain publishing",
+    "company_url": "https://paragraph.xyz/",
+    "usv_post_url": "https://www.usv.com/writing/2024/05/doubling-down-on-onchain-publishing-with-paragraph/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/paragraph_logo-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2023,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Sling",
+    "description": "The money button for your phone.",
+    "company_url": "https://sling.money/",
+    "usv_post_url": "https://www.usv.com/writing/2024/08/sling/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/09/Sling-logo-300x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2023,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Super Payments",
+    "description": "Super Payments is a payment network built to make everyone better off. They facilitate payments at 0% fees, whilst offering shoppers a more rewarding way to pay.",
+    "company_url": "https://www.superpayments.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/08/Super-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2023,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "SuppCo",
+    "description": "The World's First Real Supplement Tracker and Optimizer. Research the Highest Quality Products in Each Nutrient Category.",
+    "company_url": "https://supp.co/",
+    "usv_post_url": "https://www.usv.com/writing/2024/10/supp/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/08/suppco-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2023,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Alife",
+    "description": "Alife develops artificial intelligence tools to assist physicians in increasing a patient's chances of pregnancy success.",
+    "company_url": "https://www.alifehealth.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/03/alifes-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/03/Alife-Logo.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Anthro Energy",
+    "description": "Anthro builds batteries to enable radically new electronics that integrate seamlessly with the human body and beyond.",
+    "company_url": "https://www.anthroenergy.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/10/anthro-energy/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/10/Anthro-300x224.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Blackbird Labs",
+    "description": "Blackbird Labs is a web3 loyalty and payments company, focused on leveraging the power of direct connectivity between restaurants and their guests.",
+    "company_url": "https://blackbird.xyz",
+    "usv_post_url": "https://www.usv.com/writing/2022/10/blackbird-labs/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/10/Blackbird-Labs-300x266.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "CarbonChain",
+    "description": "CarbonChain, helps organizations measure their scope 3 emissions, by building a bottom-up and asset-level data approach that covers the end-to-end supply chain.",
+    "company_url": "https://www.carbonchain.com/",
+    "usv_post_url": "https://www.usv.com/writing/2023/04/carbonchain/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/04/Carbon-Chain.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "David Energy",
+    "description": "Connect distributed energy resources like battery storage, solar, and natural gas with David Energy to maximize the value of electricity resources.",
+    "company_url": "https://www.davidenergy.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/03/david-energys-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/03/David-Energy.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Ghost",
+    "description": "Ghost combines real-time data with intelligent solutions to help brands monetize their excess inventory discreetly and sustainably.",
+    "company_url": null,
+    "usv_post_url": "https://www.usv.com/writing/2022/07/ghosts-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/07/Ghost_logo-copy-300x300.jpg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Logistics / Supply Chain",
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Hume AI",
+    "description": "APIs, ML models, and globally diverse data to align science and technology with human well-being.",
+    "company_url": "https://hume.ai/",
+    "usv_post_url": "https://www.usv.com/writing/2023/01/hume-ai/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/02/Hume-AI-300x300.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Journey Clinical",
+    "description": "Journey Clinical is on a mission to address the mental health crisis by expanding access to evidence-based psychedelic therapies, starting with Ketamine-Assisted Psychotherapy (KAP).",
+    "company_url": "https://www.journeyclinical.com/",
+    "usv_post_url": "https://www.usv.com/writing/2023/01/journey-clinicals-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/01/320x320squareJClogo-300x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Lithos Carbon",
+    "description": "Lithos: Carbon removal using the power of enhanced rock weathering",
+    "company_url": "https://www.lithoscarbon.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/10/lithos-carbon/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/10/logo-emblem-black-transparent-medium-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Lydian",
+    "description": "Lydian is on a mission to decarbonize the aviation industry.",
+    "company_url": "https://www.lydianlabs.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/06/1653368734118.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Ostrom",
+    "description": "An energy company structurally aligned to help its customers manage their energy consumption.",
+    "company_url": "https://ostrom.de",
+    "usv_post_url": "https://www.usv.com/writing/2022/12/ostrom/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/12/Ostrom-Logo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Polygon",
+    "description": "Polygon is the leading platform for Ethereum scaling and infrastructure development.",
+    "company_url": "https://polygon.technology/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/polygon-matic-logo-300x300.png",
+    "first_investment_stage": "Token",
+    "first_investment_year": 2022,
+    "initial_investment_type": "token",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Radiant",
+    "description": "Radiant develops the first portable, zero-emissions power source that works anywhere.",
+    "company_url": "https://www.radiantnuclear.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/03/radiant/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/03/radiant-logo-300x194.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Reservoir",
+    "description": "Token trading infrastructure across all chains",
+    "company_url": "https://reservoir.tools/",
+    "usv_post_url": "https://www.usv.com/writing/2025/02/reservoir/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/FcpJsspv_400x400-removebg-preview-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Revel",
+    "description": "A web 3 personal media collecting and trading platform forming communities around shared assets and people.",
+    "company_url": null,
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/06/Revel-square-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Rupa Health",
+    "description": "Order, track & get results from 30+ lab companies in one place.",
+    "company_url": "https://www.rupahealth.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/10/Rupa.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Shortwave",
+    "description": "Shortwave helps you email smarter and faster using your existing Gmail account so you can actually enjoy your inbox",
+    "company_url": null,
+    "usv_post_url": "https://www.usv.com/writing/2022/02/shortwave/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/Shortwave-300x300.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2022,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Slope",
+    "description": "Slope handles the lending, underwriting, debt collection, and fully pay out to you immediately once the product or service ships.",
+    "company_url": null,
+    "usv_post_url": "https://www.usv.com/writing/2022/04/slope/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/04/Slope-288x300.jpg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "WalletConnect",
+    "description": "WalletConnect is an open-source standard for connecting desktop Dapps to mobile Wallets.",
+    "company_url": "https://walletconnect.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/03/walletconnect/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/03/Wallet-Connect-300x155.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "XFuel",
+    "description": "XFuel produces sustainable net-zero road, marine, and aviation fuels from waste biomass from sources such as manufacturing, construction, forestry, and agriculture",
+    "company_url": "https://xfuel.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/07/xfuel/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/07/xFuel.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Zanskar",
+    "description": "AI platform to accelerate the discovery and development of geothermal energy resources",
+    "company_url": "https://www.zanskar.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/08/zanskar/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/09/Zanskar-Logo-Vertical-Color.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2022,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "ADDI",
+    "description": "ADDI is a fintech company that offers credit and banking solutions at points of sales in Colombia.",
+    "company_url": "https://co.addi.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/05/addi/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/06/Addi-Logo-300x300.jpeg",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "BOLT",
+    "description": "A platform for electric vehicles and charging network",
+    "company_url": "https://revos.in/",
+    "usv_post_url": "https://www.usv.com/writing/2021/09/revos/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/Bolt-300x300.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate",
+      "Transportation"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Bright Moments DAO",
+    "description": "NFT DAO focusing on minting NFTs in physical spaces",
+    "company_url": "https://www.cryptovenetians.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/08/bright-moments-dao/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/DAO-300x300.jpeg",
+    "first_investment_stage": null,
+    "first_investment_year": 2021,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Brilliant Planet",
+    "description": "Brilliant Planet is unlocking the power of algae as an affordable method of permanently and quantifiably sequestering carbon at the gigaton scale.",
+    "company_url": "https://www.brilliantplanet.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/04/brilliant-planet/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/04/BPL-Icon-colourJPG_1x.jpg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Ceramic/3Box Labs",
+    "description": "Ceramic is a decentralized network for composable Web 3 data.",
+    "company_url": "https://ceramic.network",
+    "usv_post_url": "https://www.usv.com/writing/2022/02/ceramic/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/Ceramic-300x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Dune Analytics",
+    "description": "Community-first crypto analytics platform",
+    "company_url": "https://dune.xyz/home",
+    "usv_post_url": "https://www.usv.com/writing/2021/08/dune-analytics/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/08/Dune-Analytics-Logo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Fiveable",
+    "description": "A first of its kind social learning platform connecting student-led spaces with top-quality guidance & resources designed to help boost your confidence and build your future",
+    "company_url": "https://fiveable.me/",
+    "usv_post_url": "https://www.usv.com/writing/2021/09/fiveables-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/Fiveable.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "FloodMapp",
+    "description": "FloodMapp is a world-first predictive flood mapping technology, available as a suite of B2B Saas products.",
+    "company_url": "https://www.floodmapp.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/02/floodmapp/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/Floodmapp.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Karat",
+    "description": "Credit card for influencers.",
+    "company_url": "https://www.trykarat.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/07/karat/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/Karat-300x300.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Kiosk",
+    "description": "Kiosk is a new Farcaster client where social meets onchain.",
+    "company_url": "https://kiosk.app/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/09/kiki-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "m3ter",
+    "description": "m³ter is the metering and pricing engine for SaaS companies - making it easy to intelligently deploy and manage usage-based pricing.",
+    "company_url": "https://www.m3ter.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/02/m3ter/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/m3ter.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Matter Labs (zkSync)",
+    "description": "Matter Labs(zkSync) solves Ethereum scalability with zero security compromises.",
+    "company_url": "https://zksync.io/",
+    "usv_post_url": "https://www.usv.com/writing/2021/06/scaling-ethereum-with-zksync/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/06/zkSync_logo-300x300.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Mindset",
+    "description": "KPop inspired audio wellness platform for GenZ and millennials",
+    "company_url": "https://www.getmindset.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/08/mindset/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/Untitled.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Molten Industries",
+    "description": "Low-cost, clean hydrogen to decarbonize heavy industry",
+    "company_url": "https://www.moltenindustries.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/10/molten-industries/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/10/Molten-Fav-Icon-1200x1200-1-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Mombak",
+    "description": "Removing carbon for the future.",
+    "company_url": "https://mombak.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/12/mombak/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2023/01/Mombak.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Mundi",
+    "description": "Mundi is the first financial services platform for exporters and freight forwarders",
+    "company_url": "https://mundi.io/en/exporters",
+    "usv_post_url": "https://www.usv.com/writing/2022/02/mundis-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/1605036621857.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Parallel Markets",
+    "description": "The easiest way for financial platforms to onboard individuals and businesses and validate their information.",
+    "company_url": "https://parallelmarkets.com",
+    "usv_post_url": "https://www.usv.com/writing/2022/02/parallel-markets/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/02/1554322614290.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Remora",
+    "description": "Remora is a climate tech company building a device that captures the carbon emissions from a semi-truck.",
+    "company_url": "https://www.remoracarbon.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/08/remora/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/08/remora_logo-2-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Shift EV",
+    "description": "Shift EV is an electric mobility technology startup with a mission to electrify fleets in emerging markets, one decade faster",
+    "company_url": "https://www.shift-ev.com/",
+    "usv_post_url": "https://www.usv.com/writing/2022/04/shift-ev/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2022/04/Shift-EV--297x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Sofar Ocean",
+    "description": "Sofar builds accessible ocean sensing and exploration tools for ocean enthusiasts, industry, and conservation.",
+    "company_url": "https://www.sofarocean.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/11/sofar-oceans-series-b/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/11/5dae4bfc7b316e382df555f8_SOFAR_BM-blue-padded-300x300.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "soona",
+    "description": "soona is a creative platform that makes it possible for e-commerce stores and marketers to create pro photos and videos in 3 easy steps.",
+    "company_url": "https://soona.co/",
+    "usv_post_url": "https://www.usv.com/writing/2021/04/soona/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/06/soona.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Tapestry",
+    "description": "Onchain social app and protocol focused on generative apps",
+    "company_url": "https://www.usetapestry.dev/",
+    "usv_post_url": "https://www.usv.com/writing/2024/04/the-primitives-protocol/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2025/02/tapestry_logo-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Transmutex",
+    "description": "Nuclear waste to green energy",
+    "company_url": "https://www.transmutex.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/07/transmutex/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/Transmutex.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2021,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Viam",
+    "description": "Viam is building a new platform to make robotics more approachable to engineers of all backgrounds, empowering thousands of startups to achieve their robotic visions.",
+    "company_url": "https://www.viam.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/06/viam/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/08/Viam_TILE-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2021,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "alt.bank",
+    "description": "The digital account that makes your life easier.",
+    "company_url": "https://www.altbank.com.br/",
+    "usv_post_url": "https://www.usv.com/writing/2021/05/alt-bank/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/08/alt.bank_.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Bolster",
+    "description": "Bolster is a tech-enabled executive search firm that connects companies with leadership talent for full-time, on-demand, and board roles. They combine the power of experienced recruiters with an intelligent search platform to surface the best candidates and deliver a superior search experience, with flat fees and transparent pricing.",
+    "company_url": "https://bolster.com/",
+    "usv_post_url": "https://www.usv.com/writing/2020/09/bolster-your-management-team-and-board/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/09/Bolster_Logo_Vertical_Dark_FullColor_Gradient-1-300x252.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2020,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Workforce"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Headgum",
+    "description": "Headgum is the premier destination for comedy podcasts, paired with Gumball.fm, a tech marketplace built to simplify buying host-read podcast ads.",
+    "company_url": "http://www.headgum.com",
+    "usv_post_url": "https://www.usv.com/writing/2020/07/headgum/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/09/Headgum_Twitter_Profile_HG_WhiteBolt_Purple1-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2020,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Media",
+      "Publishing"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Jam",
+    "description": "Jam is a new in-the-flow collaboration tool for product teams that turns any product or website into a collaborative doc.",
+    "company_url": "https://jam.dev/",
+    "usv_post_url": "https://www.usv.com/writing/2020/10/making-butter-with-jam/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/10/jam-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2020,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Juro",
+    "description": "Juro is a contract collaboration platform, helping businesses agree faster and gain more visibility into contract data.",
+    "company_url": "https://juro.com/",
+    "usv_post_url": "https://www.usv.com/writing/2020/01/juro/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/12/Screen-Shot-2019-12-20-at-1.55.44-PM-300x242.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Machine Learning",
+      "Workforce"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Justworks",
+    "description": "Simple software + expert support for payroll, benefits, HR, and compliance.",
+    "company_url": "https://justworks.com/",
+    "usv_post_url": "https://www.usv.com/writing/2020/01/justworks/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/01/justworks.png",
+    "first_investment_stage": "Series E",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-e",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "HR"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "NCX",
+    "description": "NCX is a climate tech company that empowers mission-driven companies to buy real carbon credits from American landowners.",
+    "company_url": "https://www.silviaterra.com/",
+    "usv_post_url": "https://www.usv.com/writing/2021/01/silviaterra/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/01/NCX-Logo-Full-Color-Transparent-300x210.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Possible Finance",
+    "description": "Possible is making financial services more fair and affordable for lower-income Americans.",
+    "company_url": "https://www.possiblefinance.com/",
+    "usv_post_url": "https://www.usv.com/writing/2020/10/our-investment-in-possible/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/10/PossiblePrimaryLockup-275x300.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "SmartHop",
+    "description": "SmartHop is an AI-powered \"business-in-a-box\" platform that empowers small trucking companies and owner-operators to earn more while doing less.",
+    "company_url": "https://www.smarthop.co/",
+    "usv_post_url": "https://www.usv.com/writing/2021/02/smarthops-series-a/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/02/RRSSArtboard-38-300x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Transportation"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Sora",
+    "description": "Sora is a new, virtual high school that’s on a mission to build — from the ground up — the gold standard in online education.",
+    "company_url": "https://soraschools.com/",
+    "usv_post_url": "https://www.usv.com/writing/2020/10/sora/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/10/sora-icon-logo-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2020,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Teamshares",
+    "description": "A fintech platform that's making employee ownership the future of small business",
+    "company_url": "https://www.teamshares.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/09/teamshare.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2020,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Abridge",
+    "description": "Abridge empowers people to record and understand the details of their care so they can stay on top of their health",
+    "company_url": "http://abridge.com",
+    "usv_post_url": "https://www.usv.com/writing/2019/07/announcing-abridge/",
+    "logo_url": null,
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Consumer",
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Arweave",
+    "description": "A novel data storage blockchain protocol enabling a permanent serverless web and creating truly permanent data storage for the first time.",
+    "company_url": "https://www.arweave.org/",
+    "usv_post_url": "https://www.usv.com/writing/2019/11/arweave/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-4.41.10-PM-1-300x285.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Dreambound",
+    "description": "Everything you need to start a new career— education, coaching, and more",
+    "company_url": "https://dreambound.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2024/08/dreambound.jpeg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Workforce"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Leap",
+    "description": "Leap allows every connected device to help balance the grid, and get paid for it. Access wholesale markets through a single API and help build the flexible, renewable grid of the future.",
+    "company_url": "http://leap.energy",
+    "usv_post_url": "https://www.usv.com/writing/2020/01/leap/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/01/leap-square-logo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2019,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Marley Spoon",
+    "description": "Marley Spoon is bringing delightful, market-fresh and easy cooking back to the people, while building a more sustainable food supply chain.",
+    "company_url": "https://marleyspoon.com/",
+    "usv_post_url": "https://www.usv.com/writing/2019/04/marley-spoon/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/marleyspoon.png",
+    "first_investment_stage": "Common",
+    "first_investment_year": 2019,
+    "initial_investment_type": "common",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Food"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Meet Cute",
+    "description": "Meet Cute is a new type of entertainment company making short, original, scripted rom coms that take listeners from Meet Cute to Happily Ever After in fifteen minutes.",
+    "company_url": "https://www.meetcute.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/02/Group-1-2-1-300x300.jpg",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Noah",
+    "description": "Noah is a modern finance company helping homeowners tap into their home value to meet their financial goals without incurring new monthly payments or interest.",
+    "company_url": "https://www.patchhomes.com/",
+    "usv_post_url": "https://www.usv.com/writing/2019/09/patch-homes-a-modern-finance-company/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/09/Noah_Logo-Color-300x300.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2019,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech",
+      "Real Estate"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Nova Labs",
+    "description": "Helium is building a new kind of wireless network for IoT.",
+    "company_url": "http://helium.com",
+    "usv_post_url": "https://www.usv.com/writing/2019/06/helium/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/Nova-Labs-300x300.jpeg",
+    "first_investment_stage": "Series C",
+    "first_investment_year": 2019,
+    "initial_investment_type": "series-c",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Hardware",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Otis",
+    "description": "Otis lets anyone invest in cultural assets.",
+    "company_url": "https://withotis.com/",
+    "usv_post_url": "https://www.usv.com/writing/2019/07/otis-2/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/10/Otis-logo-updated.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Outschool",
+    "description": "Outschool connects motivated learners, parents, and teachers together to create great learning experiences.",
+    "company_url": "https://outschool.com/",
+    "usv_post_url": "https://www.usv.com/writing/2019/05/welcoming-outschool-to-usv/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/outschool.jpeg",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2019,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Education",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Recount Media",
+    "description": "Recount Media is a new approach to short-form video covering political news, answering the question, \"Where can I go to see and understand what's happening in politics, right now?\"",
+    "company_url": "https://therecount.com/",
+    "usv_post_url": "https://www.usv.com/writing/2019/10/recount-media/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/10/Recount-Black.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Media"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Sofar Sounds",
+    "description": "Sofar Sounds is a global community creating spaces where music matters.",
+    "company_url": "https://www.sofarsounds.com",
+    "usv_post_url": "https://www.usv.com/writing/2019/05/sofar/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/sofar.png",
+    "first_investment_stage": "Series C",
+    "first_investment_year": 2019,
+    "initial_investment_type": "series-c",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Music"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Wren",
+    "description": "Wren is a monthly subscription to offset your carbon footprint.",
+    "company_url": "https://projectwren.com/",
+    "usv_post_url": "https://www.usv.com/writing/2020/01/wren/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2020/01/wren-square-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2019,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Climate"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Algorand",
+    "description": "Algorand is a scalable, secure and decentralized digital currency and transactions platform.",
+    "company_url": "https://www.algorand.com/",
+    "usv_post_url": "https://www.usv.com/writing/2018/02/algorand/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/algorand.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2018,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Fintech",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Autonomous Partners",
+    "description": "Autonomous Partners is a crypto-focused investment fund.",
+    "company_url": null,
+    "usv_post_url": "https://www.usv.com/writing/2018/06/investing-in-token-focused-funds/",
+    "logo_url": null,
+    "first_investment_stage": null,
+    "first_investment_year": 2018,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Dapper Labs",
+    "description": "Dapper Labs: The serious business of fun and games on the blockchain.",
+    "company_url": "https://www.dapperlabs.com",
+    "usv_post_url": "https://www.usv.com/writing/2018/03/cryptokitties-2/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/dapperlabs.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2018,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Gaming",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Dia",
+    "description": "Dia&Co is the only retail service that meets the comprehensive style needs of plus size women — from content to apparel brands to community experiences.",
+    "company_url": "https://www.dia.com/",
+    "usv_post_url": "https://www.usv.com/writing/2018/11/welcoming-diaco-to-usv/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/dia.png",
+    "first_investment_stage": "Series C",
+    "first_investment_year": 2018,
+    "initial_investment_type": "series-c",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Commerce",
+      "Community",
+      "Consumer"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Placeholder",
+    "description": "Placeholder is a venture capital partnership that believe cryptonetworks will change the structure of global markets and counteract global inequality by decentralizing access to data, wealth and power.",
+    "company_url": "http://placeholder.vc",
+    "usv_post_url": "https://www.usv.com/writing/2018/06/investing-in-token-focused-funds/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/08/placeholder.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2018,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Scroll",
+    "description": "Scroll is a consumer subscription service that delivers a fast clean ad-free experience across a network of premium media sites.",
+    "company_url": "https://scroll.com/",
+    "usv_post_url": "https://www.usv.com/writing/2018/10/scroll/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/scroll.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2018,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Twitter",
+    "acquirer": "Twitter",
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Media",
+      "Publishing"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "ShopShops",
+    "description": "ShopShops is a livestream, interactive global shopping marketplace that connects brick and mortar retailers with cross-border shoppers online via their mobile phones.",
+    "company_url": "http://shopshopslive.com",
+    "usv_post_url": "https://www.usv.com/writing/2018/04/shopshops/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/shopshops.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2018,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Commerce",
+      "Consumer",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Stash",
+    "description": "Stash is on a mission to provide all Americans with the education, tools and guidance needed to unlock their own financial opportunity.",
+    "company_url": "https://www.stash.com/",
+    "usv_post_url": "https://www.usv.com/writing/2018/02/welcoming-stash-to-the-usv-portfolio/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/stash1-300x300.jpg",
+    "first_investment_stage": "Series D",
+    "first_investment_year": 2018,
+    "initial_investment_type": "series-d",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Agentero",
+    "description": "Agentero is insuretech for independent agents",
+    "company_url": "https://www.agentero.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/02/logoAgentero-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2017,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Blocktower Capital",
+    "description": "BlockTower is a leading cryptoasset investment firm, applying professional trading, investing and portfolio management to an emerging digital asset class.",
+    "company_url": "http://blocktower.com",
+    "usv_post_url": "https://www.usv.com/writing/2018/06/investing-in-token-focused-funds/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/08/blocktower.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2017,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Caretaker",
+    "description": "Caretaker is the easiest way to sublet, get out of, or find a lease. Find thousands of flexible sublets in New York, Los Angeles, and San Francisco.",
+    "company_url": "https://caretaker.com/",
+    "usv_post_url": "https://www.usv.com/writing/2017/06/flip/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/caretaker-logo-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2017,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Fintech",
+      "Marketplace",
+      "Real Estate"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance",
+      "PropTech"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "goTenna",
+    "description": "goTenna’s mesh networks create programmable mobile infrastructure that advance universal access to connectivity.",
+    "company_url": "http://gotenna.com",
+    "usv_post_url": "https://www.usv.com/writing/2017/04/gotenna/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/gotenna.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2017,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Hardware",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "MetaStable Capital",
+    "description": "MetaStable is an investment fund that believes that blockchain technology has the potential to transform vast segments of the global econom",
+    "company_url": "http://metastablecapital.com",
+    "usv_post_url": "https://www.usv.com/writing/2018/06/investing-in-token-focused-funds/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/09/metastable-300x160.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2017,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Modern Fertility",
+    "description": "Modern Fertility helps women own their fertility and their futures by making the same fertility hormone tests offered in infertility clinics, more accessible, earlier in life",
+    "company_url": "https://modernfertility.com/",
+    "usv_post_url": "https://www.usv.com/writing/2018/05/our-investment-in-modern-fertility/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/modernfertility.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2017,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Hardware",
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Deeptech / Robotics / AR/VR",
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Multicoin Capital",
+    "description": "Multicoin Capital is a thesis-driven investment firm that invests in cryptocurrencies, tokens, and blockchain companies reshaping trillion-dollar markets.",
+    "company_url": "http://multicoin.capital",
+    "usv_post_url": "https://www.usv.com/writing/2018/06/investing-in-token-focused-funds/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/08/multicoin.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2017,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Top Hat",
+    "description": "Top Hat’s interactive, cloud-based teaching platform enables professors to engage students inside and outside the classroom with compelling content, tools and activities.",
+    "company_url": "http://tophat.com",
+    "usv_post_url": "https://www.usv.com/writing/2017/02/top-hat/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/tophat.png",
+    "first_investment_stage": "Series C",
+    "first_investment_year": 2017,
+    "initial_investment_type": "series-c",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Tucows",
+    "description": "Tucows creates simple, powerful services that unlock the power of the Internet.",
+    "company_url": "http://tucows.com",
+    "usv_post_url": "https://www.usv.com/writing/2017/02/tucows/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/tucows.png",
+    "first_investment_stage": "Common",
+    "first_investment_year": 2017,
+    "initial_investment_type": "common",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Upgrade",
+    "description": "Upgrade is an online credit platform combining consumer loans with credit monitoring and credit education tools.",
+    "company_url": "http://upgrade.com",
+    "usv_post_url": "https://www.usv.com/writing/2017/04/upgrade/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/upgrade.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2017,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Code Climate",
+    "description": "Code Climate is the most advanced, open and extensible platform for source code analytics",
+    "company_url": "https://codeclimate.com/",
+    "usv_post_url": "https://www.usv.com/writing/2016/10/code-climate/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/codeclimate.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2016,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Developer Tools",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "CoverWallet",
+    "description": "CoverWallet is commercial insurance for small business",
+    "company_url": "http://coverwallet.com",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/coverwallet.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2016,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Aon",
+    "acquirer": "Aon",
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Fintech",
+      "Insurance"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Jobbatical",
+    "description": "Jobbatical is removing the friction of international relocation by making immigration processes seamless through technology",
+    "company_url": "http://jobbatical.com",
+    "usv_post_url": "https://www.usv.com/writing/2016/03/jobbatical/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/jobbatical.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2016,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Workforce"
+    ],
+    "everywhere_tags": [
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Numerai",
+    "description": "Numerai is a new kind of hedge fund, built by a network of data scientists.",
+    "company_url": "https://numer.ai/",
+    "usv_post_url": "https://www.usv.com/writing/2016/12/numerai/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/numerai.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2016,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Data",
+      "Machine Learning"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Nurx",
+    "description": "Nurx is your medication prescribed and delivered",
+    "company_url": "https://app.nurx.co/",
+    "usv_post_url": "https://www.usv.com/writing/2016/10/nurx/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/nurx-1.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2016,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Payjoy",
+    "description": "Payjoy is consumer finance for the next billion",
+    "company_url": "https://www.payjoy.com/",
+    "usv_post_url": "https://www.usv.com/writing/2016/07/payjoy/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/payjoy.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2016,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Polychain Capital",
+    "description": "Polychain Capital is the world's premier blockchain asset hedge fund",
+    "company_url": "http://polychain.capital/",
+    "usv_post_url": "https://www.usv.com/writing/2018/06/investing-in-token-focused-funds/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/polychain.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2016,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Protocol Labs",
+    "description": "Protocol Labs is a research, development, and deployment lab for network protocols",
+    "company_url": "https://protocol.ai",
+    "usv_post_url": "https://www.usv.com/writing/2017/05/protocol-labs/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/protocol.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2016,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "RealtyShares",
+    "description": "Tech-enabled real estate marketplace giving investors access to pre-vetted deals and companies.",
+    "company_url": "https://www.realtyshares.com/",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/realtyshares.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2016,
+    "initial_investment_type": "series-b",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech",
+      "Marketplace",
+      "Real Estate"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer",
+      "PropTech"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Shippo",
+    "description": "Shippo is an API that powers shipping for businesses",
+    "company_url": "http://goshippo.com",
+    "usv_post_url": "https://www.usv.com/writing/2016/09/shippo/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/goshippo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2016,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Clarifai",
+    "description": "Bringing a world-class visual recognition system to everyone",
+    "company_url": "http://clarifai.com",
+    "usv_post_url": "https://www.usv.com/writing/2015/04/clarifai/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/clarifai.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2015,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Developer Tools",
+      "Machine Learning"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Clue",
+    "description": "Clue is a cycle tracking app that gives personal insights into female health.",
+    "company_url": "http://helloclue.com/",
+    "usv_post_url": "https://www.usv.com/writing/2015/10/clue/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/helloclue.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2015,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Koko",
+    "description": "Koko provides AI to support community moderation at scale",
+    "company_url": "http://itskoko.com",
+    "usv_post_url": "https://www.usv.com/writing/2015/12/introducing-koko/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/koko.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2015,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Airbnb",
+    "acquirer": "Airbnb",
+    "ticker_symbol": null,
+    "sectors": [
+      "Health",
+      "Machine Learning"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "La Ruche qui dit Oui!",
+    "description": "La Ruche connects farmers with people who want farm fresh food",
+    "company_url": "http://laruchequiditoui.fr",
+    "usv_post_url": "https://www.usv.com/writing/2015/06/la-ruche-qui-dit-oui/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/laruchequiditoui.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2015,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Food"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "CPG"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "OB1",
+    "description": "OB1 is making trade free for everyone, everywhere",
+    "company_url": "http://ob1.io/",
+    "usv_post_url": "https://www.usv.com/writing/2015/06/introducing-ob1/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/ob1.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2015,
+    "initial_investment_type": "seed",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Commerce",
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Pilot",
+    "description": "Pilot is a new kind of ISP.",
+    "company_url": "http://pilotfiber.com",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/pilot.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2015,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Quizlet",
+    "description": "Quizlet builds simple tools that let you study anything, anywhere",
+    "company_url": "http://quizlet.com",
+    "usv_post_url": "https://www.usv.com/writing/2015/11/quizlet/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/quizlet.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2015,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Simscale",
+    "description": "Simscale is a web-based engineering simulation (CAE) platform",
+    "company_url": "http://simscale.com",
+    "usv_post_url": "https://www.usv.com/writing/2015/12/simscale/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/simscale.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2015,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Zeitview",
+    "description": "Nationwide drone services for aerial imagery, video, and data.",
+    "company_url": "https://www.zeitview.com/",
+    "usv_post_url": "https://www.usv.com/writing/2015/04/dronebase/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/dronebase.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2015,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Amino",
+    "description": "Amino is a mobile platform for passionate, niche communities.",
+    "company_url": "http://aminoapps.com",
+    "usv_post_url": "https://www.usv.com/writing/2014/07/amino/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/amino.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2014,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Consumer",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Assembly",
+    "description": "Assembly is a community platform for building and running software products.",
+    "company_url": "http://assembly.com",
+    "usv_post_url": "https://www.usv.com/writing/2014/11/assembly/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/assembly.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2014,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Creator Platform",
+      "Developer Tools",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Dev Tools / Cloud",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Carta",
+    "description": "Carta is Introducing ownership management.",
+    "company_url": "http://carta.com",
+    "usv_post_url": "https://www.usv.com/writing/2015/01/eshares/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/carta.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2014,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Data",
+      "Enterprise",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Casetext",
+    "description": "Casetext is a collaborative information-sharing network for lawyers and legal experts",
+    "company_url": "http://casetext.com",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/casetext.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2014,
+    "initial_investment_type": null,
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "RegTech/Gov/Legal"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "CrowdRise",
+    "description": "CrowdRise is a crowdfunding platform for charitable giving.",
+    "company_url": "http://crowdrise.com",
+    "usv_post_url": "https://www.usv.com/writing/2014/04/crowdrise/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/crowdrise.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2014,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by GoFundMe",
+    "acquirer": "GoFundMe",
+    "ticker_symbol": null,
+    "sectors": [
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Figure1",
+    "description": "Figure1 is a network of healthcare professionals sharing images and other content.",
+    "company_url": "http://figure1.com",
+    "usv_post_url": "https://www.usv.com/writing/2014/08/figure-1/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/figure1.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2014,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Stacks",
+    "description": "Stacks brings apps and smart contracts to Bitcoin.",
+    "company_url": "https://www.blockstack.org/",
+    "usv_post_url": "https://www.usv.com/writing/2020/12/stacks-2-0/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2021/01/Nexus-Black-300x300.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2014,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Stripe",
+    "description": "Stripe is the best software platform for running an internet business.",
+    "company_url": "http://stripe.com",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/08/stripe-1.png",
+    "first_investment_stage": "Common",
+    "first_investment_year": 2014,
+    "initial_investment_type": "common",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Developer Tools",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Veniam",
+    "description": "Veniam delivers the networking fabric for the Internet of Moving Things.",
+    "company_url": "http://veniam.com",
+    "usv_post_url": "https://www.usv.com/writing/2014/12/introducing-veniam/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/veniam.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2014,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Infrastructure",
+      "Transportation"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Circleup",
+    "description": "CircleUp is a data insights company that uses a unique combination of data and machine learning technology to discover and accelerate the growth of the world’s best businesses. CircleUp has deployed over $1B capital to date and has supported over 500 successful brands.",
+    "company_url": "http://circleup.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/05/circleup/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/CircleUp-Logomark-Black-300x150.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Cloudflare",
+    "description": "Cloudflare is helping to build a better Internet",
+    "company_url": "http://cloudflare.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/12/cloudflare/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/cloudflare.png",
+    "first_investment_stage": "Series C",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-c",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NYSE: NET",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: NET",
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure",
+      "Privacy & Security"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Coinbase",
+    "description": "Coinbase is creating an open financial system for the world.",
+    "company_url": "http://coinbase.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/05/coinbase/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/coinbase-1.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Crypto",
+      "Enterprise",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "Web3 / Crypto",
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Firebase",
+    "description": "Firebase is a scalable real-time backend.",
+    "company_url": "http://firebase.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/06/firebase/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/firebase.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Google",
+    "acquirer": "Google",
+    "ticker_symbol": null,
+    "sectors": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Human Dx",
+    "description": "Human Dx enables and supports the development of the Human Diagnosis Project.",
+    "company_url": "http://humandx.org",
+    "usv_post_url": "https://www.usv.com/writing/2013/11/human-dx/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/hudx.png",
+    "first_investment_stage": null,
+    "first_investment_year": 2013,
+    "initial_investment_type": null,
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "AI",
+      "Health"
+    ],
+    "everywhere_tags": [
+      "Health"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Kitchensurfing",
+    "description": "Kitchensurfing is a marketplace of private chefs.",
+    "company_url": "http://kitchensurfing.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/04/kitchensurfing/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/kitchensurfing.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Food",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "CPG",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Onefootball",
+    "description": "Onefootball is the most comprehensive football app for your smartphone.",
+    "company_url": "http://onefootball.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/10/teaming-up-with-the-football-app/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/onefootball.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Media"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Science Exchange",
+    "description": "Science Exchange is an online marketplace for scientific services.",
+    "company_url": "http://scienceexchange.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/04/science-exchange/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/scienceexchange.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Sidecar",
+    "description": "Sidecar is a marketplace for people to give and get rides from their mobile phone.",
+    "company_url": "http://side.cr",
+    "usv_post_url": "https://www.usv.com/writing/2014/02/a-vc-sidecar/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/sidecar-300x300.jpg",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-b",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by General Motors",
+    "acquirer": "General Motors",
+    "ticker_symbol": null,
+    "sectors": [
+      "Transportation"
+    ],
+    "everywhere_tags": [
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "SigFig",
+    "description": "SigFig is an investment management platform that helps investors better optimize their portfolio.",
+    "company_url": "http://sigfig.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/07/sigfig/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/sigfig.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Fintech"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Splice",
+    "description": "Splice is a technology platform for musicians to better create, collaborate and share their work.",
+    "company_url": "https://splice.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/10/splice/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/splice.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2013,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Creator Platform",
+      "Music"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "VHX",
+    "description": "VHX is a video distribution platform.",
+    "company_url": "http://vhx.tv",
+    "usv_post_url": "https://www.usv.com/writing/2013/08/vhx/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/vhx.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2013,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Vimeo",
+    "acquirer": "Vimeo",
+    "ticker_symbol": null,
+    "sectors": [
+      "Creator Platform",
+      "Media"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Auxmoney",
+    "description": "Auxmoney is Germany's largest platform for consumer peer-to-peer lending.",
+    "company_url": "http://auxmoney.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/06/auxmoney/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/auxmoney.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Behance",
+    "description": "Behance is an online platform that enables creative professionals to showcase and discover creative work via online portfolios.",
+    "company_url": "http://behance.net",
+    "usv_post_url": "https://www.usv.com/writing/2012/05/behance/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/09/behance.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Adobe",
+    "acquirer": "Adobe",
+    "ticker_symbol": null,
+    "sectors": [
+      "Creator Platform"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "C2FO",
+    "description": "C2FO is a global marketplace for working capital transactions.",
+    "company_url": "http://c2fo.com",
+    "usv_post_url": "https://www.usv.com/writing/2012/09/pollenware-c2fo/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/C2FO-Logo-1-e1610663089813-300x258.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Fintech",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Dwolla",
+    "description": "Dwolla provides an ACH API for businesses and platforms to leverage a powerful bank transfer platform",
+    "company_url": "http://dwolla.com",
+    "usv_post_url": "https://www.usv.com/writing/2012/02/dwolla/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/dwolla.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Fintech",
+      "Infrastructure"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "FREE NOW",
+    "description": "FREE NOW is bringing ride-hailing around the world under one roof, so you'll always have a safe and comfortable trip to your next destination.",
+    "company_url": "https://www.your-now.com",
+    "usv_post_url": "https://www.usv.com/writing/2013/02/hailo/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/freenow.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Marketplace",
+      "Transportation"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Transportation / Mobility"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Funding Circle",
+    "description": "Funding Circle is a marketplace for small business loans.",
+    "company_url": "http://fundingcircle.com",
+    "usv_post_url": "https://www.usv.com/writing/2012/04/funding-circle/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/fundingcircle.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-b",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "LON: FCH",
+    "acquirer": null,
+    "ticker_symbol": "LON: FCH",
+    "sectors": [
+      "Fintech",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Props",
+    "description": "Props turns App users into loyal financial stakeholders. (USV initially invested in YouNow, the predecessor company to Props)",
+    "company_url": "http://propsproject.com",
+    "usv_post_url": "https://www.usv.com/writing/2006/06/oddcast/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/Screen-Shot-2020-10-04-at-2.29.00-PM.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2012,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Creator Platform",
+      "Crypto",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment",
+      "Web3 / Crypto"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Brewster",
+    "description": "Brewster is an address book for the twenty-first century.",
+    "company_url": "http://brewster.com",
+    "usv_post_url": "https://www.usv.com/writing/2012/07/brewster/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/brewster.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2011,
+    "initial_investment_type": "seed",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Canvas",
+    "description": "Canvas is a community platform for drawing.",
+    "company_url": "http://canv.as",
+    "usv_post_url": "https://www.usv.com/writing/2011/06/canvas/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/canvas.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Media",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Codecademy",
+    "description": "Codecademy is an interactive curriculum for learning how to code.",
+    "company_url": "http://codecademy.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/10/codecademy/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/codecademy.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "DuckDuckGo",
+    "description": "DuckDuckGo is a search engine with instant answers, real privacy, and less clutter.",
+    "company_url": "http://duckduckgo.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/10/duck-duck-go/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/ddg.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Privacy & Security"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Cybersecurity"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Duolingo",
+    "description": "Duolingo is a platform to learn languages while simultaneously translating the web.",
+    "company_url": "http://duolingo.com",
+    "usv_post_url": "https://www.usv.com/writing/2012/06/duolingo/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/duolingo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Kik",
+    "description": "Kik is a real-time mobile messaging application.",
+    "company_url": "http://kik.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/03/kik/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/kik.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Consumer",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Lending Club",
+    "description": "Lending Club is an online marketplace for creditworthy borrowers and savvy investors.",
+    "company_url": "http://lendingclub.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/08/lending-club/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/lendingclub.png",
+    "first_investment_stage": "Series D",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-d",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NYSE: LC",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: LC",
+    "sectors": [
+      "Fintech",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Skillshare",
+    "description": "Skillshare is an online learning community with over 15,000 classes to help you further your career and your passions.",
+    "company_url": "http://skillshare.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/08/skillshare/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/06/SK_Primary_logo_blk_grn-300x174.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Turntable",
+    "description": "Turntable creates social music experiences on the web.",
+    "company_url": "http://turntable.fm",
+    "usv_post_url": "https://www.usv.com/writing/2011/09/turntable/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/turntable.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Media",
+      "Music",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Wattpad",
+    "description": "Wattpad is a global multiplatform entertainment company for original stories",
+    "company_url": "http://wattpad.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/09/wattpad/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/wattpad.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2011,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Creator Platform",
+      "Media",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Edmodo",
+    "description": "Edmodo is a social learning network for teachers, students, schools, and districts.",
+    "company_url": "http://edmodo.com",
+    "usv_post_url": "https://www.usv.com/writing/2010/12/edmodo/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/edmodo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2010,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by NetDragon",
+    "acquirer": "NetDragon",
+    "ticker_symbol": null,
+    "sectors": [
+      "Education"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Shapeways",
+    "description": "Shapeways is an online marketplace for 3D printed goods.",
+    "company_url": "http://shapeways.com",
+    "usv_post_url": "https://www.usv.com/writing/2010/09/shapeways/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/shapeways.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2010,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Creator Platform",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "SoundCloud",
+    "description": "SoundCloud an online platform for sharing audio.",
+    "company_url": "http://soundcloud.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/01/soundcloud/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/soundcloud.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2010,
+    "initial_investment_type": "series-b",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Creator Platform",
+      "Music"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Stack Overflow",
+    "description": "Stack Overflow is the largest, most trusted online community for anyone that codes to learn, share their knowledge, and build their careers",
+    "company_url": "https://stackoverflow.com",
+    "usv_post_url": "https://www.usv.com/writing/2010/05/stack-overflow/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-04-at-4.24.02-PM-1-300x275.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2010,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Developer Tools"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Tasty Labs",
+    "description": "Tasty Labs built social software.",
+    "company_url": "http://tastylabs.com",
+    "usv_post_url": "https://www.usv.com/writing/2010/11/tasty-labs/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/tastylabs-1.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2010,
+    "initial_investment_type": "seed",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Work Market",
+    "description": "Work Market’s cloud-based software automates work so that companies can scale a flexible workforce to transform their business.",
+    "company_url": "http://workmarket.com",
+    "usv_post_url": "https://www.usv.com/writing/2010/06/work-market/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/workmarket.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2010,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by ADP",
+    "acquirer": "ADP",
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Marketplace",
+      "Workforce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Foursquare",
+    "description": "Foursquare is a technology company that uses location intelligence to build meaningful consumer experiences and business solutions.",
+    "company_url": "https://enterprise.foursquare.com/",
+    "usv_post_url": "https://www.usv.com/writing/2009/09/foursquare/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/foursquare.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2009,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech",
+      "Consumer",
+      "Developer Tools",
+      "Enterprise",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer",
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Heyzap",
+    "description": "Heyzap is a mobile ad network for discovering new mobile apps.",
+    "company_url": "http://heyzap.com",
+    "usv_post_url": "https://www.usv.com/writing/2009/05/heyzap/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/heyzap.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2009,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Fyber",
+    "acquirer": "Fyber",
+    "ticker_symbol": null,
+    "sectors": [
+      "Gaming",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Kickstarter",
+    "description": "Kickstarter is the world's largest funding platform for creative projects.",
+    "company_url": "http://kickstarter.com",
+    "usv_post_url": "https://www.usv.com/writing/2011/03/kickstarter/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/kickstarter.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2009,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Consumer",
+      "Creator Platform",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Simulmedia",
+    "description": "Simulmedia is the leading provider of data-driven television solutions for national advertisers.",
+    "company_url": "http://simulmedia.com",
+    "usv_post_url": "https://www.usv.com/writing/2009/03/welcome-back-dave/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/simulmedia.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2009,
+    "initial_investment_type": "seed",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech",
+      "Media"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Twilio",
+    "description": "Twilio is an API for businesses building scalable communications applications.",
+    "company_url": "http://twilio.com",
+    "usv_post_url": "https://www.usv.com/writing/2010/02/twilio/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/twilio-3.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2009,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NYSE: TWLO",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: TWLO",
+    "sectors": [
+      "Developer Tools",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "AMEE",
+    "description": "Amee helps companies understand and minimize supply chain risk.",
+    "company_url": "http://amee.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/12/amee/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/amee.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-a",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Environment"
+    ],
+    "everywhere_tags": [
+      "Climate / Sustainability"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Boxee",
+    "description": "Boxee is a platform for video consumption on connected devices.",
+    "company_url": "http://boxee.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/11/boxee/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/boxee.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Samsung",
+    "acquirer": "Samsung",
+    "ticker_symbol": null,
+    "sectors": [
+      "Hardware",
+      "Media"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Covestor",
+    "description": "Covestor is an online investment management platform.",
+    "company_url": "http://covestor.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/04/covestor/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/covestor.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Interactive Brokers",
+    "acquirer": "Interactive Brokers",
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Flurry",
+    "description": "Flurry is a suite of tools and services for mobile application developers.",
+    "company_url": "http://flurry.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/05/pinch-media-investing-on-a-new-platform/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/flurry.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2008,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Yahoo!",
+    "acquirer": "Yahoo!",
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Meetup",
+    "description": "Meetup brings people together in thousands of cities to do what they want to do in life",
+    "company_url": "http://meetup.com",
+    "usv_post_url": "https://www.usv.com/writing/2017/11/meetup/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/meetup.png",
+    "first_investment_stage": "Series D",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-d",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by WeWork",
+    "acquirer": "WeWork",
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Consumer",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "MongoDB",
+    "description": "MongoDB is the database for giant ideas",
+    "company_url": "http://mongodb.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/07/10gen/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/mongodb.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NASDAQ: MDB",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: MDB",
+    "sectors": [
+      "Developer Tools",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Dev Tools / Cloud"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Return Path",
+    "description": "Return Path is building email intelligence products and services.",
+    "company_url": "http://returnpath.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/10/return-path/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/returnpath.png",
+    "first_investment_stage": "Series E",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-e",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Validity",
+    "acquirer": "Validity",
+    "ticker_symbol": null,
+    "sectors": [
+      "Data",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Yieldmo",
+    "description": "Yieldmo is a mobile advertising technology platform.",
+    "company_url": "http://yieldmo.com",
+    "usv_post_url": null,
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/yieldmo.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-a",
+    "status": "Current",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Zemanta",
+    "description": "Zemanta is a Content DSP.",
+    "company_url": "http://zemanta.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/09/zemanta/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/zemanta.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2008,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Outbrain",
+    "acquirer": "Outbrain",
+    "ticker_symbol": null,
+    "sectors": [
+      "Publishing",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Clickable",
+    "description": "Clickable is the all-in-one solution for online advertising.",
+    "company_url": "http://clickable.com",
+    "usv_post_url": "https://www.usv.com/writing/2007/07/clickable/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/clickable.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2007,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Brand Networks",
+    "acquirer": "Brand Networks",
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Disqus",
+    "description": "Disqus builds interconnected communities around online comment discussion.",
+    "company_url": "http://disqus.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/03/disqus/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/disqus.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2007,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Zeta Global",
+    "acquirer": "Zeta Global",
+    "ticker_symbol": null,
+    "sectors": [
+      "Publishing",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Etsy",
+    "description": "Etsy is an online marketplace for creative products made and sold by artisanal businesses.",
+    "company_url": "http://etsy.com",
+    "usv_post_url": "https://www.usv.com/writing/2006/06/etsy/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/etsy.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2007,
+    "initial_investment_type": "seed",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NASDAQ: ETSY",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: ETSY",
+    "sectors": [
+      "Commerce",
+      "Consumer",
+      "Marketplace"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "GetGlue",
+    "description": "GetGlue is a social network for entertainment.",
+    "company_url": "http://getglue.com",
+    "usv_post_url": "https://www.usv.com/writing/2007/02/adaptiveblue/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/getglue.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2007,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Viggle",
+    "acquirer": "Viggle",
+    "ticker_symbol": null,
+    "sectors": [
+      "Media",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Outside.in",
+    "description": "Outside.in was a platform for local neighborhoods to share and discover information.",
+    "company_url": "http://outside.in.com",
+    "usv_post_url": "https://www.usv.com/writing/2007/02/outside-in/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/outsidein.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2007,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by AOL",
+    "acquirer": "AOL",
+    "ticker_symbol": null,
+    "sectors": [
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Targetspot",
+    "description": "Targetspot is an internet audio advertising network.",
+    "company_url": "http://targetspot.com",
+    "usv_post_url": "https://www.usv.com/writing/2007/04/targetspot/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/targetspot.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2007,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Merged with Radionomy",
+    "acquirer": "Radionomy",
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech",
+      "Media",
+      "Music"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Tumblr",
+    "description": "Tumblr is a network of blogs for people to share the things they do, love, think and create.",
+    "company_url": "http://tumblr.com",
+    "usv_post_url": "https://www.usv.com/writing/2007/10/tumblr/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/tumblr.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2007,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Yahoo!",
+    "acquirer": "Yahoo!",
+    "ticker_symbol": null,
+    "sectors": [
+      "Community",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Twitter",
+    "description": "Twitter is a real-time information network.",
+    "company_url": "http://twitter.com",
+    "usv_post_url": "https://www.usv.com/writing/2007/07/twitter/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/twitter.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2007,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NYSE: TWTR",
+    "acquirer": null,
+    "ticker_symbol": "NYSE: TWTR",
+    "sectors": [
+      "Consumer",
+      "Media",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Wesabe",
+    "description": "Wesabe was a web-based tool that gave members a better understanding of how they spend money.",
+    "company_url": "http://wesabe.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/04/wesabe-steps-out/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/wesabe.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2007,
+    "initial_investment_type": "series-b",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Fintech",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "FinTech / Insurance",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Zynga",
+    "description": "Zynga is a game studio for online and mobile social games.",
+    "company_url": "http://zynga.com",
+    "usv_post_url": "https://www.usv.com/writing/2008/01/zynga-game-network/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/zynga.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2007,
+    "initial_investment_type": "series-a",
+    "status": "Public",
+    "exit_type": "Public",
+    "exit_detail": "NASDAQ: ZNGA",
+    "acquirer": null,
+    "ticker_symbol": "NASDAQ: ZNGA",
+    "sectors": [
+      "Gaming",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Gaming / Media / Entertainment",
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Buglabs",
+    "description": "Buglabs is the creator of an open source hardware and software platform.",
+    "company_url": "http://buglabs.com",
+    "usv_post_url": "https://www.usv.com/writing/2006/05/introducing-bug-labs/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/buglabs.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2006,
+    "initial_investment_type": "seed",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Enterprise",
+      "Hardware"
+    ],
+    "everywhere_tags": [
+      "Deeptech / Robotics / AR/VR"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Feedburner",
+    "description": "Feedburner is a feed management service.",
+    "company_url": "http://feedburner.com",
+    "usv_post_url": "https://www.usv.com/writing/2006/02/feedburner/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/feedburner.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2006,
+    "initial_investment_type": "series-b",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Google",
+    "acquirer": "Google",
+    "ticker_symbol": null,
+    "sectors": [
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Oddcast",
+    "description": "Oddcast was a viral marketing platform for agencies and brands.",
+    "company_url": "http://oddcast.com",
+    "usv_post_url": "https://www.usv.com/writing/2006/06/oddcast/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/oddcast-1.png",
+    "first_investment_stage": "Series D",
+    "first_investment_year": 2006,
+    "initial_investment_type": "series-d",
+    "status": "Inactive",
+    "exit_type": null,
+    "exit_detail": null,
+    "acquirer": null,
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech",
+      "Enterprise"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Delicious",
+    "description": "Delicious is the world's leading social bookmarking service.",
+    "company_url": "http://delicious.com",
+    "usv_post_url": "https://www.usv.com/writing/2005/10/del-icio-us/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/delicious.png",
+    "first_investment_stage": "Seed",
+    "first_investment_year": 2005,
+    "initial_investment_type": "seed",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Yahoo!",
+    "acquirer": "Yahoo!",
+    "ticker_symbol": null,
+    "sectors": [
+      "Consumer",
+      "Media",
+      "Social"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Gaming / Media / Entertainment"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Indeed",
+    "description": "Indeed is a vertical search engine for jobs.",
+    "company_url": "http://indeed.com",
+    "usv_post_url": "https://www.usv.com/writing/2005/10/indeed/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/indeed.png",
+    "first_investment_stage": "Series A",
+    "first_investment_year": 2005,
+    "initial_investment_type": "series-a",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by Recruit",
+    "acquirer": "Recruit",
+    "ticker_symbol": null,
+    "sectors": [
+      "Marketplace",
+      "Workforce"
+    ],
+    "everywhere_tags": [
+      "Consumer",
+      "Future of Work"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  },
+  {
+    "company_name": "Tacoda",
+    "description": "Tacoda provided behaviorally targeted online advertising services.",
+    "company_url": "http://tacoda.com",
+    "usv_post_url": "https://www.usv.com/writing/2006/03/tacoda-raises-12-million/",
+    "logo_url": "https://www.usv.com/wp-content/uploads/2019/07/tagoda-1.png",
+    "first_investment_stage": "Series B",
+    "first_investment_year": 2004,
+    "initial_investment_type": "series-b",
+    "status": "Acquired",
+    "exit_type": "Acquired",
+    "exit_detail": "Acquired by AOL/Time Warner",
+    "acquirer": "AOL/Time Warner",
+    "ticker_symbol": null,
+    "sectors": [
+      "Adtech"
+    ],
+    "everywhere_tags": [
+      "Data & Analytics"
+    ],
+    "source_url": "https://www.usv.com/companies/",
+    "scraped_at": "2026-07-27T21:55:42.995401+00:00"
+  }
+]
